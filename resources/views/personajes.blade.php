@@ -1,12 +1,11 @@
 @extends('layouts.app')
 
 @section('content')
-  <section id="personajes" class="personajes section">
-  <!-- Section Title -->
+  <section id="personajes" class="personajes">
   <div class="container section-title" data-aos="fade-up">
     <h2>Personajes</h2>
-    <p><span>Ninguno puede ser</span> <span class="description-title">pasado por alto</span></p>
-  </div><!-- End Section Title -->
+    <h3>Descubre los personajes de la colección</h3>
+  </div>
   <div class="container">
     <div class="row">
       <!-- Personaje 1 -->

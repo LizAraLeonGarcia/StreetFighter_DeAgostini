@@ -10,6 +10,10 @@
   <title>Street Fighter</title>
   <!-- ----------------------------------------------------------------------------------------------------------------- cargar archivos CSS -->
   <link href="{{ asset('css/navbar.css') }}" rel="stylesheet">
+  <link href="{{ asset('css/figuras.css') }}" rel="stylesheet">
+  <link href="{{ asset('css/galeria.css') }}" rel="stylesheet">
+
+  <link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css">
 </head>
 <!-- ---------------------------------------------------------------- BODY ---------------------------------------------------------------- -->
 <body>
@@ -23,6 +27,9 @@
   @yield('content')
 
   @include('partials.footer')
+  <!-- cargar scripts -->
+  <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
+  <script src="{{ asset('js/galeria.js') }}"></script>
 
 </body>
 </html>

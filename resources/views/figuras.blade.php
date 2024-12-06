@@ -1,26 +1,25 @@
 @extends('layouts.app')
 
 @section('content')
-  <section id="figuras" class="figuras section">
-      <!-- Section Title -->
-      <div class="container section-title" data-aos="fade-up">
-        <h2>Figuras</h2>
-        <p><span>Las</span> <span class="description-title">estatuillas<br></span></p>
-      </div><!-- End Section Title -->
-      <div class="container">
-        <div class="row gy-4">
-          <div class="col-lg-3 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="300">
+  <section id="figuras" class="figuras">
+    <div class="section-title" data-aos="fade-up">
+      <h2>Figuras</h2>
+      <h3>Revisa las estatuillas que incluye la colección</h3>
+    </div>
+    <div class="contenido">
+      <div class="row gy-4">
+          <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="300">
             <div class="team-member">
               <div class="member-img">
                 <img src="assets/img/figuras/figuras-1.jpg" class="img-fluid" alt="">
               </div>
               <div class="member-info">
                 <h4>Chun Li</h4>
-                <p>EXPERTA EN ARTES MARCIALES, AZOTE DEL CRIMEN</p>
+                <p>Experta en artes marciales, azote del crimen.</p>
               </div>
             </div>
           </div>
-          <div class="col-lg-3 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="300">
+          <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="300">
             <div class="team-member">
               <div class="member-img">
                 <img src="assets/img/figuras/figuras-2.jpg" class="img-fluid" alt="">
@@ -31,7 +30,7 @@
               </div>
             </div>
           </div><!-- End Chef Team Member -->
-          <div class="col-lg-3 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="300">
+          <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="300">
             <div class="team-member">
               <div class="member-img">
                 <img src="assets/img/figuras/figuras-3.jpg" class="img-fluid" alt="">
@@ -42,7 +41,7 @@
               </div>
             </div>
           </div><!-- End Chef Team Member -->
-          <div class="col-lg-3 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="300">
+          <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="300">
             <div class="team-member">
               <div class="member-img">
                 <img src="assets/img/figuras/figuras-4.jpg" class="img-fluid" alt="">
@@ -53,7 +52,7 @@
               </div>
             </div>
           </div><!-- End Chef Team Member -->
-          <div class="col-lg-3 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="300">
+          <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="300">
             <div class="team-member">
               <div class="member-img">
                 <img src="assets/img/figuras/figuras-5.jpg" class="img-fluid" alt="">
@@ -581,7 +580,7 @@
               </div>
             </div>
           </div><!-- End Chef Team Member -->
-        </div>
       </div>
+    </div>
   </section><!-- /figuras Section --> 
 @endsection
