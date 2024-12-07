@@ -10,6 +10,7 @@
   <title>Street Fighter</title>
   <!-- ----------------------------------------------------------------------------------------------------------------- cargar archivos CSS -->
   <link href="{{ asset('css/navbar.css') }}" rel="stylesheet">
+  <link href="{{ asset('css/inicio.css') }}" rel="stylesheet">
   <link href="{{ asset('css/figuras.css') }}" rel="stylesheet">
   <link href="{{ asset('css/galeria.css') }}" rel="stylesheet">
 
