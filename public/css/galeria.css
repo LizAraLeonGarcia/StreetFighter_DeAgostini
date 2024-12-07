@@ -1,11 +1,16 @@
-/* Contenedor de la galería */
+.galeria {
+  /*background-color: #c1c6ca;*/
+  background-color: white;
+}
+/* ******************************************************** Contenedor de la galería ******************************************************** */
 .swiper-container {
   position: relative;
   width: 100%;
-  height: 550px;
+  height: 100%;
+  padding-bottom: 40px; 
   overflow: hidden;
 }
-/* Estilo adicional para mejorar la visibilidad */
+/* ********************************************** Estilo adicional para mejorar la visibilidad ********************************************** */
 .swiper-slide {
   max-width: 100%;
   height: 100%;
@@ -13,16 +18,15 @@
   justify-content: center;
   align-items: center;
 }
-/* Para que las imágenes tengan un margen y no se peguen a los bordes */
+/* *********************************** Para que las imágenes tengan un margen y no se peguen a los bordes *********************************** */
 .swiper-slide img {
-  width: 80%;
+  width: 100%;
   height: auto;
-  padding-left: 50px;
-  padding-right: 50px;
+  padding-left: 60px;
+  padding-right: 60px;
   object-fit: contain; /* Para que las imágenes no se distorsionen */
 }
-
-/* Estilo para la paginación */
+/* *************************************************************** Paginación *************************************************************** */
 .swiper-pagination {
   position: absolute;
   bottom: 10px; /* Posición de la paginación al fondo */
@@ -30,44 +34,45 @@
   transform: translateX(-50%);
   z-index: 10; /* Asegurarse de que la paginación está encima de las imágenes */
 }
-
-/* Estilo para los puntos de la paginación */
+/* ----------------------------------------------------------------------------------------------------------------- Puntos de la paginación */
 .swiper-pagination-bullet {
   background-color: rgba(255, 255, 255, 0.7); /* Color semi-transparente para los puntos */
   width: 12px;
   height: 12px;
   margin: 0 5px;
+  border-radius: 50%;
   transition: background-color 0.3s ease;
 }
-
-/* Cambiar color de los puntos activos */
+/* ----------------------------------------------------------------------------------------------------- Cambiar color de los puntos activos */
 .swiper-pagination-bullet-active {
-  background-color: #fff;
+  background-color: #37b106 !important;
+  transform: scale(1.2); /* Agrandar ligeramente el punto activo para darle énfasis */
 }
-/* Estilo para los botones de navegación */
+/* Botones de navegación */
 .swiper-button-next, .swiper-button-prev {
-  background-color: rgba(0, 0, 0, 0.5); /* Fondo semi-transparente para los botones */
-  color: #fff; /* Color blanco para las flechas */
-  border-radius: 50%; /* Redondear los botones */
   width: 40px;
   height: 40px;
   display: flex;
   justify-content: center;
   align-items: center;
+  border-radius: 50%; /* Para hacer que las flechas tengan un fondo circular */
+  background-color: #0f1897; /* Fondo azul fuerte */
+  transition: background-color 0.3s, color 0.3s; /* Suavizar el cambio de fondo y color */
 }
-
+/* Flechas */
 .swiper-button-next:after, .swiper-button-prev:after {
   font-size: 20px; /* Ajustar tamaño de las flechas */
+  color: gold;
 }
-/* Ajuste para diferentes tamaños de pantalla */
-@media (max-width: 768px) {
-  .swiper-slide {
-    width: 100% !important; /* Las imágenes se verán más grandes en pantallas pequeñas */
-  }
+/* Estado hover (cuando se pasa el ratón) */
+.swiper-button-next:hover, .swiper-button-prev:hover {
+  background-color: #e63bad; /* Fondo azul cielo */
 }
-
-@media (max-width: 1200px) {
-  .swiper-slide {
-    width: 50% !important; /* Carrusel con dos elementos por fila */
-  }
+/* Color de las flechas se mantiene */
+.swiper-button-next:hover:after, .swiper-button-prev:hover:after {
+  color: gold;
 }
+/* ************************************************************* RESPONSIVIDAD ************************************************************* */
+/* Pantallas grandes */
+/* Pantallas medianas */
+/* Pantallas pequeñas */

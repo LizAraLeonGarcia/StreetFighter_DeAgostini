@@ -38,32 +38,6 @@
   align-items: center;
 }
 
-.glightbox {
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  background-color: #ff6f00;
-  color: #fff;
-  padding: 12px 25px;
-  border-radius: 50px;
-  text-decoration: none;
-  font-size: 18px;
-  transition: background-color 0.3s ease;
-}
-
-.glightbox i {
-  font-size: 22px;
-  margin-right: 10px;
-}
-
-.glightbox:hover {
-  background-color: #fcb900; /* Color más claro al pasar el ratón */
-}
-
-.glightbox span {
-  font-weight: bold;
-}
-
 /* Imágenes */
 #inicio img {
   max-width: 100%;
