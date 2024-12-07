@@ -7,7 +7,7 @@
       <h2>Pósters</h2>
       <h3>Checa los pósters que incluye la colección</h3>
     </div> <!-- End Section Title -->
-    <div class="contenido">
+    <div class="container-fluid">
       <div class="swiper-container">
         <div class="swiper-wrapper">
             <div class="swiper-slide"><a class="glightbox" data-galeria="images-galeria" href="assets/img/galeria/1.jpg"><img src="assets/img/galeria/1.jpg" class="img-fluid" alt="Chun Li"></a></div>
