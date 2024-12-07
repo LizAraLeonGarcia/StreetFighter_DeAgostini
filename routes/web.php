@@ -13,7 +13,11 @@ Route::get('/personajes', function () {
 Route::get('/figuras', function () {
     return view('figuras');
 });
-// Ruta para la galería
+// Ruta para la sección de revistas
+Route::get('/revistas', function () {
+    return view('revistas');
+});
+// Ruta para la sección de galería
 Route::get('/galeria', function () {
     return view('galeria');
 });

@@ -4,7 +4,6 @@
   <section id="galeria" class="galeria">
     <!-- Section Title -->
     <div class="section-title" data-aos="fade-up">
-      <h2>Pósters</h2>
       <h3>Checa los pósters que incluye la colección</h3>
     </div> <!-- End Section Title -->
     <div class="container-fluid">

@@ -1,9 +1,9 @@
 @extends('layouts.app')
 
 @section('content')
-  <section id="figuras" class="figuras">
+  <section id="revistas" class="revistas">
     <div class="section-title" data-aos="fade-up">
-      <h3>Revisa las estatuillas que incluye la colección</h3>
+      <h3>Explora los fascículos que incluye la colección</h3>
     </div>
     <div class="container-fluid">
       <div class="row">
@@ -11,7 +11,7 @@
           <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="300">
             <div class="team-member">
               <div class="member-img">
-                <img src="assets/img/figuras/1.jpg" class="img-fluid" alt="Chun Li">
+                <img src="assets/img/revistas/1.jpg" class="img-fluid" alt="Chun Li">
               </div>
               <div class="member-info">
                 <h4>Chun Li</h4>
@@ -22,7 +22,7 @@
           <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="300">
             <div class="team-member">
               <div class="member-img">
-                <img src="assets/img/figuras/2.jpg" class="img-fluid" alt="Akira">
+                <img src="assets/img/revistas/2.jpg" class="img-fluid" alt="Akira">
               </div>
               <div class="member-info">
                 <h4>Akira</h4>
@@ -33,7 +33,7 @@
           <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="300">
             <div class="team-member">
               <div class="member-img">
-                <img src="assets/img/figuras/3.jpg" class="img-fluid" alt="Poison">
+                <img src="assets/img/revistas/3.jpg" class="img-fluid" alt="Poison">
               </div>
               <div class="member-info">
                 <h4>Poison</h4>
@@ -44,7 +44,7 @@
           <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="300">
             <div class="team-member">
               <div class="member-img">
-                <img src="assets/img/figuras/4.jpg" class="img-fluid" alt="Rainbow Mika">
+                <img src="assets/img/revistas/4.jpg" class="img-fluid" alt="Rainbow Mika">
               </div>
               <div class="member-info">
                 <h4>Rainbow Mika</h4>
@@ -55,7 +55,7 @@
           <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="300">
             <div class="team-member">
               <div class="member-img">
-                <img src="assets/img/figuras/5.jpg" class="img-fluid" alt="Menat">
+                <img src="assets/img/revistas/5.jpg" class="img-fluid" alt="Menat">
               </div>
               <div class="member-info">
                 <h4>Menat</h4>
@@ -66,7 +66,7 @@
           <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="300">
             <div class="team-member">
               <div class="member-img">
-                <img src="assets/img/figuras/6.jpg" class="img-fluid" alt="Juri">
+                <img src="assets/img/revistas/6.jpg" class="img-fluid" alt="Juri">
               </div>
               <div class="member-info">
                 <h4>Juri</h4>
@@ -77,7 +77,7 @@
           <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="300">
             <div class="team-member">
               <div class="member-img">
-                <img src="assets/img/figuras/7.jpg" class="img-fluid" alt="Rose">
+                <img src="assets/img/revistas/7.jpg" class="img-fluid" alt="Rose">
               </div>
               <div class="member-info">
                 <h4>Rose</h4>
@@ -88,7 +88,7 @@
           <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="300">
             <div class="team-member">
               <div class="member-img">
-                <img src="assets/img/figuras/8.jpg" class="img-fluid" alt="Ibuki">
+                <img src="assets/img/revistas/8.jpg" class="img-fluid" alt="Ibuki">
               </div>
               <div class="member-info">
                 <h4>Ibuki</h4>
@@ -99,7 +99,7 @@
           <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="300">
             <div class="team-member">
               <div class="member-img">
-                <img src="assets/img/figuras/9.jpg" class="img-fluid" alt="Falke">
+                <img src="assets/img/revistas/9.jpg" class="img-fluid" alt="Falke">
               </div>
               <div class="member-info">
                 <h4>Falke</h4>
@@ -110,7 +110,7 @@
           <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="300">
             <div class="team-member">
               <div class="member-img">
-                <img src="assets/img/figuras/10.jpg" class="img-fluid" alt="Crimson Viper">
+                <img src="assets/img/revistas/10.jpg" class="img-fluid" alt="Crimson Viper">
               </div>
               <div class="member-info">
                 <h4>Crimson Viper</h4>
@@ -121,7 +121,7 @@
           <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="300">
             <div class="team-member">
               <div class="member-img">
-                <img src="assets/img/figuras/11.jpg" class="img-fluid" alt="Karin">
+                <img src="assets/img/revistas/11.jpg" class="img-fluid" alt="Karin">
               </div>
               <div class="member-info">
                 <h4>Karin</h4>
@@ -133,7 +133,7 @@
           <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="300">
             <div class="team-member">
               <div class="member-img">
-                <img src="assets/img/figuras/12.jpg" class="img-fluid" alt="Vega">
+                <img src="assets/img/revistas/12.jpg" class="img-fluid" alt="Vega">
               </div>
               <div class="member-info">
                 <h4>Vega</h4>
@@ -144,7 +144,7 @@
           <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="300">
             <div class="team-member">
               <div class="member-img">
-                <img src="assets/img/figuras/13.jpg" class="img-fluid" alt="Ryu">
+                <img src="assets/img/revistas/13.jpg" class="img-fluid" alt="Ryu">
               </div>
               <div class="member-info">
                 <h4>Ryu</h4>
@@ -155,7 +155,7 @@
           <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="300">
             <div class="team-member">
               <div class="member-img">
-                <img src="assets/img/figuras/14.jpg" class="img-fluid" alt="Charlie Nash">
+                <img src="assets/img/revistas/14.jpg" class="img-fluid" alt="Charlie Nash">
               </div>
               <div class="member-info">
                 <h4>Charlie Nash</h4>
@@ -166,7 +166,7 @@
           <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="300">
             <div class="team-member">
               <div class="member-img">
-                <img src="assets/img/figuras/15.jpg" class="img-fluid" alt="Gill">
+                <img src="assets/img/revistas/15.jpg" class="img-fluid" alt="Gill">
               </div>
               <div class="member-info">
                 <h4>Gill</h4>
@@ -177,7 +177,7 @@
           <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="300">
             <div class="team-member">
               <div class="member-img">
-                <img src="assets/img/figuras/16.jpg" class="img-fluid" alt="Sagat">
+                <img src="assets/img/revistas/16.jpg" class="img-fluid" alt="Sagat">
               </div>
               <div class="member-info">
                 <h4>Sagat</h4>
@@ -188,7 +188,7 @@
           <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="300">
             <div class="team-member">
               <div class="member-img">
-                <img src="assets/img/figuras/17.jpg" class="img-fluid" alt="Rashid">
+                <img src="assets/img/revistas/17.jpg" class="img-fluid" alt="Rashid">
               </div>
               <div class="member-info">
                 <h4>Rashid</h4>
@@ -199,7 +199,7 @@
           <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="300">
             <div class="team-member">
               <div class="member-img">
-                <img src="assets/img/figuras/18.jpg" class="img-fluid" alt="Kage">
+                <img src="assets/img/revistas/18.jpg" class="img-fluid" alt="Kage">
               </div>
               <div class="member-info">
                 <h4>Kage</h4>
@@ -210,7 +210,7 @@
           <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="300">
             <div class="team-member">
               <div class="member-img">
-                <img src="assets/img/figuras/19.jpg" class="img-fluid" alt="Guy">
+                <img src="assets/img/revistas/19.jpg" class="img-fluid" alt="Guy">
               </div>
               <div class="member-info">
                 <h4>Guy</h4>
@@ -221,7 +221,7 @@
           <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="300">
             <div class="team-member">
               <div class="member-img">
-                <img src="assets/img/figuras/20.jpg" class="img-fluid" alt="Ed">
+                <img src="assets/img/revistas/20.jpg" class="img-fluid" alt="Ed">
               </div>
               <div class="member-info">
                 <h4>Ed</h4>
@@ -232,7 +232,7 @@
           <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="300">
             <div class="team-member">
               <div class="member-img">
-                <img src="assets/img/figuras/21.jpg" class="img-fluid" alt="G">
+                <img src="assets/img/revistas/21.jpg" class="img-fluid" alt="G">
               </div>
               <div class="member-info">
                 <h4>G</h4>
@@ -243,7 +243,7 @@
           <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="300">
             <div class="team-member">
               <div class="member-img">
-                <img src="assets/img/figuras/22.jpg" class="img-fluid" alt="Necalli">
+                <img src="assets/img/revistas/22.jpg" class="img-fluid" alt="Necalli">
               </div>
               <div class="member-info">
                 <h4>Necalli</h4>
@@ -254,7 +254,7 @@
           <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="300">
             <div class="team-member">
               <div class="member-img">
-                <img src="assets/img/figuras/23.jpg" class="img-fluid" alt="Remy">
+                <img src="assets/img/revistas/23.jpg" class="img-fluid" alt="Remy">
               </div>
               <div class="member-info">
                 <h4>Remy</h4>
@@ -265,7 +265,7 @@
           <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="300">
             <div class="team-member">
               <div class="member-img">
-                <img src="assets/img/figuras/24.jpg" class="img-fluid" alt="Zeku">
+                <img src="assets/img/revistas/24.jpg" class="img-fluid" alt="Zeku">
               </div>
               <div class="member-info">
                 <h4>Zeku</h4>
@@ -276,7 +276,7 @@
           <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="300">
             <div class="team-member">
               <div class="member-img">
-                <img src="assets/img/figuras/25.jpg" class="img-fluid" alt="Q">
+                <img src="assets/img/revistas/25.jpg" class="img-fluid" alt="Q">
               </div>
               <div class="member-info">
                 <h4>Q</h4>
@@ -287,7 +287,7 @@
           <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="300">
             <div class="team-member">
               <div class="member-img">
-                <img src="assets/img/figuras/26.jpg" class="img-fluid" alt="Blanka">
+                <img src="assets/img/revistas/26.jpg" class="img-fluid" alt="Blanka">
               </div>
               <div class="member-info">
                 <h4>Blanka</h4>
@@ -298,7 +298,7 @@
           <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="300">
             <div class="team-member">
               <div class="member-img">
-                <img src="assets/img/figuras/27.jpg" class="img-fluid" alt="Akuma">
+                <img src="assets/img/revistas/27.jpg" class="img-fluid" alt="Akuma">
               </div>
               <div class="member-info">
                 <h4>Akuma</h4>
@@ -309,7 +309,7 @@
           <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="300">
             <div class="team-member">
               <div class="member-img">
-                <img src="assets/img/figuras/28.jpg" class="img-fluid" alt="M. Bison">
+                <img src="assets/img/revistas/28.jpg" class="img-fluid" alt="M. Bison">
               </div>
               <div class="member-info">
                 <h4>M. Bison</h4>
@@ -320,7 +320,7 @@
           <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="300">
             <div class="team-member">
               <div class="member-img">
-                <img src="assets/img/figuras/29.jpg" class="img-fluid" alt="Cody">
+                <img src="assets/img/revistas/29.jpg" class="img-fluid" alt="Cody">
               </div>
               <div class="member-info">
                 <h4>Cody</h4>
@@ -331,7 +331,7 @@
           <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="300">
             <div class="team-member">
               <div class="member-img">
-                <img src="assets/img/figuras/30.jpg" class="img-fluid" alt="Oni">
+                <img src="assets/img/revistas/30.jpg" class="img-fluid" alt="Oni">
               </div>
               <div class="member-info">
                 <h4>Oni</h4>
@@ -342,7 +342,7 @@
           <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="300">
             <div class="team-member">
               <div class="member-img">
-                <img src="assets/img/figuras/31.jpg" class="img-fluid" alt="Dudley">
+                <img src="assets/img/revistas/31.jpg" class="img-fluid" alt="Dudley">
               </div>
               <div class="member-info">
                 <h4>Dudley</h4>
@@ -353,7 +353,7 @@
           <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="300">
             <div class="team-member">
               <div class="member-img">
-                <img src="assets/img/figuras/32.jpg" class="img-fluid" alt="Adon">
+                <img src="assets/img/revistas/32.jpg" class="img-fluid" alt="Adon">
               </div>
               <div class="member-info">
                 <h4>Adon</h4>
@@ -364,7 +364,7 @@
           <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="300">
             <div class="team-member">
               <div class="member-img">
-                <img src="assets/img/figuras/33.jpg" class="img-fluid" alt="Urien">
+                <img src="assets/img/revistas/33.jpg" class="img-fluid" alt="Urien">
               </div>
               <div class="member-info">
                 <h4>Urien</h4>
@@ -375,7 +375,7 @@
           <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="300">
             <div class="team-member">
               <div class="member-img">
-                <img src="assets/img/figuras/34.jpg" class="img-fluid" alt="Alex">
+                <img src="assets/img/revistas/34.jpg" class="img-fluid" alt="Alex">
               </div>
               <div class="member-info">
                 <h4>Alex</h4>
@@ -386,7 +386,7 @@
           <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="300">
             <div class="team-member">
               <div class="member-img">
-                <img src="assets/img/figuras/35.jpg" class="img-fluid" alt="Ken">
+                <img src="assets/img/revistas/35.jpg" class="img-fluid" alt="Ken">
               </div>
               <div class="member-info">
                 <h4>Ken</h4>
@@ -397,7 +397,7 @@
           <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="300">
             <div class="team-member">
               <div class="member-img">
-                <img src="assets/img/figuras/36.jpg" class="img-fluid" alt="Evil Ryu">
+                <img src="assets/img/revistas/36.jpg" class="img-fluid" alt="Evil Ryu">
               </div>
               <div class="member-info">
                 <h4>Evil Ryu</h4>
@@ -408,7 +408,7 @@
           <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="300">
             <div class="team-member">
               <div class="member-img">
-                <img src="assets/img/figuras/37.jpg" class="img-fluid" alt="E. Honda">
+                <img src="assets/img/revistas/37.jpg" class="img-fluid" alt="E. Honda">
               </div>
               <div class="member-info">
                 <h4>E. Honda</h4>
@@ -419,7 +419,7 @@
           <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="300">
             <div class="team-member">
               <div class="member-img">
-                <img src="assets/img/figuras/38.jpg" class="img-fluid" alt="Dhalsim">
+                <img src="assets/img/revistas/38.jpg" class="img-fluid" alt="Dhalsim">
               </div>
               <div class="member-info">
                 <h4>Dhalsim</h4>
@@ -430,7 +430,7 @@
           <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="300">
             <div class="team-member">
               <div class="member-img">
-                <img src="assets/img/figuras/39.jpg" class="img-fluid" alt="Dee Jay">
+                <img src="assets/img/revistas/39.jpg" class="img-fluid" alt="Dee Jay">
               </div>
               <div class="member-info">
                 <h4>Dee Jay</h4>
@@ -441,7 +441,7 @@
           <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="300">
             <div class="team-member">
               <div class="member-img">
-                <img src="assets/img/figuras/40.jpg" class="img-fluid" alt="Guile">
+                <img src="assets/img/revistas/40.jpg" class="img-fluid" alt="Guile">
               </div>
               <div class="member-info">
                 <h4>Guile</h4>
@@ -452,7 +452,7 @@
           <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="300">
             <div class="team-member">
               <div class="member-img">
-                <img src="assets/img/figuras/41.jpg" class="img-fluid" alt="Cammy">
+                <img src="assets/img/revistas/41.jpg" class="img-fluid" alt="Cammy">
               </div>
               <div class="member-info">
                 <h4>Cammy</h4>
@@ -463,7 +463,7 @@
           <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="300">
             <div class="team-member">
               <div class="member-img">
-                <img src="assets/img/figuras/42.jpg" class="img-fluid" alt="Abigail">
+                <img src="assets/img/revistas/42.jpg" class="img-fluid" alt="Abigail">
               </div>
               <div class="member-info">
                 <h4>Abigail</h4>
@@ -474,7 +474,7 @@
           <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="300">
             <div class="team-member">
               <div class="member-img">
-                <img src="assets/img/figuras/43.jpg" class="img-fluid" alt="El fuerte">
+                <img src="assets/img/revistas/43.jpg" class="img-fluid" alt="El fuerte">
               </div>
               <div class="member-info">
                 <h4>El Fuerte</h4>
@@ -485,7 +485,7 @@
           <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="300">
             <div class="team-member">
               <div class="member-img">
-                <img src="assets/img/figuras/44.jpg" class="img-fluid" alt="T. Hawk">
+                <img src="assets/img/revistas/44.jpg" class="img-fluid" alt="T. Hawk">
               </div>
               <div class="member-info">
                 <h4>T. Hawk</h4>
@@ -496,7 +496,7 @@
           <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="300">
             <div class="team-member">
               <div class="member-img">
-                <img src="assets/img/figuras/45.jpg" class="img-fluid" alt="Gen">
+                <img src="assets/img/revistas/45.jpg" class="img-fluid" alt="Gen">
               </div>
               <div class="member-info">
                 <h4>Gen</h4>
@@ -507,7 +507,7 @@
           <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="300">
             <div class="team-member">
               <div class="member-img">
-                <img src="assets/img/figuras/46.jpg" class="img-fluid" alt="Gouken">
+                <img src="assets/img/revistas/46.jpg" class="img-fluid" alt="Gouken">
               </div>
               <div class="member-info">
                 <h4>Gouken</h4>
@@ -518,7 +518,7 @@
           <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="300">
             <div class="team-member">
               <div class="member-img">
-                <img src="assets/img/figuras/47.jpg" class="img-fluid" alt="Hugo">
+                <img src="assets/img/revistas/47.jpg" class="img-fluid" alt="Hugo">
               </div>
               <div class="member-info">
                 <h4>Hugo</h4>
@@ -529,7 +529,7 @@
           <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="300">
             <div class="team-member">
               <div class="member-img">
-                <img src="assets/img/figuras/48.jpg" class="img-fluid" alt="Zangief">
+                <img src="assets/img/revistas/48.jpg" class="img-fluid" alt="Zangief">
               </div>
               <div class="member-info">
                 <h4>Zangief</h4>
@@ -540,7 +540,7 @@
           <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="300">
             <div class="team-member">
               <div class="member-img">
-                <img src="assets/img/figuras/49.jpg" class="img-fluid" alt="Hakan">
+                <img src="assets/img/revistas/49.jpg" class="img-fluid" alt="Hakan">
               </div>
               <div class="member-info">
                 <h4>Hakan</h4>
@@ -551,7 +551,7 @@
           <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="300">
             <div class="team-member">
               <div class="member-img">
-                <img src="assets/img/figuras/50.jpg" class="img-fluid" alt="Birdie">
+                <img src="assets/img/revistas/50.jpg" class="img-fluid" alt="Birdie">
               </div>
               <div class="member-info">
                 <h4>Birdie</h4>
@@ -562,7 +562,7 @@
           <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="300">
             <div class="team-member">
               <div class="member-img">
-                <img src="assets/img/figuras/51.jpg" class="img-fluid" alt="Sodom">
+                <img src="assets/img/revistas/51.jpg" class="img-fluid" alt="Sodom">
               </div>
               <div class="member-info">
                 <h4>Sodom</h4>
@@ -573,7 +573,7 @@
           <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="300">
             <div class="team-member">
               <div class="member-img">
-                <img src="assets/img/figuras/52.jpg" class="img-fluid" alt="Rolento">
+                <img src="assets/img/revistas/52.jpg" class="img-fluid" alt="Rolento">
               </div>
               <div class="member-info">
                 <h4>Rolento</h4>
@@ -584,7 +584,7 @@
           <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="300">
             <div class="team-member">
               <div class="member-img">
-                <img src="assets/img/figuras/53.jpg" class="img-fluid" alt="Elena">
+                <img src="assets/img/revistas/53.jpg" class="img-fluid" alt="Elena">
               </div>
               <div class="member-info">
                 <h4>Elena</h4>
@@ -595,7 +595,7 @@
           <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="300">
             <div class="team-member">
               <div class="member-img">
-                <img src="assets/img/figuras/54.jpg" class="img-fluid" alt="Makoto">
+                <img src="assets/img/revistas/54.jpg" class="img-fluid" alt="Makoto">
               </div>
               <div class="member-info">
                 <h4>Makoto</h4>
@@ -606,7 +606,7 @@
           <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="300">
             <div class="team-member">
               <div class="member-img">
-                <img src="assets/img/figuras/55.jpg" class="img-fluid" alt="Fei Long">
+                <img src="assets/img/revistas/55.jpg" class="img-fluid" alt="Fei Long">
               </div>
               <div class="member-info">
                 <h4>Fei Long</h4>
@@ -617,7 +617,7 @@
           <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="300">
             <div class="team-member">
               <div class="member-img">
-                <img src="assets/img/figuras/56.jpg" class="img-fluid" alt="Rufus">
+                <img src="assets/img/revistas/56.jpg" class="img-fluid" alt="Rufus">
               </div>
               <div class="member-info">
                 <h4>Rufus</h4>
@@ -628,7 +628,7 @@
           <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="300">
             <div class="team-member">
               <div class="member-img">
-                <img src="assets/img/figuras/57.jpg" class="img-fluid" alt="Balrog">
+                <img src="assets/img/revistas/57.jpg" class="img-fluid" alt="Balrog">
               </div>
               <div class="member-info">
                 <h4>Balrog</h4>
@@ -639,7 +639,7 @@
           <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="300">
             <div class="team-member">
               <div class="member-img">
-                <img src="assets/img/figuras/58.jpg" class="img-fluid" alt="Luke">
+                <img src="assets/img/revistas/58.jpg" class="img-fluid" alt="Luke">
               </div>
               <div class="member-info">
                 <h4>Luke</h4>
@@ -650,7 +650,7 @@
           <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="300">
             <div class="team-member">
               <div class="member-img">
-                <img src="assets/img/figuras/59.jpg" class="img-fluid" alt="Dan">
+                <img src="assets/img/revistas/59.jpg" class="img-fluid" alt="Dan">
               </div>
               <div class="member-info">
                 <h4>Dan</h4>
@@ -661,7 +661,7 @@
           <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="300">
             <div class="team-member">
               <div class="member-img">
-                <img src="assets/img/figuras/60.jpg" class="img-fluid" alt="Sakura">
+                <img src="assets/img/revistas/60.jpg" class="img-fluid" alt="Sakura">
               </div>
               <div class="member-info">
                 <h4>Sakura</h4>
@@ -672,7 +672,7 @@
           <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="300">
             <div class="team-member">
               <div class="member-img">
-                <img src="assets/img/figuras/61.jpg" class="img-fluid" alt="F.A.N.G">
+                <img src="assets/img/revistas/61.jpg" class="img-fluid" alt="F.A.N.G">
               </div>
               <div class="member-info">
                 <h4>F.A.N.G</h4>
@@ -683,7 +683,7 @@
           <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="300">
             <div class="team-member">
               <div class="member-img">
-                <img src="assets/img/figuras/62.jpg" class="img-fluid" alt="Oro">
+                <img src="assets/img/revistas/62.jpg" class="img-fluid" alt="Oro">
               </div>
               <div class="member-info">
                 <h4>Oro</h4>
@@ -694,7 +694,7 @@
           <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="300">
             <div class="team-member">
               <div class="member-img">
-                <img src="assets/img/figuras/63.jpg" class="img-fluid" alt="Sean">
+                <img src="assets/img/revistas/63.jpg" class="img-fluid" alt="Sean">
               </div>
               <div class="member-info">
                 <h4>Sean</h4>
@@ -705,7 +705,7 @@
           <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="300">
             <div class="team-member">
               <div class="member-img">
-                <img src="assets/img/figuras/64.jpg" class="img-fluid" alt="Laura">
+                <img src="assets/img/revistas/64.jpg" class="img-fluid" alt="Laura">
               </div>
               <div class="member-info">
                 <h4>Laura</h4>
@@ -716,7 +716,7 @@
           <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="300">
             <div class="team-member">
               <div class="member-img">
-                <img src="assets/img/figuras/65.jpg" class="img-fluid" alt="Kolin">
+                <img src="assets/img/revistas/65.jpg" class="img-fluid" alt="Kolin">
               </div>
               <div class="member-info">
                 <h4>Kolin</h4>
@@ -727,7 +727,7 @@
           <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="300">
             <div class="team-member">
               <div class="member-img">
-                <img src="assets/img/figuras/66.jpg" class="img-fluid" alt="Lucia">
+                <img src="assets/img/revistas/66.jpg" class="img-fluid" alt="Lucia">
               </div>
               <div class="member-info">
                 <h4>Lucia</h4>
@@ -738,7 +738,7 @@
           <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="300">
             <div class="team-member">
               <div class="member-img">
-                <img src="assets/img/figuras/67.jpg" class="img-fluid" alt="Seth">
+                <img src="assets/img/revistas/67.jpg" class="img-fluid" alt="Seth">
               </div>
               <div class="member-info">
                 <h4>Seth</h4>
@@ -749,7 +749,7 @@
           <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="300">
             <div class="team-member">
               <div class="member-img">
-                <img src="assets/img/figuras/68.jpg" class="img-fluid" alt="Decapre">
+                <img src="assets/img/revistas/68.jpg" class="img-fluid" alt="Decapre">
               </div>
               <div class="member-info">
                 <h4>Decapre</h4>
@@ -760,7 +760,7 @@
           <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="300">
             <div class="team-member">
               <div class="member-img">
-                <img src="assets/img/figuras/69.jpg" class="img-fluid" alt="Twelve">
+                <img src="assets/img/revistas/69.jpg" class="img-fluid" alt="Twelve">
               </div>
               <div class="member-info">
                 <h4>Twelve</h4>
@@ -771,7 +771,7 @@
           <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="300">
             <div class="team-member">
               <div class="member-img">
-                <img src="assets/img/figuras/70.jpg" class="img-fluid" alt="Necro">
+                <img src="assets/img/revistas/70.jpg" class="img-fluid" alt="Necro">
               </div>
               <div class="member-info">
                 <h4>Necro</h4>
@@ -782,7 +782,7 @@
           <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="300">
             <div class="team-member">
               <div class="member-img">
-                <img src="assets/img/figuras/71.jpg" class="img-fluid" alt="juni">
+                <img src="assets/img/revistas/71.jpg" class="img-fluid" alt="juni">
               </div>
               <div class="member-info">
                 <h4>Juni</h4>
@@ -793,7 +793,7 @@
           <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="300">
             <div class="team-member">
               <div class="member-img">
-                <img src="assets/img/figuras/72.jpg" class="img-fluid" alt="Juli">
+                <img src="assets/img/revistas/72.jpg" class="img-fluid" alt="Juli">
               </div>
               <div class="member-info">
                 <h4>Juli</h4>
