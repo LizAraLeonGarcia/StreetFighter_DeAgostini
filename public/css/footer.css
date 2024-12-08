@@ -6,26 +6,41 @@
   padding: 20px 0;  /* Espaciado interno */
   border-top: 3px solid gold;  /* Línea verde arriba para resaltar */
   font-family: 'Times New Roman', Times, serif;
+  font-size: 18px; /* Tamaño de fuente para todo el pie de página */
 }
+
 /* Texto en el pie de página */
 .p {
   margin: 0;  /* Eliminar márgenes predeterminados */
   padding: 0;
-  font-size: 16px;
+  font-size: 18px; /* Asegura que el texto en el pie de página esté a 20px */
 }
-/* Enlaces sociales */
-.social-links {
-  mgap: 10px;  /* Espacio entre el texto y los íconos */
+
+/* Estilo para los iconos de redes sociales */
+.social-media {
+  display: flex; /* Alinea los elementos en línea */
+  justify-content: center; /* Centra los elementos */
+  gap: 20px; /* Espacio entre los iconos */
+  margin-top: 20px; /* Da espacio arriba */
 }
-.social-links a {
-  color: #ffffff;  /* Color blanco para los íconos */
-  margin: 0 10px;  /* Espaciado entre los íconos */
-  font-size: 16px;  /* Tamaño adecuado para los íconos */
-  transition: color 0.3s ease;  /* Transición suave */
-  text-decoration: none;
+
+/* Estilo para los enlaces de redes sociales */
+.social-icon {
+  text-decoration: none; /* Elimina el subrayado en los enlaces */
+  color: rgb(255, 255, 255); /* El color del texto (puedes cambiarlo) */
+  font-size: 18px; /* Tamaño de texto para los enlaces, igual a 20px */
+  display: flex;
+  align-items: center; /* Centra el texto y el icono verticalmente */
+  gap: 10px; /* Espacio entre el icono y el texto */
+  transition: color 0.3s ease; /* Transición suave cuando se pasa el ratón */
 }
-/* Efecto de hover en los enlaces sociales */
-.social-links a:hover {
-  text-decoration: none;
-  color: #9d009d;  /* Cambia a verde al pasar el mouse */
+
+/* Color del icono y el texto en hover */
+.social-icon:hover {
+  color: gold; /* Cambia el color cuando el usuario pasa el ratón */
+}
+
+/* Estilo para los iconos de las redes sociales */
+.social-icon i {
+  font-size: 18px; /* Asegura que el icono tenga el mismo tamaño que el texto */
 }
