@@ -1,12 +1,11 @@
 @extends('layouts.app')
 
 @section('content')
-  <div id="inicio" class="inicio">
-    <!-- Section Title -->
+  <div class="inicio">
     <div class="section-title-INICIO">
       <h1>Street Fighter<h1>
       <h2>En esta página te muestro mi colección de Street Fighter: Planeta DeAgostini & Altaya</h2>
-    </div> <!-- End Section Title -->
+    </div>
     <div class="container-fluid">
       <div class="row">
         <!-- Primera fila -->

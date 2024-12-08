@@ -1,12 +1,11 @@
 @extends('layouts.app')
 
 @section('content')
-  <section id="galeria" class="galeria">
-    <!-- Section Title -->
-    <div class="section-title" data-aos="fade-up">
+  <div class="container-fluid">
+    <div class="section-title">
       <h3>Checa los pósters que incluye la colección</h3>
-    </div> <!-- End Section Title -->
-    <div class="container-fluid">
+    </div>
+    <div class="galeria">
       <div class="swiper-container">
         <div class="swiper-wrapper">
             <div class="swiper-slide"><a class="glightbox" data-galeria="images-galeria" href="assets/img/galeria/1.jpg"><img src="assets/img/galeria/1.jpg" class="img-fluid" alt="Chun Li"></a></div>
@@ -87,5 +86,5 @@
         <div class="swiper-pagination"></div>
       </div>
     </div>
-  </section>
+  </div>
 @endsection

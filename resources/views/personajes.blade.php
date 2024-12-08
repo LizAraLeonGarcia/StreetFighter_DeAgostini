@@ -1,11 +1,11 @@
 @extends('layouts.app')
 
 @section('content')
-  <section id="personajes" class="personajes">
-    <div class="section-title" data-aos="fade-up">
+  <div class="container-fluid">
+    <div class="section-title">
       <h3>Descubre los personajes de la colección</h3>
     </div>
-    <div class="container-fluid">
+    <div class="personajes">
       <div class="row">
         <div class="col-lg-3 col-md-4 col-sm-6 character-item">
           <a href="assets/img/personajes/1.jpg" class="glightbox">
@@ -466,5 +466,5 @@
         </div>
       </div>
     </div>
-  </section>
+  </div>
 @endsection

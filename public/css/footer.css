@@ -1,0 +1,31 @@
+/* Estilo general para el pie de página */
+.footer {
+  background-color: #000000;  /* Fondo oscuro */
+  color: #ffffff;  /* Texto blanco */
+  text-align: center;  /* Centrar el texto */
+  padding: 20px 0;  /* Espaciado interno */
+  border-top: 3px solid gold;  /* Línea verde arriba para resaltar */
+  font-family: 'Times New Roman', Times, serif;
+}
+/* Texto en el pie de página */
+.p {
+  margin: 0;  /* Eliminar márgenes predeterminados */
+  padding: 0;
+  font-size: 16px;
+}
+/* Enlaces sociales */
+.social-links {
+  mgap: 10px;  /* Espacio entre el texto y los íconos */
+}
+.social-links a {
+  color: #ffffff;  /* Color blanco para los íconos */
+  margin: 0 10px;  /* Espaciado entre los íconos */
+  font-size: 16px;  /* Tamaño adecuado para los íconos */
+  transition: color 0.3s ease;  /* Transición suave */
+  text-decoration: none;
+}
+/* Efecto de hover en los enlaces sociales */
+.social-links a:hover {
+  text-decoration: none;
+  color: #9d009d;  /* Cambia a verde al pasar el mouse */
+}

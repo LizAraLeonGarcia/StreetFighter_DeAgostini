@@ -1,10 +1,12 @@
 /* Estilo para el nav */
 .navmenu {
-  background-color: #000000;  /* Color de fondo */
+  background-color: #000000;  /* Color de fondo del menú */
   color: #ffffff;
+  font-family: 'Times New Roman', Times, serif;
   padding: 10px;  /* Espaciado alrededor */
 }
 
+/* Lista */
 .nav-list {
   list-style-type: none;  /* Eliminar los puntos de lista */
   padding: 0;
@@ -13,17 +15,32 @@
   justify-content: center;  /* Centrar los elementos */
 }
 
+/* Para cada item de la lista */
 .nav-item {
   margin: 0 15px;  /* Espacio entre los elementos */
+  display: inline-block; /* Asegura que el item se comporte como un bloque */
+  height: 40px; /* Ajusta la altura */
+  line-height: 40px; /* Centra verticalmente el texto dentro del item */
 }
 
+/* Enlaces */
 .nav-link {
-  color: #fff;  /* Color del texto */
   text-decoration: none;  /* Eliminar el subrayado del enlace */
   font-size: 18px;  /* Tamaño de la fuente */
-  transition: color 0.3s;  /* Transición suave cuando cambie el color */
+  padding: 8px 16px;  /* Espaciado alrededor del enlace */
+  display: block;  /* Asegurarse de que el enlace ocupe toda la área del item */
+  transition: all 0.3s ease;  /* Transición suave para color y fondo */
+  color: #ffffff;  /* Color del texto */
 }
 
+/* Cambio de color y fondo cuando se pasa el mouse (hover) */
 .nav-link:hover {
-  color: #f39c12;  /* Color cuando el enlace se pasa por encima */
+  background-color: #ffffff;  /* Fondo blanco */
+  color: #000000 !important;  /* Texto negro */
+}
+
+/* Si un enlace está activo, se resalta con otro fondo */
+.nav-link.active {
+  background-color: #0066cc;  /* Fondo azul */
+  color: #ffffff;  /* Texto blanco */
 }

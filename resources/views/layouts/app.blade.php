@@ -9,9 +9,11 @@
   <meta name="author" content="Lizbeth Araceli León García">
   <title>Street Fighter</title>
   <!-- ----------------------------------------------------------------------------------------------------------------- cargar archivos CSS -->
+  <link href="{{ asset('css/main.css') }}" rel="stylesheet">
   <link href="{{ asset('css/navbar.css') }}" rel="stylesheet">
+  <link href="{{ asset('css/footer.css') }}" rel="stylesheet">
   <link href="{{ asset('css/inicio.css') }}" rel="stylesheet">
-  <link href="{{ asset('css/figuras.css') }}" rel="stylesheet">
+  <link href="{{ asset('css/figuras-revistas.css') }}" rel="stylesheet">
   <link href="{{ asset('css/galeria.css') }}" rel="stylesheet">
 
   <link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css">
@@ -32,6 +34,7 @@
   <!-- cargar scripts -->
   <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
+  <script src="{{ asset('js/navbar.js') }}"></script>
   <script src="{{ asset('js/galeria.js') }}"></script>
 
 </body>
