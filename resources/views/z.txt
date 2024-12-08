@@ -1,0 +1,30 @@
+@extends('layouts.app')
+
+@section('content')
+  <div class="container-fluid">
+    <div class="section-title">
+      <h3>Descubre los personajes de la colección</h3>
+    </div>
+    <div class="personajes">
+      <div class="row">
+        <div class="col-lg-3 col-md-4 col-sm-6 character-item">
+          <a href="assets/img/personajes/1.jpg" class="glightbox">
+            <img src="assets/img/personajes/1.jpg" class="character-img img-fluid" alt="Chun Li">
+          </a>
+          <h4>Chun Li</h4>
+          <p class="description">Creadora de su propio estilo de lucha, la bella y decidida Chun-Li es una pieza fundamental para acabar con la organización criminal Shadaloo. Siguiendo los pasos de su desaparecido padre, no descansará hasta acabar con M. Bison y todo lo que representa.</p>
+        </div>
+        <div class="col-lg-3 col-md-4 col-sm-6 character-item">
+          <a href="assets/img/personajes/2.jpg" class="glightbox">
+            <img src="assets/img/personajes/2.jpg" class="character-img img-fluid" alt="Akira">
+          </a>
+          <h4>Akira</h4>
+          <p class="description">Akira Kazama es una joven a quien le apasionan especialmente dos cosas: las motocicletas y las artes marciales. Ambas pasiones le sirven para enfrentarse a los peligros más insospechados en su ajetreada vida de estudiante.</p>
+        </div>
+        <div class="col-lg-3 col-md-4 col-sm-6 character-item">
+          <a href="assets/img/personajes/3.jpg" class="glightbox">
+            <img src="assets/img/personajes/3.jpg" class="character-img img-fluid" alt="Poison">
+          </a>
+          <h4>Poison</h4>
+          <p class="description">Tras sus desventuras como destacada miembro de la banda criminal Mad Gear, Poison decidió reconstruir su vida como mánager en el circuito de lucha libre profesional, donde cosechó un éxito indiscutible.</p>
+        </div>

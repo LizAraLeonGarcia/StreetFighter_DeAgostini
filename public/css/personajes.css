@@ -1,0 +1,79 @@
+/* Estilo para los elementos del carrusel */
+.carousel-inner {
+  width: 60%; /* Asegura que el carrusel ocupe todo el ancho disponible */
+  display: flex;
+  justify-content: center; /* Centra los items del carrusel */
+  align-items: center;
+  flex-wrap: wrap; /* Permite que los items se ajusten si el espacio es pequeño */
+  margin: 0 auto; /* Centra el contenedor de las imágenes */
+  border: 2px solid red; /* Agrega borde temporal para verificar el contenedor */
+  padding: 0; /* Elimina cualquier padding */
+}
+
+/* Estilo de los items del carrusel */
+.carousel-item {
+  display: flex;
+  justify-content: center; /* Centra las imágenes y el texto */
+  align-items: center;
+  text-align: center;
+  width: 100%; /* Hace que cada item ocupe todo el ancho disponible en el carrusel */
+}
+
+/* Estilo de cada personaje dentro del carrusel */
+.character-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  max-width: 300px; /* Limita el tamaño del contenedor */
+  margin: 0 10px; /* Da espacio entre los items */
+  text-align: center; /* Asegura que el texto dentro de los elementos también esté centrado */
+}
+
+/* Estilo de las imágenes */
+.character-img {
+  width: 100%; /* Ajusta la imagen al 100% del ancho de su contenedor */
+  max-width: 250px; /* Limita el tamaño máximo de la imagen */
+  height: auto; /* Mantiene la proporción */
+  border-radius: 10px;
+}
+
+/* Títulos */
+h4 {
+  margin-top: 10px;
+  font-size: 20px;
+  color: #333;
+  text-align: center; /* Asegura que el título esté centrado */
+}
+
+/* Descripción */
+.description {
+  font-size: 14px;
+  color: #555;
+  margin-top: 10px;
+  text-align: center; /* Centra la descripción */
+}
+/* Estilos para los botones de siguiente y anterior */
+.carousel-control-prev, .carousel-control-next {
+  background-color: rgba(0, 0, 0, 0.5); /* Fondo semitransparente */
+  border-radius: 50%; /* Bordes redondeados */
+  padding: 10px; /* Espaciado alrededor del ícono */
+  z-index: 1; /* Asegura que el botón esté sobre otros elementos */
+  display: flex; /* Alineación para los íconos */
+  justify-content: center;
+  align-items: center;
+}
+
+/* Para los íconos predeterminados de Bootstrap (no necesitas agregar contenido con pseudoelementos) */
+.carousel-control-prev-icon, .carousel-control-next-icon {
+  background-color: white; /* Fondo blanco para los íconos */
+  width: 30px;
+  height: 30px;
+  border-radius: 50%; /* Hace los íconos circulares */
+  border: 2px solid #fff; /* Borde blanco alrededor del ícono */
+}
+
+/* Estado hover (cuando se pasa el ratón) */
+.carousel-control-prev:hover, .carousel-control-next:hover {
+  background-color: rgba(0, 0, 0, 0.7); /* Fondo más oscuro al hacer hover */
+}
