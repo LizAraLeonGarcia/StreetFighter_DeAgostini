@@ -5,6 +5,10 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('inicio');
 });
+// Ruta para el listado de entregas
+Route::get('/listado-de-entregas', function () {
+    return view('listado-de-entregas');
+});
 // Ruta para la sección de personajes
 Route::get('/personajes', function () {
     return view('personajes');
