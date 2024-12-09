@@ -13,6 +13,7 @@
   <link href="{{ asset('css/navbar.css') }}" rel="stylesheet">
   <link href="{{ asset('css/footer.css') }}" rel="stylesheet">
   <link href="{{ asset('css/inicio.css') }}" rel="stylesheet">
+  <link href="{{ asset('css/listado-de-entregas.css') }}" rel="stylesheet">
   <link href="{{ asset('css/personajes.css') }}" rel="stylesheet">
   <link href="{{ asset('css/figuras-revistas.css') }}" rel="stylesheet">
   <link href="{{ asset('css/galeria.css') }}" rel="stylesheet">

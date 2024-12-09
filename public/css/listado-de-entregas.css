@@ -1,0 +1,42 @@
+/* Personalización de la tabla */
+.table th, .table td {
+    text-align: center;
+    vertical-align: middle;
+    padding: 15px;
+}
+
+/* Colores alternos en las filas */
+.table-striped tbody tr:nth-of-type(odd) {
+    background-color: #f8f9fa;
+}
+
+/* Efecto al pasar el mouse */
+.table-hover tbody tr:hover {
+    background-color: #f1f1f1;
+    cursor: pointer;
+}
+
+/* Bordes más sutiles */
+.table-bordered {
+    border: 1px solid #ddd;
+}
+
+.table-bordered td, .table-bordered th {
+    border: 1px solid #ddd;
+}
+
+/* Fondo oscuro para el encabezado */
+.thead-dark {
+    background-color: #343a40;
+    color: white;
+}
+
+/* Sombra alrededor de la tabla */
+.table {
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+/* Ajustar la tabla para pantallas pequeñas */
+.table-responsive {
+    overflow-x: auto;
+}

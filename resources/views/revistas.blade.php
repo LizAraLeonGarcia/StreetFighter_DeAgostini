@@ -15,7 +15,7 @@
               </div>
               <div class="member-info">
                 <h4>Chun Li</h4>
-                <p>Experta en artes marciales, azote del crimen.</p>
+                <p>El brazo fuerte de la ley.</p>
               </div>
             </div>
           </div>
@@ -26,7 +26,7 @@
               </div>
               <div class="member-info">
                 <h4>Akira</h4>
-                <p>Estudiante, motorista y experta luchadora.</p>
+                <p>Hija de la anarquía.</p>
               </div>
             </div>
           </div>
@@ -37,7 +37,7 @@
               </div>
               <div class="member-info">
                 <h4>Poison</h4>
-                <p>Luchadora y entrenadora profesional.</p>
+                <p>La reina de las espinas.</p>
               </div>
             </div>
           </div>
@@ -48,7 +48,7 @@
               </div>
               <div class="member-info">
                 <h4>Rainbow Mika</h4>
-                <p>La gran dama del wrestling profesional.</p>
+                <p>El huracán arcoirís.</p>
               </div>
             </div>
           </div>
@@ -59,7 +59,7 @@
               </div>
               <div class="member-info">
                 <h4>Menat</h4>
-                <p>Una joven aprendiz de adivina dotada de grandes poderes psíquicos.</p>
+                <p>La dama de la fortuna.</p>
               </div>
             </div>
           </div>
@@ -70,7 +70,7 @@
               </div>
               <div class="member-info">
                 <h4>Juri</h4>
-                <p>Una peligrosa e imprevisible experta en taekwondo.</p>
+                <p>La araña púrpura.</p>
               </div>
             </div>
           </div>
@@ -81,7 +81,7 @@
               </div>
               <div class="member-info">
                 <h4>Rose</h4>
-                <p>Una adivina dotada de misteriosos poderes.</p>
+                <p>La maestra del destino.</p>
               </div>
             </div>
           </div>
@@ -92,7 +92,7 @@
               </div>
               <div class="member-info">
                 <h4>Ibuki</h4>
-                <p>Estudiante de día, experta luchadora de noche.</p>
+                <p>La jóven ninja.</p>
               </div>
             </div>
           </div>
@@ -103,7 +103,7 @@
               </div>
               <div class="member-info">
                 <h4>Falke</h4>
-                <p>Una joven que, ante todo, lucha por labrarse su propio futuro.</p>
+                <p>Ave de presa.</p>
               </div>
             </div>
           </div>
@@ -114,7 +114,7 @@
               </div>
               <div class="member-info">
                 <h4>Crimson Viper</h4>
-                <p>Una experta luchadora que potencia sus habilidades con ingenios electrónicos.</p>
+                <p>La espía tecnológica.</p>
               </div>
             </div>
           </div>
@@ -125,7 +125,7 @@
               </div>
               <div class="member-info">
                 <h4>Karin</h4>
-                <p>Repleta de soberbia y afán de superación.</p>
+                <p>La luchadora altiva.</p>
               </div>
             </div>
           </div>
@@ -137,7 +137,7 @@
               </div>
               <div class="member-info">
                 <h4>Vega</h4>
-                <p>Un luchador enmascarado, inestable y peligroso.</p>
+                <p>El torero-ninja asesino.</p>
               </div>
             </div>
           </div>
@@ -148,7 +148,7 @@
               </div>
               <div class="member-info">
                 <h4>Ryu</h4>
-                <p>Forjado en el combate, marcado por el destino.</p>
+                <p>El guerrero errante.</p>
               </div>
             </div>
           </div>
@@ -159,7 +159,7 @@
               </div>
               <div class="member-info">
                 <h4>Charlie Nash</h4>
-                <p>Un militar honorable con un trágico destino.</p>
+                <p>El soldado de la venganza.</p>
               </div>
             </div>
           </div>
@@ -170,7 +170,7 @@
               </div>
               <div class="member-info">
                 <h4>Gill</h4>
-                <p>Un hombre inmensamente poderoso, destinado a liderar un nuevo mundo utópico.</p>
+                <p>.</p>
               </div>
             </div>
           </div>
@@ -181,7 +181,7 @@
               </div>
               <div class="member-info">
                 <h4>Sagat</h4>
-                <p>El guerrero tailandés atrapado por la venganza.</p>
+                <p>El emperador del muay thai.</p>
               </div>
             </div>
           </div>
@@ -192,7 +192,7 @@
               </div>
               <div class="member-info">
                 <h4>Rashid</h4>
-                <p>Un luchador acróbatico apasionado por la tecnología.</p>
+                <p>El viento turbulento.</p>
               </div>
             </div>
           </div>
@@ -203,7 +203,7 @@
               </div>
               <div class="member-info">
                 <h4>Kage</h4>
-                <p>El Satsui No Hado toma forma física.</p>
+                <p>La mitad oscura.</p>
               </div>
             </div>
           </div>
@@ -214,7 +214,7 @@
               </div>
               <div class="member-info">
                 <h4>Guy</h4>
-                <p>Heredero del estilo Bushin'ryu e incansable luchador contra el mal.</p>
+                <p>El ninja justiciero.</p>
               </div>
             </div>
           </div>
@@ -225,7 +225,7 @@
               </div>
               <div class="member-info">
                 <h4>Ed</h4>
-                <p>Un joven luchador incansable ante la adversidad.</p>
+                <p>La supernova.</p>
               </div>
             </div>
           </div>
@@ -236,7 +236,7 @@
               </div>
               <div class="member-info">
                 <h4>G</h4>
-                <p>Un individuo misterioso sobre quien apenas existe información.</p>
+                <p>El presidente del mundo.</p>
               </div>
             </div>
           </div>
@@ -247,7 +247,7 @@
               </div>
               <div class="member-info">
                 <h4>Necalli</h4>
-                <p>Un guerrero de tiempos remotos reaparece en el presente para sembrar el caos.</p>
+                <p>.</p>
               </div>
             </div>
           </div>
@@ -258,7 +258,7 @@
               </div>
               <div class="member-info">
                 <h4>Remy</h4>
-                <p>Marcado por el abandono de su padre y consumido por un odio infinito.</p>
+                <p>El luchador atormentado.</p>
               </div>
             </div>
           </div>
@@ -269,7 +269,7 @@
               </div>
               <div class="member-info">
                 <h4>Zeku</h4>
-                <p>Un luchador veterano que trata de reinventarse a sí mismo.</p>
+                <p>El gran maestro ninja.</p>
               </div>
             </div>
           </div>
@@ -280,7 +280,7 @@
               </div>
               <div class="member-info">
                 <h4>Q</h4>
-                <p>¿Quién hay tras ese impenetrable halo de misterio?</p>
+                <p>.</p>
               </div>
             </div>
           </div>
@@ -291,7 +291,7 @@
               </div>
               <div class="member-info">
                 <h4>Blanka</h4>
-                <p>Un luchador salvaje surgido de la selva amazónica.</p>
+                <p>El rey de la jungla.</p>
               </div>
             </div>
           </div>
@@ -302,7 +302,7 @@
               </div>
               <div class="member-info">
                 <h4>Akuma</h4>
-                <p>De guerrero a demonio con forma de hombre.</p>
+                <p>El ogro de la lucha.</p>
               </div>
             </div>
           </div>
@@ -313,7 +313,7 @@
               </div>
               <div class="member-info">
                 <h4>M. Bison</h4>
-                <p>Un hombre sin escrúpulos en busca del poder supremo.</p>
+                <p>El gran dictador.</p>
               </div>
             </div>
           </div>
@@ -324,7 +324,7 @@
               </div>
               <div class="member-info">
                 <h4>Cody</h4>
-                <p>Un luchador que imparte justicia en Metro City.</p>
+                <p>El vigilante callejero.</p>
               </div>
             </div>
           </div>
@@ -335,7 +335,7 @@
               </div>
               <div class="member-info">
                 <h4>Oni</h4>
-                <p>El mayor poseedor del Satsui No Hado.</p>
+                <p>El demonio de la lucha.</p>
               </div>
             </div>
           </div>
@@ -346,7 +346,7 @@
               </div>
               <div class="member-info">
                 <h4>Dudley</h4>
-                <p>Un púgil de modales exquisitos.</p>
+                <p>El caballero boxeador.</p>
               </div>
             </div>
           </div>
@@ -357,7 +357,7 @@
               </div>
               <div class="member-info">
                 <h4>Adon</h4>
-                <p>De aprendiz a emperador del muay thai.</p>
+                <p>El jaguar tailandés.</p>
               </div>
             </div>
           </div>
@@ -368,7 +368,7 @@
               </div>
               <div class="member-info">
                 <h4>Urien</h4>
-                <p>Uno de los poderosos líderes de la sociedad secreta que mueve los hilos del mundo en la sombra.</p>
+                <p>El coloso metálico.</p>
               </div>
             </div>
           </div>
@@ -379,7 +379,7 @@
               </div>
               <div class="member-info">
                 <h4>Alex</h4>
-                <p>Un luchador con madera de auténtico campeón.</p>
+                <p>El rey del K.O.</p>
               </div>
             </div>
           </div>
@@ -390,7 +390,7 @@
               </div>
               <div class="member-info">
                 <h4>Ken</h4>
-                <p>De jóven rebelde a luchador excepcional.</p>
+                <p>El fuego del dragón.</p>
               </div>
             </div>
           </div>
@@ -401,7 +401,7 @@
               </div>
               <div class="member-info">
                 <h4>Evil Ryu</h4>
-                <p>Una fuerza oscura, misteriosa y sobrenatural.</p>
+                <p>El mal encarnado.</p>
               </div>
             </div>
           </div>
@@ -412,7 +412,7 @@
               </div>
               <div class="member-info">
                 <h4>E. Honda</h4>
-                <p>Un luchador de sumo sin igual.</p>
+                <p>El gran maestro yokozuna.</p>
               </div>
             </div>
           </div>
@@ -423,7 +423,7 @@
               </div>
               <div class="member-info">
                 <h4>Dhalsim</h4>
-                <p>Un sabio indio que busca el bienestar de su pueblo.</p>
+                <p>El maestro faquir.</p>
               </div>
             </div>
           </div>
@@ -434,7 +434,7 @@
               </div>
               <div class="member-info">
                 <h4>Dee Jay</h4>
-                <p>Experto en música y artes marciales.</p>
+                <p>El cometa del sur.</p>
               </div>
             </div>
           </div>
@@ -445,7 +445,7 @@
               </div>
               <div class="member-info">
                 <h4>Guile</h4>
-                <p>Un militar norteamericano en guerra contra Shadaloo.</p>
+                <p>El soldado sónico.</p>
               </div>
             </div>
           </div>
@@ -456,7 +456,7 @@
               </div>
               <div class="member-info">
                 <h4>Cammy</h4>
-                <p>Una luchadora que logró escapar de las garras de Shadaloo.</p>
+                <p>La abeja asesina.</p>
               </div>
             </div>
           </div>
@@ -467,7 +467,7 @@
               </div>
               <div class="member-info">
                 <h4>Abigail</h4>
-                <p>Un gigantón de casi dos metros y medio de altura.</p>
+                <p>La montaña que camina.</p>
               </div>
             </div>
           </div>
@@ -478,7 +478,7 @@
               </div>
               <div class="member-info">
                 <h4>El Fuerte</h4>
-                <p>Un wrestler peligroso tanto en el ring como en la cocina.</p>
+                <p>El huracán mexicano.</p>
               </div>
             </div>
           </div>
@@ -489,7 +489,7 @@
               </div>
               <div class="member-info">
                 <h4>T. Hawk</h4>
-                <p>Un nativo que lucha por la libertad.</p>
+                <p>El halcón de guerra.</p>
               </div>
             </div>
           </div>
@@ -500,7 +500,7 @@
               </div>
               <div class="member-info">
                 <h4>Gen</h4>
-                <p>Experto en múliples disciplinas, letal en el combate.</p>
+                <p>El demonio de Hong Kong.</p>
               </div>
             </div>
           </div>
@@ -511,7 +511,7 @@
               </div>
               <div class="member-info">
                 <h4>Gouken</h4>
-                <p>Último guardián de las técnicas del ansatsuken.</p>
+                <p>El gan maestro.</p>
               </div>
             </div>
           </div>
@@ -522,7 +522,7 @@
               </div>
               <div class="member-info">
                 <h4>Hugo</h4>
-                <p>Un cuerpo enorme con una mente diminuta.</p>
+                <p>El gigante rosa.</p>
               </div>
             </div>
           </div>
@@ -533,7 +533,7 @@
               </div>
               <div class="member-info">
                 <h4>Zangief</h4>
-                <p>Un wrestler legendario e imbatible.</p>
+                <p>El ciclón rojo.</p>
               </div>
             </div>
           </div>
@@ -544,7 +544,7 @@
               </div>
               <div class="member-info">
                 <h4>Hakan</h4>
-                <p>Gran campeón del wrestling turco.</p>
+                <p>El luchador resbaladizo.</p>
               </div>
             </div>
           </div>
@@ -555,7 +555,7 @@
               </div>
               <div class="member-info">
                 <h4>Birdie</h4>
-                <p>Un antiguo wrestler apasionado por la comida y los cortes de pelo estrafalarios.</p>
+                <p>El punk británico.</p>
               </div>
             </div>
           </div>
@@ -566,7 +566,7 @@
               </div>
               <div class="member-info">
                 <h4>Sodom</h4>
-                <p>Un luchador estadounidense obsesionado con la cultura japonesa.</p>
+                <p>El samurai americano.</p>
               </div>
             </div>
           </div>
@@ -577,7 +577,7 @@
               </div>
               <div class="member-info">
                 <h4>Rolento</h4>
-                <p>Un soldado en busca de su propia utopía.</p>
+                <p>.</p>
               </div>
             </div>
           </div>
@@ -588,7 +588,7 @@
               </div>
               <div class="member-info">
                 <h4>Elena</h4>
-                <p>Una jóven vivaz experta en capoeira.</p>
+                <p>La guerrera africana.</p>
               </div>
             </div>
           </div>
@@ -599,7 +599,7 @@
               </div>
               <div class="member-info">
                 <h4>Makoto</h4>
-                <p>Una luchadora que se crece ante la adversidad.</p>
+                <p>.</p>
               </div>
             </div>
           </div>
@@ -610,7 +610,7 @@
               </div>
               <div class="member-info">
                 <h4>Fei Long</h4>
-                <p>Reconocido actor y maestro luchador.</p>
+                <p>El dragón de Hong Kong.</p>
               </div>
             </div>
           </div>
@@ -621,7 +621,7 @@
               </div>
               <div class="member-info">
                 <h4>Rufus</h4>
-                <p>Un ruidoso y temperamental experto en kung fu.</p>
+                <p>La albóndiga peleona.</p>
               </div>
             </div>
           </div>
@@ -632,7 +632,7 @@
               </div>
               <div class="member-info">
                 <h4>Balrog</h4>
-                <p>Un boxeador capaz de tumbar a un elefante.</p>
+                <p>El búfalo loco.</p>
               </div>
             </div>
           </div>
@@ -643,7 +643,7 @@
               </div>
               <div class="member-info">
                 <h4>Luke</h4>
-                <p>Un jóven con un gran futuro.</p>
+                <p>La estrella brillante.</p>
               </div>
             </div>
           </div>
@@ -654,7 +654,7 @@
               </div>
               <div class="member-info">
                 <h4>Dan</h4>
-                <p>Un personaje particularmente extravagante.</p>
+                <p>El luchador burlón.</p>
               </div>
             </div>
           </div>
@@ -665,7 +665,7 @@
               </div>
               <div class="member-info">
                 <h4>Sakura</h4>
-                <p>Una chica con un potencial innato para el combate.</p>
+                <p>La luchadora autodidacta.</p>
               </div>
             </div>
           </div>
@@ -676,7 +676,7 @@
               </div>
               <div class="member-info">
                 <h4>F.A.N.G</h4>
-                <p>El autodenominado número dos de M. Bison y la mente criminal más brillante de Shadaloo.</p>
+                <p>.</p>
               </div>
             </div>
           </div>
@@ -687,7 +687,7 @@
               </div>
               <div class="member-info">
                 <h4>Oro</h4>
-                <p>Un anciano ermitaño en busca de un sucesor.</p>
+                <p>.</p>
               </div>
             </div>
           </div>
@@ -698,7 +698,7 @@
               </div>
               <div class="member-info">
                 <h4>Sean</h4>
-                <p>Un jóven brasileño decidido a convertirse en un gran luchador.</p>
+                <p>.</p>
               </div>
             </div>
           </div>
@@ -709,7 +709,7 @@
               </div>
               <div class="member-info">
                 <h4>Laura</h4>
-                <p>Una explosiva brasileña experta en jiu jitsu.</p>
+                <p>.</p>
               </div>
             </div>
           </div>
@@ -720,7 +720,7 @@
               </div>
               <div class="member-info">
                 <h4>Kolin</h4>
-                <p>La fiel asistente del líder de la sociedad secreta y una luchadora de gran talento.</p>
+                <p>.</p>
               </div>
             </div>
           </div>
@@ -731,7 +731,7 @@
               </div>
               <div class="member-info">
                 <h4>Lucia</h4>
-                <p>Una jóven policía metropolitana.</p>
+                <p>El ave de fuego.</p>
               </div>
             </div>
           </div>
@@ -742,7 +742,7 @@
               </div>
               <div class="member-info">
                 <h4>Seth</h4>
-                <p>Un luchador sintético en busca de la perfección.</p>
+                <p>El cuerpo perfecto.</p>
               </div>
             </div>
           </div>
@@ -753,7 +753,7 @@
               </div>
               <div class="member-info">
                 <h4>Decapre</h4>
-                <p>La guardaespaldas más letal de M. Bison.</p>
+                <p>La muñeca quebrada.</p>
               </div>
             </div>
           </div>
@@ -764,7 +764,7 @@
               </div>
               <div class="member-info">
                 <h4>Twelve</h4>
-                <p>Culminación del proyecto G de la sociedad secreta.</p>
+                <p>.</p>
               </div>
             </div>
           </div>
@@ -775,7 +775,7 @@
               </div>
               <div class="member-info">
                 <h4>Necro</h4>
-                <p>Víctima de los oscuros experimentos genéticos de una sociedad secreta.</p>
+                <p>El mutante rebelde.</p>
               </div>
             </div>
           </div>
@@ -786,7 +786,7 @@
               </div>
               <div class="member-info">
                 <h4>Juni</h4>
-                <p>La sexta doll de Shadaloo.</p>
+                <p>La guardaespaldas de élite.</p>
               </div>
             </div>
           </div>
@@ -797,7 +797,7 @@
               </div>
               <div class="member-info">
                 <h4>Juli</h4>
-                <p>La séptima doll de Shadaloo.</p>
+                <p>.</p>
               </div>
             </div>
           </div>

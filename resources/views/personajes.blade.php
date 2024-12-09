@@ -3,7 +3,7 @@
 @section('content')
   <div class="container-fluid">
     <div class="section-title">
-      <h3>Descubre los personajes de la colección</h3>
+      <h3>Explora a los personajes de la colección</h3>
     </div>
     <div class="personajes">
       <div id="characterCarousel" class="carousel slide" data-bs-ride="carousel">
