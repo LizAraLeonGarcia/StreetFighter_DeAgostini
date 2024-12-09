@@ -5,11 +5,11 @@
     <div class="section-title-INICIO">
       <h1>Street Fighter<h1>
       <h2>En esta página te muestro mi colección de Street Fighter: Planeta DeAgostini & Altaya</h2>
+      <h4>La saga que marcó el mundo gamer ahora también ha sacado la colección más amplia en cuanto al número de personajes...</h4>
     </div>
     <div class="container-fluid">
-      <h4>La saga que marcó el mundo gamer ahora también ha sacado la colección más amplia en cuanto al número de personajes...</h4>
-      <div class="row">
-        <!-- Primera fila -->
+      <!-- Primera fila -->
+      <div class="row mb-4">
         <div class="col-md-5">
           <p>Con un total inicial de 60 entregas, más una posible expansión a 15 figuras extras como se hizo en España y Brasil, esta nueva colección oficial de Capcom vió la luz a finales de septiembre de 2022 en mi país México, empezando su lanzamiento con el protagonista de casi todos los videojuegos de la saga: Ryu, seguido de su inolvidable mejor amigo Ken.</p>
           <p>Cabe recalcar que las entregas varían un poco entre países, pues, aunque en mí país Ken fue la entrega 2, en España en realidad fue Chun Li, a la inversa, Chun Li en mí país fue la número 7 en llegar, por lo que, en España Ken fue el número tres.</p>
@@ -19,24 +19,25 @@
           <img src="assets/img/inicio/personajesPoster.png" class="img-fluid" alt="Poster de los personajes">
         </div>
       </div>
-      <div class="row">
+      <!-- Segunda fila -->
+      <div class="row mb-4">
         <div class="col-md-6">
-          <p>Si tienes curiosidad, puedes checar el vídeo de la colección en el canal oficial de Planeta DeAgostini, sólo debes dar clic en el botón que está debajo de este parráfo.</p>
-          <a href="https://www.youtube.com/watch?v=eL9vshOQm0Y">
-          <img src="assets/img/inicio/planetadeagostini.jpg" class="img-fluid" alt="Planeta DeAgostini">
-            <i></i><span>Ver vídeo</span>
+          <p>Si tienes curiosidad, puedes checar el vídeo de la colección en el canal oficial de Planeta DeAgostini, sólo debes dar clic en la imágen que está debajo de este parráfo.</p>
+          <a href="https://www.youtube.com/watch?v=eL9vshOQm0Y" class="play-button-container">
+            <img src="assets/img/inicio/planetadeagostini.jpg" class="img-fluid" alt="Planeta DeAgostini">
+            <i class="fas fa-play"></i>
           </a>
         </div>
         <div class="col-md-6">
-          <p>Aunque si tu curiosidad no se sació con el vídeo oficial, te dejo otro vídeo de la colección, pero de un YouTuber español pues, en España la colección ya terminó y, además de ser los 75 personajes, también dieron extras que puedes mirar, como 4 figuras de ciertos personajes, una playera, una gorra, una taza, pósters; sólo debes dar clic en el botón que está debajo de este parráfo.</p>
-          <a href="https://www.youtube.com/watch?v=XvIxc1hWeRw"> 
+          <p>Aunque si tu curiosidad no se sació con el vídeo oficial, te dejo otro vídeo de la colección, pero de un YouTuber español pues, en España la colección ya terminó y, además de ser los 75 personajes, también dieron extras que puedes mirar, como 4 figuras de ciertos personajes, una playera, una gorra, una taza, pósters; sólo debes dar clic en la imágen que está debajo de este parráfo.</p>
+          <a href="https://www.youtube.com/watch?v=XvIxc1hWeRw" class="play-button-container"> 
             <img src="assets/img/inicio/youtuber.jpg" class="img-fluid" alt="Colección completa youtuber">
-            <i></i><span>Ver vídeo</span>
+            <i class="fas fa-play"></i>
           </a>
         </div>
       </div>
-      <div class="row">
-        <!-- Tercera fila -->
+      <!-- Tercera fila -->
+      <div class="row mb-4">
         <div class="col-md-7">
           <img src="assets/img/inicio/inicioRyu.jpg" class="img-fluid" alt="Ryu entrega 1">
         </div>
