@@ -5,14 +5,14 @@
     <div class="section-title">
       <h3>Descubre a los personajes de la colección</h3>
     </div>
-    <div class="row">
+    <div class="row listado-de-entregas">
       <!-- Columna izquierda -->
       <div class="col-md-3">
         <p>izquierdo</p>
       </div>
       <!-- Columna central (donde estará la tabla) -->
       <div class="col-md-6">
-        <div class="listado-de-entregas table-responsive">
+        <div class="table-responsive">
           <table class="table table-bordered table-striped table-hover table-sm shadow-lg">
             <thead class="thead-dark">
               <tr>

@@ -1,13 +1,13 @@
 @extends('layouts.app')
 
 @section('content')
-  <div class="inicio">
+  <div class="container-fluid">
     <div class="section-title-INICIO">
       <h1>Street Fighter<h1>
       <h2>En esta página te muestro mi colección de Street Fighter: Planeta DeAgostini & Altaya</h2>
       <h4>La saga que marcó el mundo gamer ahora también ha sacado la colección más amplia en cuanto al número de personajes...</h4>
     </div>
-    <div class="container-fluid">
+    <div class="inicio">
       <!-- Primera fila -->
       <div class="row mb-4">
         <div class="col-md-5">

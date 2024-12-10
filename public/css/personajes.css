@@ -1,3 +1,6 @@
+.personajes {
+    padding: 0 15px;
+}
 /* Estilo para los elementos del carrusel */
 .carousel-inner {
   width: 60%; /* Asegura que el carrusel ocupe todo el ancho disponible */

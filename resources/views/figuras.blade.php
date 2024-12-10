@@ -6,7 +6,7 @@
       <h3>Revisa las estatuillas que incluye la colección</h3>
     </div>
     <div class="figuras">
-      <div class="row">
+      <div class="row team-container">
         <!-- ----------------------------------------------------------------------------------------------------------------- mis favoritas -->
           <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch">
             <div class="team-member">

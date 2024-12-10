@@ -1,3 +1,16 @@
+
+.figuras, .revistas
+{
+  padding: 0 20px;
+}
+/* Contenedor de los miembros */
+.team-container {
+  display: flex;
+  flex-wrap: wrap; /* Permite que los elementos se ajusten a nuevas filas */
+  gap: 15px; /* Espaciado entre cada miembro del equipo */
+  justify-content: space-between; /* Asegura que los elementos se distribuyan de manera uniforme */
+  align-items: flex-start; /* Alinea los elementos al inicio de la fila */
+}
 /* Contenedor de la sección, asegurando un fondo claro y padding adecuado */
 .team-member {
   background-color: #c1c6ca; /* Fondo claro para cada elemento */
@@ -8,7 +21,6 @@
   flex-direction: column; /* Orden de los elementos: imagen arriba, texto abajo */
   height: 100%; /* Asegura que todos los elementos tengan el mismo tamaño */
 }
-
 /* Estilización de las imágenes */
 .member-img img {
   width: 100%; /* La imagen toma el 100% del contenedor */
@@ -16,51 +28,28 @@
   object-fit: cover; /* Mantiene la proporción de la imagen sin deformarla */
   border-bottom: 2px solid #ddd; /* Línea divisoria entre imagen y texto */
 }
-
 /* Estilo para la información del miembro */
 .member-info {
-  padding: 20px;
+  padding: 15px;
   text-align: center; /* Centrar el texto */
 }
 
 .member-info h4 {
-  font-size: 20px; /* Tamaño de fuente para el nombre */
+  font-size: 18px; /* Tamaño de fuente para el nombre */
   font-weight: bold;
-  color: #333; /* Color de texto */
+  color: black; /* Color de texto */
   margin-bottom: 10px; /* Separación entre el nombre y la descripción */
 }
 
 .member-info p {
   font-size: 16px; /* Tamaño de fuente para la descripción */
-  color: #777; /* Color de texto más suave */
+  color: black; /* Color de texto más suave */
   line-height: 1.5; /* Espaciado entre las líneas */
 }
 
 /* Efecto al pasar el mouse */
 .team-member:hover {
-  transform: translateY(-5px); /* Eleva ligeramente el elemento */
-  box-shadow: 0 10px 15px rgba(0, 0, 0, 0.15); /* Sombra más prominente */
+  transform: translateY(-10px); /* Eleva ligeramente el elemento */
+  box-shadow: 0 20px 20px rgba(0, 0, 0, 0.15); /* Sombra más prominente */
 }
-
 /* Responsividad */
-@media (max-width: 1200px) {
-  .col-lg-3 {
-    width: 50%; /* En pantallas medianas, dos elementos por fila */
-  }
-}
-
-@media (max-width: 768px) {
-  .col-md-4 {
-    width: 100%; /* En pantallas pequeñas, un solo elemento por fila */
-  }
-}
-
-@media (max-width: 576px) {
-  .member-info h4 {
-    font-size: 18px; /* Ajustar tamaño de la fuente para pantallas muy pequeñas */
-  }
-
-  .member-info p {
-    font-size: 14px; /* Ajustar el texto */
-  }
-}
