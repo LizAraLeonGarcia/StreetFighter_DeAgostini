@@ -3,12 +3,26 @@
   background-color: #000000;  /* Color de fondo del menú */
   color: #ffffff;
   font-family: 'Times New Roman', Times, serif;
+  padding: 10px 20px;
   font-size: 18px;  /* Tamaño de la fuente ajustado a 18px */
   display: flex;  /* Asegura que los elementos dentro del nav estén alineados */
   align-items: center;  /* Centra los elementos verticalmente */
-  justify-content: center; /* Centra los elementos horizontalmente */
+  justify-content: space-between;
+  align-items: center;
 }
 
+.navbarIMGizquierda, .navbarIMGderecha {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100px;
+  width: auto;  /* Ajusta el ancho máximo de las imágenes */
+}
+
+.navbarIMGizquierda img, .navbarIMGderecha img {
+  width: auto;  /* Hace que la imagen ocupe el ancho del contenedor */
+  height: 100%; /* Mantiene la relación de aspecto original */
+}
 /* Lista */
 .nav-list {
   list-style-type: none;  /* Eliminar los puntos de lista */

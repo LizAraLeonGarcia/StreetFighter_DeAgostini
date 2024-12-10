@@ -3,17 +3,39 @@
   background-color: #000000;  /* Fondo oscuro */
   color: #ffffff;  /* Texto blanco */
   text-align: center;  /* Centrar el texto */
-  padding: 20px 0;  /* Espaciado interno */
   border-top: 3px solid gold;  /* Línea verde arriba para resaltar */
   font-family: 'Times New Roman', Times, serif;
   font-size: 18px; /* Tamaño de fuente para todo el pie de página */
+  position: relative;
 }
-
+/* Flexbox para las columnas del pie de página */
+.footer-columnas {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap; /* Para que los elementos se acomoden en pantallas pequeñas */
+  gap: 20px; /* Espacio entre las columnas */
+  margin-top: 20px; /* Espacio entre el párrafo y las columnas */
+}
+.footerIMGizquierda,
+.footerIMGderecha {
+  flex: 1; /* Hace que las imágenes tomen un espacio proporcional */
+  max-width: 90px; /* Limita el tamaño máximo de las imágenes */
+  height: 100%; /* Ajusta la altura proporcionalmente */
+  margin: 0 10px; /* Espaciado entre las imágenes y otros elementos */
+  object-fit: cover;
+}
 /* Texto en el pie de página */
-.p {
-  margin: 0;  /* Eliminar márgenes predeterminados */
-  padding: 0;
-  font-size: 18px; /* Asegura que el texto en el pie de página esté a 20px */
+.footer-parrafo {
+  position: absolute; /* Posicionamiento absoluto */
+  top: 0; /* Coloca el párrafo en la parte superior del contenedor */
+  left: 50%;
+  transform: translateX(-50%); /* Centra el párrafo horizontalmente */
+  margin: 20px;
+  padding: 10px;
+  color: white; /* Texto blanco */
+  text-align: center; /* Centra el texto dentro del párrafo */
+  z-index: 10; /* Asegura que el párrafo esté encima de otros elementos */
 }
 
 /* Estilo para los iconos de redes sociales */
@@ -21,7 +43,7 @@
   display: flex; /* Alinea los elementos en línea */
   justify-content: center; /* Centra los elementos */
   gap: 20px; /* Espacio entre los iconos */
-  margin-top: 20px; /* Da espacio arriba */
+  margin-top: 40px; /* Da espacio arriba */
 }
 
 /* Estilo para los enlaces de redes sociales */
