@@ -3,7 +3,6 @@
   background-color: #000000;  /* Color de fondo del menú */
   color: #ffffff;
   font-family: 'Times New Roman', Times, serif;
-  padding: 10px 20px;
   font-size: 18px;  /* Tamaño de la fuente ajustado a 18px */
   display: flex;  /* Asegura que los elementos dentro del nav estén alineados */
   align-items: center;  /* Centra los elementos verticalmente */
