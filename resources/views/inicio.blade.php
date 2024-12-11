@@ -7,7 +7,7 @@
       <h2>En esta página te muestro mi colección de Street Fighter: Planeta DeAgostini & Altaya</h2>
       <h4>La saga que marcó el mundo gamer ahora también ha sacado la colección más amplia en cuanto al número de personajes...</h4>
     </div>
-    <div class="inicio">
+    <div class="inicio" id="inicio">
       <!-- Primera fila -->
       <div class="row mb-4">
         <div class="col-md-5">
@@ -42,7 +42,7 @@
           <img src="assets/img/inicio/inicioRyu.jpg" class="img-fluid" alt="Ryu entrega 1">
         </div>
         <div class="col-md-5">
-          <p>No obstante, antes de mostrarte dichas tablas, te explico qué podrás encontrar en mi página según la sección que escojas:</p>
+          <p>Ahora te explico qué podrás encontrar en mi página según la sección que escojas:</p>
           <ul>
             <li>Inicio</li>
               <p>Sección en la que te encuentras actualmente y en donde doy una breve descripción de esta coleción así como tablas con los personajes donde, lo más relevante son: su nombre, el número de entrega que fueron, la fecha en que salieron, su precio de venta al público</p>
