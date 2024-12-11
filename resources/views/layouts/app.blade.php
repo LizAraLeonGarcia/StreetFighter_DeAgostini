@@ -42,6 +42,7 @@
   <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
   <script src="{{ asset('js/navbar.js') }}"></script>
+  <script src="{{ asset('js/personajes.js') }}"></script>
   <script src="{{ asset('js/galeria.js') }}"></script>
 
 </body>

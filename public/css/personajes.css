@@ -56,27 +56,18 @@ h4 {
   margin-top: 10px;
   text-align: center; /* Centra la descripción */
 }
-/* Estilos para los botones de siguiente y anterior */
-.carousel-control-prev, .carousel-control-next {
-  background-color: rgba(0, 0, 0, 0.5); /* Fondo semitransparente */
-  border-radius: 50%; /* Bordes redondeados */
-  padding: 10px; /* Espaciado alrededor del ícono */
-  z-index: 1; /* Asegura que el botón esté sobre otros elementos */
-  display: flex; /* Alineación para los íconos */
-  justify-content: center;
-  align-items: center;
+
+#customPagination {
+  padding-left: 0; /* Elimina el padding izquierdo */
+  column-count: 3; /* Divide la lista en 2 columnas */
+  column-gap: 10px; /* Espacio entre las columnas */
 }
 
-/* Para los íconos predeterminados de Bootstrap (no necesitas agregar contenido con pseudoelementos) */
-.carousel-control-prev-icon, .carousel-control-next-icon {
-  background-color: white; /* Fondo blanco para los íconos */
-  width: 30px;
-  height: 30px;
-  border-radius: 50%; /* Hace los íconos circulares */
-  border: 2px solid #fff; /* Borde blanco alrededor del ícono */
+#customPagination li {
+  font-size: 18px;
+  padding: 5px 0;
 }
 
-/* Estado hover (cuando se pasa el ratón) */
-.carousel-control-prev:hover, .carousel-control-next:hover {
-  background-color: rgba(0, 0, 0, 0.7); /* Fondo más oscuro al hacer hover */
+#customPagination li:hover {
+  color: #007bff; /* Cambia el color al pasar el ratón */
 }
