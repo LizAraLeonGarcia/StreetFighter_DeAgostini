@@ -8,7 +8,14 @@
     <div class="row listado-de-entregas">
       <!-- Columna izquierda -->
       <div class="col-md-3">
-        <p>izquierdo</p>
+        <img src="{{ asset('assets/img/listado-de-entregas/ryu.png') }}" alt="Ryu" class="img-fluid">
+        <img src="{{ asset('assets/img/listado-de-entregas/vega.png') }}" alt="Vega" class="img-fluid">
+        <img src="{{ asset('assets/img/listado-de-entregas/abigail.png') }}" alt="Abigail" class="img-fluid">
+        <img src="{{ asset('assets/img/listado-de-entregas/guile.png') }}" alt="Guile" class="img-fluid">
+        <img src="{{ asset('assets/img/listado-de-entregas/cammy.png') }}" alt="Cammy" class="img-fluid">
+        <img src="{{ asset('assets/img/listado-de-entregas/juri.png') }}" alt="Juri" class="img-fluid">
+        <img src="{{ asset('assets/img/listado-de-entregas/dhalsim.png') }}" alt="Dhalsim" class="img-fluid">
+        <img src="{{ asset('assets/img/listado-de-entregas/ehonda.png') }}" alt="E. Honda" class="img-fluid">
       </div>
       <!-- Columna central (donde estará la tabla) -->
       <div class="col-md-6">
@@ -480,7 +487,14 @@
       </div>
       <!-- Columna derecha -->
       <div class="col-md-3">
-        <p>Contenido derecho</p>
+        <img src="{{ asset('assets/img/listado-de-entregas/ken.png') }}" alt="Ken" class="img-fluid">
+        <img src="{{ asset('assets/img/listado-de-entregas/zeku.png') }}" alt="Zeku" class="img-fluid">
+        <img src="{{ asset('assets/img/listado-de-entregas/gill.png') }}" alt="Gill" class="img-fluid">
+        <img src="{{ asset('assets/img/listado-de-entregas/charlienash.png') }}" alt="Charlie Nash" class="img-fluid">
+        <img src="{{ asset('assets/img/listado-de-entregas/falke.png') }}" alt="Falke" class="img-fluid">
+        <img src="{{ asset('assets/img/listado-de-entregas/poison.png') }}" alt="Poison" class="img-fluid">
+        <img src="{{ asset('assets/img/listado-de-entregas/kage.png') }}" alt="Kage" class="img-fluid">
+        <img src="{{ asset('assets/img/listado-de-entregas/rashid.png') }}" alt="Rashid" class="img-fluid">
       </div>
     </div>
   </div>
