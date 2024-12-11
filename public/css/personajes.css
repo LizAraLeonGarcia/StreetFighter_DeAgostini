@@ -1,75 +1,31 @@
 .personajes {
-    padding: 0 15px;
+  padding: 0 15px;
+  min-height: 100vh; /* Asegura que el contenedor ocupe al menos la altura de la pantalla */
+  flex-direction: column; /* Alineamos los elementos en columna */
+  justify-content: center; /* Centra los elementos horizontalmente */
+  align-items: center; /* Centra los elementos verticalmente */
+  overflow: hidden; /* Evita que el contenido se desborde */
 }
-
-/* Estilo para los elementos del carrusel */
-.carousel-inner {
-  width: 60%; /* Asegura que el carrusel ocupe todo el ancho disponible */
-  display: flex;
-  justify-content: center; /* Centra los items del carrusel */
-  align-items: center;
-  flex-wrap: wrap; /* Permite que los items se ajusten si el espacio es pequeño */
-  margin: 0 auto; /* Centra el contenedor de las imágenes */
-  border: 2px solid red; /* Agrega borde temporal para verificar el contenedor */
-  padding: 0; /* Elimina cualquier padding */
-}
-#characterCarousel {
-  height: 100%; /* 100% del alto de la pantalla */
-  display: flex;
-  flex-direction: column;
-}
-/* Estilo de los items del carrusel */
-.carousel-item {
-  display: flex;
-  justify-content: center; /* Centra las imágenes y el texto */
-  align-items: center;
-  text-align: center;
-  width: 100%; /* Hace que cada item ocupe todo el ancho disponible en el carrusel */
-}
-/* Asegura que las imágenes dentro del carrusel sean proporcionales */
-.carousel-item img {
-  width: 100%; /* La imagen ocupará todo el ancho disponible */
-  height: 100%; /* La imagen ocupará todo el alto disponible */
-  object-fit: cover; /* La imagen se recortará y ajustará para cubrir el contenedor sin deformarse */
-}
-/* Estilo de cada personaje dentro del carrusel */
-.character-item {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  max-width: 300px; /* Limita el tamaño del contenedor */
-  margin: 0 10px; /* Da espacio entre los items */
-  text-align: center; /* Asegura que el texto dentro de los elementos también esté centrado */
-}
-
-/* Estilo de las imágenes */
-.character-img {
-  width: 100%; /* Ajusta la imagen al 100% del ancho de su contenedor */
-  max-width: 250px; /* Limita el tamaño máximo de la imagen */
-  height: auto; /* Mantiene la proporción */
-  border-radius: 10px;
-}
-
 /* Títulos */
 h4 {
   margin-top: 10px;
-  font-size: 20px;
-  color: #333;
+  margin-bottom: 10px;
+  font-size: 18px;
+  color: #000000;
   text-align: center; /* Asegura que el título esté centrado */
 }
-
 /* Descripción */
 .description {
-  font-size: 14px;
-  color: #555;
+  font-size: 15px;
+  color: #000000;
   margin-top: 10px;
   text-align: center; /* Centra la descripción */
 }
-
+/* Estilo de la paginación */
 #customPagination {
-  column-count: 3; /* Divide la lista en 2 columnas */
+  column-count: 3; /* Divide la lista en 3 columnas */
   column-gap: 10px; /* Espacio entre las columnas */
+  overflow: hidden; /* Evita que la lista se desborde */
 }
 
 #customPagination li {
