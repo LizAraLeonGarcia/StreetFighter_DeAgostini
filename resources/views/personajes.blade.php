@@ -225,7 +225,7 @@
                     <img src="assets/img/personajes/15.jpg" class="character-img img-fluid" alt="Gill">
                   </a>
                   <h4>Gill</h4>
-                  <p class="description">.</p>
+                  <p class="description">Gill es posiblemente el ser más poderoso de todo el planeta. Se considera a sí mismo un mesías destinado a guiar a la humanidad hacia una nueva era, y usa los recursos inextinguibles de la Sociedad Secreta que lidera para conseguirlo.</p>
                 </div>
               </div>
               <div class="carousel-item">
@@ -288,7 +288,7 @@
                     <img src="assets/img/personajes/22.jpg" class="character-img img-fluid" alt="Necalli">
                   </a>
                   <h4>Necalli</h4>
-                  <p class="description">.</p>
+                  <p class="description">Este poderoso ser, constantemente rodeado de una sustancia tóxica, se manifiesta para devorar las almas de los guerreros más poderosos en tiempos de crisis.</p>
                 </div>
               </div>
               <div class="carousel-item">
@@ -315,7 +315,7 @@
                     <img src="assets/img/personajes/25.jpg" class="character-img img-fluid" alt="Q">
                   </a>
                   <h4>Q</h4>
-                  <p class="description">.</p>
+                  <p class="description">Nadie sabe quién se esconde tras la máscara del individuo conocido únicamente como Q, ni cuáles son sus intenciones. El misterioso sujeto aparece y desaparece a placer en los momenos y lugares más inverosímiles, y su estilo de lucha es completamente heterodoxo.</p>
                 </div>
               </div>
               <div class="carousel-item">
@@ -641,7 +641,7 @@
                     <img src="assets/img/personajes/61.jpg" class="character-img img-fluid" alt="F.A.N.G">
                   </a>
                   <h4>F.A.N.G</h4>
-                  <p class="description">.</p>
+                  <p class="description">Entrenado desde la infancia como un asesino experto en todo tipo de venenos, F.A.N.G ascendió rápidamente en el escalafón de Shadaloo hasta entrar en la cúpula de los Cuatro Reyes de la organización criminal.</p>
                 </div>
               </div>
               <div class="carousel-item">
@@ -677,7 +677,7 @@
                     <img src="assets/img/personajes/65.jpg" class="character-img img-fluid" alt="Kolin">
                   </a>
                   <h4>Kolin</h4>
-                  <p class="description">.</p>
+                  <p class="description">Cuando la misteriosa Sociedad Secreta decreta la destrucción de Shadaloo, Kolin se convierte en el brazo ejecutor de la sentencia, y no se detendrá hasta que la organización criminal acabe reducida a cenizas.</p>
                 </div>
               </div>
               <div class="carousel-item">     
@@ -713,7 +713,7 @@
                     <img src="assets/img/personajes/69.jpg" class="character-img img-fluid" alt="Twelve">
                   </a>
                   <h4>Twelve</h4>
-                  <p class="description">.</p>
+                  <p class="description">La Sociedad Secreta ha aprovechado los avances de la humanidad en su propio beneficio. En la era moderna, la ingeniería genética es uno de sus principales campos de investigación.</p>
                 </div>
               </div>
               <div class="carousel-item">
@@ -740,7 +740,7 @@
                     <img src="assets/img/personajes/72.jpg" class="character-img img-fluid" alt="Juli">
                   </a>
                   <h4>Juli</h4>
-                  <p class="description">.</p>
+                  <p class="description">Juli era una integrante destacada de la unidad Doll. Como el resto de sus compañeras, había sido secuestrada y adoctrinada por Shadaloo para servir bajo las órdenes directas de M. Bison, líder de la organización criminal.</p>
                 </div>
               </div>
               <div class="carousel-item">
@@ -749,7 +749,7 @@
                     <img src="assets/img/personajes/73.jpg" class="character-img img-fluid" alt="Yun">
                   </a>
                   <h4>Yun</h4>
-                  <p class="description">.</p>
+                  <p class="description">Yun es el mayor de los dos gemelos Lee. Tiene un carácter enérgico y extrovertido, y suele ser impulsivo a la hora de tomar decisiones, pero siempre lo hace motivado por lo que cree que es el bien para su comunidad y con la intención de ayudar al prójimo.</p>
                 </div>
               </div>
               <div class="carousel-item">
@@ -758,7 +758,7 @@
                     <img src="assets/img/personajes/74.jpg" class="character-img img-fluid" alt="Yang">
                   </a>
                   <h4>Yang</h4>
-                  <p class="description">.</p>
+                  <p class="description">Yang es el menor de los dos hermanos Lee. Ambos no solo residen en Hong Kong, sino que son miembros respetados de su comunidad. Tiene un fuerte sentido del honor que le lleva a lidiar en disputas locales y combatir injusticias allá donde se presenten.</p>
                 </div>
               </div>
               <div class="carousel-item">
@@ -767,7 +767,7 @@
                     <img src="assets/img/personajes/75.jpg" class="character-img img-fluid" alt="Abel">
                   </a>
                   <h4>Abel</h4>
-                  <p class="description">.</p>
+                  <p class="description">Abel era un luchador experto en judo, pero su pasado era un misterio incluso para sí mismo. Sufría alguna clase de amnesia que le impedía recordar detalle alguno de su niñez o juventud. Decidido a buscar respuestas, acabó emprendiendo un viaje revelador.</p>
                 </div>
               </div>
             </div>
