@@ -335,7 +335,7 @@
               </div>
               <div class="member-info">
                 <h4>Oni</h4>
-                <p>El mayor poseedor del Satsui No Hado.</p>
+                <p>El resultado de cuando por fin Akuma se ha vuelto en uno solo con el Satsui No Hado.</p>
               </div>
             </div>
           </div>
@@ -786,7 +786,7 @@
               </div>
               <div class="member-info">
                 <h4>Juni</h4>
-                <p>La sexta doll de Shadaloo.</p>
+                <p>Una doll destacada por su agilidad y velocidad.</p>
               </div>
             </div>
           </div>
@@ -797,7 +797,40 @@
               </div>
               <div class="member-info">
                 <h4>Juli</h4>
-                <p>La séptima doll de Shadaloo.</p>
+                <p>Una doll involucrada en misiones de eliminación y ataque.</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch">
+            <div class="team-member">
+              <div class="member-img">
+                <img src="assets/img/figuras/73.jpg" class="img-fluid" alt="Yun">
+              </div>
+              <div class="member-info">
+                <h4>Yun</h4>
+                <p>Un jóven experto en artes marciales chinas.</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch">
+            <div class="team-member">
+              <div class="member-img">
+                <img src="assets/img/figuras/74.jpg" class="img-fluid" alt="Yang">
+              </div>
+              <div class="member-info">
+                <h4>Yang</h4>
+                <p>Un luchador rápido como el viento.</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch">
+            <div class="team-member">
+              <div class="member-img">
+                <img src="assets/img/figuras/75.jpg" class="img-fluid" alt="Abel">
+              </div>
+              <div class="member-info">
+                <h4>Abel</h4>
+                <p>Un luchador de gran corazón y misterioso pasado.</p>
               </div>
             </div>
           </div>
