@@ -1,6 +1,7 @@
 .personajes {
     padding: 0 15px;
 }
+
 /* Estilo para los elementos del carrusel */
 .carousel-inner {
   width: 60%; /* Asegura que el carrusel ocupe todo el ancho disponible */
@@ -12,7 +13,11 @@
   border: 2px solid red; /* Agrega borde temporal para verificar el contenedor */
   padding: 0; /* Elimina cualquier padding */
 }
-
+#characterCarousel {
+  height: 100%; /* 100% del alto de la pantalla */
+  display: flex;
+  flex-direction: column;
+}
 /* Estilo de los items del carrusel */
 .carousel-item {
   display: flex;
@@ -21,7 +26,12 @@
   text-align: center;
   width: 100%; /* Hace que cada item ocupe todo el ancho disponible en el carrusel */
 }
-
+/* Asegura que las imágenes dentro del carrusel sean proporcionales */
+.carousel-item img {
+  width: 100%; /* La imagen ocupará todo el ancho disponible */
+  height: 100%; /* La imagen ocupará todo el alto disponible */
+  object-fit: cover; /* La imagen se recortará y ajustará para cubrir el contenedor sin deformarse */
+}
 /* Estilo de cada personaje dentro del carrusel */
 .character-item {
   display: flex;
@@ -58,7 +68,6 @@ h4 {
 }
 
 #customPagination {
-  padding-left: 0; /* Elimina el padding izquierdo */
   column-count: 3; /* Divide la lista en 2 columnas */
   column-gap: 10px; /* Espacio entre las columnas */
 }

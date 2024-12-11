@@ -221,13 +221,22 @@
               </div>
               <div class="carousel-item">
                 <div class="character-item">
+                  <a href="assets/img/personajes/15.jpg" class="glightbox">
+                    <img src="assets/img/personajes/15.jpg" class="character-img img-fluid" alt="Gill">
+                  </a>
+                  <h4>Gill</h4>
+                  <p class="description">.</p>
+                </div>
+              </div>
+              <div class="carousel-item">
+                <div class="character-item">
                   <a href="assets/img/personajes/16.jpg" class="glightbox">
                     <img src="assets/img/personajes/16.jpg" class="character-img img-fluid" alt="Sagat">
                   </a>
                   <h4>Sagat</h4>
                   <p class="description">Considerado un héroe nacional en su país, las ansias de venganza de Sagat lo empujaron a convertirse en uno de los líderes de la organización criminal internacional Shadaloo. Solo el tiempo le hizo ser consciente del error de esta decisión.</p>
                 </div>
-                </div>
+              </div>
               <div class="carousel-item">
                 <div class="character-item">
                   <a href="assets/img/personajes/17.jpg" class="glightbox">
@@ -275,6 +284,15 @@
               </div>
               <div class="carousel-item">
                 <div class="character-item">
+                  <a href="assets/img/personajes/22.jpg" class="glightbox">
+                    <img src="assets/img/personajes/22.jpg" class="character-img img-fluid" alt="Necalli">
+                  </a>
+                  <h4>Necalli</h4>
+                  <p class="description">.</p>
+                </div>
+              </div>
+              <div class="carousel-item">
+                <div class="character-item">
                   <a href="assets/img/personajes/23.jpg" class="glightbox">
                     <img src="assets/img/personajes/23.jpg" class="character-img img-fluid" alt="Remy">
                   </a>
@@ -289,6 +307,15 @@
                   </a>
                   <h4>Zeku</h4>
                   <p class="description">Zeku era el líder número 38 del clan de ninjas Bushinryu, hasta que su pupilo, Guy, le sucedió en el cargo. Entonces decidió comenzar un viaje de redescubrimiento personal que le llevó a encontrar un nuevo propósito vital.</p>
+                </div>
+              </div>
+              <div class="carousel-item">
+                <div class="character-item">
+                  <a href="assets/img/personajes/25.jpg" class="glightbox">
+                    <img src="assets/img/personajes/25.jpg" class="character-img img-fluid" alt="Q">
+                  </a>
+                  <h4>Q</h4>
+                  <p class="description">.</p>
                 </div>
               </div>
               <div class="carousel-item">
@@ -610,6 +637,15 @@
               </div>
               <div class="carousel-item">
                 <div class="character-item">
+                  <a href="assets/img/personajes/61.jpg" class="glightbox">
+                    <img src="assets/img/personajes/61.jpg" class="character-img img-fluid" alt="F.A.N.G">
+                  </a>
+                  <h4>F.A.N.G</h4>
+                  <p class="description">.</p>
+                </div>
+              </div>
+              <div class="carousel-item">
+                <div class="character-item">
                   <a href="assets/img/personajes/62.jpg" class="glightbox">
                     <img src="assets/img/personajes/62.jpg" class="character-img img-fluid" alt="Oro">
                   </a>
@@ -634,6 +670,15 @@
                   <h4>Laura</h4>
                   <p class="description">Como heredera del estilo Matsuda Jiu-Jitsu, Laura acostumbraba a ponerse a prueba midiéndose contra los mejores luchadores a su alcance. Eso le llevó a forjar grandes amistades, pero también a ser objetivo de adversarios muy peligrosos.</p>
                 </div> 
+              </div>
+              <div class="carousel-item">
+                <div class="character-item">
+                  <a href="assets/img/personajes/65.jpg" class="glightbox">
+                    <img src="assets/img/personajes/65.jpg" class="character-img img-fluid" alt="Kolin">
+                  </a>
+                  <h4>Kolin</h4>
+                  <p class="description">.</p>
+                </div>
               </div>
               <div class="carousel-item">     
                 <div class="character-item">
@@ -664,6 +709,15 @@
               </div>
               <div class="carousel-item">
                 <div class="character-item">
+                  <a href="assets/img/personajes/69.jpg" class="glightbox">
+                    <img src="assets/img/personajes/69.jpg" class="character-img img-fluid" alt="Twelve">
+                  </a>
+                  <h4>Twelve</h4>
+                  <p class="description">.</p>
+                </div>
+              </div>
+              <div class="carousel-item">
+                <div class="character-item">
                   <a href="assets/img/personajes/70.jpg" class="glightbox">
                     <img src="assets/img/personajes/70.jpg" class="character-img img-fluid" alt="Necro">
                   </a>
@@ -678,6 +732,42 @@
                   </a>
                   <h4>Juni</h4>
                   <p class="description">Juni ejercía de asesina y guardaespaldas para M. Bison, el líder de la organización criminal Shadaloo. La devoción y entrega de la joven a los designios de su líder era incondicional, aunque no siempre había sido así.</p>
+                </div>
+              </div>
+              <div class="carousel-item">
+                <div class="character-item">
+                  <a href="assets/img/personajes/72.jpg" class="glightbox">
+                    <img src="assets/img/personajes/72.jpg" class="character-img img-fluid" alt="Juli">
+                  </a>
+                  <h4>Juli</h4>
+                  <p class="description">.</p>
+                </div>
+              </div>
+              <div class="carousel-item">
+                <div class="character-item">
+                  <a href="assets/img/personajes/73.jpg" class="glightbox">
+                    <img src="assets/img/personajes/73.jpg" class="character-img img-fluid" alt="Yun">
+                  </a>
+                  <h4>Yun</h4>
+                  <p class="description">.</p>
+                </div>
+              </div>
+              <div class="carousel-item">
+                <div class="character-item">
+                  <a href="assets/img/personajes/74.jpg" class="glightbox">
+                    <img src="assets/img/personajes/74.jpg" class="character-img img-fluid" alt="Yang">
+                  </a>
+                  <h4>Yang</h4>
+                  <p class="description">.</p>
+                </div>
+              </div>
+              <div class="carousel-item">
+                <div class="character-item">
+                  <a href="assets/img/personajes/75.jpg" class="glightbox">
+                    <img src="assets/img/personajes/75.jpg" class="character-img img-fluid" alt="Abel">
+                  </a>
+                  <h4>Abel</h4>
+                  <p class="description">.</p>
                 </div>
               </div>
             </div>
