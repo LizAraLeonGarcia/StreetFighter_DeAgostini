@@ -801,6 +801,39 @@
               </div>
             </div>
           </div>
+          <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch">
+            <div class="team-member">
+              <div class="member-img">
+                <img src="assets/img/revistas/73.jpg" class="img-fluid" alt="Yun">
+              </div>
+              <div class="member-info">
+                <h4>Yun</h4>
+                <p>.</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch">
+            <div class="team-member">
+              <div class="member-img">
+                <img src="assets/img/revistas/74.jpg" class="img-fluid" alt="Yang">
+              </div>
+              <div class="member-info">
+                <h4>Yang</h4>
+                <p>.</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch">
+            <div class="team-member">
+              <div class="member-img">
+                <img src="assets/img/revistas/75.jpg" class="img-fluid" alt="Abel">
+              </div>
+              <div class="member-info">
+                <h4>Abel</h4>
+                <p>.</p>
+              </div>
+            </div>
+          </div>
       </div>
     </div>
   </div> 

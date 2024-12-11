@@ -90,7 +90,7 @@
           </ol>
         </div>
         <div class="col-md-6">
-          <div id="characterCarousel" class="carousel slide" data-bs-ride="carousel">
+          <div id="characterCarousel" class="carousel slide" data-bs-ride="carousel" data-bs-interval="7000">
             <div class="carousel-inner">
               <div class="carousel-item active">
                 <div class="character-item">

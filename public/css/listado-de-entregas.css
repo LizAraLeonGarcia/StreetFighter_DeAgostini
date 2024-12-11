@@ -7,10 +7,9 @@
     vertical-align: middle;
     padding: 15px;
 }
-
 /* Colores alternos en las filas */
 .table-striped tbody tr:nth-of-type(odd) {
-    background-color: #f8f9fa;
+    background-color: #fcfcfc;
 }
 
 /* Efecto al pasar el mouse */
@@ -30,7 +29,7 @@
 
 /* Fondo oscuro para el encabezado */
 .thead-dark {
-    background-color: #343a40;
+    background-color: #3a3a3a;
     color: white;
 }
 
