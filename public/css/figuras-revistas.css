@@ -1,9 +1,8 @@
-
 .figuras, .revistas
 {
   padding: 0 20px;
 }
-/* Contenedor de los miembros */
+/* ******************************************************** Contenedor de personajes ******************************************************** */
 .team-container {
   display: flex;
   flex-wrap: wrap; /* Permite que los elementos se ajusten a nuevas filas */
@@ -11,7 +10,7 @@
   justify-content: space-between; /* Asegura que los elementos se distribuyan de manera uniforme */
   align-items: flex-start; /* Alinea los elementos al inicio de la fila */
 }
-/* Contenedor de la sección, asegurando un fondo claro y padding adecuado */
+/* *********************************************************** Contenedor sección *********************************************************** */
 .team-member {
   background-color: #c1c6ca; /* Fondo claro para cada elemento */
   overflow: hidden; /* Para asegurar que las imágenes no se desborden */
@@ -21,14 +20,14 @@
   flex-direction: column; /* Orden de los elementos: imagen arriba, texto abajo */
   height: 100%; /* Asegura que todos los elementos tengan el mismo tamaño */
 }
-/* Estilización de las imágenes */
+/* ******************************************************** Estilización de imágenes ******************************************************** */
 .member-img img {
   width: 100%; /* La imagen toma el 100% del contenedor */
   height: auto; /* Altura fija para las imágenes */
   object-fit: cover; /* Mantiene la proporción de la imagen sin deformarla */
   border-bottom: 2px solid #ddd; /* Línea divisoria entre imagen y texto */
 }
-/* Estilo para la información del miembro */
+/* **************************************************** Para la información de personaje **************************************************** */
 .member-info {
   padding: 15px;
   text-align: center; /* Centrar el texto */
@@ -47,9 +46,12 @@
   line-height: 1.5; /* Espaciado entre las líneas */
 }
 
-/* Efecto al pasar el mouse */
+/* ----------------------------------------------------------------------------------------------------------------- Efecto al pasar el mouse */
 .team-member:hover {
   transform: translateY(-10px); /* Eleva ligeramente el elemento */
   box-shadow: 0 20px 20px rgba(0, 0, 0, 0.15); /* Sombra más prominente */
 }
-/* Responsividad */
+/* ************************************************************* RESPONSIVIDAD ************************************************************* */
+/* ------------------------------------------------------------------------------------------------------------------------ Pantallas grandes */
+/* ----------------------------------------------------------------------------------------------------------------------- Pantallas medianas */
+/* ----------------------------------------------------------------------------------------------------------------------- Pantallas pequeñas */
