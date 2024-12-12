@@ -7,7 +7,7 @@
   padding-bottom: 60px; 
   overflow: hidden;
 }
-/* ********************************************** Estilo adicional para mejorar la visibilidad ********************************************** */
+/* ******************************************************** Para mejorar visibilidad ******************************************************** */
 .swiper-slide {
   max-width: 100%;
   height: 100%;
@@ -31,7 +31,7 @@
   transform: translateX(-50%);
   z-index: 10; /* Asegurarse de que la paginación está encima de las imágenes */
 }
-/* ----------------------------------------------------------------------------------------------------------------- Puntos de la paginación */
+/* ------------------------------------------------------------------------------------------------------------------ Puntos de la paginación */
 .swiper-pagination-bullet {
   background-color: rgba(255, 255, 255, 0.7); /* Color semi-transparente para los puntos */
   width: 12px;
@@ -40,12 +40,12 @@
   border-radius: 50%;
   transition: background-color 0.3s ease;
 }
-/* ----------------------------------------------------------------------------------------------------- Cambiar color de los puntos activos */
+/* ------------------------------------------------------------------------------------------------------ Cambiar color de los puntos activos */
 .swiper-pagination-bullet-active {
   background-color: #37b106 !important;
   transform: scale(1.2); /* Agrandar ligeramente el punto activo para darle énfasis */
 }
-/* Botones de navegación */
+/* *********************************************************** Botones navegación *********************************************************** */
 .swiper-button-next, .swiper-button-prev {
   width: 40px;
   height: 40px;
@@ -56,20 +56,20 @@
   background-color: #0f1897; /* Fondo azul fuerte */
   transition: background-color 0.3s, color 0.3s; /* Suavizar el cambio de fondo y color */
 }
-/* Flechas */
+/* ---------------------------------------------------------------------------------------------------------------------------------- Flechas */
 .swiper-button-next:after, .swiper-button-prev:after {
   font-size: 20px; /* Ajustar tamaño de las flechas */
-  color: gold;
+  color: gold; /* Color dorado */
 }
-/* Estado hover (cuando se pasa el ratón) */
+/* --------------------------------------------------------------------------------------------------- Estado hover (cuando se pasa el ratón) */
 .swiper-button-next:hover, .swiper-button-prev:hover {
-  background-color: #e63bad; /* Fondo azul cielo */
+  background-color: #e63bad; /* Fondo rosa */
 }
-/* Color de las flechas se mantiene */
+/* --------------------------------------------------------------------------------------------------------- Color de las flechas se mantiene */
 .swiper-button-next:hover:after, .swiper-button-prev:hover:after {
   color: gold;
 }
 /* ************************************************************* RESPONSIVIDAD ************************************************************* */
-/* Pantallas grandes */
-/* Pantallas medianas */
-/* Pantallas pequeñas */
+/* ------------------------------------------------------------------------------------------------------------------------ Pantallas grandes */
+/* ----------------------------------------------------------------------------------------------------------------------- Pantallas medianas */
+/* ----------------------------------------------------------------------------------------------------------------------- Pantallas pequeñas */

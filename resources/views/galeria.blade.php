@@ -2,9 +2,11 @@
 
 @section('content')
   <div class="container-fluid">
+    <!-- ------------------------------------------------------ contendor para título ------------------------------------------------------ -->
     <div class="section-title">
       <h3>Checa los pósters que incluye la colección</h3>
     </div>
+    <!-- ----------------------------------------------------- contenedor para galería ----------------------------------------------------- -->
     <div class="galeria">
       <div class="swiper-container">
         <div class="swiper-wrapper">
@@ -81,9 +83,9 @@
             <div class="swiper-slide"><a class="glightbox" data-galeria="images-galeria" href="assets/img/galeria/71.jpg"><img src="assets/img/galeria/71.jpg" class="img-fluid" alt="Juni"></a></div>
           <!--  <div class="swiper-slide"><a class="glightbox" data-galeria="images-galeria" href="assets/img/galeria/72.jpg"><img src="assets/img/galeria/72.jpg" class="img-fluid" alt="Juli"></a></div>  -->
         </div>
-        <div class="swiper-button-next"></div>
-        <div class="swiper-button-prev"></div>
-        <div class="swiper-pagination"></div>
+        <div class="swiper-button-next"></div> <!-- botón para siguiente -->
+        <div class="swiper-button-prev"></div> <!-- botón para previo -->
+        <div class="swiper-pagination"></div>  <!-- botón para paginación -->
       </div>
     </div>
   </div>
