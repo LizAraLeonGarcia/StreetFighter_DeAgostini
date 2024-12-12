@@ -2,11 +2,13 @@
 
 @section('content')
   <div class="container-fluid">
+    <!-- ------------------------------------------------------ contendor para título ------------------------------------------------------ -->
     <div class="section-title">
       <h3>Descubre a los personajes de la colección</h3>
     </div>
+    <!-- ----------------------------------------------- contenedor para listado de entregas ----------------------------------------------- -->
     <div class="row listado-de-entregas">
-      <!-- Columna izquierda -->
+      <!-- ------------------------------------------------------- Columna izquierda ------------------------------------------------------- -->
       <div class="col-md-3">
         <img src="{{ asset('assets/img/listado-de-entregas/ryu.png') }}" alt="Ryu" class="img-fluid">
         <img src="{{ asset('assets/img/listado-de-entregas/vega.png') }}" alt="Vega" class="img-fluid">
@@ -17,7 +19,7 @@
         <img src="{{ asset('assets/img/listado-de-entregas/dhalsim.png') }}" alt="Dhalsim" class="img-fluid">
         <img src="{{ asset('assets/img/listado-de-entregas/ehonda.png') }}" alt="E. Honda" class="img-fluid">
       </div>
-      <!-- Columna central (donde estará la tabla) -->
+      <!-- ---------------------------------------------------- Columna central (tabla) ---------------------------------------------------- -->
       <div class="col-md-6">
         <div class="table-responsive">
           <table class="table table-bordered table-striped table-hover table-sm shadow-lg">
@@ -485,7 +487,7 @@
           </table>
         </div>
       </div>
-      <!-- Columna derecha -->
+      <!-- -------------------------------------------------------- Columna derecha -------------------------------------------------------- -->
       <div class="col-md-3">
         <img src="{{ asset('assets/img/listado-de-entregas/ken.png') }}" alt="Ken" class="img-fluid">
         <img src="{{ asset('assets/img/listado-de-entregas/zeku.png') }}" alt="Zeku" class="img-fluid">

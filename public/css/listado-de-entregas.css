@@ -1,24 +1,24 @@
 .listado-de-entregas {
     padding: 0 10px;
 }
-/* Personalización de la tabla */
+/* *********************************************************** Personalizar tabla *********************************************************** */
 .table th, .table td {
     text-align: center;
     vertical-align: middle;
     padding: 15px;
 }
-/* Colores alternos en las filas */
+/* ********************************************************* Colores alternos filas ********************************************************* */
 .table-striped tbody tr:nth-of-type(odd) {
     background-color: #fcfcfc;
 }
 
-/* Efecto al pasar el mouse */
+/* ----------------------------------------------------------------------------------------------------------------- Efecto al pasar el mouse */
 .table-hover tbody tr:hover {
     background-color: #f1f1f1;
     cursor: pointer;
 }
 
-/* Bordes más sutiles */
+/* *********************************************************** Bordes más sutiles *********************************************************** */
 .table-bordered {
     border: 1px solid #ddd;
 }
@@ -27,18 +27,22 @@
     border: 1px solid #ddd;
 }
 
-/* Fondo oscuro para el encabezado */
+/* ****************************************************** Fondo oscuro para encabezado ****************************************************** */
 .thead-dark {
     background-color: #3a3a3a;
     color: white;
 }
 
-/* Sombra alrededor de la tabla */
+/* ****************************************************** Sombra alrededor de la tabla ****************************************************** */
 .table {
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
 
-/* Ajustar la tabla para pantallas pequeñas */
+/* ************************************************ Ajustar la tabla para pantallas pequeñas ************************************************ */
 .table-responsive {
     overflow-x: auto;
 }
+/* ************************************************************* RESPONSIVIDAD ************************************************************* */
+/* ------------------------------------------------------------------------------------------------------------------------ Pantallas grandes */
+/* ----------------------------------------------------------------------------------------------------------------------- Pantallas medianas */
+/* ----------------------------------------------------------------------------------------------------------------------- Pantallas pequeñas */
