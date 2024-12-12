@@ -2,13 +2,16 @@
 
 @section('content')
   <div class="container-fluid">
+    <!-- ------------------------------------------------------ contendor para título ------------------------------------------------------ -->
     <div class="section-title">
       <h3>Explora los fascículos que incluye la colección</h3>
     </div>
+    <!-- ----------------------------------------------------- contenedor para revista ----------------------------------------------------- -->
     <div class="revistas">
+      <!-- ------------------------------------------------------ contenedor personajes ---------------------------------------------------- -->
       <div class="row team-container">
         <!-- ----------------------------------------------------------------------------------------------------------------- mis favoritas -->
-          <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch">
+          <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch"> <!-- .................................................... Chun Li -->
             <div class="team-member">
               <div class="member-img">
                 <img src="assets/img/revistas/1.jpg" class="img-fluid" alt="Chun Li">
@@ -19,7 +22,7 @@
               </div>
             </div>
           </div>
-          <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch">
+          <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch"> <!-- ...................................................... Akira -->
             <div class="team-member">
               <div class="member-img">
                 <img src="assets/img/revistas/2.jpg" class="img-fluid" alt="Akira">
@@ -30,7 +33,7 @@
               </div>
             </div>
           </div>
-          <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch">
+          <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch"> <!-- ..................................................... Poison -->
             <div class="team-member">
               <div class="member-img">
                 <img src="assets/img/revistas/3.jpg" class="img-fluid" alt="Poison">
@@ -41,7 +44,7 @@
               </div>
             </div>
           </div>
-          <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch">
+          <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch"> <!-- ............................................... Rainbow Mika -->
             <div class="team-member">
               <div class="member-img">
                 <img src="assets/img/revistas/4.jpg" class="img-fluid" alt="Rainbow Mika">
@@ -52,7 +55,7 @@
               </div>
             </div>
           </div>
-          <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch">
+          <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch"> <!-- ...................................................... Menat -->
             <div class="team-member">
               <div class="member-img">
                 <img src="assets/img/revistas/5.jpg" class="img-fluid" alt="Menat">
@@ -63,7 +66,7 @@
               </div>
             </div>
           </div>
-          <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch">
+          <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch"> <!-- ....................................................... Juri -->
             <div class="team-member">
               <div class="member-img">
                 <img src="assets/img/revistas/6.jpg" class="img-fluid" alt="Juri">
@@ -74,7 +77,7 @@
               </div>
             </div>
           </div>
-          <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch">
+          <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch"> <!-- ....................................................... Rose -->
             <div class="team-member">
               <div class="member-img">
                 <img src="assets/img/revistas/7.jpg" class="img-fluid" alt="Rose">
@@ -85,7 +88,7 @@
               </div>
             </div>
           </div>
-          <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch">
+          <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch"> <!-- ...................................................... Ibuki -->
             <div class="team-member">
               <div class="member-img">
                 <img src="assets/img/revistas/8.jpg" class="img-fluid" alt="Ibuki">
@@ -96,7 +99,7 @@
               </div>
             </div>
           </div>
-          <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch">
+          <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch"> <!-- ...................................................... Falke -->
             <div class="team-member">
               <div class="member-img">
                 <img src="assets/img/revistas/9.jpg" class="img-fluid" alt="Falke">
@@ -107,7 +110,7 @@
               </div>
             </div>
           </div>
-          <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch">
+          <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch"> <!-- .............................................. Crimson Viper -->
             <div class="team-member">
               <div class="member-img">
                 <img src="assets/img/revistas/10.jpg" class="img-fluid" alt="Crimson Viper">
@@ -118,7 +121,7 @@
               </div>
             </div>
           </div>
-          <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch">
+          <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch"> <!-- ...................................................... Karin -->
             <div class="team-member">
               <div class="member-img">
                 <img src="assets/img/revistas/11.jpg" class="img-fluid" alt="Karin">
@@ -130,7 +133,7 @@
             </div>
           </div>
           <!-- --------------------------------------------------------------------------------------------------------------- mis favoritos -->
-          <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch">
+          <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch"> <!-- ....................................................... Vega -->
             <div class="team-member">
               <div class="member-img">
                 <img src="assets/img/revistas/12.jpg" class="img-fluid" alt="Vega">
@@ -141,7 +144,7 @@
               </div>
             </div>
           </div>
-          <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch">
+          <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch"> <!-- ........................................................ Ryu -->
             <div class="team-member">
               <div class="member-img">
                 <img src="assets/img/revistas/13.jpg" class="img-fluid" alt="Ryu">
@@ -152,7 +155,7 @@
               </div>
             </div>
           </div>
-          <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch">
+          <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch"> <!-- ............................................... Charlie Nash -->
             <div class="team-member">
               <div class="member-img">
                 <img src="assets/img/revistas/14.jpg" class="img-fluid" alt="Charlie Nash">
@@ -163,7 +166,7 @@
               </div>
             </div>
           </div>
-          <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch">
+          <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch"> <!-- ....................................................... Gill -->
             <div class="team-member">
               <div class="member-img">
                 <img src="assets/img/revistas/15.jpg" class="img-fluid" alt="Gill">
@@ -174,7 +177,7 @@
               </div>
             </div>
           </div>
-          <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch">
+          <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch"> <!-- ...................................................... Sagat -->
             <div class="team-member">
               <div class="member-img">
                 <img src="assets/img/revistas/16.jpg" class="img-fluid" alt="Sagat">
@@ -185,7 +188,7 @@
               </div>
             </div>
           </div>
-          <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch">
+          <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch"> <!-- ..................................................... Rashid -->
             <div class="team-member">
               <div class="member-img">
                 <img src="assets/img/revistas/17.jpg" class="img-fluid" alt="Rashid">
@@ -196,7 +199,7 @@
               </div>
             </div>
           </div>
-          <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch">
+          <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch"> <!-- ....................................................... Kage -->
             <div class="team-member">
               <div class="member-img">
                 <img src="assets/img/revistas/18.jpg" class="img-fluid" alt="Kage">
@@ -207,7 +210,7 @@
               </div>
             </div>
           </div>
-          <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch">
+          <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch"> <!-- ........................................................ Guy -->
             <div class="team-member">
               <div class="member-img">
                 <img src="assets/img/revistas/19.jpg" class="img-fluid" alt="Guy">
@@ -218,7 +221,7 @@
               </div>
             </div>
           </div>
-          <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch">
+          <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch"> <!-- ......................................................... Ed -->
             <div class="team-member">
               <div class="member-img">
                 <img src="assets/img/revistas/20.jpg" class="img-fluid" alt="Ed">
@@ -229,7 +232,7 @@
               </div>
             </div>
           </div>
-          <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch">
+          <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch"> <!-- .......................................................... G -->
             <div class="team-member">
               <div class="member-img">
                 <img src="assets/img/revistas/21.jpg" class="img-fluid" alt="G">
@@ -240,7 +243,7 @@
               </div>
             </div>
           </div>
-          <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch">
+          <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch"> <!-- .................................................... Necalli -->
             <div class="team-member">
               <div class="member-img">
                 <img src="assets/img/revistas/22.jpg" class="img-fluid" alt="Necalli">
@@ -251,7 +254,7 @@
               </div>
             </div>
           </div>
-          <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch">
+          <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch"> <!-- ....................................................... Remy -->
             <div class="team-member">
               <div class="member-img">
                 <img src="assets/img/revistas/23.jpg" class="img-fluid" alt="Remy">
@@ -262,7 +265,7 @@
               </div>
             </div>
           </div>
-          <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch">
+          <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch"> <!-- ....................................................... Zeku -->
             <div class="team-member">
               <div class="member-img">
                 <img src="assets/img/revistas/24.jpg" class="img-fluid" alt="Zeku">
@@ -273,7 +276,7 @@
               </div>
             </div>
           </div>
-          <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch">
+          <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch"> <!-- .......................................................... Q -->
             <div class="team-member">
               <div class="member-img">
                 <img src="assets/img/revistas/25.jpg" class="img-fluid" alt="Q">
@@ -284,7 +287,7 @@
               </div>
             </div>
           </div>
-          <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch">
+          <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch"> <!-- ..................................................... Blanka -->
             <div class="team-member">
               <div class="member-img">
                 <img src="assets/img/revistas/26.jpg" class="img-fluid" alt="Blanka">
@@ -295,10 +298,10 @@
               </div>
             </div>
           </div>
-          <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch">
+          <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch"> <!-- ...................................................... Akuma -->
             <div class="team-member">
               <div class="member-img">
-                <img src="assets/img/revistas/27.jpg" class="img-fluid" alt="Akuma">
+                <img src="assets/img/revistas/27.jpg" class="img-fluid" alt="Akuma"> 
               </div>
               <div class="member-info">
                 <h4>Akuma</h4>
@@ -306,7 +309,7 @@
               </div>
             </div>
           </div>
-          <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch">
+          <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch"> <!-- ...................................................... Bison -->
             <div class="team-member">
               <div class="member-img">
                 <img src="assets/img/revistas/28.jpg" class="img-fluid" alt="M. Bison">
@@ -317,7 +320,7 @@
               </div>
             </div>
           </div>
-          <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch">
+          <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch"> <!-- ....................................................... Cody -->
             <div class="team-member">
               <div class="member-img">
                 <img src="assets/img/revistas/29.jpg" class="img-fluid" alt="Cody">
@@ -328,7 +331,7 @@
               </div>
             </div>
           </div>
-          <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch">
+          <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch"> <!-- ....................................................... Oni -->
             <div class="team-member">
               <div class="member-img">
                 <img src="assets/img/revistas/30.jpg" class="img-fluid" alt="Oni">
@@ -339,7 +342,7 @@
               </div>
             </div>
           </div>
-          <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch">
+          <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch"> <!-- ..................................................... Dudley -->
             <div class="team-member">
               <div class="member-img">
                 <img src="assets/img/revistas/31.jpg" class="img-fluid" alt="Dudley">
@@ -350,7 +353,7 @@
               </div>
             </div>
           </div>
-          <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch">
+          <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch"> <!-- ....................................................... Adon -->
             <div class="team-member">
               <div class="member-img">
                 <img src="assets/img/revistas/32.jpg" class="img-fluid" alt="Adon">
@@ -361,10 +364,10 @@
               </div>
             </div>
           </div>
-          <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch">
+          <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch"> <!-- ...................................................... Urien -->
             <div class="team-member">
               <div class="member-img">
-                <img src="assets/img/revistas/33.jpg" class="img-fluid" alt="Urien">
+                <img src="assets/img/revistas/33.jpg" class="img-fluid" alt="Urien"> 
               </div>
               <div class="member-info">
                 <h4>Urien</h4>
@@ -372,7 +375,7 @@
               </div>
             </div>
           </div>
-          <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch">
+          <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch"> <!-- ....................................................... Alex -->
             <div class="team-member">
               <div class="member-img">
                 <img src="assets/img/revistas/34.jpg" class="img-fluid" alt="Alex">
@@ -383,7 +386,7 @@
               </div>
             </div>
           </div>
-          <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch">
+          <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch"> <!-- ........................................................ Ken -->
             <div class="team-member">
               <div class="member-img">
                 <img src="assets/img/revistas/35.jpg" class="img-fluid" alt="Ken">
@@ -394,7 +397,7 @@
               </div>
             </div>
           </div>
-          <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch">
+          <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch"> <!-- ................................................... Evil Ryu -->
             <div class="team-member">
               <div class="member-img">
                 <img src="assets/img/revistas/36.jpg" class="img-fluid" alt="Evil Ryu">
@@ -405,7 +408,8 @@
               </div>
             </div>
           </div>
-          <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch">
+          <!-- --------------------------------------------------------------------------------------------------------------- la familia XD -->
+          <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch"> <!-- .................................................... E Honda -->
             <div class="team-member">
               <div class="member-img">
                 <img src="assets/img/revistas/37.jpg" class="img-fluid" alt="E. Honda">
@@ -416,7 +420,7 @@
               </div>
             </div>
           </div>
-          <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch">
+          <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch"> <!-- .................................................... Dhalsim -->
             <div class="team-member">
               <div class="member-img">
                 <img src="assets/img/revistas/38.jpg" class="img-fluid" alt="Dhalsim">
@@ -427,7 +431,7 @@
               </div>
             </div>
           </div>
-          <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch">
+          <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch"> <!-- .................................................... Dee Jay -->
             <div class="team-member">
               <div class="member-img">
                 <img src="assets/img/revistas/39.jpg" class="img-fluid" alt="Dee Jay">
@@ -438,7 +442,7 @@
               </div>
             </div>
           </div>
-          <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch">
+          <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch"> <!-- ...................................................... Guile -->
             <div class="team-member">
               <div class="member-img">
                 <img src="assets/img/revistas/40.jpg" class="img-fluid" alt="Guile">
@@ -449,7 +453,7 @@
               </div>
             </div>
           </div>
-          <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch">
+          <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch"> <!-- ...................................................... Cammy -->
             <div class="team-member">
               <div class="member-img">
                 <img src="assets/img/revistas/41.jpg" class="img-fluid" alt="Cammy">
@@ -460,7 +464,7 @@
               </div>
             </div>
           </div>
-          <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch">
+          <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch"> <!-- .................................................... Abigail -->
             <div class="team-member">
               <div class="member-img">
                 <img src="assets/img/revistas/42.jpg" class="img-fluid" alt="Abigail">
@@ -471,7 +475,8 @@
               </div>
             </div>
           </div>
-          <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch">
+          <!-- ---------------------------------------------------------------------------------------------------------------- los demás XD -->
+          <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch"> <!-- .................................................. El Fuerte -->
             <div class="team-member">
               <div class="member-img">
                 <img src="assets/img/revistas/43.jpg" class="img-fluid" alt="El fuerte">
@@ -482,7 +487,7 @@
               </div>
             </div>
           </div>
-          <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch">
+          <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch"> <!-- ..................................................... T Hawk -->
             <div class="team-member">
               <div class="member-img">
                 <img src="assets/img/revistas/44.jpg" class="img-fluid" alt="T. Hawk">
@@ -493,7 +498,7 @@
               </div>
             </div>
           </div>
-          <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch">
+          <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch"> <!-- ........................................................ Gen -->
             <div class="team-member">
               <div class="member-img">
                 <img src="assets/img/revistas/45.jpg" class="img-fluid" alt="Gen">
@@ -504,7 +509,7 @@
               </div>
             </div>
           </div>
-          <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch">
+          <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch">  <!-- .................................................... Gouken -->
             <div class="team-member">
               <div class="member-img">
                 <img src="assets/img/revistas/46.jpg" class="img-fluid" alt="Gouken">
@@ -515,7 +520,7 @@
               </div>
             </div>
           </div>
-          <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch">
+          <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch"> <!-- ....................................................... Hugo -->
             <div class="team-member">
               <div class="member-img">
                 <img src="assets/img/revistas/47.jpg" class="img-fluid" alt="Hugo">
@@ -526,7 +531,7 @@
               </div>
             </div>
           </div>
-          <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch">
+          <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch"> <!-- .................................................... Zangief -->
             <div class="team-member">
               <div class="member-img">
                 <img src="assets/img/revistas/48.jpg" class="img-fluid" alt="Zangief">
@@ -537,7 +542,7 @@
               </div>
             </div>
           </div>
-          <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch">
+          <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch"> <!-- ...................................................... Hakan -->
             <div class="team-member">
               <div class="member-img">
                 <img src="assets/img/revistas/49.jpg" class="img-fluid" alt="Hakan">
@@ -548,7 +553,7 @@
               </div>
             </div>
           </div>
-          <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch">
+          <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch"> <!-- ..................................................... Birdie -->
             <div class="team-member">
               <div class="member-img">
                 <img src="assets/img/revistas/50.jpg" class="img-fluid" alt="Birdie">
@@ -559,7 +564,7 @@
               </div>
             </div>
           </div>
-          <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch">
+          <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch"> <!-- ...................................................... Sodom -->
             <div class="team-member">
               <div class="member-img">
                 <img src="assets/img/revistas/51.jpg" class="img-fluid" alt="Sodom">
@@ -570,7 +575,7 @@
               </div>
             </div>
           </div>
-          <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch">
+          <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch"> <!-- .................................................... Rolento -->
             <div class="team-member">
               <div class="member-img">
                 <img src="assets/img/revistas/52.jpg" class="img-fluid" alt="Rolento">
@@ -581,7 +586,7 @@
               </div>
             </div>
           </div>
-          <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch">
+          <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch"> <!-- ...................................................... Elena -->
             <div class="team-member">
               <div class="member-img">
                 <img src="assets/img/revistas/53.jpg" class="img-fluid" alt="Elena">
@@ -592,7 +597,7 @@
               </div>
             </div>
           </div>
-          <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch">
+          <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch"> <!-- ..................................................... Makoto -->
             <div class="team-member">
               <div class="member-img">
                 <img src="assets/img/revistas/54.jpg" class="img-fluid" alt="Makoto">
@@ -603,7 +608,7 @@
               </div>
             </div>
           </div>
-          <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch">
+          <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch"> <!-- ................................................... Fei Long -->
             <div class="team-member">
               <div class="member-img">
                 <img src="assets/img/revistas/55.jpg" class="img-fluid" alt="Fei Long">
@@ -614,7 +619,7 @@
               </div>
             </div>
           </div>
-          <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch">
+          <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch"> <!-- ...................................................... Rufus -->
             <div class="team-member">
               <div class="member-img">
                 <img src="assets/img/revistas/56.jpg" class="img-fluid" alt="Rufus">
@@ -625,7 +630,7 @@
               </div>
             </div>
           </div>
-          <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch">
+          <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch"> <!-- ..................................................... Balrog -->
             <div class="team-member">
               <div class="member-img">
                 <img src="assets/img/revistas/57.jpg" class="img-fluid" alt="Balrog">
@@ -636,7 +641,7 @@
               </div>
             </div>
           </div>
-          <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch">
+          <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch"> <!-- ....................................................... Luke -->
             <div class="team-member">
               <div class="member-img">
                 <img src="assets/img/revistas/58.jpg" class="img-fluid" alt="Luke">
@@ -647,7 +652,7 @@
               </div>
             </div>
           </div>
-          <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch">
+          <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch"> <!-- ........................................................ Dan -->
             <div class="team-member">
               <div class="member-img">
                 <img src="assets/img/revistas/59.jpg" class="img-fluid" alt="Dan">
@@ -658,7 +663,7 @@
               </div>
             </div>
           </div>
-          <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch">
+          <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch"> <!-- ..................................................... Sakura -->
             <div class="team-member">
               <div class="member-img">
                 <img src="assets/img/revistas/60.jpg" class="img-fluid" alt="Sakura">
@@ -669,7 +674,7 @@
               </div>
             </div>
           </div>
-          <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch">
+          <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch"> <!-- ....................................................... FANG -->
             <div class="team-member">
               <div class="member-img">
                 <img src="assets/img/revistas/61.jpg" class="img-fluid" alt="F.A.N.G">
@@ -680,7 +685,7 @@
               </div>
             </div>
           </div>
-          <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch">
+          <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch"> <!-- ........................................................ Oro -->
             <div class="team-member">
               <div class="member-img">
                 <img src="assets/img/revistas/62.jpg" class="img-fluid" alt="Oro">
@@ -691,18 +696,18 @@
               </div>
             </div>
           </div>
-          <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch">
+          <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch"> <!-- ....................................................... Sean -->
             <div class="team-member">
               <div class="member-img">
                 <img src="assets/img/revistas/63.jpg" class="img-fluid" alt="Sean">
               </div>
               <div class="member-info">
                 <h4>Sean</h4>
-                <p>.</p>
+                <p>El alumno aplicado.</p>
               </div>
             </div>
           </div>
-          <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch">
+          <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch"> <!-- ...................................................... Laura -->
             <div class="team-member">
               <div class="member-img">
                 <img src="assets/img/revistas/64.jpg" class="img-fluid" alt="Laura">
@@ -713,7 +718,7 @@
               </div>
             </div>
           </div>
-          <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch">
+          <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch"> <!-- ...................................................... Kolin -->
             <div class="team-member">
               <div class="member-img">
                 <img src="assets/img/revistas/65.jpg" class="img-fluid" alt="Kolin">
@@ -724,7 +729,7 @@
               </div>
             </div>
           </div>
-          <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch">
+          <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch"> <!-- ...................................................... Lucia -->
             <div class="team-member">
               <div class="member-img">
                 <img src="assets/img/revistas/66.jpg" class="img-fluid" alt="Lucia">
@@ -735,7 +740,7 @@
               </div>
             </div>
           </div>
-          <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch">
+          <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch"> <!-- ....................................................... Seth -->
             <div class="team-member">
               <div class="member-img">
                 <img src="assets/img/revistas/67.jpg" class="img-fluid" alt="Seth">
@@ -746,7 +751,7 @@
               </div>
             </div>
           </div>
-          <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch">
+          <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch"> <!-- .................................................... Decapre -->
             <div class="team-member">
               <div class="member-img">
                 <img src="assets/img/revistas/68.jpg" class="img-fluid" alt="Decapre">
@@ -757,7 +762,7 @@
               </div>
             </div>
           </div>
-          <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch">
+          <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch"> <!-- ..................................................... Twelve -->
             <div class="team-member">
               <div class="member-img">
                 <img src="assets/img/revistas/69.jpg" class="img-fluid" alt="Twelve">
@@ -768,7 +773,7 @@
               </div>
             </div>
           </div>
-          <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch">
+          <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch"> <!-- ...................................................... Necro -->
             <div class="team-member">
               <div class="member-img">
                 <img src="assets/img/revistas/70.jpg" class="img-fluid" alt="Necro">
@@ -779,7 +784,7 @@
               </div>
             </div>
           </div>
-          <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch">
+          <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch"> <!-- ....................................................... Juri -->
             <div class="team-member">
               <div class="member-img">
                 <img src="assets/img/revistas/71.jpg" class="img-fluid" alt="juni">
@@ -790,7 +795,7 @@
               </div>
             </div>
           </div>
-          <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch">
+          <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch"> <!-- ....................................................... Juli -->
             <div class="team-member">
               <div class="member-img">
                 <img src="assets/img/revistas/72.jpg" class="img-fluid" alt="Juli">
@@ -801,7 +806,7 @@
               </div>
             </div>
           </div>
-          <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch">
+          <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch"> <!-- ........................................................ Yun -->
             <div class="team-member">
               <div class="member-img">
                 <img src="assets/img/revistas/73.jpg" class="img-fluid" alt="Yun">
@@ -812,7 +817,7 @@
               </div>
             </div>
           </div>
-          <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch">
+          <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch"> <!-- ....................................................... Yang -->
             <div class="team-member">
               <div class="member-img">
                 <img src="assets/img/revistas/74.jpg" class="img-fluid" alt="Yang">
@@ -823,7 +828,7 @@
               </div>
             </div>
           </div>
-          <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch">
+          <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch"> <!-- ....................................................... Abel -->
             <div class="team-member">
               <div class="member-img">
                 <img src="assets/img/revistas/75.jpg" class="img-fluid" alt="Abel">
