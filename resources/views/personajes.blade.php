@@ -2,13 +2,16 @@
 
 @section('content')
   <div class="container-fluid">
+    <!-- ------------------------------------------------------ contendor para título ------------------------------------------------------ -->
     <div class="section-title">
       <h3>Explora a los personajes de la colección</h3>
     </div>
+    <!-- ---------------------------------------------------- contenedor para personaje ---------------------------------------------------- -->
     <div class="personajes">
       <div class="row">
-        <!-- Lista coluna izquierda -->
+        <!-- --------------------------------------------------- Lista columna izquierda --------------------------------------------------- -->
         <div class="col-md-6">
+          <!-- ------------------------------------------------- contendor para paginación ------------------------------------------------- -->
           <ol id="customPagination">
             <li data-bs-target="#characterCarousel" data-bs-slide-to="0">Chun Li (#7)</li>
             <li data-bs-target="#characterCarousel" data-bs-slide-to="1">Akira (#72)</li>
@@ -89,9 +92,11 @@
             <li data-bs-target="#characterCarousel" data-bs-slide-to="74">Abel (#39)</li>
           </ol>
         </div>
+        <!-- ----------------------------------------------------- Columna de carrusel ----------------------------------------------------- -->        
         <div class="col-md-6">
           <div id="characterCarousel" class="carousel slide" data-bs-ride="carousel" data-bs-interval="7000">
             <div class="carousel-inner">
+              <!-- ------------------------------------------------------- favoritas ------------------------------------------------------- -->
               <div class="carousel-item active">
                 <div class="character-item">
                   <a href="assets/img/personajes/1.jpg" class="glightbox">
@@ -191,7 +196,7 @@
                   <p class="description">Karin Kanzuki lidera uno de los conglomerados empresariales más ricos y poderosos de todo Japón. Esta adolescente millonaria puede parecer ególatra, presuntuosa, y un tanto elitista, pero lo cierto es que, al menos en el ring, siempre acaba demostrando su superioridad.</p>
                 </div>
               </div>
-              <!-- ---------------------------------------------------------- favoritos ---------------------------------------------------------- -->
+              <!-- ------------------------------------------------------- favoritos ------------------------------------------------------- -->
               <div class="carousel-item"> 
                 <div class="character-item">
                   <a href="assets/img/personajes/12.jpg" class="glightbox">
@@ -417,7 +422,7 @@
                   <p class="description">Son muchos los misterios que rodean al Satsui no Hado, la poderosa energía maligna capaz de convertir a un luchador en una auténtica máquina de matar. Ryu no ha dejado de combatir contra ella desde que esta comenzó a crecer en su interior.</p>
                 </div>
               </div>
-
+              <!-- ------------------------------------------------------- familia XD ------------------------------------------------------- -->
               <div class="carousel-item">
                 <div class="character-item">
                   <a href="assets/img/personajes/37.jpg" class="glightbox">
@@ -472,7 +477,7 @@
                   <p class="description">Tras una vida delictiva, Abigail decidió establecer un negocio legal. A pesar del cambio de rumbo en su vida, su pasado criminal, un feroz temperamento y una inteligencia limitada le siguen jugando alguna que otra mala pasada.</p>
                 </div>
               </div>
-
+              <!-- ------------------------------------------------------ los demás XD ------------------------------------------------------ -->
               <div class="carousel-item">
                 <div class="character-item">
                   <a href="assets/img/personajes/43.jpg" class="glightbox">
