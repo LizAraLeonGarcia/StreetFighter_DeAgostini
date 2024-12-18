@@ -813,7 +813,7 @@
               </div>
               <div class="member-info">
                 <h4>Yun</h4>
-                <p>.</p>
+                <p>El dragón blanco.</p>
               </div>
             </div>
           </div>
@@ -835,7 +835,7 @@
               </div>
               <div class="member-info">
                 <h4>Abel</h4>
-                <p>.</p>
+                <p>El yudoca amnésico.</p>
               </div>
             </div>
           </div>
