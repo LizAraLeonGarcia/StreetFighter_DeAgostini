@@ -82,7 +82,10 @@
             <div class="swiper-slide"><a class="glightbox" data-galeria="images-galeria" href="assets/img/galeria/70.jpg"><img src="assets/img/galeria/70.jpg" class="img-fluid" alt="Necro"></a></div>
             <div class="swiper-slide"><a class="glightbox" data-galeria="images-galeria" href="assets/img/galeria/71.jpg"><img src="assets/img/galeria/71.jpg" class="img-fluid" alt="Juni"></a></div>
           <!--  <div class="swiper-slide"><a class="glightbox" data-galeria="images-galeria" href="assets/img/galeria/72.jpg"><img src="assets/img/galeria/72.jpg" class="img-fluid" alt="Juli"></a></div>  -->
-        </div>
+            <div class="swiper-slide"><a class="glightbox" data-galeria="images-galeria" href="assets/img/galeria/73.jpg"><img src="assets/img/galeria/73.jpg" class="img-fluid" alt="Yun"></a></div>
+          <!--  <div class="swiper-slide"><a class="glightbox" data-galeria="images-galeria" href="assets/img/galeria/74.jpg"><img src="assets/img/galeria/74.jpg" class="img-fluid" alt="Yang"></a></div> -->
+            <div class="swiper-slide"><a class="glightbox" data-galeria="images-galeria" href="assets/img/galeria/75.jpg"><img src="assets/img/galeria/75.jpg" class="img-fluid" alt="Abel"></a></div>
+          </div>
         <div class="swiper-button-next"></div> <!-- botón para siguiente -->
         <div class="swiper-button-prev"></div> <!-- botón para previo -->
         <div class="swiper-pagination"></div>  <!-- botón para paginación -->
