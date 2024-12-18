@@ -7,37 +7,171 @@
     vertical-align: middle;
     padding: 15px;
 }
-/* ********************************************************* Colores alternos filas ********************************************************* */
-.table-striped tbody tr:nth-of-type(odd) {
-    background-color: #fcfcfc;
+/* *********************************************************** Colores para filas *********************************************************** */
+/* ************************************************************************************************************************************** RYU */
+.table .fila1 {
+    background-color: white;
+    color: black;
+    border-color: white;
 }
-
-/* ----------------------------------------------------------------------------------------------------------------- Efecto al pasar el mouse */
-.table-hover tbody tr:hover {
-    background-color: #f1f1f1;
-    cursor: pointer;
+/* ************************************************************************************************************************************** KEN */
+.table .fila2 {
+    background-color: red;
+    color: white;
+    border-color: red;
 }
-
-/* *********************************************************** Bordes más sutiles *********************************************************** */
+/* M. BISON */
+.table .fila3 {
+    background-color: darkred;
+    color: #fff;
+    border-color: darkred;
+}
+/* ************************************************************************************************************************************ SAGAT */
+.table .fila4 {
+    background-color: darkblue;
+    color: white;
+    border-color: darkblue;
+}
+/* *********************************************************************************************************************************** BLANKA */
+.table .fila5 {
+    background-color: greenyellow;
+    color: black;
+    border-color: greenyellow;
+}
+/* ************************************************************************************************************************************* VEGA */
+.table .fila6 {
+    background-color: purple;
+    color: white;
+    border-color: purple;
+}
+/* CHUN LI */
+.table .fila7 {
+    background-color: blue;
+    color: white;
+    border-color: blue;
+}
+/* ************************************************************************************************************************************ GUILE */
+.table .fila8 {
+    background-color: green;
+    color: white;
+    border-color: green;
+}
+/* ********************************************************************************************************************************** DHALSIM */
+.table .fila9 {
+    background-color: yellow;
+    color: black;
+    border-color: yellow;
+}
+/* ********************************************************************************************************************************** ZANGIEF */
+.table .fila10 {
+    background-color: crimson;
+    color: white;
+    border-color: crimson;
+}
+/* BALROG */
+.table .fila11 {
+    background-color: lightskyblue;
+    color: black;
+    border-color: lightskyblue;
+}
+/* ********************************************************************************************************************************* E. HONDA */
+.table .fila12 {
+    background-color: skyblue;
+    color: black;
+    border-color: skyblue;
+}
+/* T. HAWK */
+.table .fila13 {
+    background-color: cornflowerblue;
+    color: black;
+    border-color: cornflowerblue;
+}
+/* ************************************************************************************************************************************ CAMMY */
+.table .fila14 {
+    background-color: lime;
+    color: black;
+    border-color: lime;
+}
+/* FEI LONG */
+.table .fila15 {
+    background-color: black;
+    color: white;
+    border-color: black;
+}
+/* ************************************************************************************************************************************ AKUMA */
+.table .fila16 {
+    background-color: firebrick;
+    color: white;
+    border-color: firebrick;
+}
+/* SAKURA */
+.table .fila17 {
+    background-color: royalblue;
+    color: white;
+    border-color: royalblue;
+}
+/* ********************************************************************************************************************************** DEE JAY */
+.table .fila18 {
+    background-color: orangered;
+    color: white;
+    border-color: orangered;
+}
+/* ADON */
+.table .fila19 {
+    background-color: mediumblue;
+    color: white;
+    border-color: mediumblue;
+}
+/* ************************************************************************************************************************************* ROSE */
+.table .fila20 {
+    background-color: mediumvioletred;
+    color: white;
+    border-color: mediumvioletred;
+}
+/* DAN */
+.table .fila21 {
+    background-color: hotpink;
+    color: black;
+    border-color: hotpink;
+}
+/* ********************************************************************************************************************************** R. MIKA */
+.table .fila22 {
+    background-color: deepskyblue;
+    color: black;
+    border-color: deepskyblue;
+}
+/* *********************************************************************************************************************************** MAKOTO */
+.table .fila23 {
+    background-color: snow;
+    color: black;
+    border-color: snow;
+}
+/* ************************************************************************************************************************************* CODY */
+.table .fila24 {
+    background-color: navy;
+    color: white;
+    border-color: navy;
+}
+/* IBUKI */
+.table .fila25 {
+    background-color: sienna;
+    color: white;
+    border-color: sienna;
+}
+/* ************************************************************** Bordes tabla ************************************************************** */
 .table-bordered {
-    border: 1px solid #ddd;
+    border: 1px solid #ff0000;
 }
 
 .table-bordered td, .table-bordered th {
-    border: 1px solid #ddd;
+    border: 2px solid #333;
 }
 
 /* ****************************************************** Fondo oscuro para encabezado ****************************************************** */
 .thead-dark {
-    background-color: #3a3a3a;
+    background-color: #333;
     color: white;
 }
-
-/* ****************************************************** Sombra alrededor de la tabla ****************************************************** */
-.table {
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-}
-
 /* ************************************************ Ajustar la tabla para pantallas pequeñas ************************************************ */
 .table-responsive {
     overflow-x: auto;
