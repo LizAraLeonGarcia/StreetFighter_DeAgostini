@@ -22,7 +22,7 @@
       <!-- ---------------------------------------------------- Columna central (tabla) ---------------------------------------------------- -->
       <div class="col-md-6">
         <div class="table-responsive">
-          <table class="table table-bordered table-hover table-striped table-sm">
+          <table class="table table-bordered table-striped table-sm">
             <thead class="thead-dark">
               <tr>
                 <th>#</th>
@@ -45,10 +45,10 @@
                 <td>$180</td>
               </tr>
               <tr class="fila3">
-                <td>3</td>
-                <td>M. Bison</td>
-                <td>25 octubre 2022</td>
-                <td>$300</td>
+                <td style="color: white;">3</td>
+                <td style="color: white;">M. Bison</td>
+                <td style="color: white;">25 octubre 2022</td>
+                <td style="color: white;">$300</td>
               </tr>
               <tr class="fila4">
                 <td>4</td>
@@ -69,10 +69,10 @@
                 <td>$300</td>
               </tr>
               <tr class="fila7">
-                <td>7</td>
-                <td>Chun Li</td>
-                <td>20 diciembre 2022</td>
-                <td>$300</td>
+                <td style="color: white;">7</td>
+                <td style="color: white;">Chun Li</td>
+                <td style="color: white;">20 diciembre 2022</td>
+                <td style="color: white;">$300</td>
               </tr>
               <tr class="fila8">
                 <td>8</td>
@@ -117,10 +117,10 @@
                 <td>$330</td>
               </tr>
               <tr class="fila15">
-                <td>15</td>
-                <td>Fei Long</td>
-                <td>16 mayo 2023</td>
-                <td>$330</td>
+                <td style="color: white;">15</td>
+                <td style="color: white;">Fei Long</td>
+                <td style="color: white;">16 mayo 2023</td>
+                <td style="color: white;">$330</td>
               </tr>
               <tr class="fila16">
                 <td>16</td>
@@ -141,10 +141,10 @@
                 <td>$360</td>
               </tr>
               <tr class="fila19">
-                <td>19</td>
-                <td>Adon</td>
-                <td>11 julio 2023</td>
-                <td>$360</td>
+                <td style="color: white;">19</td>
+                <td style="color: white;">Adon</td>
+                <td style="color: white;">11 julio 2023</td>
+                <td style="color: white;">$360</td>
               </tr>
               <tr class="fila20">
                 <td>20</td>
@@ -177,10 +177,10 @@
                 <td>$360</td>
               </tr>
               <tr class="fila25">
-                <td>25</td>
-                <td>Ibuki</td>
-                <td>5 septiembre 2023</td>
-                <td>$360</td>
+                <td style="color: white;">25</td>
+                <td style="color: white;">Ibuki</td>
+                <td style="color: white;">5 septiembre 2023</td>
+                <td style="color: white;">$360</td>
               </tr>
               <tr class="fila26">
                 <td>26</td>
@@ -189,10 +189,10 @@
                 <td>$360</td>
               </tr>
               <tr class="fila27">
-                <td>27</td>
-                <td>C. Viper</td>
-                <td>19 septiembre 2023</td>
-                <td>$360</td>
+                <td style="color: white;">27</td>
+                <td style="color: white;">C. Viper</td>
+                <td style="color: white;">19 septiembre 2023</td>
+                <td style="color: white;">$360</td>
               </tr>
               <tr class="fila28">
                 <td>28</td>
@@ -201,10 +201,10 @@
                 <td>$360</td>
               </tr>
               <tr class="fila29">
-                <td>29</td>
-                <td>Poison</td>
-                <td>2 enero 2024</td>
-                <td>$360</td>
+                <td style="color: white;">29</td>
+                <td style="color: white;">Poison</td>
+                <td style="color: white;">2 enero 2024</td>
+                <td style="color: white;">$360</td>
               </tr>
               <tr class="fila30">
                 <td>30</td>
@@ -213,10 +213,10 @@
                 <td>$360</td>
               </tr>
               <tr class="fila31">
-                <td>31</td>
-                <td>Evil Ryu</td>
-                <td>20 febrero 2024</td>
-                <td>$360</td>
+                <td style="color: white;">31</td>
+                <td style="color: white;">Evil Ryu</td>
+                <td style="color: white;">20 febrero 2024</td>
+                <td style="color: white;">$360</td>
               </tr>
               <tr class="fila32">
                 <td>32</td>
@@ -225,10 +225,10 @@
                 <td>$360</td>
               </tr>
               <tr class="fila33">
-                <td>33</td>
-                <td>Karin</td>
-                <td>19 marzo 2024</td>
-                <td>$360</td>
+                <td style="color: white;">33</td>
+                <td style="color: white;">Karin</td>
+                <td style="color: white;">19 marzo 2024</td>
+                <td style="color: white;">$360</td>
               </tr>
               <tr class="fila34">
                 <td>34</td>
@@ -237,10 +237,10 @@
                 <td>$360</td>
               </tr>
               <tr class="fila35">
-                <td>35</td>
-                <td>Yang</td>
-                <td>16 abril 2024</td>
-                <td>$390</td>
+                <td style="color: white;">35</td>
+                <td style="color: white;">Yang</td>
+                <td style="color: white;">16 abril 2024</td>
+                <td style="color: white;">$390</td>
               </tr>
               <tr class="fila36">
                 <td>36</td>
@@ -261,10 +261,10 @@
                 <td>$390</td>
               </tr>
               <tr class="fila39">
-                <td>39</td>
-                <td>Juri</td>
-                <td>4 junio 2024</td>
-                <td>$390</td>
+                <td style="color: white;">39</td>
+                <td style="color: white;">Juri</td>
+                <td style="color: white;">4 junio 2024</td>
+                <td style="color: white;">$390</td>
               </tr>
               <tr class="fila40">
                 <td>40</td>
@@ -273,10 +273,10 @@
                 <td>$390</td>
               </tr>
               <tr class="fila41">
-                <td>41</td>
-                <td>Hakan</td>
-                <td>20 agosto 2024</td>
-                <td>$390</td>
+                <td style="color: white;">41</td>
+                <td style="color: white;">Hakan</td>
+                <td style="color: white;">20 agosto 2024</td>
+                <td style="color: white;">$390</td>
               </tr>
               <tr class="fila42">
                 <td>42</td>
@@ -297,10 +297,10 @@
                 <td>$390</td>
               </tr>
               <tr class="fila45">
-                <td>45</td>
-                <td>Guy</td>
-                <td>15 octubre 2024</td>
-                <td>$390</td>
+                <td style="color: white;">45</td>
+                <td style="color: white;">Guy</td>
+                <td style="color: white;">15 octubre 2024</td>
+                <td style="color: white;">$390</td>
               </tr>
               <tr class="fila46">
                 <td>46</td>
@@ -333,10 +333,10 @@
                 <td>$420</td>
               </tr>
               <tr class="fila51">
-                <td>51</td>
-                <td>Oro</td>
-                <td>7 enero 2025</td>
-                <td>$420</td>
+                <td style="color: white;">51</td>
+                <td style="color: white;">Oro</td>
+                <td style="color: white;">7 enero 2025</td>
+                <td style="color: white;">$420</td>
               </tr>
               <tr class="fila52">
                 <td>52</td>
@@ -345,10 +345,10 @@
                 <td>$</td>
               </tr>
               <tr class="fila53">
-                <td>53</td>
-                <td>Necro</td>
-                <td> 2025</td>
-                <td>$</td>
+                <td style="color: white;">53</td>
+                <td style="color: white;">Necro</td>
+                <td style="color: white;"> 2025</td>
+                <td style="color: white;">$</td>
               </tr>
               <tr class="fila54">
                 <td>54</td>
@@ -357,127 +357,126 @@
                 <td>$</td>
               </tr>
               <tr class="fila55">
-                <td>55</td>
-                <td>Kolin</td>
-                <td>2025</td>
-                <td>$</td>
+                <td style="color: white;">55</td>
+                <td style="color: white;">Kolin</td>
+                <td style="color: white;">2025</td>
+                <td style="color: white;">$</td>
               </tr>
-              <tr>
+              <tr class="fila56">
                 <td>56</td>
                 <td>Rashid</td>
                 <td>2025</td>
                 <td>$</td>
               </tr>
-              <tr>
+              <tr class="fila57">
                 <td>57</td>
                 <td>Gill</td>
                 <td>2025</td>
                 <td>$</td>
               </tr>
-              <tr>
+              <tr class="fila58">
                 <td>58</td>
                 <td>Birdie</td>
                 <td>2025</td>
                 <td>$</td>
               </tr>
-              <tr>
-                <td>59</td>
-                <td>Necalli</td>
-                <td>2025</td>
-                <td>$</td>
+              <tr class="fila59">
+                <td style="color: white;">59</td>
+                <td style="color: white;">Necalli</td>
+                <td style="color: white;">2025</td>
+                <td style="color: white;">$</td>
               </tr>
-              <tr>
+              <tr class="fila60">
                 <td>60</td>
                 <td>F.A.N.G</td>
                 <td>2025</td>
                 <td>$</td>
               </tr>
-
-              <tr>
-                <td>61</td>
-                <td>Menat</td>
-                <td>2025</td>
-                <td>$</td>
+              <tr class="fila61">
+                <td style="color: white;">61</td>
+                <td style="color: white;">Menat</td>
+                <td style="color: white;">2025</td>
+                <td style="color: white;">$</td>
               </tr>
-              <tr>
+              <tr class="fila62">
                 <td>62</td>
                 <td>Falke</td>
                 <td>2025</td>
                 <td>$</td>
               </tr>
-              <tr>
-                <td>63</td>
-                <td>G</td>
-                <td>2025</td>
-                <td>$</td>
+              <tr class="fila63">
+                <td style="color: white;">63</td>
+                <td style="color: white;">G</td>
+                <td style="color: white;">2025</td>
+                <td style="color: white;">$</td>
               </tr>
-              <tr>
+              <tr class="fila64">
                 <td>64</td>
                 <td>Remy</td>
                 <td>2025</td>
                 <td>$</td>
               </tr>
-              <tr>
+              <tr class="fila65">
                 <td>65</td>
                 <td>Twelve</td>
                 <td>2025</td>
                 <td>$</td>
               </tr>
-              <tr>
+              <tr class="fila66">
                 <td>66</td>
                 <td>Ed</td>
                 <td>2025</td>
                 <td>$</td>
               </tr>
-              <tr>
-                <td>67</td>
-                <td>Zeku</td>
-                <td>2025</td>
-                <td>$</td>
+              <tr class="fila67">
+                <td style="color: white;">67</td>
+                <td style="color: white;">Zeku</td>
+                <td style="color: white;">2025</td>
+                <td style="color: white;">$</td>
               </tr>
-              <tr>
+              <tr class="fila68">
                 <td>68</td>
                 <td>Lucia</td>
                 <td>2025</td>
                 <td>$</td>
               </tr>
-              <tr>
+              <tr class="fila69">
                 <td>69</td>
                 <td>Kage</td>
                 <td>2025</td>
                 <td>$</td>
               </tr>
-              <tr>
+              <tr class="fila70">
                 <td>70</td>
                 <td>Abigail</td>
                 <td>2025</td>
                 <td>$</td>
               </tr>
-              <tr>
+              <tr class="fila71">
                 <td>71</td>
                 <td>Sodom</td>
                 <td>2025</td>
                 <td>$</td>
               </tr>
-              <tr>
+              <tr class="fila72">
                 <td>72</td>
                 <td>Akira</td>
                 <td>2025</td>
                 <td>$</td>
               </tr>
-              <tr>
+              <tr class="fila73">
                 <td>73</td>
                 <td>Juni</td>
                 <td>2025</td>
                 <td>$</td>
               </tr>
-              <tr>
-                <td>74</td>
-                <td>Juli</td>
-                <td>2025</td>
-                <td>$</td>
+              <tr class="fila74">
+                <td style="color: white;">74</td>
+                <td style="color: white;">Juli</td>
+                <td style="color: white;">2025</td>
+                <td style="color: white;">$</td>
               </tr>
-              <tr>
+              <tr class="fila75">
                 <td>75</td>
                 <td>Luke</td>
                 <td>2025</td>
