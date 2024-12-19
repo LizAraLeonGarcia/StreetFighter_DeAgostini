@@ -2,14 +2,15 @@
     padding: 0 10px;
 }
 /* *********************************************************** Personalizar tabla *********************************************************** */
+/* ---------------------------------------------------------------------------------------------------------------- Borde externo de la tabla */
 .table-bordered {
-    border: 4px solid #333 !important; /* Borde externo de la tabla */
+    border: 4px solid #333 !important; 
 }
-
+/* ------------------------------------------------------------------------------------------------------------ Bordes internos de las celdas */
 .table-bordered td, .table-bordered th {
-    border: 2px solid #333 !important; /* Bordes internos de las celdas */
+    border: 2px solid #333 !important; 
 }
-
+/* --------------------------------------------------------------------------------------------------------------- Alineaciones de los textos */
 .table th, .table td {
     text-align: center;
     vertical-align: middle;
@@ -27,7 +28,7 @@
     color: white;
     border-color: red;
 }
-/* M. BISON */
+/* ********************************************************************************************************************************* M. BISON */
 .table .fila3 {
     background-color: darkred;
     color: white;
@@ -51,7 +52,7 @@
     color: white;
     border-color: darkmagenta;
 }
-/* CHUN LI */
+/* ********************************************************************************************************************************** CHUN LI */
 .table .fila7 {
     background-color: blue;
     color: white;
@@ -75,7 +76,7 @@
     color: white;
     border-color: #F00000;
 }
-/* BALROG */
+/* *********************************************************************************************************************************** BALROG */
 .table .fila11 {
     background-color: lightskyblue;
     color: black;
@@ -87,7 +88,7 @@
     color: black;
     border-color: skyblue;
 }
-/* T. HAWK */
+/* ********************************************************************************************************************************** T. HAWK */
 .table .fila13 {
     background-color: cornflowerblue;
     color: black;
@@ -99,7 +100,7 @@
     color: black;
     border-color: lime;
 }
-/* FEI LONG */
+/* ********************************************************************************************************************************* FEI LONG */
 .table .fila15 {
     background-color: black;
     color: white;
@@ -111,7 +112,7 @@
     color: white;
     border-color: firebrick;
 }
-/* SAKURA */
+/* *********************************************************************************************************************************** SAKURA */
 .table .fila17 {
     background-color: royalblue;
     color: white;
@@ -123,7 +124,7 @@
     color: white;
     border-color: orangered;
 }
-/* ADON */
+/* ************************************************************************************************************************************* ADON */
 .table .fila19 {
     background-color: mediumblue;
     color: white;
@@ -135,7 +136,7 @@
     color: white;
     border-color: mediumvioletred;
 }
-/* DAN */
+/* ************************************************************************************************************************************** DAN */
 .table .fila21 {
     background-color: hotpink;
     color: black;
@@ -159,321 +160,312 @@
     color: white;
     border-color: navy;
 }
-/* IBUKI */
+/* ************************************************************************************************************************************ IBUKI */
 .table .fila25 {
     background-color: sienna;
     color: white;
     border-color: sienna;
 }
-/* GEN */
+/* ************************************************************************************************************************************** GEN */
 .table .fila26 {
     background-color: darkviolet;
     color: white;
     border-color: darkviolet;
 }
-/* C. VIPER */
+/* ********************************************************************************************************************************* C. VIPER */
 .table .fila27 {
     background-color: crimson;
     color: white;
     border-color: crimson;
 }
-/* GOUKEN */
+/* *********************************************************************************************************************************** GOUKEN */
 .table .fila28 {
     background-color: dimgray;
     color: white;
     border-color: dimgray;
 }
-/* POISON */
+/* *********************************************************************************************************************************** POISON */
 .table .fila29 {
     background-color: deeppink;
     color: white;
     border-color: deeppink;
 }
-/* DUDLEY */
+/* *********************************************************************************************************************************** DUDLEY */
 .table .fila30 {
     background-color: olivedrab;
     color: white;
     border-color: olivedrab;
 }
-/* EVIL RYU */
+/* ********************************************************************************************************************************* EVIL RYU */
 .table .fila31 {
     background-color: darkslategray;
     color: white;
     border-color: darkslategray;
 }
-/* ONI */
+/* ************************************************************************************************************************************** ONI */
 .table .fila32 {
     background-color: rebeccapurple;
     color: white;
     border-color: rebeccapurple;
 }
-/* KARIN */
+/* ************************************************************************************************************************************ KARIN */
 .table .fila33 {
     background-color: #D90000;
     color: white;
     border-color: #D90000;
 }
-/* YUN */
+/* ************************************************************************************************************************************** YUN */
 .table .fila34 {
     background-color: ghostwhite;
     color: black;
     border-color: ghostwhite;
 }
-/* YANG */
+/* ************************************************************************************************************************************* YANG */
 .table .fila35 {
     background-color: #CF1414;
     color: white;
     border-color: #CF1414;
 }
-/* ELENA */
+/* ************************************************************************************************************************************ ELENA */
 .table .fila36 {
     background-color: ivory;
     color: black;
     border-color: ivory;
 }
-/* CHARLIE NASH */
+/* ***************************************************************************************************************************** CHARLIE NASH */
 .table .fila37 {
     background-color: darkorange;
     color: white;
     border-color: darkorange;
 }
-/* ABEL */
+/* ************************************************************************************************************************************* ABEL */
 .table .fila38 {
     background-color: dodgerblue;
     color: black;
     border-color: dodgerblue;
 }
-/* JURI */
+/* ************************************************************************************************************************************* JURI */
 .table .fila39 {
     background-color: purple;
     color: white;
     border-color: purple;
 }
-/* ROLENTO */
+/* ********************************************************************************************************************************** ROLENTO */
 .table .fila40 {
     background-color: #f1df00;
     color: black;
     border-color: #f1df00;
 }
-/* HAKAN */
+/* ************************************************************************************************************************************ HAKAN */
 .table .fila41 {
     background-color: #B00000;
     color: white;
     border-color: #B00000;
 }
-/* EL FUERTE */
+/* ******************************************************************************************************************************** EL FUERTE */
 .table .fila42 {
     background-color: gainsboro;
     color: black;
     border-color: gainsboro;
 }
-/* DECAPRE */
+/* ********************************************************************************************************************************** DECAPRE */
 .table .fila43 {
     background-color: #fff44b;
     color: black;
     border-color: #fff44b;
 }
-/* HUGO */
+/* ************************************************************************************************************************************* HUGO */
 .table .fila44 {
     background-color: #FF55AA;
     color: black;
     border-color: #FF55AA;
 }
-/* GUY */
+/* ************************************************************************************************************************************** GUY */
 .table .fila45 {
     background-color: #EC0808;
     color: white;
     border-color: #EC0808;
 }
-/* SETH */
+/* ************************************************************************************************************************************* SETH */
 .table .fila46 {
     background-color: darkgray;
     color: black;
     border-color: darkgray;
 }
-/* RUFUS */
+/* ************************************************************************************************************************************ RUFUS */
 .table .fila47 {
     background-color: #FFED0C;
     color: black;
     border-color: #FFED0C;
 }
-/* URIEN */
+/* ************************************************************************************************************************************ URIEN */
 .table .fila48 {
     background-color: saddlebrown;
     color: white;
     border-color: saddlebrown;
 }
-/* SEAN */
+/* ************************************************************************************************************************************* SEAN */
 .table .fila49 {
     background-color: #FFE41C;
     color: white;
     border-color: #FFE41C;
 }
-/* LAURA */
+/* ************************************************************************************************************************************ LAURA */
 .table .fila50 {
     background-color: forestgreen;
     color: white;
     border-color: forestgreen;
 }
-/* ORO */
+/* ************************************************************************************************************************************** ORO */
 .table .fila51 {
     background-color: indigo;
     color: white;
     border-color: indigo;
 }
-/* ALEX */
+/* ************************************************************************************************************************************* ALEX */
 .table .fila52 {
     background-color: darkgreen;
     color: white;
     border-color: darkgreen;
 }
-/* NECRO */
+/* ************************************************************************************************************************************ NECRO */
 .table .fila53 {
     background-color: darkorchid;
     color: white;
     border-color: darkorchid;
 }
-/* Q */
+/* **************************************************************************************************************************************** Q */
 .table .fila54 {
     background-color: tan;
     color: black;
     border-color: tan;
 }
-/* KOLIN */
+/* ************************************************************************************************************************************ KOLIN */
 .table .fila55 {
     background-color: midnightblue;
     color: white;
     border-color: midnightblue;
 }
-/* RASHID */
+/* *********************************************************************************************************************************** RASHID */
 .table .fila56 {
     background-color: beige;
     color: black;
     border-color: beige;
 }
-/* GILL */
+/* ************************************************************************************************************************************* GILL */
 .table .fila57 {
     background-color: #fff000;
     color: black;
     border-color: #fff000;
 }
-/* BIRDIE */
+/* *********************************************************************************************************************************** BIRDIE */
 .table .fila58 {
     background-color: #fcff3f;
     color: black;
     border-color: #fcff3f;
 }
-/* NECALLI */
+/* ********************************************************************************************************************************** NECALLI */
 .table .fila59 {
     background-color: #c00202;
     color: white;
     border-color: #c00202;
 }
-/* F.A.N.G */
+/* ********************************************************************************************************************************** F.A.N.G */
 .table .fila60 {
     background-color: blueviolet;
     color: white;
     border-color: blueviolet;
 }
-/* MENAT */
+/* ************************************************************************************************************************************ MENAT */
 .table .fila61 {
     background-color: #a01fc9;
     color: white;
     border-color: #a01fc9;
 }
-/* FALKE */
+/* ************************************************************************************************************************************ FALKE */
 .table .fila62 {
     background-color: #00126a;
     color: white;
     border-color: #00126a;
 }
-/* G */
+/* **************************************************************************************************************************************** G */
 .table .fila63 {
     background-color: #960037;
     color: black;
     border-color: #960037;
 }
-/* REMY */
+/* ************************************************************************************************************************************* REMY */
 .table .fila64 {
     background-color: turquoise;
     color: black;
     border-color: turquoise;
 }
-/* TWELVE */
+/* *********************************************************************************************************************************** TWELVE */
 .table .fila65 {
     background-color: lavender;
     color: black;
     border-color: lavender;
 }
-/* ED */
+/* *************************************************************************************************************************************** ED */
 .table .fila66 {
     background-color: #001683;
     color: white;
     border-color: #001683;
 }
-/* ZEKU */
+/* ************************************************************************************************************************************* ZEKU */
 .table .fila67 {
     background-color: #633a34;
     color: white;
     border-color: #633a34;
 }
-/* LUCIA */
+/* ************************************************************************************************************************************ LUCIA */
 .table .fila68 {
     background-color: steelblue;
     color: white;
     border-color: steelblue;
 }
-/* KAGE */
+/* ************************************************************************************************************************************* KAGE */
 .table .fila69 {
     background-color: palevioletred;
     color: white;
     border-color: palevioletred;
 }
-/* ABIGAIL */
+/* ********************************************************************************************************************************** ABIGAIL */
 .table .fila70 {
     background-color: seashell;
     color: black;
     border-color: seashell;
 }
-/* SODOM */
+/* ************************************************************************************************************************************ SODOM */
 .table .fila71 {
     background-color: orange;
     color: black;
     border-color: orange;
 }
-/* AKIRA */
+/* ************************************************************************************************************************************ AKIRA */
 .table .fila72 {
     background-color: peru;
     color: black;
     border-color: peru;
 }
-/* JUNI */
+/* ************************************************************************************************************************************* JUNI */
 .table .fila73 {
     background-color: #ffb02f;
     color: black;
     border-color: #ffb02f;
 }
-/* JULI */
+/* ************************************************************************************************************************************* JULI */
 .table .fila74 {
     background-color: #853701;
     color: black;
     border-color: #853701;
 }
-/* LUKE */
+/* ************************************************************************************************************************************* LUKE */
 .table .fila75 {
     background-color: #f8e127;
     color: black;
     border-color: #f8e127;
 }
-/* ************************************************************** Bordes tabla ************************************************************** */
-.table-bordered {
-    border: 1px solid #ff0000;
-}
-
-.table-bordered td, .table-bordered th {
-    border: 2px solid #333;
-}
-
 /* ****************************************************** Fondo oscuro para encabezado ****************************************************** */
 .thead-dark {
     background-color: #333;
