@@ -7,6 +7,12 @@
     vertical-align: middle;
     padding: 15px;
 }
+
+.table-hover {
+    background-color: #333;
+    color: white;
+    border-color: #333;
+}
 /* *********************************************************** Colores para filas *********************************************************** */
 /* ************************************************************************************************************************************** RYU */
 .table .fila1 {
@@ -40,9 +46,9 @@
 }
 /* ************************************************************************************************************************************* VEGA */
 .table .fila6 {
-    background-color: purple;
+    background-color: darkmagenta;
     color: white;
-    border-color: purple;
+    border-color: darkmagenta;
 }
 /* CHUN LI */
 .table .fila7 {
@@ -64,9 +70,9 @@
 }
 /* ********************************************************************************************************************************** ZANGIEF */
 .table .fila10 {
-    background-color: crimson;
+    background-color: #F00000;
     color: white;
-    border-color: crimson;
+    border-color: #F00000;
 }
 /* BALROG */
 .table .fila11 {
@@ -154,6 +160,186 @@
 }
 /* IBUKI */
 .table .fila25 {
+    background-color: sienna;
+    color: white;
+    border-color: sienna;
+}
+/* GEN */
+.table .fila26 {
+    background-color: darkviolet;
+    color: white;
+    border-color: darkviolet;
+}
+/* C. VIPER */
+.table .fila27 {
+    background-color: crimson;
+    color: white;
+    border-color: crimson;
+}
+/* GOUKEN */
+.table .fila28 {
+    background-color: dimgray;
+    color: white;
+    border-color: dimgray;
+}
+/* POISON */
+.table .fila29 {
+    background-color: deeppink;
+    color: white;
+    border-color: deeppink;
+}
+/* DUDLEY */
+.table .fila30 {
+    background-color: olivedrab;
+    color: white;
+    border-color: olivedrab;
+}
+/* EVIL RYU */
+.table .fila31 {
+    background-color: darkslategray;
+    color: white;
+    border-color: darkslategray;
+}
+/* ONI */
+.table .fila32 {
+    background-color: rebeccapurple;
+    color: white;
+    border-color: rebeccapurple;
+}
+/* KARIN */
+.table .fila33 {
+    background-color: #D90000;
+    color: white;
+    border-color: #D90000;
+}
+/* YUN */
+.table .fila34 {
+    background-color: ghostwhite;
+    color: black;
+    border-color: ghostwhite;
+}
+/* YANG */
+.table .fila35 {
+    background-color: #CF1414;
+    color: white;
+    border-color: #CF1414;
+}
+/* ELENA */
+.table .fila36 {
+    background-color: ivory;
+    color: black;
+    border-color: ivory;
+}
+/* CHARLIE NASH */
+.table .fila37 {
+    background-color: darkorange;
+    color: white;
+    border-color: darkorange;
+}
+/* ABEL */
+.table .fila38 {
+    background-color: dodgerblue;
+    color: black;
+    border-color: dodgerblue;
+}
+/* JURI */
+.table .fila39 {
+    background-color: purple;
+    color: white;
+    border-color: purple;
+}
+/* ROLENTO */
+.table .fila40 {
+    background-color: #f1df00;
+    color: black;
+    border-color: #f1df00;
+}
+/* HAKAN */
+.table .fila41 {
+    background-color: #B00000;
+    color: white;
+    border-color: #B00000;
+}
+/* EL FUERTE */
+.table .fila42 {
+    background-color: gainsboro;
+    color: black;
+    border-color: gainsboro;
+}
+/* DECAPRE */
+.table .fila43 {
+    background-color: midnightblue;
+    color: white;
+    border-color: midnightblue;
+}
+/* HUGO */
+.table .fila44 {
+    background-color: #FF55AA;
+    color: black;
+    border-color: #FF55AA;
+}
+/* GUY */
+.table .fila45 {
+    background-color: #EC0808;
+    color: white;
+    border-color: #EC0808;
+}
+/* SETH */
+.table .fila46 {
+    background-color: darkgray;
+    color: black;
+    border-color: darkgray;
+}
+/* RUFUS */
+.table .fila47 {
+    background-color: #FFED0C;
+    color: black;
+    border-color: #FFED0C;
+}
+/* URIEN */
+.table .fila48 {
+    background-color: saddlebrown;
+    color: white;
+    border-color: saddlebrown;
+}
+/* SEAN */
+.table .fila49 {
+    background-color: #FFE41C;
+    color: white;
+    border-color: #FFE41C;
+}
+/* LAURA */
+.table .fila50 {
+    background-color: forestgreen;
+    color: white;
+    border-color: forestgreen;
+}
+/* ORO */
+.table .fila51 {
+    background-color: sienna;
+    color: white;
+    border-color: sienna;
+}
+/* ALEX */
+.table .fila52 {
+    background-color: darkgreen;
+    color: white;
+    border-color: darkgreen;
+}
+/* NECRO */
+.table .fila53 {
+    background-color: sienna;
+    color: white;
+    border-color: sienna;
+}
+/* Q */
+.table .fila54 {
+    background-color: sienna;
+    color: white;
+    border-color: sienna;
+}
+/* KOLIN */
+.table .fila55 {
     background-color: sienna;
     color: white;
     border-color: sienna;

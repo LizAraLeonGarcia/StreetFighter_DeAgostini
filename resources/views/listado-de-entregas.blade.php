@@ -22,7 +22,7 @@
       <!-- ---------------------------------------------------- Columna central (tabla) ---------------------------------------------------- -->
       <div class="col-md-6">
         <div class="table-responsive">
-          <table class="table table-bordered table-striped table-sm">
+          <table class="table table-bordered table-hover table-striped table-sm">
             <thead class="thead-dark">
               <tr>
                 <th>#</th>
@@ -182,181 +182,181 @@
                 <td>5 septiembre 2023</td>
                 <td>$360</td>
               </tr>
-              <tr>
+              <tr class="fila26">
                 <td>26</td>
                 <td>Gen</td>
                 <td>8 agosto 2023</td>
                 <td>$360</td>
               </tr>
-              <tr>
+              <tr class="fila27">
                 <td>27</td>
                 <td>C. Viper</td>
                 <td>19 septiembre 2023</td>
                 <td>$360</td>
               </tr>
-              <tr>
+              <tr class="fila28">
                 <td>28</td>
                 <td>Gouken</td>
                 <td>23 enero 2024</td>
                 <td>$360</td>
               </tr>
-              <tr>
+              <tr class="fila29">
                 <td>29</td>
                 <td>Poison</td>
                 <td>2 enero 2024</td>
                 <td>$360</td>
               </tr>
-              <tr>
+              <tr class="fila30">
                 <td>30</td>
                 <td>Dudley</td>
                 <td>6 febrero 2024</td>
                 <td>$360</td>
               </tr>
-              <tr>
+              <tr class="fila31">
                 <td>31</td>
                 <td>Evil Ryu</td>
                 <td>20 febrero 2024</td>
                 <td>$360</td>
               </tr>
-              <tr>
+              <tr class="fila32">
                 <td>32</td>
                 <td>Oni</td>
                 <td>5 marzo 2024</td>
                 <td>$360</td>
               </tr>
-              <tr>
+              <tr class="fila33">
                 <td>33</td>
                 <td>Karin</td>
                 <td>19 marzo 2024</td>
                 <td>$360</td>
               </tr>
-              <tr>
+              <tr class="fila34">
                 <td>34</td>
                 <td>Yun</td>
                 <td>2 abril 2024</td>
                 <td>$360</td>
               </tr>
-              <tr>
+              <tr class="fila35">
                 <td>35</td>
                 <td>Yang</td>
                 <td>16 abril 2024</td>
                 <td>$390</td>
               </tr>
-              <tr>
+              <tr class="fila36">
                 <td>36</td>
                 <td>Elena</td>
                 <td>7 mayo 2024</td>
                 <td>$390</td>
               </tr>
-              <tr>
+              <tr class="fila37">
                 <td>37</td>
                 <td>Charlie Nash</td>
                 <td>21 mayo 2024</td>
                 <td>$390</td>
               </tr>
-              <tr>
+              <tr class="fila38">
                 <td>38</td>
                 <td>Abel</td>
                 <td>23 julio 2024</td>
                 <td>$390</td>
               </tr>
-              <tr>
+              <tr class="fila39">
                 <td>39</td>
                 <td>Juri</td>
                 <td>4 junio 2024</td>
                 <td>$390</td>
               </tr>
-              <tr>
+              <tr class="fila40">
                 <td>40</td>
                 <td>Rolento</td>
                 <td>6 agosto 2024</td>
                 <td>$390</td>
               </tr>
-              <tr>
+              <tr class="fila41">
                 <td>41</td>
                 <td>Hakan</td>
                 <td>20 agosto 2024</td>
                 <td>$390</td>
               </tr>
-              <tr>
+              <tr class="fila42">
                 <td>42</td>
                 <td>El Fuerte</td>
                 <td>3 septiembre 2024</td>
                 <td>$390</td>
               </tr>
-              <tr>
+              <tr class="fila43">
                 <td>43</td>
                 <td>Decapre</td>
                 <td>17 septiembre 2024</td>
                 <td>$390</td>
               </tr>
-              <tr>
+              <tr class="fila44">
                 <td>44</td>
                 <td>Hugo</td>
                 <td>1 octubre 2024</td>
                 <td>$390</td>
               </tr>
-              <tr>
+              <tr class="fila45">
                 <td>45</td>
                 <td>Guy</td>
                 <td>15 octubre 2024</td>
                 <td>$390</td>
               </tr>
-              <tr>
+              <tr class="fila46">
                 <td>46</td>
                 <td>Seth</td>
                 <td>29 octubre 2024</td>
                 <td>$420</td>
               </tr>
-              <tr>
+              <tr class="fila47">
                 <td>47</td>
                 <td>Rufus</td>
                 <td>12 noviembre 2024</td>
                 <td>$420</td>
               </tr>
-              <tr>
+              <tr class="fila48">
                 <td>48</td>
                 <td>Urien</td>
                 <td>26 noviembre 2024</td>
                 <td>$420</td>
               </tr>
-              <tr>
+              <tr class="fila49">
                 <td>49</td>
                 <td>Sean</td>
                 <td>10 diciembre 2024</td>
                 <td>$420</td>
               </tr>
-              <tr>
+              <tr class="fila50">
                 <td>50</td>
                 <td>Laura</td>
                 <td>24 diciembre 2024</td>
                 <td>$420</td>
               </tr>
-              <tr>
+              <tr class="fila51">
                 <td>51</td>
                 <td>Oro</td>
                 <td>7 enero 2025</td>
                 <td>$420</td>
               </tr>
-              <tr>
+              <tr class="fila52">
                 <td>52</td>
                 <td>Alex</td>
                 <td> 2025</td>
                 <td>$</td>
               </tr>
-              <tr>
+              <tr class="fila53">
                 <td>53</td>
                 <td>Necro</td>
                 <td> 2025</td>
                 <td>$</td>
               </tr>
-              <tr>
+              <tr class="fila54">
                 <td>54</td>
                 <td>Q</td>
                 <td>2025</td>
                 <td>$</td>
               </tr>
-              <tr>
+              <tr class="fila55">
                 <td>55</td>
                 <td>Kolin</td>
                 <td>2025</td>
