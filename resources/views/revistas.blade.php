@@ -714,7 +714,7 @@
               </div>
               <div class="member-info">
                 <h4>Laura</h4>
-                <p>.</p>
+                <p>La luchadora electrizante.</p>
               </div>
             </div>
           </div>
