@@ -1,3 +1,4 @@
+/* ****************************************************** Para el contenedor principal ****************************************************** */
 .personajes {
   padding: 0 15px;
   min-height: 100vh; /* Asegura que el contenedor ocupe al menos la altura de la pantalla */
@@ -7,12 +8,12 @@
   overflow: hidden; /* Evita que el contenido se desborde */
 }
 /* ***************************************************************** Título ***************************************************************** */
-h4 {
-  margin-top: 10px;
-  margin-bottom: 10px;
-  font-size: 18px;
+.personajes h4 {
+  font-size: 24px;
   color: #000000;
   text-align: center; /* Asegura que el título esté centrado */
+  padding-top: 15px;
+  font-weight: bold;
 }
 /* ************************************************************** Descripción ************************************************************** */
 .description {
