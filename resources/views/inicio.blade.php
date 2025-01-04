@@ -11,9 +11,9 @@
       <!-- Primera fila -->
       <div class="row mb-4">
         <div class="col-md-4">
-          <p>Con un total inicial de 60 entregas, más una posible expansión a 15 figuras extras como se hizo en España y Brasil, esta nueva colección oficial de Capcom vió la luz a finales de septiembre de 2022 en mi país México, empezando su lanzamiento con el protagonista de casi todos los videojuegos de la saga: Ryu, seguido de su inolvidable mejor amigo Ken.</p>
-          <p>Cabe recalcar que las entregas varían un poco entre países, pues, aunque en mí país Ken fue la entrega 2, en España en realidad fue Chun Li, a la inversa, Chun Li en mí país fue la número 7 en llegar, por lo que, en España Ken fue el número tres.</p>
-          <p>Debido a lo explicado en el parráfo anterior, y a que en sí, todas las páginas que hay sobre esta colección acomodan a los personajes según el orden en que salieron en su país de destino, yo te quiero aclarar que para hacer algo diferente he acomodado a los personajes cómo a mí me gustan, los cuales verás organizados en casi todas las secciones de la página, exceptuando la de <strong>Listado de entregas</strong>; pues ahí te ordeno las entregas en el orden que salen en mi país.</p>
+          <p>Con un total inicial de 60 entregas, más una posible expansión a 15 figuras extras como se hizo en España y Brasil, esta nueva colección oficial de Capcom vió la luz a finales de septiembre de 2022 en mi país México, empezando su lanzamiento con el protagonista de casi todos los videojuegos de la saga: Ryu, seguido de su inolvidable mejor amigo Ken, para después contar con M. Bison el villano de, también, casi todos los videjuegos de la saga.</p>
+          <p>Cabe recalcar que las entregas varían un poco entre países, pues, aunque Ryu siempre ha sido la entrega número 1, en mí país Ken fue la entrega 2 mientras en España fue Chun Li la segunda, por lo que, Chun Li en mí país fue la número 7 en llegar, mientras en España Ken fue el número tres en dicho país europeo.</p>
+          <p>Debido a lo explicado en el parráfo anterior, y a que en sí, todas las páginas que hay sobre esta colección acomodan a los personajes según el orden en que salieron en su país de destino, yo te quiero aclarar que para hacer algo diferente he acomodado a los personajes cómo a mí me gustan, los cuales verás organizados en casi todas las secciones de la página, exceptuando la de <strong>Listado de entregas</strong>; pues ahí te ordeno las entregas en el orden que salen en mi país, además de algunos datos necesarios acompañando a cada personaje.</p>
         </div>
         <div class="col-md-8">
           <img src="assets/img/inicio/personajesPoster.png" class="img-fluid" alt="Poster de los personajes">
@@ -58,7 +58,7 @@
             <li>Galería</li>
               <p>Sección donde te muestro fotos que yo tomé de los pósters de cada personaje, pósters que vienen en la revista correspondiente al personaje. </p>
           </ul>
-          <p>Y, como no esta de más el ser muy especifíca, quiero hacer énfasis en que, lo tomado de la página de España obviamente no va a concordar, por ejemplo; con los números de entrega en México, pero es la página que ya está completa, pues la de mi país aún sigue en proceso a la fecha en que hago esto (diciembre 2024), así que para efectos prácticos decidí basarme en ella.</p>
+          <p>Y, como no esta de más el ser muy especifíca, quiero hacer énfasis en que, lo tomado de la página de España obviamente no siempre va a concordar con lo de mi país, por ejemplo; en los números de entrega, pero es la página que ya está completa, pues la de mi país aún sigue en proceso a la fecha en que hago esto (diciembre 2024), debido a lo anterior es que para efectos prácticos decidí basarme en la de España.</p>
         </div>
       </div>
     </div>

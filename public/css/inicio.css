@@ -1,10 +1,10 @@
-/* Estilos para el contenedor principal */
+/* ****************************************************** Para el contenedor principal ****************************************************** */
 .inicio {
   background-color: #c1c6ca;
-  color: #000000; /* Texto blanco */
-  padding: 10px 10px;
+  color: #000000;
+  padding: 10px;
 }
-
+/* ******************************************************* Para la sección del título ******************************************************* */
 .section-title-INICIO h1 {
   font-size: 36px;
   font-weight: bold;
@@ -19,42 +19,7 @@
   text-align: center;
   font-weight: 400;
 }
-
-#inicio p {
-  font-size: 15px;
-  text-align: justify;
-  color: #000000;
-  margin-left: auto;
-  margin-right: auto;
-}
-
-.d-flex {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-
-/* Imágenes */
-#inicio img {
-  max-width: 100%;
-  height: auto;
-}
-/* Asegúrate de que las imágenes tengan un contenedor adecuado */
-.play-button-container {
-  position: relative;
-  display: block;
-}
-
-/* Estilos para el ícono de Play */
-.play-button-container i {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  font-size: 4rem;
-  color: white;
-}
-
+/* *************************************************************** Para lista *************************************************************** */
 ul {
   padding-left: 0; /* Elimina el relleno izquierdo de la lista */
 }
@@ -67,7 +32,40 @@ ul li p {
   margin: 0; /* Elimina los márgenes de los párrafos dentro de las listas */
   padding: 0; /* Elimina cualquier relleno en los párrafos */
 }
-/* Animaciones de AOS */
+/* **************************************************************** Parráfos **************************************************************** */
+#inicio p {
+  font-size: 15px;
+  text-align: justify;
+  color: #000000;
+  margin-left: auto;
+  margin-right: auto;
+}
+/* **************************************************************** Imágenes **************************************************************** */
+#inicio img {
+  max-width: 100%;
+  height: auto;
+}
+/* Asegurar que las imágenes tengan un contenedor adecuado */
+.play-button-container {
+  position: relative;
+  display: block;
+}
+/* Para el ícono de Play */
+.play-button-container i {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 4rem;
+  color: white;
+}
+/* ****************************************************************************************************************************************** */
+.d-flex {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+/* *********************************************************** Animaciones de AOS *********************************************************** */
 [data-aos="fade-up"] {
   opacity: 0;
   transition: opacity 0.6s ease-out;
@@ -80,4 +78,4 @@ ul li p {
 [data-aos-delay] {
   transition-delay: var(--aos-delay);
 }
-
+/* ************************************************************* RESPONSIVIDAD ************************************************************* */
