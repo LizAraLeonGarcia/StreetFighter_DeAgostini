@@ -336,60 +336,60 @@
                 <td style="color: white;">51</td>
                 <td style="color: white;">Oro</td>
                 <td style="color: white;">7 enero 2025</td>
-                <td style="color: white;">$420</td>
+                <td style="color: white;">$</td>
               </tr>
               <tr class="fila52">
                 <td>52</td>
                 <td>Alex</td>
-                <td> 2025</td>
+                <td>21 enero 2025</td>
                 <td>$</td>
               </tr>
               <tr class="fila53">
                 <td style="color: white;">53</td>
                 <td style="color: white;">Necro</td>
-                <td style="color: white;"> 2025</td>
+                <td style="color: white;">4 febrero 2025</td>
                 <td style="color: white;">$</td>
               </tr>
               <tr class="fila54">
                 <td>54</td>
                 <td>Q</td>
-                <td>2025</td>
+                <td>18 febrero 2025</td>
                 <td>$</td>
               </tr>
               <tr class="fila55">
                 <td style="color: white;">55</td>
                 <td style="color: white;">Kolin</td>
-                <td style="color: white;">2025</td>
+                <td style="color: white;">4 marzo 2025</td>
                 <td style="color: white;">$</td>
               </tr>
               <tr class="fila56">
                 <td>56</td>
                 <td>Rashid</td>
-                <td>2025</td>
+                <td>18 marzo 2025</td>
                 <td>$</td>
               </tr>
               <tr class="fila57">
                 <td>57</td>
                 <td>Gill</td>
-                <td>2025</td>
+                <td>1 abril 2025</td>
                 <td>$</td>
               </tr>
               <tr class="fila58">
                 <td>58</td>
                 <td>Birdie</td>
-                <td>2025</td>
+                <td>15 abril 2025</td>
                 <td>$</td>
               </tr>
               <tr class="fila59">
                 <td style="color: white;">59</td>
                 <td style="color: white;">Necalli</td>
-                <td style="color: white;">2025</td>
+                <td style="color: white;">29 abril 2025</td>
                 <td style="color: white;">$</td>
               </tr>
               <tr class="fila60">
                 <td>60</td>
                 <td>F.A.N.G</td>
-                <td>2025</td>
+                <td>18 mayo 2025</td>
                 <td>$</td>
               </tr>
               <tr class="fila61">
