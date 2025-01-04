@@ -2,13 +2,15 @@
 
 @section('content')
   <div class="container-fluid">
+    <!-- ------------------------------------------------------- Sección para título ------------------------------------------------------- -->
     <div class="section-title-INICIO">
       <h1>Street Fighter<h1>
       <h2>En esta página te muestro mi colección de Street Fighter: Planeta DeAgostini & Altaya</h2>
       <h4>La saga que marcó el mundo gamer ahora también ha sacado la colección más amplia en cuanto al número de personajes...</h4>
     </div>
+    <!-- ------------------------------------------------------ Sección del contenido ------------------------------------------------------ -->
     <div class="inicio" id="inicio">
-      <!-- Primera fila -->
+      <!-- -------------------------------------------------------------------------------------------------------------------- Primera fila -->
       <div class="row mb-4">
         <div class="col-md-4">
           <p>Con un total inicial de 60 entregas, más una posible expansión a 15 figuras extras como se hizo en España y Brasil, esta nueva colección oficial de Capcom vió la luz a finales de septiembre de 2022 en mi país México, empezando su lanzamiento con el protagonista de casi todos los videojuegos de la saga: Ryu, seguido de su inolvidable mejor amigo Ken, para después contar con M. Bison el villano de, también, casi todos los videjuegos de la saga.</p>
@@ -19,7 +21,7 @@
           <img src="assets/img/inicio/personajesPoster.png" class="img-fluid" alt="Poster de los personajes">
         </div>
       </div>
-      <!-- Segunda fila -->
+      <!-- -------------------------------------------------------------------------------------------------------------------- Segunda fila -->
       <div class="row mb-4">
         <div class="col-md-6">
           <p>Si tienes curiosidad, puedes checar el vídeo de la colección en el canal oficial de Planeta DeAgostini, es algo breve para mi gusto, pero lo suficientemente llamativo para al menos despertar una espinita de intriga en los amantes y fanáticos de ésta grandiosa saga; asi que, si quieres darle un vistazo, sólo debes dar clic en la imágen que está debajo de este parráfo.</p>
@@ -36,7 +38,7 @@
           </a>
         </div>
       </div>
-      <!-- Tercera fila -->
+      <!-- -------------------------------------------------------------------------------------------------------------------- Tercera fila -->
       <div class="row mb-4">
         <div class="col-md-7">
           <img src="assets/img/inicio/inicioRyu.jpg" class="img-fluid" alt="Ryu entrega 1">
