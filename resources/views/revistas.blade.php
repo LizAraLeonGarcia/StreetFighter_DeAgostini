@@ -674,24 +674,24 @@
               </div>
             </div>
           </div>
-          <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch"> <!-- ....................................................... FANG -->
-            <div class="team-member">
-              <div class="member-img">
-                <img src="assets/img/revistas/61.jpg" class="img-fluid" alt="F.A.N.G">
-              </div>
-              <div class="member-info">
-                <h4>F.A.N.G</h4>
-                <p>.</p>
-              </div>
-            </div>
-          </div>
           <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch"> <!-- ........................................................ Oro -->
             <div class="team-member">
               <div class="member-img">
-                <img src="assets/img/revistas/62.jpg" class="img-fluid" alt="Oro">
+                <img src="assets/img/revistas/61.jpg" class="img-fluid" alt="Oro">
               </div>
               <div class="member-info">
                 <h4>Oro</h4>
+                <p>El maestro centenario.</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch"> <!-- ....................................................... FANG -->
+            <div class="team-member">
+              <div class="member-img">
+                <img src="assets/img/revistas/62.jpg" class="img-fluid" alt="F.A.N.G">
+              </div>
+              <div class="member-info">
+                <h4>F.A.N.G</h4>
                 <p>.</p>
               </div>
             </div>

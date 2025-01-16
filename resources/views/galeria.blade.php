@@ -70,8 +70,8 @@
             <div class="swiper-slide"><a class="glightbox" data-galeria="images-galeria" href="assets/img/galeria/58.jpg"><img src="assets/img/galeria/58.jpg" class="img-fluid" alt="Luke"></a></div>            
             <div class="swiper-slide"><a class="glightbox" data-galeria="images-galeria" href="assets/img/galeria/59.jpg"><img src="assets/img/galeria/59.jpg" class="img-fluid" alt="Dan"></a></div>
             <div class="swiper-slide"><a class="glightbox" data-galeria="images-galeria" href="assets/img/galeria/60.jpg"><img src="assets/img/galeria/60.jpg" class="img-fluid" alt="Sakura"></a></div>
-          <!--  <div class="swiper-slide"><a class="glightbox" data-galeria="images-galeria" href="assets/img/galeria/61.jpg"><img src="assets/img/galeria/61.jpg" class="img-fluid" alt="F.A.N.G"></a></div>
-            <div class="swiper-slide"><a class="glightbox" data-galeria="images-galeria" href="assets/img/galeria/62.jpg"><img src="assets/img/galeria/62.jpg" class="img-fluid" alt="Oro"></a></div> -->
+            <div class="swiper-slide"><a class="glightbox" data-galeria="images-galeria" href="assets/img/galeria/61.jpg"><img src="assets/img/galeria/61.jpg" class="img-fluid" alt="Oro"></a></div>
+          <!--  <div class="swiper-slide"><a class="glightbox" data-galeria="images-galeria" href="assets/img/galeria/62.jpg"><img src="assets/img/galeria/62.jpg" class="img-fluid" alt="F.A.N.G"></a></div> -->
             <div class="swiper-slide"><a class="glightbox" data-galeria="images-galeria" href="assets/img/galeria/63.jpg"><img src="assets/img/galeria/63.jpg" class="img-fluid" alt="Sean"></a></div>
             <div class="swiper-slide"><a class="glightbox" data-galeria="images-galeria" href="assets/img/galeria/64.jpg"><img src="assets/img/galeria/64.jpg" class="img-fluid" alt="Laura"></a></div>
           <!--  <div class="swiper-slide"><a class="glightbox" data-galeria="images-galeria" href="assets/img/galeria/65.jpg"><img src="assets/img/galeria/65.jpg" class="img-fluid" alt="Kolin"></a></div> -->

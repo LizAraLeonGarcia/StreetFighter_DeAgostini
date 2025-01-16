@@ -75,8 +75,8 @@
             <li data-bs-target="#characterCarousel" data-bs-slide-to="57">Luke (#75)</li>
             <li data-bs-target="#characterCarousel" data-bs-slide-to="58">Dan (#21)</li>
             <li data-bs-target="#characterCarousel" data-bs-slide-to="59">Sakura (#17)</li>
-            <li data-bs-target="#characterCarousel" data-bs-slide-to="60">F.A.N.G (#60)</li>
-            <li data-bs-target="#characterCarousel" data-bs-slide-to="61">Oro (#51)</li>
+            <li data-bs-target="#characterCarousel" data-bs-slide-to="60">Oro (#51)</li>
+            <li data-bs-target="#characterCarousel" data-bs-slide-to="61">F.A.N.G (#60)</li>
             <li data-bs-target="#characterCarousel" data-bs-slide-to="62">Sean (#49)</li>
             <li data-bs-target="#characterCarousel" data-bs-slide-to="63">Laura (#50)</li>
             <li data-bs-target="#characterCarousel" data-bs-slide-to="64">Kolin (#55)</li>
@@ -643,19 +643,19 @@
               <div class="carousel-item">
                 <div class="character-item">
                   <a href="assets/img/personajes/61.jpg" class="glightbox">
-                    <img src="assets/img/personajes/61.jpg" class="character-img img-fluid" alt="F.A.N.G">
+                    <img src="assets/img/personajes/61.jpg" class="character-img img-fluid" alt="Oro">
                   </a>
-                  <h4>F.A.N.G</h4>
-                  <p class="description">Entrenado desde la infancia como un asesino experto en todo tipo de venenos, F.A.N.G ascendió rápidamente en el escalafón de Shadaloo hasta entrar en la cúpula de los Cuatro Reyes de la organización criminal.</p>
+                  <h4>Oro</h4>
+                  <p class="description">Con nada más y nada menos que 140 años a sus espaldas, Oro es un viejo maestro legendario. Retirado a una cueva de la selva amazónica durante años, decide salir de ella para buscar un discípulo a quien traspasar su legado.</p>
                 </div>
               </div>
               <div class="carousel-item">
                 <div class="character-item">
                   <a href="assets/img/personajes/62.jpg" class="glightbox">
-                    <img src="assets/img/personajes/62.jpg" class="character-img img-fluid" alt="Oro">
+                    <img src="assets/img/personajes/62.jpg" class="character-img img-fluid" alt="F.A.N.G">
                   </a>
-                  <h4>Oro</h4>
-                  <p class="description">Con nada más y nada menos que 140 años a sus espaldas, Oro es un viejo maestro legendario. Retirado a una cueva de la selva amazónica durante años, decide salir de ella para buscar un discípulo a quien traspasar su legado.</p>
+                  <h4>F.A.N.G</h4>
+                  <p class="description">Entrenado desde la infancia como un asesino experto en todo tipo de venenos, F.A.N.G ascendió rápidamente en el escalafón de Shadaloo hasta entrar en la cúpula de los Cuatro Reyes de la organización criminal.</p>
                 </div>
               </div>
               <div class="carousel-item">

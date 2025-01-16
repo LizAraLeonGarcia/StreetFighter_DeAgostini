@@ -674,25 +674,25 @@
               </div>
             </div>
           </div>
-          <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch"> <!-- ....................................................... FANG -->
-            <div class="team-member">
-              <div class="member-img">
-                <img src="assets/img/figuras/61.jpg" class="img-fluid" alt="F.A.N.G">
-              </div>
-              <div class="member-info">
-                <h4>F.A.N.G</h4>
-                <p>El autodenominado número dos de M. Bison y la mente criminal más brillante de Shadaloo.</p>
-              </div>
-            </div>
-          </div>
           <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch"> <!-- ........................................................ Oro -->
             <div class="team-member">
               <div class="member-img">
-                <img src="assets/img/figuras/62.jpg" class="img-fluid" alt="Oro">
+                <img src="assets/img/figuras/61.jpg" class="img-fluid" alt="Oro">
               </div>
               <div class="member-info">
                 <h4>Oro</h4>
                 <p>Un anciano ermitaño en busca de un sucesor.</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch"> <!-- ....................................................... FANG -->
+            <div class="team-member">
+              <div class="member-img">
+                <img src="assets/img/figuras/62.jpg" class="img-fluid" alt="F.A.N.G">
+              </div>
+              <div class="member-info">
+                <h4>F.A.N.G</h4>
+                <p>El autodenominado número dos de M. Bison y la mente criminal más brillante de Shadaloo.</p>
               </div>
             </div>
           </div>
