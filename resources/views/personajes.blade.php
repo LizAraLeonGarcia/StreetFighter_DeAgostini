@@ -323,153 +323,153 @@
                   <h4>Blanka</h4>
                   <p class="description">Aunque su aspecto animal sugiera lo contrario, el luchador conocido como Blanka nunca ha perdido su personalidad humana. Su estilo de lucha, salvaje y caótico, le convierte en uno de los más reputados street fighters de todo el mundo.</p>
                 </div>
-              </div>
-              <div class="carousel-item">
+              </div> 
+              <div class="carousel-item"> <!-- --------------------------------------------------------------------------------------- AKUMA -->
                 <div class="character-item">
-                  <a href="assets/img/personajes/27.jpg" class="glightbox">
-                    <img src="assets/img/personajes/27.jpg" class="character-img img-fluid" alt="Akuma">
+                  <a href="assets/img/personajes/26.jpg" class="glightbox">
+                    <img src="assets/img/personajes/26.jpg" class="character-img img-fluid" alt="Akuma">
                   </a>
                   <h4>Akuma</h4>
                   <p class="description">En su juventud, fue un luchador de enorme talento y con un más que prometedor potencial. Pero una insaciable búsqueda de conocimientos y poder le llevó a superar límites prohibidos. Ahora es más ogro que humano, más demonio que hombre.</p>
                 </div>
               </div>
-              <div class="carousel-item">
+              <div class="carousel-item"> <!-- ------------------------------------------------------------------------------------- M BISON -->
                 <div class="character-item">
-                  <a href="assets/img/personajes/28.jpg" class="glightbox">
-                    <img src="assets/img/personajes/28.jpg" class="character-img img-fluid" alt="M. Bison">
+                  <a href="assets/img/personajes/27.jpg" class="glightbox">
+                    <img src="assets/img/personajes/27.jpg" class="character-img img-fluid" alt="M. Bison">
                   </a>
                   <h4>M. Bison</h4>
                   <p class="description">Tras haber superado las limitaciones de su cuerpo físico, M. Bison anhela obtener el poder definitivo sobre todas las cosas, para lo que no duda en levantar un entramado criminal internacional sin precedentes: Shadaloo.</p>
                 </div>
               </div>
-              <div class="carousel-item">
+              <div class="carousel-item"> <!-- ---------------------------------------------------------------------------------------- CODY -->
                 <div class="character-item">
-                  <a href="assets/img/personajes/29.jpg" class="glightbox">
-                    <img src="assets/img/personajes/29.jpg" class="character-img img-fluid" alt="Cody">
+                  <a href="assets/img/personajes/28.jpg" class="glightbox">
+                    <img src="assets/img/personajes/28.jpg" class="character-img img-fluid" alt="Cody">
                   </a>
                   <h4>Cody</h4>
                   <p class="description">Cody Travers se curtió en las duras calles de Metro City, y con el tiempo se convirtió en un importante aliado del alcalde de la ciudad. Su vida ha sido de todo menos estable, pero nunca ha dejado de luchar contra el crimen.</p>
                 </div>
               </div>
-              <div class="carousel-item">
+              <div class="carousel-item"> <!-- ----------------------------------------------------------------------------------------- ONI -->
                 <div class="character-item">
-                  <a href="assets/img/personajes/30.jpg" class="glightbox">
-                    <img src="assets/img/personajes/30.jpg" class="character-img img-fluid" alt="Oni">
+                  <a href="assets/img/personajes/29.jpg" class="glightbox">
+                    <img src="assets/img/personajes/29.jpg" class="character-img img-fluid" alt="Oni">
                   </a>
                   <h4>Oni</h4>
                   <p class="description">Akuma llevaba décadas poseído por el Satsui no Hado, una misteriosa energía oscura que le otorgaba un enorme poder, pero también corrompía su alma y anulaba su voluntad. Un fatídico día, el hombre desapareció y ya solo quedó el demonio.</p>
                 </div>
               </div>
-              <div class="carousel-item">
+              <div class="carousel-item"> <!-- -------------------------------------------------------------------------------------- DUDLEY -->
                 <div class="character-item">
-                  <a href="assets/img/personajes/31.jpg" class="glightbox">
-                    <img src="assets/img/personajes/31.jpg" class="character-img img-fluid" alt="Dudley">
+                  <a href="assets/img/personajes/30.jpg" class="glightbox">
+                    <img src="assets/img/personajes/30.jpg" class="character-img img-fluid" alt="Dudley">
                   </a>
                   <h4>Dudley</h4>
                   <p class="description">Dudley es un británico de los pies a la cabeza, amante de las reglas y férreo defensor del boxeo como el más noble de los deportes de contacto. Busca en todo momento el honor y devolver a su familia la gloria que un día tuvo.</p>
                 </div>
               </div>
-              <div class="carousel-item">
+              <div class="carousel-item"> <!-- ---------------------------------------------------------------------------------------- ADON -->
                 <div class="character-item">
-                  <a href="assets/img/personajes/32.jpg" class="glightbox">
-                    <img src="assets/img/personajes/32.jpg" class="character-img img-fluid" alt="Adon">
+                  <a href="assets/img/personajes/31.jpg" class="glightbox">
+                    <img src="assets/img/personajes/31.jpg" class="character-img img-fluid" alt="Adon">
                   </a>
                   <h4>Adon</h4>
                   <p class="description">Movido por la ambición de gloria y un afán de superación personal que muchos podrían tachar de obsesivo, Adon está dispuesto a todo con tal de alcanzar el estatus de leyenda nacional como el mejor luchador de muay thai de todos los tiempos.</p>
                 </div>
               </div>
-              <div class="carousel-item">
+              <div class="carousel-item"> <!-- --------------------------------------------------------------------------------------- URIEN -->
                 <div class="character-item">
-                  <a href="assets/img/personajes/33.jpg" class="glightbox">
-                    <img src="assets/img/personajes/33.jpg" class="character-img img-fluid" alt="Urien">
+                  <a href="assets/img/personajes/32.jpg" class="glightbox">
+                    <img src="assets/img/personajes/32.jpg" class="character-img img-fluid" alt="Urien">
                   </a>
                   <h4>Urien</h4>
                   <p class="description">Urien y su hermano Gill fueron elegidos como candidatos para liderar la organización más antigua del planeta, cuya influencia en el orden mundial y el devenir de la humanidad se remonta a tiempos inmemoriables.</p>
                 </div>
               </div>
-              <div class="carousel-item">
+              <div class="carousel-item"> <!-- ---------------------------------------------------------------------------------------- ALEX -->
                 <div class="character-item">
-                  <a href="assets/img/personajes/34.jpg" class="glightbox">
-                    <img src="assets/img/personajes/34.jpg" class="character-img img-fluid" alt="Alex">
+                  <a href="assets/img/personajes/33.jpg" class="glightbox">
+                    <img src="assets/img/personajes/33.jpg" class="character-img img-fluid" alt="Alex">
                   </a>
                   <h4>Alex</h4>
                   <p class="description">Alex es un joven de pocas palabras y algo introvertido, de carácter brusco y en muchas ocasiones modos exagerados. Sin embargo, en realidad tiene un gran sentido de la justicia y es amable con quienes realmente lo merecen.</p>
                 </div>
               </div>
-              <div class="carousel-item">
+              <div class="carousel-item"> <!-- ----------------------------------------------------------------------------------------- KEN -->
                 <div class="character-item">
-                  <a href="assets/img/personajes/35.jpg" class="glightbox">
-                    <img src="assets/img/personajes/35.jpg" class="character-img img-fluid" alt="Ken">
+                  <a href="assets/img/personajes/34.jpg" class="glightbox">
+                    <img src="assets/img/personajes/34.jpg" class="character-img img-fluid" alt="Ken">
                   </a>
                   <h4>Ken</h4>
                   <p class="description">Afligido por haber perdido a su madre cuando aún era un niño, Ken logró superar su pena gracias a las artes marciales, convirtiéndose finalmente en un esmerado padre de familia y en el mejor luchador de todo Estados Unidos.</p>
                 </div>
               </div>
-              <div class="carousel-item">
-                <div class="character-item">
-                  <a href="assets/img/personajes/36.jpg" class="glightbox">
-                    <img src="assets/img/personajes/36.jpg" class="character-img img-fluid" alt="Evil Ryu">
-                  </a>
-                  <h4>Evil Ryu</h4>
-                  <p class="description">Son muchos los misterios que rodean al Satsui no Hado, la poderosa energía maligna capaz de convertir a un luchador en una auténtica máquina de matar. Ryu no ha dejado de combatir contra ella desde que esta comenzó a crecer en su interior.</p>
-                </div>
-              </div>
               <!-- familia XD -------------------------------------------------------------------------------------------------------------- -->
-              <div class="carousel-item">
+              <div class="carousel-item"> <!-- ------------------------------------------------------------------------------------- E HONDA -->
                 <div class="character-item">
-                  <a href="assets/img/personajes/37.jpg" class="glightbox">
-                    <img src="assets/img/personajes/37.jpg" class="character-img img-fluid" alt="E. Honda">
+                  <a href="assets/img/personajes/35.jpg" class="glightbox">
+                    <img src="assets/img/personajes/35.jpg" class="character-img img-fluid" alt="E. Honda">
                   </a>
                   <h4>E. Honda</h4>
                   <p class="description">Edmond Honda ha dedicado toda su vida al sumo, una disciplina que en Japón es, más que un deporte o un arte marcial, toda una institución nacional. Elogiado y alabado en su país, Honda busca ahora nuevos desafíos.</p>
                 </div>
               </div>
-              <div class="carousel-item">
+              <div class="carousel-item"> <!-- ------------------------------------------------------------------------------------- DHALSIM -->
                 <div class="character-item">
-                  <a href="assets/img/personajes/38.jpg" class="glightbox">
-                    <img src="assets/img/personajes/38.jpg" class="character-img img-fluid" alt="Dhalsim">
+                  <a href="assets/img/personajes/36.jpg" class="glightbox">
+                    <img src="assets/img/personajes/36.jpg" class="character-img img-fluid" alt="Dhalsim">
                   </a>
                   <h4>Dhalsim</h4>
                   <p class="description">A pesar de no ser experto en artes marciales ni poseer una constitución fuerte y atlética preparada para la lucha, Dhalsim es uno de los combatientes más respetados por las increíbles habilidades de las que hace gala.</p>
                 </div>
               </div>
-              <div class="carousel-item">
+              <div class="carousel-item"> <!-- ------------------------------------------------------------------------------------- DEE JAY -->
                 <div class="character-item">
-                  <a href="assets/img/personajes/39.jpg" class="glightbox">
-                    <img src="assets/img/personajes/39.jpg" class="character-img img-fluid" alt="Dee Jay">
+                  <a href="assets/img/personajes/37.jpg" class="glightbox">
+                    <img src="assets/img/personajes/37.jpg" class="character-img img-fluid" alt="Dee Jay">
                   </a>
                   <h4>Dee Jay</h4>
                   <p class="description">Dee Jay es un jamaicano experto en kickboxing, cuya vida suele girar entorno a su pasión por la música. De hecho, para él la lucha es un medio que le permite encontrar la inspiración necesaria para dar vida a sus composiciones.</p>
                 </div>
               </div>
-              <div class="carousel-item">
+              <div class="carousel-item"> <!-- --------------------------------------------------------------------------------------- GUILE -->
                 <div class="character-item">
-                  <a href="assets/img/personajes/40.jpg" class="glightbox">
-                    <img src="assets/img/personajes/40.jpg" class="character-img img-fluid" alt="Guile">
+                  <a href="assets/img/personajes/38.jpg" class="glightbox">
+                    <img src="assets/img/personajes/38.jpg" class="character-img img-fluid" alt="Guile">
                   </a>
                   <h4>Guile</h4>
                   <p class="description">Uno de los miembros más destacados de las fuerzas aéreas estadounidenses, Guile, ha seguido el rastro de la organización criminal Shadaloo durante años, y no parará hasta desmantelarla por completo y acabar con su temido líder, M. Bison.</p>
                 </div>
               </div>
-              <div class="carousel-item">
+              <div class="carousel-item"> <!-- --------------------------------------------------------------------------------------- CAMMY -->
                 <div class="character-item">
-                  <a href="assets/img/personajes/41.jpg" class="glightbox">
-                    <img src="assets/img/personajes/41.jpg" class="character-img img-fluid" alt="Cammy">
+                  <a href="assets/img/personajes/39.jpg" class="glightbox">
+                    <img src="assets/img/personajes/39.jpg" class="character-img img-fluid" alt="Cammy">
                   </a>
                   <h4>Cammy</h4>
                   <p class="description">Cammy sirvió a Shadaloo durante años, contra su voluntad e incluso sin ser consciente de ello. Finalmente se libró de la oscura influencia de M. Bison, y ahora está decidida a acabar con la organización criminal a cualquier precio.</p>
                 </div>
               </div>
-              <div class="carousel-item">
+              <div class="carousel-item"> <!-- ------------------------------------------------------------------------------------- ABIGAIL -->
                 <div class="character-item">
-                  <a href="assets/img/personajes/42.jpg" class="glightbox">
-                    <img src="assets/img/personajes/42.jpg" class="character-img img-fluid" alt="Abigail">
+                  <a href="assets/img/personajes/40.jpg" class="glightbox">
+                    <img src="assets/img/personajes/40.jpg" class="character-img img-fluid" alt="Abigail">
                   </a>
                   <h4>Abigail</h4>
                   <p class="description">Tras una vida delictiva, Abigail decidió establecer un negocio legal. A pesar del cambio de rumbo en su vida, su pasado criminal, un feroz temperamento y una inteligencia limitada le siguen jugando alguna que otra mala pasada.</p>
                 </div>
               </div>
               <!-- ------------------------------------------------------ los demás XD ------------------------------------------------------ -->
+              <div class="carousel-item"> <!-- ---------------------------------------------------------------------------------------- LUKE -->
+                <div class="character-item">
+                  <a href="assets/img/personajes/41.jpg" class="glightbox">
+                    <img src="assets/img/personajes/41.jpg" class="character-img img-fluid" alt="Luke">
+                  </a>
+                  <h4>Luke</h4>
+                  <p class="description">Experto en artes marciales mixtas y con un gran sentido de la justicia, Luke aún no tiene claro qué camino quiere tomar en su vida, y espera encontrar la respuesta mientras desafía a los mejores luchadores del mundo.</p>
+                </div>
+              </div>
               <div class="carousel-item"> <!-- --------------------------------------------------------------------------------------- KARIN -->
                 <div class="character-item">
                   <a href="assets/img/personajes/42.jpg" class="glightbox">
@@ -479,7 +479,7 @@
                   <p class="description">Karin Kanzuki lidera uno de los conglomerados empresariales más ricos y poderosos de todo Japón. Esta adolescente millonaria puede parecer ególatra, presuntuosa, y un tanto elitista, pero lo cierto es que, al menos en el ring, siempre acaba demostrando su superioridad.</p>
                 </div>
               </div>
-              <div class="carousel-item">
+              <div class="carousel-item"> <!-- ----------------------------------------------------------------------------------- EL FUERTE -->
                 <div class="character-item">
                   <a href="assets/img/personajes/43.jpg" class="glightbox">
                     <img src="assets/img/personajes/43.jpg" class="character-img img-fluid" alt="El Fuerte">
@@ -488,7 +488,7 @@
                   <p class="description">El Fuerte es un mexicano especialista en lucha libre, además de un aplicado cocinero. Eso sí, aunque en el ring se ha convertido en un luchador de renombre, en la cocina no ha cosechado tanto éxito, aunque él lo ve de otra manera.</p>
                 </div>
               </div>
-              <div class="carousel-item">
+              <div class="carousel-item"> <!-- -------------------------------------------------------------------------------- THUNDER HAWK -->
                 <div class="character-item">
                   <a href="assets/img/personajes/44.jpg" class="glightbox">
                     <img src="assets/img/personajes/44.jpg" class="character-img img-fluid" alt="T. Hawk">
@@ -497,7 +497,7 @@
                   <p class="description">Thunder Hawk vivía una apacible existencia en las tierras ancestrales de su clan, hasta que Shadaloo decidió establecer allí una de sus bases principales y todo cambió tanto para él como para su pueblo. Ahora solo le queda luchar.</p>
                 </div>
               </div>
-              <div class="carousel-item">
+              <div class="carousel-item"> <!-- ----------------------------------------------------------------------------------------- GEN -->
                 <div class="character-item">
                   <a href="assets/img/personajes/45.jpg" class="glightbox">
                     <img src="assets/img/personajes/45.jpg" class="character-img img-fluid" alt="Gen">
@@ -506,7 +506,7 @@
                   <p class="description">La avanzada edad de Gen hace que muchos rivales le tomen por una presa fácil. Pero el anciano no ha perdido ni un ápice de la velocidad ni de la mortífera eficacia de su juventud, y todavía es capaz de tumbar a cualquiera en apenas unos segundos.</p>
                 </div>
               </div>
-              <div class="carousel-item">
+              <div class="carousel-item"> <!-- -------------------------------------------------------------------------------------- GOUKEN -->
                 <div class="character-item">
                   <a href="assets/img/personajes/46.jpg" class="glightbox">
                     <img src="assets/img/personajes/46.jpg" class="character-img img-fluid" alt="Gouken">
@@ -515,7 +515,7 @@
                   <p class="description">La tragedia golpeó a Gouken de muy joven, pero una determinación inquebrantable le permitió seguir adelante. Es el custodio del Ansatsuken, un estilo de lucha cuyo origen se olvidó hace mucho, y ha vencido incluso a la misma muerte.</p>
                 </div>
               </div>
-              <div class="carousel-item">
+              <div class="carousel-item"> <!-- ---------------------------------------------------------------------------------------- HUGO -->
                 <div class="character-item">
                   <a href="assets/img/personajes/47.jpg" class="glightbox">
                     <img src="assets/img/personajes/47.jpg" class="character-img img-fluid" alt="Hugo">
@@ -524,7 +524,7 @@
                   <p class="description">Hugo Andore es un luchador profesional de fuerza sobrenatural pero escaso intelecto. Su incapacidad para tomar decisiones le llevó a delinquir en el pasado, aunque logró reformarse y convertirse tras ello se en un wrestler de éxito.</p>
                 </div>
               </div>
-              <div class="carousel-item">
+              <div class="carousel-item"> <!-- ------------------------------------------------------------------------------------- ZANGIEF -->
                 <div class="character-item">
                   <a href="assets/img/personajes/48.jpg" class="glightbox">
                     <img src="assets/img/personajes/48.jpg" class="character-img img-fluid" alt="Zangief">
@@ -533,7 +533,7 @@
                   <p class="description">Campeón indiscutible de lucha libre en su Rusia natal, Zangief es un combatiente de limitada inteligencia, pero con gran corazón y voluntad de hierro. Un auténtico veterano del wrestling que siempre busca nuevos desafíos en el ring.</p>
                 </div>
               </div>
-              <div class="carousel-item">
+              <div class="carousel-item"> <!-- --------------------------------------------------------------------------------------- HAKAN -->
                 <div class="character-item">
                     <a href="assets/img/personajes/49.jpg" class="glightbox">
                     <img src="assets/img/personajes/49.jpg" class="character-img img-fluid" alt="Hakan">
@@ -542,7 +542,7 @@
                   <p class="description">Hakan es un devoto padre de familia, un empresario emprendedor y un acérrimo defensor de la que es su gran pasión y deporte nacional en su país: la lucha libre turca. Como campeón de dicha disciplina, quiere darla a conocer por el mundo.</p>
                 </div>
               </div>
-              <div class="carousel-item">
+              <div class="carousel-item"> <!-- -------------------------------------------------------------------------------------- BIRDIE -->
                 <div class="character-item">
                   <a href="assets/img/personajes/50.jpg" class="glightbox">
                     <img src="assets/img/personajes/50.jpg" class="character-img img-fluid" alt="Birdie">
@@ -612,15 +612,6 @@
                   </a>
                   <h4>Balrog</h4>
                   <p class="description">Caído en desgracia cuando acariciaba el título de campeón de los pesos pesados, Balrog acabó convirtiéndose en uno de los Cuatro Reyes de la organización criminal Shadaloo. Aunque a él, más que liderar, lo que le gusta es aplastar.</p>
-                </div>
-              </div>
-              <div class="carousel-item">
-                <div class="character-item">
-                  <a href="assets/img/personajes/58.jpg" class="glightbox">
-                    <img src="assets/img/personajes/58.jpg" class="character-img img-fluid" alt="Luke">
-                  </a>
-                  <h4>Luke</h4>
-                  <p class="description">Experto en artes marciales mixtas y con un gran sentido de la justicia, Luke aún no tiene claro qué camino quiere tomar en su vida, y espera encontrar la respuesta mientras desafía a los mejores luchadores del mundo.</p>
                 </div>
               </div>
               <div class="carousel-item">
@@ -774,6 +765,15 @@
                   </a>
                   <h4>Abel</h4>
                   <p class="description">Abel era un luchador experto en judo, pero su pasado era un misterio incluso para sí mismo. Sufría alguna clase de amnesia que le impedía recordar detalle alguno de su niñez o juventud. Decidido a buscar respuestas, acabó emprendiendo un viaje revelador.</p>
+                </div>
+              </div>
+              <div class="carousel-item"> <!-- ------------------------------------------------------------------------------------ EVIL RYU -->
+                <div class="character-item">
+                  <a href="assets/img/personajes/75.jpg" class="glightbox">
+                    <img src="assets/img/personajes/75.jpg" class="character-img img-fluid" alt="Evil Ryu">
+                  </a>
+                  <h4>Evil Ryu</h4>
+                  <p class="description">Son muchos los misterios que rodean al Satsui no Hado, la poderosa energía maligna capaz de convertir a un luchador en una auténtica máquina de matar. Ryu no ha dejado de combatir contra ella desde que esta comenzó a crecer en su interior.</p>
                 </div>
               </div>
             </div>
