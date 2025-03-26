@@ -98,7 +98,7 @@
           <div id="characterCarousel" class="carousel slide" data-bs-interval="false">
             <div class="carousel-inner">
               <!-- favoritas --------------------------------------------------------------------------------------------------------------- -->
-              <div class="carousel-item active">
+              <div class="carousel-item active"> <!-- ------------------------------------------------------------------------------ CHUN LI -->
                 <div class="character-item">
                   <a href="assets/img/personajes/1.jpg" class="glightbox">
                     <img src="assets/img/personajes/1.jpg" class="character-img img-fluid" alt="Chun Li">
@@ -107,7 +107,7 @@
                   <p class="description">Creadora de su propio estilo de lucha, la bella y decidida Chun-Li es una pieza fundamental para acabar con la organización criminal Shadaloo. Siguiendo los pasos de su desaparecido padre, no descansará hasta acabar con M. Bison y todo lo que representa.</p>
                 </div>
               </div>
-              <div class="carousel-item">
+              <div class="carousel-item"> <!-- --------------------------------------------------------------------------------------- AKIRA -->
                 <div class="character-item">
                   <a href="assets/img/personajes/2.jpg" class="glightbox">
                     <img src="assets/img/personajes/2.jpg" class="character-img img-fluid" alt="Akira">
@@ -116,7 +116,7 @@
                   <p class="description">Akira Kazama es una joven a quien le apasionan especialmente dos cosas: las motocicletas y las artes marciales. Ambas pasiones le sirven para enfrentarse a los peligros más insospechados en su ajetreada vida de estudiante.</p>
                 </div>
               </div>
-              <div class="carousel-item">
+              <div class="carousel-item"> <!-- -------------------------------------------------------------------------------------- POISON -->
                 <div class="character-item">
                   <a href="assets/img/personajes/3.jpg" class="glightbox">
                     <img src="assets/img/personajes/3.jpg" class="character-img img-fluid" alt="Poison">
@@ -125,7 +125,7 @@
                   <p class="description">Tras sus desventuras como destacada miembro de la banda criminal Mad Gear, Poison decidió reconstruir su vida como mánager en el circuito de lucha libre profesional, donde cosechó un éxito indiscutible.</p>
                 </div>
               </div>
-              <div class="carousel-item">
+              <div class="carousel-item"> <!-- -------------------------------------------------------------------------------- RAINBOW MIKA -->
                 <div class="character-item">
                   <a href="assets/img/personajes/4.jpg" class="glightbox">
                     <img src="assets/img/personajes/4.jpg" class="character-img img-fluid" alt="Rainbow Mika">
@@ -134,7 +134,7 @@
                   <p class="description">Rainbow Mika es una voluptuosa luchadora de indudable talento que busca crearse un nombre en el circuito de la lucha libre profesional. Su riguroso entrenamiento le permite medirse de igual a igual frente a auténticos colosos del wrestling.</p>
                 </div>
               </div>
-              <div class="carousel-item">
+              <div class="carousel-item"> <!-- --------------------------------------------------------------------------------------- MENAT -->
                 <div class="character-item">
                   <a href="assets/img/personajes/5.jpg" class="glightbox">
                     <img src="assets/img/personajes/5.jpg" class="character-img img-fluid" alt="Menat">
@@ -143,191 +143,182 @@
                   <p class="description">Menat es una joven egipcia capaz de controlar y manipular la energía espiritual conocida como Soul Power, que también le brinda poderes de adivinación. Rose, la principal experta en esta clase de poder, es su maestra desde hace un tiempo.</p>
                 </div>
               </div>
-              <div class="carousel-item">
+              <div class="carousel-item"> <!-- ---------------------------------------------------------------------------------------- ROSE -->
                 <div class="character-item">
                   <a href="assets/img/personajes/6.jpg" class="glightbox">
-                    <img src="assets/img/personajes/6.jpg" class="character-img img-fluid" alt="Juri">
-                  </a>
-                  <h4>Juri</h4>
-                  <p class="description">Consumida por el odio y la venganza, Juri Han posee una personalidad tremendamente inestable, pero también una férrea determinación que la empuja a darlo todo por una única meta: la destrucción de M. Bison y todo lo que representa.</p>
-                </div>
-              </div>
-              <div class="carousel-item">
-                <div class="character-item">
-                  <a href="assets/img/personajes/7.jpg" class="glightbox">
-                    <img src="assets/img/personajes/7.jpg" class="character-img img-fluid" alt="Rose">
+                    <img src="assets/img/personajes/6.jpg" class="character-img img-fluid" alt="Rose">
                   </a>
                   <h4>Rose</h4>
                   <p class="description">M. Bison, el cruel líder de la organización criminal internacional Shadaloo, teme solo una cosa: a Rose, una mística adivina italiana con quien mantiene un extraño vínculo, y quizá la única persona que conoce el secreto de su oscuro pasado.</p>
                 </div>
               </div>
-              <div class="carousel-item">
+              <div class="carousel-item"> <!-- --------------------------------------------------------------------------------------- IBUKI -->
                 <div class="character-item">
-                  <a href="assets/img/personajes/8.jpg" class="glightbox">
-                    <img src="assets/img/personajes/8.jpg" class="character-img img-fluid" alt="Ibuki">
+                  <a href="assets/img/personajes/7.jpg" class="glightbox">
+                    <img src="assets/img/personajes/7.jpg" class="character-img img-fluid" alt="Ibuki">
                   </a>
                   <h4>Ibuki</h4>
                   <p class="description">Ibuki fue entrenada desde su infancia en las artes del ninjutsu, criándose en una aldea en lo más profundo de las montañas japonesas. Cansada del aislamiento, lo que más deseaba la joven era conocer el mundo que la rodeaba.</p>
                 </div>
               </div>
-              <div class="carousel-item">
+              <div class="carousel-item"> <!-- --------------------------------------------------------------------------------------- FALKE -->
                 <div class="character-item">
-                  <a href="assets/img/personajes/9.jpg" class="glightbox">
-                    <img src="assets/img/personajes/9.jpg" class="character-img img-fluid" alt="Falke">
+                  <a href="assets/img/personajes/8.jpg" class="glightbox">
+                    <img src="assets/img/personajes/8.jpg" class="character-img img-fluid" alt="Falke">
                   </a>
                   <h4>Falke</h4>
                   <p class="description">Falke estaba condenada a convertirse en uno de los cuerpos de reemplazo que M. Bison, líder de la organización criminal Shadaloo, guardaba a buen recaudo en sus laboratorios. Afortunadamente, la joven escapó a ese horrible destino.</p>
                 </div>
               </div>
-              <div class="carousel-item">
+              <div class="carousel-item"> <!-- ------------------------------------------------------------------------------- CRIMSON VIPER -->
                 <div class="character-item">
-                  <a href="assets/img/personajes/10.jpg" class="glightbox">
-                    <img src="assets/img/personajes/10.jpg" class="character-img img-fluid" alt="Crimson Viper">
+                  <a href="assets/img/personajes/9.jpg" class="glightbox">
+                    <img src="assets/img/personajes/9.jpg" class="character-img img-fluid" alt="Crimson Viper">
                   </a>
                   <h4>Crimson Viper</h4>
                   <p class="description">Crimson Viper es una combatiente al servicio de la organización criminal S.I.N. cuyo principal cometido es poner a prueba avanzados prototipos armamentísticos en enfrentamientos reales. Pocos saben que también es una agente infiltrada de la CIA.</p>
                 </div>
               </div>
-              <div class="carousel-item">
+              <div class="carousel-item"> <!-- ---------------------------------------------------------------------------------------- JURI -->
                 <div class="character-item">
-                  <a href="assets/img/personajes/11.jpg" class="glightbox">
-                    <img src="assets/img/personajes/11.jpg" class="character-img img-fluid" alt="Karin">
+                  <a href="assets/img/personajes/10.jpg" class="glightbox">
+                    <img src="assets/img/personajes/10.jpg" class="character-img img-fluid" alt="Juri">
                   </a>
-                  <h4>Karin</h4>
-                  <p class="description">Karin Kanzuki lidera uno de los conglomerados empresariales más ricos y poderosos de todo Japón. Esta adolescente millonaria puede parecer ególatra, presuntuosa, y un tanto elitista, pero lo cierto es que, al menos en el ring, siempre acaba demostrando su superioridad.</p>
+                  <h4>Juri</h4>
+                  <p class="description">Consumida por el odio y la venganza, Juri Han posee una personalidad tremendamente inestable, pero también una férrea determinación que la empuja a darlo todo por una única meta: la destrucción de M. Bison y todo lo que representa.</p>
                 </div>
               </div>
               <!-- favoritos --------------------------------------------------------------------------------------------------------------- -->
-              <div class="carousel-item"> 
+              <div class="carousel-item"> <!-- ---------------------------------------------------------------------------------------- VEGA -->
                 <div class="character-item">
-                  <a href="assets/img/personajes/12.jpg" class="glightbox">
-                    <img src="assets/img/personajes/12.jpg" class="character-img img-fluid" alt="Vega">
+                  <a href="assets/img/personajes/11.jpg" class="glightbox">
+                    <img src="assets/img/personajes/11.jpg" class="character-img img-fluid" alt="Vega">
                   </a>
                   <h4>Vega</h4>
                   <p class="description">A Vega no le costó ningún esfuerzo ascender en el escalafón de Shadaloo hasta convertirse en uno de los Cuatro Reyes que lideran la organización criminal. Su habilidad para el asesinato y su falta de escrúpulos le garantizaron el éxito.</p>
                 </div>
               </div>
-              <div class="carousel-item">
+              <div class="carousel-item"> <!-- ----------------------------------------------------------------------------------------- RYU -->
                 <div class="character-item">
-                  <a href="assets/img/personajes/13.jpg" class="glightbox">
-                    <img src="assets/img/personajes/13.jpg" class="character-img img-fluid" alt="Ryu">
+                  <a href="assets/img/personajes/12.jpg" class="glightbox">
+                    <img src="assets/img/personajes/12.jpg" class="character-img img-fluid" alt="Ryu">
                   </a>
                   <h4>Ryu</h4>
                   <p class="description">Ryu busca su superación personal por encima de todo. Sufre la maldición de tener en su interior una poderosa energía oscura que debe contener en todo momento: el Satsui no Hado.</p>
                 </div>
               </div>
-              <div class="carousel-item">
+              <div class="carousel-item"> <!-- -------------------------------------------------------------------------------- CHARLIE NASH -->
                 <div class="character-item">
-                  <a href="assets/img/personajes/14.jpg" class="glightbox">
-                    <img src="assets/img/personajes/14.jpg" class="character-img img-fluid" alt="Charlie Nash">
+                  <a href="assets/img/personajes/13.jpg" class="glightbox">
+                    <img src="assets/img/personajes/13.jpg" class="character-img img-fluid" alt="Charlie Nash">
                   </a>
                   <h4>Charlie</h4>
                   <p class="description">Charlie Nash era un soldado destacado de las fuerzas aéreas norteamericanas con un sentido de la justicia inquebrantable. Luchó contra la corrupción en el ejército, luchó contra Shadaloo, e incluso después de muerto, regresó para luchar una vez más.</p>
                 </div>
               </div>
-              <div class="carousel-item">
+              <div class="carousel-item"> <!-- ---------------------------------------------------------------------------------------- GILL -->
                 <div class="character-item">
-                  <a href="assets/img/personajes/15.jpg" class="glightbox">
-                    <img src="assets/img/personajes/15.jpg" class="character-img img-fluid" alt="Gill">
+                  <a href="assets/img/personajes/14.jpg" class="glightbox">
+                    <img src="assets/img/personajes/14.jpg" class="character-img img-fluid" alt="Gill">
                   </a>
                   <h4>Gill</h4>
                   <p class="description">Gill es posiblemente el ser más poderoso de todo el planeta. Se considera a sí mismo un mesías destinado a guiar a la humanidad hacia una nueva era, y usa los recursos inextinguibles de la Sociedad Secreta que lidera para conseguirlo.</p>
                 </div>
               </div>
-              <div class="carousel-item">
+              <div class="carousel-item"> <!-- --------------------------------------------------------------------------------------- SAGAT -->
                 <div class="character-item">
-                  <a href="assets/img/personajes/16.jpg" class="glightbox">
-                    <img src="assets/img/personajes/16.jpg" class="character-img img-fluid" alt="Sagat">
+                  <a href="assets/img/personajes/15.jpg" class="glightbox">
+                    <img src="assets/img/personajes/15.jpg" class="character-img img-fluid" alt="Sagat">
                   </a>
                   <h4>Sagat</h4>
                   <p class="description">Considerado un héroe nacional en su país, las ansias de venganza de Sagat lo empujaron a convertirse en uno de los líderes de la organización criminal internacional Shadaloo. Solo el tiempo le hizo ser consciente del error de esta decisión.</p>
                 </div>
               </div>
-              <div class="carousel-item">
+              <div class="carousel-item"> <!-- -------------------------------------------------------------------------------------- RASHID -->
                 <div class="character-item">
-                  <a href="assets/img/personajes/17.jpg" class="glightbox">
-                    <img src="assets/img/personajes/17.jpg" class="character-img img-fluid" alt="Rashid">
+                  <a href="assets/img/personajes/16.jpg" class="glightbox">
+                    <img src="assets/img/personajes/16.jpg" class="character-img img-fluid" alt="Rashid">
                   </a>
                   <h4>Rashid</h4>
                   <p class="description">Rashid proviene de una familia aristocrática de Oriente Medio, y le encanta estar al tanto de los avances tecnológicos. Es un usuario devoto de redes sociales y también un viajero dedicado que recorre el mundo junto a Azam, su sirviente fiel.</p>
                 </div>
               </div>
-              <div class="carousel-item">
+              <div class="carousel-item"> <!-- ---------------------------------------------------------------------------------------- KAGE -->
                 <div class="character-item">
-                  <a href="assets/img/personajes/18.jpg" class="glightbox">
-                    <img src="assets/img/personajes/18.jpg" class="character-img img-fluid" alt="Kage">
+                  <a href="assets/img/personajes/17.jpg" class="glightbox">
+                    <img src="assets/img/personajes/17.jpg" class="character-img img-fluid" alt="Kage">
                   </a>
                   <h4>Kage</h4>
                   <p class="description">Tras muchos años luchando contra el mal que anidaba en su interior, Ryu estaba al fin listo para purgarlo de su alma. Pero ¿puede desaparecer realmente una fuerza tan misteriosa, maligna y poderosa como el Satsui no Hado? </p>
                 </div>
               </div>
-              <div class="carousel-item">
+              <div class="carousel-item"> <!-- ----------------------------------------------------------------------------------------- GUY -->
                 <div class="character-item">
-                  <a href="assets/img/personajes/19.jpg" class="glightbox">
-                    <img src="assets/img/personajes/19.jpg" class="character-img img-fluid" alt="Guy">
+                  <a href="assets/img/personajes/18.jpg" class="glightbox">
+                    <img src="assets/img/personajes/18.jpg" class="character-img img-fluid" alt="Guy">
                   </a>
-                  <h4>Ed</h4>
+                  <h4>Guy</h4>
                   <p class="description">Guy ha dedicado buena parte de su vida a perfeccionar sus técnicas ninjutsu con el objetivo de convertirse en el 39.º heredero del arte marcial Bushin?ryu. Su sentido de la justicia le lleva a combatir el mal en todas sus formas.</p>
                 </div>
               </div>
-              <div class="carousel-item">
+              <div class="carousel-item"> <!-- ------------------------------------------------------------------------------------------ ED -->
                 <div class="character-item">
-                  <a href="assets/img/personajes/20.jpg" class="glightbox">
-                    <img src="assets/img/personajes/20.jpg" class="character-img img-fluid" alt="Ed">
+                  <a href="assets/img/personajes/19.jpg" class="glightbox">
+                    <img src="assets/img/personajes/19.jpg" class="character-img img-fluid" alt="Ed">
                   </a>
                   <h4>Ed</h4>
                   <p class="description">Ed es un luchador que ha sufrido numerosas vicisitudes en su corta vida, y todavía le atormentan pesadillas recurrentes. Sin embargo, su capacidad de enfrentarse a las adversidades le permite superar cualquier obstáculo.</p>
                 </div>
               </div>
-              <div class="carousel-item">
+              <div class="carousel-item"> <!-- ------------------------------------------------------------------------------------------- G -->
                 <div class="character-item">
-                  <a href="assets/img/personajes/21.jpg" class="glightbox">
-                    <img src="assets/img/personajes/21.jpg" class="character-img img-fluid" alt="G">
+                  <a href="assets/img/personajes/20.jpg" class="glightbox">
+                    <img src="assets/img/personajes/20.jpg" class="character-img img-fluid" alt="G">
                   </a>
                   <h4>G</h4>
                   <p class="description">Durante la época en que la organización criminal Shadaloo desencadenó la Crisis de las Lunas Negras, un extraño personaje del que nadie sabía nada apareció y se autoproclamó nada menos que presidente del mundo.</p>
                 </div>
               </div>
-              <div class="carousel-item">
+              <div class="carousel-item"> <!-- ------------------------------------------------------------------------------------- NECALLI -->
                 <div class="character-item">
-                  <a href="assets/img/personajes/22.jpg" class="glightbox">
-                    <img src="assets/img/personajes/22.jpg" class="character-img img-fluid" alt="Necalli">
+                  <a href="assets/img/personajes/21.jpg" class="glightbox">
+                    <img src="assets/img/personajes/21.jpg" class="character-img img-fluid" alt="Necalli">
                   </a>
                   <h4>Necalli</h4>
                   <p class="description">Este poderoso ser, constantemente rodeado de una sustancia tóxica, se manifiesta para devorar las almas de los guerreros más poderosos en tiempos de crisis.</p>
                 </div>
               </div>
-              <div class="carousel-item">
+              <div class="carousel-item"> <!-- ---------------------------------------------------------------------------------------- REMY -->
                 <div class="character-item">
-                  <a href="assets/img/personajes/23.jpg" class="glightbox">
-                    <img src="assets/img/personajes/23.jpg" class="character-img img-fluid" alt="Remy">
+                  <a href="assets/img/personajes/22.jpg" class="glightbox">
+                    <img src="assets/img/personajes/22.jpg" class="character-img img-fluid" alt="Remy">
                   </a>
                   <h4>Remy</h4>
                   <p class="description">Remy es un joven luchador de gran talento que, paradójicamente, odia tanto luchar como a quienes practican cualquier clase de arte marcial. Ha perdido todo lo que tiene en la vida, y solo le queda el ansia de venganza.</p>
                 </div>
               </div>
-              <div class="carousel-item">
+              <div class="carousel-item"> <!-- ---------------------------------------------------------------------------------------- ZEKU -->
                 <div class="character-item">
-                  <a href="assets/img/personajes/24.jpg" class="glightbox">
-                    <img src="assets/img/personajes/24.jpg" class="character-img img-fluid" alt="Zeku">
+                  <a href="assets/img/personajes/23.jpg" class="glightbox">
+                    <img src="assets/img/personajes/23.jpg" class="character-img img-fluid" alt="Zeku">
                   </a>
                   <h4>Zeku</h4>
                   <p class="description">Zeku era el líder número 38 del clan de ninjas Bushinryu, hasta que su pupilo, Guy, le sucedió en el cargo. Entonces decidió comenzar un viaje de redescubrimiento personal que le llevó a encontrar un nuevo propósito vital.</p>
                 </div>
               </div>
-              <div class="carousel-item">
+              <div class="carousel-item"> <!-- ------------------------------------------------------------------------------------------- Q -->
                 <div class="character-item">
-                  <a href="assets/img/personajes/25.jpg" class="glightbox">
-                    <img src="assets/img/personajes/25.jpg" class="character-img img-fluid" alt="Q">
+                  <a href="assets/img/personajes/24.jpg" class="glightbox">
+                    <img src="assets/img/personajes/24.jpg" class="character-img img-fluid" alt="Q">
                   </a>
                   <h4>Q</h4>
                   <p class="description">Nadie sabe quién se esconde tras la máscara del individuo conocido únicamente como Q, ni cuáles son sus intenciones. El misterioso sujeto aparece y desaparece a placer en los momenos y lugares más inverosímiles, y su estilo de lucha es completamente heterodoxo.</p>
                 </div>
               </div>
-              <div class="carousel-item">
+              <div class="carousel-item"> <!-- -------------------------------------------------------------------------------------- BLANKA -->
                 <div class="character-item">
-                  <a href="assets/img/personajes/26.jpg" class="glightbox">
-                    <img src="assets/img/personajes/26.jpg" class="character-img img-fluid" alt="Blanka">
+                  <a href="assets/img/personajes/25.jpg" class="glightbox">
+                    <img src="assets/img/personajes/25.jpg" class="character-img img-fluid" alt="Blanka">
                   </a>
                   <h4>Blanka</h4>
                   <p class="description">Aunque su aspecto animal sugiera lo contrario, el luchador conocido como Blanka nunca ha perdido su personalidad humana. Su estilo de lucha, salvaje y caótico, le convierte en uno de los más reputados street fighters de todo el mundo.</p>
@@ -479,6 +470,15 @@
                 </div>
               </div>
               <!-- ------------------------------------------------------ los demás XD ------------------------------------------------------ -->
+              <div class="carousel-item"> <!-- --------------------------------------------------------------------------------------- KARIN -->
+                <div class="character-item">
+                  <a href="assets/img/personajes/42.jpg" class="glightbox">
+                    <img src="assets/img/personajes/42.jpg" class="character-img img-fluid" alt="Karin">
+                  </a>
+                  <h4>Karin</h4>
+                  <p class="description">Karin Kanzuki lidera uno de los conglomerados empresariales más ricos y poderosos de todo Japón. Esta adolescente millonaria puede parecer ególatra, presuntuosa, y un tanto elitista, pero lo cierto es que, al menos en el ring, siempre acaba demostrando su superioridad.</p>
+                </div>
+              </div>
               <div class="carousel-item">
                 <div class="character-item">
                   <a href="assets/img/personajes/43.jpg" class="glightbox">
