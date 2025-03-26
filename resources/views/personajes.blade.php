@@ -551,124 +551,133 @@
                   <p class="description">La escasa inteligencia y la naturaleza conflictiva de Birdie han jugado en su contra en el pasado, haciendo de la precariedad laboral su principal modo de vida. Todo cambió tras su participación en el torneo  World Warrior.</p>
                 </div>
               </div>
-              <div class="carousel-item">
+              <div class="carousel-item"> <!-- ------------------------------------------------------------------------------------- ROLENTO -->
                 <div class="character-item">
                   <a href="assets/img/personajes/51.jpg" class="glightbox">
-                    <img src="assets/img/personajes/51.jpg" class="character-img img-fluid" alt="Sodom">
-                  </a>
-                  <h4>Sodom</h4>
-                  <p class="description">A pesar de haber nacido en los Estados Unidos y ser más norteamericano que las hamburguesas, Sodom se considera un nativo japonés de los pies a la cabeza. Su gran objetivo es restablecer la gloria de la antigua banda Mad Gear.</p>
-                </div>
-              </div>
-              <div class="carousel-item">
-                <div class="character-item">
-                  <a href="assets/img/personajes/52.jpg" class="glightbox">
-                    <img src="assets/img/personajes/52.jpg" class="character-img img-fluid" alt="Rolento">
+                    <img src="assets/img/personajes/51.jpg" class="character-img img-fluid" alt="Rolento">
                   </a>
                   <h4>Rolento</h4>
                   <p class="description">Rolento se curtió en los campos de batalla más duros. Ahora, con una determinación que no conoce límites, busca crear su propia nación militar utópica. A la hora de luchar en peleas callejeras, no duda en echar mano de su arsenal.</p>
                 </div>
               </div>
-              <div class="carousel-item">
+              <div class="carousel-item"> <!-- --------------------------------------------------------------------------------------- SODOM -->
+                <div class="character-item">
+                  <a href="assets/img/personajes/52.jpg" class="glightbox">
+                    <img src="assets/img/personajes/52.jpg" class="character-img img-fluid" alt="Sodom">
+                  </a>
+                  <h4>Sodom</h4>
+                  <p class="description">A pesar de haber nacido en los Estados Unidos y ser más norteamericano que las hamburguesas, Sodom se considera un nativo japonés de los pies a la cabeza. Su gran objetivo es restablecer la gloria de la antigua banda Mad Gear.</p>
+                </div>
+              </div>
+              <div class="carousel-item"> <!-- ------------------------------------------------------------------------------------ FEI LONG -->
                 <div class="character-item">
                   <a href="assets/img/personajes/53.jpg" class="glightbox">
-                    <img src="assets/img/personajes/53.jpg" class="character-img img-fluid" alt="Elena">
-                  </a>
-                  <h4>Elena</h4>
-                  <p class="description">Elena vivía una apacible existencia en Kenia. Como hija del líder de la región tenía un gran sentido de la responsabilidad, era aplicada en sus estudios y una practicante de capoeira muy hábil.</p>
-                </div>
-              </div>
-              <div class="carousel-item">
-                <div class="character-item">
-                  <a href="assets/img/personajes/54.jpg" class="glightbox">
-                    <img src="assets/img/personajes/54.jpg" class="character-img img-fluid" alt="Makoto">
-                  </a>
-                  <h4>Makoto</h4>
-                  <p class="description">Makoto es una adolescente de espíritu fuerte y competitivo, que ha entrenado en el dojo de su padre desde muy pequeña. Su interés por las artes marciales no la convirtió en una chica muy popular entre las de su entorno, pero eso no le hizo cuestionar su pasión.</p>
-                </div>
-              </div>
-              <div class="carousel-item">
-                <div class="character-item">
-                  <a href="assets/img/personajes/55.jpg" class="glightbox">
-                    <img src="assets/img/personajes/55.jpg" class="character-img img-fluid" alt="Fei Long">
+                    <img src="assets/img/personajes/53.jpg" class="character-img img-fluid" alt="Fei Long">
                   </a>
                   <h4>Fei Long</h4>
                   <p class="description">Fei Long es el actor de películas de artes marciales más conocido del mundo. Sin embargo, para él no todo son efectos especiales, ya que además es experto en kung?fu e incluso creador de su propio estilo de lucha.</p>
                 </div>
               </div>
-              <div class="carousel-item">
+              <div class="carousel-item"> <!-- --------------------------------------------------------------------------------------- RUFUS -->
                 <div class="character-item">
-                  <a href="assets/img/personajes/56.jpg" class="glightbox">
-                    <img src="assets/img/personajes/56.jpg" class="character-img img-fluid" alt="Rufus">
+                  <a href="assets/img/personajes/54.jpg" class="glightbox">
+                    <img src="assets/img/personajes/54.jpg" class="character-img img-fluid" alt="Rufus">
                   </a>
                   <h4>Rufus</h4>
                   <p class="description">Rufus tiene una única meta en la vida: obtener el título de campeón de artes marciales de Estados Unidos, que en la actualidad posee Ken Masters. Y aunque su sobrepeso pueda sugerir lo contrario, cuenta con las habilidades para conseguirlo.</p>
                 </div>
               </div>
-              <div class="carousel-item">
+              <div class="carousel-item"> <!-- --------------------------------------------------------------------------------------- ELENA -->
                 <div class="character-item">
-                  <a href="assets/img/personajes/57.jpg" class="glightbox">
-                    <img src="assets/img/personajes/57.jpg" class="character-img img-fluid" alt="Balrog">
+                  <a href="assets/img/personajes/55.jpg" class="glightbox">
+                    <img src="assets/img/personajes/55.jpg" class="character-img img-fluid" alt="Elena">
                   </a>
-                  <h4>Balrog</h4>
-                  <p class="description">Caído en desgracia cuando acariciaba el título de campeón de los pesos pesados, Balrog acabó convirtiéndose en uno de los Cuatro Reyes de la organización criminal Shadaloo. Aunque a él, más que liderar, lo que le gusta es aplastar.</p>
+                  <h4>Elena</h4>
+                  <p class="description">Elena vivía una apacible existencia en Kenia. Como hija del líder de la región tenía un gran sentido de la responsabilidad, era aplicada en sus estudios y una practicante de capoeira muy hábil.</p>
                 </div>
               </div>
-              <div class="carousel-item">
+              <div class="carousel-item"> <!-- -------------------------------------------------------------------------------------- MAKOTO -->
                 <div class="character-item">
-                  <a href="assets/img/personajes/59.jpg" class="glightbox">
-                    <img src="assets/img/personajes/59.jpg" class="character-img img-fluid" alt="Dan">
+                  <a href="assets/img/personajes/56.jpg" class="glightbox">
+                    <img src="assets/img/personajes/56.jpg" class="character-img img-fluid" alt="Makoto">
+                  </a>
+                  <h4>Makoto</h4>
+                  <p class="description">Makoto es una adolescente de espíritu fuerte y competitivo, que ha entrenado en el dojo de su padre desde muy pequeña. Su interés por las artes marciales no la convirtió en una chica muy popular entre las de su entorno, pero eso no le hizo cuestionar su pasión.</p>
+                </div>
+              </div>
+              <div class="carousel-item"> <!-- ----------------------------------------------------------------------------------------- DAN -->
+                <div class="character-item">
+                  <a href="assets/img/personajes/57.jpg" class="glightbox">
+                    <img src="assets/img/personajes/57.jpg" class="character-img img-fluid" alt="Dan">
                   </a>
                   <h4>Dan</h4>
                   <p class="description">Dan «The Man» Hibiki es un luchador particularmente estrafalario, cuya concepción de sí mismo no encaja demasiado bien con la realidad. Sus combates se cuentan por derrotas, y suele meterse en problemas que le quedan demasiado grandes.</p>
                 </div>
               </div>
-              <div class="carousel-item">
+              <div class="carousel-item"> <!-- -------------------------------------------------------------------------------------- SAKURA -->
                 <div class="character-item">
-                  <a href="assets/img/personajes/60.jpg" class="glightbox">
-                    <img src="assets/img/personajes/60.jpg" class="character-img img-fluid" alt="Sakura">
+                  <a href="assets/img/personajes/58.jpg" class="glightbox">
+                    <img src="assets/img/personajes/58.jpg" class="character-img img-fluid" alt="Sakura">
                   </a>
                   <h4>Sakura</h4>
                   <p class="description">Sakura es una estudiante alegre y vivaz que muestra una gran pasión por todo lo que tiene que ver con las artes marciales, hasta el punto de haberse convertido en una experta luchadora de manera completamente autodidacta.</p>
                 </div>
               </div>
-              <div class="carousel-item">
+              <div class="carousel-item"> <!-- ---------------------------------------------------------------------------------------- YANG -->
+                <div class="character-item">
+                  <a href="assets/img/personajes/59.jpg" class="glightbox">
+                    <img src="assets/img/personajes/59.jpg" class="character-img img-fluid" alt="Yang">
+                  </a>
+                  <h4>Yang</h4>
+                  <p class="description">Yang es el menor de los dos hermanos Lee. Ambos no solo residen en Hong Kong, sino que son miembros respetados de su comunidad. Tiene un fuerte sentido del honor que le lleva a lidiar en disputas locales y combatir injusticias allá donde se presenten.</p>
+                </div>
+              </div>
+              <div class="carousel-item"> <!-- ----------------------------------------------------------------------------------------- YUN -->
+                <div class="character-item">
+                  <a href="assets/img/personajes/60.jpg" class="glightbox">
+                    <img src="assets/img/personajes/60.jpg" class="character-img img-fluid" alt="Yun">
+                  </a>
+                  <h4>Yun</h4>
+                  <p class="description">Yun es el mayor de los dos gemelos Lee. Tiene un carácter enérgico y extrovertido, y suele ser impulsivo a la hora de tomar decisiones, pero siempre lo hace motivado por lo que cree que es el bien para su comunidad y con la intención de ayudar al prójimo.</p>
+                </div>
+              </div>
+              <div class="carousel-item"> <!-- ---------------------------------------------------------------------------------------- SEAN -->
                 <div class="character-item">
                   <a href="assets/img/personajes/61.jpg" class="glightbox">
-                    <img src="assets/img/personajes/61.jpg" class="character-img img-fluid" alt="Oro">
-                  </a>
-                  <h4>Oro</h4>
-                  <p class="description">Con nada más y nada menos que 140 años a sus espaldas, Oro es un viejo maestro legendario. Retirado a una cueva de la selva amazónica durante años, decide salir de ella para buscar un discípulo a quien traspasar su legado.</p>
-                </div>
-              </div>
-              <div class="carousel-item">
-                <div class="character-item">
-                  <a href="assets/img/personajes/62.jpg" class="glightbox">
-                    <img src="assets/img/personajes/62.jpg" class="character-img img-fluid" alt="F.A.N.G">
-                  </a>
-                  <h4>F.A.N.G</h4>
-                  <p class="description">Entrenado desde la infancia como un asesino experto en todo tipo de venenos, F.A.N.G ascendió rápidamente en el escalafón de Shadaloo hasta entrar en la cúpula de los Cuatro Reyes de la organización criminal.</p>
-                </div>
-              </div>
-              <div class="carousel-item">
-                <div class="character-item">
-                  <a href="assets/img/personajes/63.jpg" class="glightbox">
-                    <img src="assets/img/personajes/63.jpg" class="character-img img-fluid" alt="Sean">
+                    <img src="assets/img/personajes/61.jpg" class="character-img img-fluid" alt="Sean">
                   </a>
                   <h4>Sean</h4>
                   <p class="description">Sean Matsuda es miembro de una familia con grandes expertos en artes marciales. A él, no obstante, le interesaba más practicar deportes como el baloncesto, pero tras ver en acción a Ken Masters, decidió seguir sus pasos.</p>
                 </div>
               </div>
-              <div class="carousel-item">
+              <div class="carousel-item"> <!-- --------------------------------------------------------------------------------------- LAURA -->
                 <div class="character-item">
-                  <a href="assets/img/personajes/64.jpg" class="glightbox">
-                    <img src="assets/img/personajes/64.jpg" class="character-img img-fluid" alt="Laura">
+                  <a href="assets/img/personajes/62.jpg" class="glightbox">
+                    <img src="assets/img/personajes/62.jpg" class="character-img img-fluid" alt="Laura">
                   </a>
                   <h4>Laura</h4>
                   <p class="description">Como heredera del estilo Matsuda Jiu-Jitsu, Laura acostumbraba a ponerse a prueba midiéndose contra los mejores luchadores a su alcance. Eso le llevó a forjar grandes amistades, pero también a ser objetivo de adversarios muy peligrosos.</p>
                 </div> 
               </div>
-              <div class="carousel-item">
+              <div class="carousel-item"> <!-- -------------------------------------------------------------------------------------- BALROG -->
+                <div class="character-item">
+                  <a href="assets/img/personajes/63.jpg" class="glightbox">
+                    <img src="assets/img/personajes/63.jpg" class="character-img img-fluid" alt="Balrog">
+                  </a>
+                  <h4>Balrog</h4>
+                  <p class="description">Caído en desgracia cuando acariciaba el título de campeón de los pesos pesados, Balrog acabó convirtiéndose en uno de los Cuatro Reyes de la organización criminal Shadaloo. Aunque a él, más que liderar, lo que le gusta es aplastar.</p>
+                </div>
+              </div>
+              <div class="carousel-item"> <!-- ----------------------------------------------------------------------------------------- ORO -->
+                <div class="character-item">
+                  <a href="assets/img/personajes/64.jpg" class="glightbox">
+                    <img src="assets/img/personajes/64.jpg" class="character-img img-fluid" alt="Oro">
+                  </a>
+                  <h4>Oro</h4>
+                  <p class="description">Con nada más y nada menos que 140 años a sus espaldas, Oro es un viejo maestro legendario. Retirado a una cueva de la selva amazónica durante años, decide salir de ella para buscar un discípulo a quien traspasar su legado.</p>
+                </div>
+              </div>
+              <div class="carousel-item"> <!-- --------------------------------------------------------------------------------------- KOLIN -->
                 <div class="character-item">
                   <a href="assets/img/personajes/65.jpg" class="glightbox">
                     <img src="assets/img/personajes/65.jpg" class="character-img img-fluid" alt="Kolin">
@@ -677,7 +686,7 @@
                   <p class="description">Cuando la misteriosa Sociedad Secreta decreta la destrucción de Shadaloo, Kolin se convierte en el brazo ejecutor de la sentencia, y no se detendrá hasta que la organización criminal acabe reducida a cenizas.</p>
                 </div>
               </div>
-              <div class="carousel-item">     
+              <div class="carousel-item"> <!-- --------------------------------------------------------------------------------------- LUCIA -->
                 <div class="character-item">
                   <a href="assets/img/personajes/66.jpg" class="glightbox">
                     <img src="assets/img/personajes/66.jpg" class="character-img img-fluid" alt="Lucia">
@@ -686,16 +695,16 @@
                   <p class="description">No es fácil ser policía en Metro City, donde las bandas callejeras y el crimen organizado insisten en echar raíces y continuamente tratan de prosperar y hacerse con el control de la ciudad. Por eso, para la joven Lucia Morgan combatir el crimen es más que un deber.</p>
                 </div>
               </div>
-              <div class="carousel-item">
+              <div class="carousel-item"> <!-- ---------------------------------------------------------------------------------------- ABEL -->
                 <div class="character-item">
                   <a href="assets/img/personajes/67.jpg" class="glightbox">
-                    <img src="assets/img/personajes/67.jpg" class="character-img img-fluid" alt="Seth">
+                    <img src="assets/img/personajes/67.jpg" class="character-img img-fluid" alt="Abel">
                   </a>
-                  <h4>Seth</h4>
-                  <p class="description">A Seth se le conocía originalmente como Número 15, ya que se trataba de un cuerpo mejorado cuyo propósito era llegar a servir de reemplazo para el de M. Bison. Sin embargo, acabó adquiriendo consciencia propia, y se convirtió en un enemigo muy poderoso.</p>
+                  <h4>Abel</h4>
+                  <p class="description">Abel era un luchador experto en judo, pero su pasado era un misterio incluso para sí mismo. Sufría alguna clase de amnesia que le impedía recordar detalle alguno de su niñez o juventud. Decidido a buscar respuestas, acabó emprendiendo un viaje revelador.</p>
                 </div>
               </div>
-              <div class="carousel-item">
+              <div class="carousel-item"> <!-- ------------------------------------------------------------------------------------- DECAPRE -->
                 <div class="character-item">
                   <a href="assets/img/personajes/68.jpg" class="glightbox">
                     <img src="assets/img/personajes/68.jpg" class="character-img img-fluid" alt="Decapre">
@@ -704,67 +713,58 @@
                   <p class="description">Decapre forma parte de uno de los cuerpos de élite de Shadaloo más temidos, conocido como las Dolls («Las muñecas»). De las doce jóvenes que conforman este grupo, Decapre es con diferencia la más inestable, peligrosa e impredecible.</p>
                 </div>
               </div>
-              <div class="carousel-item">
+              <div class="carousel-item"> <!-- ---------------------------------------------------------------------------------------- FANG -->
                 <div class="character-item">
                   <a href="assets/img/personajes/69.jpg" class="glightbox">
-                    <img src="assets/img/personajes/69.jpg" class="character-img img-fluid" alt="Twelve">
+                    <img src="assets/img/personajes/69.jpg" class="character-img img-fluid" alt="F.A.N.G">
+                  </a>
+                  <h4>F.A.N.G</h4>
+                  <p class="description">Entrenado desde la infancia como un asesino experto en todo tipo de venenos, F.A.N.G ascendió rápidamente en el escalafón de Shadaloo hasta entrar en la cúpula de los Cuatro Reyes de la organización criminal.</p>
+                </div>
+              </div>
+              <div class="carousel-item">  <!-- --------------------------------------------------------------------------------------- SETH -->
+                <div class="character-item">
+                  <a href="assets/img/personajes/70.jpg" class="glightbox">
+                    <img src="assets/img/personajes/70.jpg" class="character-img img-fluid" alt="Seth">
+                  </a>
+                  <h4>Seth</h4>
+                  <p class="description">A Seth se le conocía originalmente como Número 15, ya que se trataba de un cuerpo mejorado cuyo propósito era llegar a servir de reemplazo para el de M. Bison. Sin embargo, acabó adquiriendo consciencia propia, y se convirtió en un enemigo muy poderoso.</p>
+                </div>
+              </div>
+              <div class="carousel-item"> <!-- -------------------------------------------------------------------------------------- TWELVE -->
+                <div class="character-item">
+                  <a href="assets/img/personajes/71.jpg" class="glightbox">
+                    <img src="assets/img/personajes/71.jpg" class="character-img img-fluid" alt="Twelve">
                   </a>
                   <h4>Twelve</h4>
                   <p class="description">La Sociedad Secreta ha aprovechado los avances de la humanidad en su propio beneficio. En la era moderna, la ingeniería genética es uno de sus principales campos de investigación.</p>
                 </div>
               </div>
-              <div class="carousel-item">
+              <div class="carousel-item"> <!-- --------------------------------------------------------------------------------------- NECRO -->
                 <div class="character-item">
-                  <a href="assets/img/personajes/70.jpg" class="glightbox">
-                    <img src="assets/img/personajes/70.jpg" class="character-img img-fluid" alt="Necro">
+                  <a href="assets/img/personajes/72.jpg" class="glightbox">
+                    <img src="assets/img/personajes/72.jpg" class="character-img img-fluid" alt="Necro">
                   </a>
                   <h4>Necro</h4>
                   <p class="description">Una intrigante sociedad secreta lleva miles de años gobernando el mundo desde las sombras. Sus líderes actuales usan la ingeniería genética para crear eficientes y obedientes soldados que sirvan a sus planes.</p>
                 </div>
               </div>
-              <div class="carousel-item">
+              <div class="carousel-item"> <!-- ---------------------------------------------------------------------------------------- JUNI -->
                 <div class="character-item">
-                  <a href="assets/img/personajes/71.jpg" class="glightbox">
-                    <img src="assets/img/personajes/71.jpg" class="character-img img-fluid" alt="Juni">
+                  <a href="assets/img/personajes/73.jpg" class="glightbox">
+                    <img src="assets/img/personajes/73.jpg" class="character-img img-fluid" alt="Juni">
                   </a>
                   <h4>Juni</h4>
                   <p class="description">Juni ejercía de asesina y guardaespaldas para M. Bison, el líder de la organización criminal Shadaloo. La devoción y entrega de la joven a los designios de su líder era incondicional, aunque no siempre había sido así.</p>
                 </div>
               </div>
-              <div class="carousel-item">
+              <div class="carousel-item"> <!-- ---------------------------------------------------------------------------------------- JULI -->
                 <div class="character-item">
-                  <a href="assets/img/personajes/72.jpg" class="glightbox">
-                    <img src="assets/img/personajes/72.jpg" class="character-img img-fluid" alt="Juli">
+                  <a href="assets/img/personajes/74.jpg" class="glightbox">
+                    <img src="assets/img/personajes/74.jpg" class="character-img img-fluid" alt="Juli">
                   </a>
                   <h4>Juli</h4>
                   <p class="description">Juli era una integrante destacada de la unidad Doll. Como el resto de sus compañeras, había sido secuestrada y adoctrinada por Shadaloo para servir bajo las órdenes directas de M. Bison, líder de la organización criminal.</p>
-                </div>
-              </div>
-              <div class="carousel-item">
-                <div class="character-item">
-                  <a href="assets/img/personajes/73.jpg" class="glightbox">
-                    <img src="assets/img/personajes/73.jpg" class="character-img img-fluid" alt="Yun">
-                  </a>
-                  <h4>Yun</h4>
-                  <p class="description">Yun es el mayor de los dos gemelos Lee. Tiene un carácter enérgico y extrovertido, y suele ser impulsivo a la hora de tomar decisiones, pero siempre lo hace motivado por lo que cree que es el bien para su comunidad y con la intención de ayudar al prójimo.</p>
-                </div>
-              </div>
-              <div class="carousel-item">
-                <div class="character-item">
-                  <a href="assets/img/personajes/74.jpg" class="glightbox">
-                    <img src="assets/img/personajes/74.jpg" class="character-img img-fluid" alt="Yang">
-                  </a>
-                  <h4>Yang</h4>
-                  <p class="description">Yang es el menor de los dos hermanos Lee. Ambos no solo residen en Hong Kong, sino que son miembros respetados de su comunidad. Tiene un fuerte sentido del honor que le lleva a lidiar en disputas locales y combatir injusticias allá donde se presenten.</p>
-                </div>
-              </div>
-              <div class="carousel-item">
-                <div class="character-item">
-                  <a href="assets/img/personajes/75.jpg" class="glightbox">
-                    <img src="assets/img/personajes/75.jpg" class="character-img img-fluid" alt="Abel">
-                  </a>
-                  <h4>Abel</h4>
-                  <p class="description">Abel era un luchador experto en judo, pero su pasado era un misterio incluso para sí mismo. Sufría alguna clase de amnesia que le impedía recordar detalle alguno de su niñez o juventud. Decidido a buscar respuestas, acabó emprendiendo un viaje revelador.</p>
                 </div>
               </div>
               <div class="carousel-item"> <!-- ------------------------------------------------------------------------------------ EVIL RYU -->
