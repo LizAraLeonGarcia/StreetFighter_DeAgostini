@@ -198,19 +198,19 @@
                 <td>54</td>
                 <td>Q</td>
                 <td>18 febrero 2025</td>
-                <td>$</td>
+                <td>$420</td>
               </tr>
               <tr class="fila55">
                 <td style="color: white;">55</td>
                 <td style="color: white;">Kolin</td>
                 <td style="color: white;">4 marzo 2025</td>
-                <td style="color: white;">$</td>
+                <td style="color: white;">$420</td>
               </tr>
               <tr class="fila56">
                 <td>56</td>
                 <td>Rashid</td>
                 <td>18 marzo 2025</td>
-                <td>$</td>
+                <td>$420</td>
               </tr>
               <tr class="fila57">
                 <td>57</td>

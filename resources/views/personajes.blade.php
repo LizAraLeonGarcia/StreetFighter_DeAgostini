@@ -18,44 +18,46 @@
             <li data-bs-target="#characterCarousel" data-bs-slide-to="2">Poison (#29)</li>
             <li data-bs-target="#characterCarousel" data-bs-slide-to="3">R. Mika (#22)</li>
             <li data-bs-target="#characterCarousel" data-bs-slide-to="4">Menat (#61)</li>
-            <li data-bs-target="#characterCarousel" data-bs-slide-to="5">Juri (#39)</li>
-            <li data-bs-target="#characterCarousel" data-bs-slide-to="6">Rose (#20)</li>
-            <li data-bs-target="#characterCarousel" data-bs-slide-to="7">Ibuki (#25)</li>
-            <li data-bs-target="#characterCarousel" data-bs-slide-to="8">Falke (#62)</li>
-            <li data-bs-target="#characterCarousel" data-bs-slide-to="9">C. Viper(#27)</li>
-            <li data-bs-target="#characterCarousel" data-bs-slide-to="10">Karin (#33)</li>
-            <li data-bs-target="#characterCarousel" data-bs-slide-to="11">Vega (#6)</li>
-            <li data-bs-target="#characterCarousel" data-bs-slide-to="12">Ryu (#1)</li>
-            <li data-bs-target="#characterCarousel" data-bs-slide-to="13">Charlie Nash (#37)</li>
-            <li data-bs-target="#characterCarousel" data-bs-slide-to="14">Gill (#57)</li>
-            <li data-bs-target="#characterCarousel" data-bs-slide-to="15">Sagat (#4)</li>
-            <li data-bs-target="#characterCarousel" data-bs-slide-to="16">Rashid (#56)</li>
-            <li data-bs-target="#characterCarousel" data-bs-slide-to="17">Kage (#69)</li>
-            <li data-bs-target="#characterCarousel" data-bs-slide-to="18">Guy (#45)</li>
-            <li data-bs-target="#characterCarousel" data-bs-slide-to="19">Ed (#66)</li>
-            <li data-bs-target="#characterCarousel" data-bs-slide-to="20">G (#63)</li>
-            <li data-bs-target="#characterCarousel" data-bs-slide-to="21">Necalli (#59)</li>
-            <li data-bs-target="#characterCarousel" data-bs-slide-to="22">Remy (#64)</li>
-            <li data-bs-target="#characterCarousel" data-bs-slide-to="23">Zeku (#67)</li>
-            <li data-bs-target="#characterCarousel" data-bs-slide-to="24">Q (#54)</li>
+            <li data-bs-target="#characterCarousel" data-bs-slide-to="5">Rose (#20)</li>
+            <li data-bs-target="#characterCarousel" data-bs-slide-to="6">Ibuki (#25)</li>
+            <li data-bs-target="#characterCarousel" data-bs-slide-to="7">Falke (#62)</li>
+            <li data-bs-target="#characterCarousel" data-bs-slide-to="8">C. Viper(#27)</li>
+            <li data-bs-target="#characterCarousel" data-bs-slide-to="9">Juri (#39)</li>
 
-            <li data-bs-target="#characterCarousel" data-bs-slide-to="25">Blanka (#5)</li>
-            <li data-bs-target="#characterCarousel" data-bs-slide-to="26">Akuma (#16)</li>
-            <li data-bs-target="#characterCarousel" data-bs-slide-to="27">M. Bison (#3)</li>
-            <li data-bs-target="#characterCarousel" data-bs-slide-to="28">Cody (#24)</li>
-            <li data-bs-target="#characterCarousel" data-bs-slide-to="29">Oni (#32)</li>
-            <li data-bs-target="#characterCarousel" data-bs-slide-to="30">Dudley (#30)</li>
-            <li data-bs-target="#characterCarousel" data-bs-slide-to="31">Adon (#19)</li>
-            <li data-bs-target="#characterCarousel" data-bs-slide-to="32">Urien (#48)</li>
-            <li data-bs-target="#characterCarousel" data-bs-slide-to="33">Alex (#52)</li>
-            <li data-bs-target="#characterCarousel" data-bs-slide-to="34">Ken (#2)</li>
-            <li data-bs-target="#characterCarousel" data-bs-slide-to="35">Evil Ryu (#31)</li>
-            <li data-bs-target="#characterCarousel" data-bs-slide-to="36">E. Honda (#12)</li>
-            <li data-bs-target="#characterCarousel" data-bs-slide-to="37">Dhalsim (#9)</li>
-            <li data-bs-target="#characterCarousel" data-bs-slide-to="38">Dee Jay (#18)</li>
-            <li data-bs-target="#characterCarousel" data-bs-slide-to="39">Guile (#8)</li>
-            <li data-bs-target="#characterCarousel" data-bs-slide-to="40">Cammy (#14)</li>
-            <li data-bs-target="#characterCarousel" data-bs-slide-to="41">Abigail (#70)</li>
+            <li data-bs-target="#characterCarousel" data-bs-slide-to="10">Vega (#6)</li>
+            <li data-bs-target="#characterCarousel" data-bs-slide-to="11">Ryu (#1)</li>
+            <li data-bs-target="#characterCarousel" data-bs-slide-to="12">Charlie Nash (#37)</li>
+            <li data-bs-target="#characterCarousel" data-bs-slide-to="13">Gill (#57)</li>
+            <li data-bs-target="#characterCarousel" data-bs-slide-to="14">Sagat (#4)</li>
+            <li data-bs-target="#characterCarousel" data-bs-slide-to="15">Rashid (#56)</li>
+            <li data-bs-target="#characterCarousel" data-bs-slide-to="16">Kage (#69)</li>
+            <li data-bs-target="#characterCarousel" data-bs-slide-to="17">Guy (#45)</li>
+            <li data-bs-target="#characterCarousel" data-bs-slide-to="18">Ed (#66)</li>
+            <li data-bs-target="#characterCarousel" data-bs-slide-to="19">G (#63)</li>
+            <li data-bs-target="#characterCarousel" data-bs-slide-to="20">Necalli (#59)</li>
+            <li data-bs-target="#characterCarousel" data-bs-slide-to="21">Remy (#64)</li>
+            <li data-bs-target="#characterCarousel" data-bs-slide-to="22">Zeku (#67)</li>
+            <li data-bs-target="#characterCarousel" data-bs-slide-to="23">Q (#54)</li>
+            <li data-bs-target="#characterCarousel" data-bs-slide-to="24">Blanka (#5)</li>
+            <li data-bs-target="#characterCarousel" data-bs-slide-to="25">Akuma (#16)</li>
+            <li data-bs-target="#characterCarousel" data-bs-slide-to="26">M. Bison (#3)</li>
+            <li data-bs-target="#characterCarousel" data-bs-slide-to="27">Cody (#24)</li>
+            <li data-bs-target="#characterCarousel" data-bs-slide-to="28">Oni (#32)</li>
+            <li data-bs-target="#characterCarousel" data-bs-slide-to="29">Dudley (#30)</li>
+            <li data-bs-target="#characterCarousel" data-bs-slide-to="30">Adon (#19)</li>
+            <li data-bs-target="#characterCarousel" data-bs-slide-to="31">Urien (#48)</li>
+            <li data-bs-target="#characterCarousel" data-bs-slide-to="32">Alex (#52)</li>
+            <li data-bs-target="#characterCarousel" data-bs-slide-to="33">Ken (#2)</li>
+
+            <li data-bs-target="#characterCarousel" data-bs-slide-to="34">E. Honda (#12)</li>
+            <li data-bs-target="#characterCarousel" data-bs-slide-to="35">Dhalsim (#9)</li>
+            <li data-bs-target="#characterCarousel" data-bs-slide-to="36">Dee Jay (#18)</li>
+            <li data-bs-target="#characterCarousel" data-bs-slide-to="37">Guile (#8)</li>
+            <li data-bs-target="#characterCarousel" data-bs-slide-to="38">Cammy (#14)</li>
+            <li data-bs-target="#characterCarousel" data-bs-slide-to="39">Abigail (#70)</li>
+
+            <li data-bs-target="#characterCarousel" data-bs-slide-to="40">Luke (#75)</li>
+            <li data-bs-target="#characterCarousel" data-bs-slide-to="41">Karin (#33)</li>
             <li data-bs-target="#characterCarousel" data-bs-slide-to="42">El Fuerte (#42)</li>
             <li data-bs-target="#characterCarousel" data-bs-slide-to="43">T. Hawk (#13)</li>
             <li data-bs-target="#characterCarousel" data-bs-slide-to="44">Gen (#26)</li>
@@ -64,32 +66,31 @@
             <li data-bs-target="#characterCarousel" data-bs-slide-to="47">Zangief (#10)</li>
             <li data-bs-target="#characterCarousel" data-bs-slide-to="48">Hakan (#41)</li>
             <li data-bs-target="#characterCarousel" data-bs-slide-to="49">Birdie (#58)</li>
-
-            <li data-bs-target="#characterCarousel" data-bs-slide-to="50">Sodom (#71)</li>
-            <li data-bs-target="#characterCarousel" data-bs-slide-to="51">Rolento (#40)</li>
-            <li data-bs-target="#characterCarousel" data-bs-slide-to="52">Elena (#36)</li>
-            <li data-bs-target="#characterCarousel" data-bs-slide-to="53">Makoto (#23)</li>
-            <li data-bs-target="#characterCarousel" data-bs-slide-to="54">Fei Long (#15)</li>
-            <li data-bs-target="#characterCarousel" data-bs-slide-to="55">Rufus (#47)</li>
-            <li data-bs-target="#characterCarousel" data-bs-slide-to="56">Balrog (#11)</li>
-            <li data-bs-target="#characterCarousel" data-bs-slide-to="57">Luke (#75)</li>
-            <li data-bs-target="#characterCarousel" data-bs-slide-to="58">Dan (#21)</li>
-            <li data-bs-target="#characterCarousel" data-bs-slide-to="59">Sakura (#17)</li>
-            <li data-bs-target="#characterCarousel" data-bs-slide-to="60">Oro (#51)</li>
-            <li data-bs-target="#characterCarousel" data-bs-slide-to="61">F.A.N.G (#60)</li>
-            <li data-bs-target="#characterCarousel" data-bs-slide-to="62">Sean (#49)</li>
-            <li data-bs-target="#characterCarousel" data-bs-slide-to="63">Laura (#50)</li>
+            <li data-bs-target="#characterCarousel" data-bs-slide-to="50">Rolento (#40)</li>
+            <li data-bs-target="#characterCarousel" data-bs-slide-to="51">Sodom (#71)</li>
+            <li data-bs-target="#characterCarousel" data-bs-slide-to="52">Fei Long (#15)</li>
+            <li data-bs-target="#characterCarousel" data-bs-slide-to="53">Rufus (#47)</li>
+            <li data-bs-target="#characterCarousel" data-bs-slide-to="54">Elena (#36)</li>
+            <li data-bs-target="#characterCarousel" data-bs-slide-to="55">Makoto (#23)</li>
+            <li data-bs-target="#characterCarousel" data-bs-slide-to="56">Dan (#21)</li>
+            <li data-bs-target="#characterCarousel" data-bs-slide-to="57">Sakura (#17)</li>
+            <li data-bs-target="#characterCarousel" data-bs-slide-to="58">Yang (#35)</li>
+            <li data-bs-target="#characterCarousel" data-bs-slide-to="59">Yun (#35)</li>
+            <li data-bs-target="#characterCarousel" data-bs-slide-to="60">Sean (#49)</li>
+            <li data-bs-target="#characterCarousel" data-bs-slide-to="61">Laura (#50)</li>
+            <li data-bs-target="#characterCarousel" data-bs-slide-to="62">Balrog (#11)</li>
+            <li data-bs-target="#characterCarousel" data-bs-slide-to="63">Oro (#51)</li>
             <li data-bs-target="#characterCarousel" data-bs-slide-to="64">Kolin (#55)</li>
             <li data-bs-target="#characterCarousel" data-bs-slide-to="65">Lucia (#68)</li>
-            <li data-bs-target="#characterCarousel" data-bs-slide-to="66">Seth (#46)</li>
+            <li data-bs-target="#characterCarousel" data-bs-slide-to="66">Abel (#39)</li>
             <li data-bs-target="#characterCarousel" data-bs-slide-to="67">Decapre (#43)</li>
-            <li data-bs-target="#characterCarousel" data-bs-slide-to="68">Twelve (#65)</li>
-            <li data-bs-target="#characterCarousel" data-bs-slide-to="69">Necro (#53)</li>
-            <li data-bs-target="#characterCarousel" data-bs-slide-to="70">Juni (#73)</li>
-            <li data-bs-target="#characterCarousel" data-bs-slide-to="71">Juli (#74)</li>
-            <li data-bs-target="#characterCarousel" data-bs-slide-to="72">Yun (#35)</li>
-            <li data-bs-target="#characterCarousel" data-bs-slide-to="73">Yang (#35)</li>
-            <li data-bs-target="#characterCarousel" data-bs-slide-to="74">Abel (#39)</li>
+            <li data-bs-target="#characterCarousel" data-bs-slide-to="68">F.A.N.G (#60)</li>
+            <li data-bs-target="#characterCarousel" data-bs-slide-to="69">Seth (#46)</li>
+            <li data-bs-target="#characterCarousel" data-bs-slide-to="70">Twelve (#65)</li>
+            <li data-bs-target="#characterCarousel" data-bs-slide-to="71">Necro (#53)</li>
+            <li data-bs-target="#characterCarousel" data-bs-slide-to="72">Juni (#73)</li>
+            <li data-bs-target="#characterCarousel" data-bs-slide-to="73">Juli (#74)</li>
+            <li data-bs-target="#characterCarousel" data-bs-slide-to="74">Evil Ryu (#31)</li>
           </ol>
         </div> <!-- contenedor de la lista / paginación -->
         <!-- ----------------------------------------------------------------------------------------------------------- Columna de carrusel -->        
