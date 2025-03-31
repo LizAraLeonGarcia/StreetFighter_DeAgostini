@@ -1,15 +1,15 @@
-/* Estilo para el nav */
+/* *********************************************************** Estilo  contenedor *********************************************************** */
 .navmenu {
   background-color: #000000;  /* Color de fondo del menú */
   color: #ffffff;
   font-family: 'Times New Roman', Times, serif;
-  font-size: 18px;  /* Tamaño de la fuente ajustado a 18px */
-  display: flex;  /* Asegura que los elementos dentro del nav estén alineados */
+  font-size: 18px;  /* Tamaño de la fuente */
+  display: flex;  /* Asegura que los elementos dentro estén alineados */
   align-items: center;  /* Centra los elementos verticalmente */
   justify-content: space-between;
   align-items: center;
 }
-
+/* **************************************************************** Imagenes **************************************************************** */
 .navbarIMGizquierda, .navbarIMGderecha {
   display: flex;
   justify-content: center;
@@ -22,7 +22,7 @@
   width: auto;  /* Hace que la imagen ocupe el ancho del contenedor */
   height: 100%; /* Mantiene la relación de aspecto original */
 }
-/* Lista */
+/* ***************************************************************** Lista ***************************************************************** */
 .nav-list {
   list-style-type: none;  /* Eliminar los puntos de lista */
   padding: 0;
@@ -30,7 +30,6 @@
   display: flex;  /* Mostrar los elementos en fila */
   justify-content: center;  /* Centrar los elementos */
 }
-
 /* Para cada item de la lista */
 .nav-item {
   margin: 0 15px;  /* Espacio entre los elementos */
@@ -39,8 +38,7 @@
   line-height: 40px; /* Centra verticalmente el texto dentro del item */
   position: relative;  /* Necesario para la posición de los enlaces */
 }
-
-/* Enlaces */
+/* ********************************************************************************************************************************* Enlaces */
 .nav-link {
   text-decoration: none;  /* Eliminar el subrayado del enlace */
   font-size: 18px;  /* Tamaño de la fuente */
@@ -53,16 +51,18 @@
   text-align: center; /* Centra el texto dentro del enlace */
   line-height: 40px; /* Centra el texto verticalmente */
 }
-
 /* Cambio de color y fondo cuando se pasa el mouse (hover) */
 .nav-link:hover {
   background-color: gold;  /* Fondo dorado */
   color: black !important;  /* Texto negro */
   border-radius: 5px; /* Bordes redondeados opcionales para una mejor apariencia */
 }
-
 /* Si un enlace está activo, se resalta con otro fondo */
 .nav-link.active {
   background-color: #0080ff;  /* Fondo azul */
   color: black !important;  /* Texto blanco */
 }
+/* ************************************************************* RESPONSIVIDAD ************************************************************* */
+/* ----------------------------------------------------------- Pantallas grandes ----------------------------------------------------------- */
+/* ---------------------------------------------------------- Pantallas  medianas ---------------------------------------------------------- */
+/* ---------------------------------------------------------- Pantallas  pequeñas ---------------------------------------------------------- */
