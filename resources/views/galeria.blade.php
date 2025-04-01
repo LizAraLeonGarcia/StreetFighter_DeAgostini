@@ -35,17 +35,17 @@
           <div class="swiper-slide"><a class="glightbox" data-galeria="images-galeria" href="assets/img/galeria/22.jpg"><img src="assets/img/galeria/22.jpg" class="img-fluid" alt="Ken"></a></div>
           <div class="swiper-slide"><a class="glightbox" data-galeria="images-galeria" href="assets/img/galeria/23.jpg"><img src="assets/img/galeria/23.jpg" class="img-fluid" alt="Zeku"></a></div>
           <div class="swiper-slide"><a class="glightbox" data-galeria="images-galeria" href="assets/img/galeria/24.jpg"><img src="assets/img/galeria/24.jpg" class="img-fluid" alt="Remy"></a></div>
-          <div class="swiper-slide"><a class="glightbox" data-galeria="images-galeria" href="assets/img/galeria/25.jpg"><img src="assets/img/galeria/25.jpg" class="img-fluid" alt="G"></a></div>
-          <div class="swiper-slide"><a class="glightbox" data-galeria="images-galeria" href="assets/img/galeria/26.jpg"><img src="assets/img/galeria/26.jpg" class="img-fluid" alt="M. Bison"></a></div>
-          <div class="swiper-slide"><a class="glightbox" data-galeria="images-galeria" href="assets/img/galeria/27.jpg"><img src="assets/img/galeria/27.jpg" class="img-fluid" alt="Akuma"></a></div>
+          <div class="swiper-slide"><a class="glightbox" data-galeria="images-galeria" href="assets/img/galeria/25.jpg"><img src="assets/img/galeria/25.jpg" class="img-fluid" alt="Blanka"></a></div>
+          <div class="swiper-slide"><a class="glightbox" data-galeria="images-galeria" href="assets/img/galeria/26.jpg"><img src="assets/img/galeria/26.jpg" class="img-fluid" alt="Gill"></a></div> 
+          <div class="swiper-slide"><a class="glightbox" data-galeria="images-galeria" href="assets/img/galeria/27.jpg"><img src="assets/img/galeria/27.jpg" class="img-fluid" alt="M. Bison"></a></div>
           <div class="swiper-slide"><a class="glightbox" data-galeria="images-galeria" href="assets/img/galeria/28.jpg"><img src="assets/img/galeria/28.jpg" class="img-fluid" alt="Ed"></a></div>
           <div class="swiper-slide"><a class="glightbox" data-galeria="images-galeria" href="assets/img/galeria/29.jpg"><img src="assets/img/galeria/29.jpg" class="img-fluid" alt="Adon"></a></div>
           <div class="swiper-slide"><a class="glightbox" data-galeria="images-galeria" href="assets/img/galeria/30.jpg"><img src="assets/img/galeria/30.jpg" class="img-fluid" alt="Alex"></a></div>
-          <div class="swiper-slide"><a class="glightbox" data-galeria="images-galeria" href="assets/img/galeria/31.jpg"><img src="assets/img/galeria/31.jpg" class="img-fluid" alt="Gill"></a></div> 
+          <div class="swiper-slide"><a class="glightbox" data-galeria="images-galeria" href="assets/img/galeria/31.jpg"><img src="assets/img/galeria/31.jpg" class="img-fluid" alt="Akuma"></a></div>
           <div class="swiper-slide"><a class="glightbox" data-galeria="images-galeria" href="assets/img/galeria/32.jpg"><img src="assets/img/galeria/32.jpg" class="img-fluid" alt="Urien"></a></div>
-          <div class="swiper-slide"><a class="glightbox" data-galeria="images-galeria" href="assets/img/galeria/33.jpg"><img src="assets/img/galeria/33.jpg" class="img-fluid" alt="Blanka"></a></div>
-        <!--  <div class="swiper-slide"><a class="glightbox" data-galeria="images-galeria" href="assets/img/galeria/34.jpg"><img src="assets/img/galeria/34.jpg" class="img-fluid" alt="Necalli"></a></div>  -->
-
+        <!--  <div class="swiper-slide"><a class="glightbox" data-galeria="images-galeria" href="assets/img/galeria/33.jpg"><img src="assets/img/galeria/33.jpg" class="img-fluid" alt="Necalli"></a></div>  -->
+          <div class="swiper-slide"><a class="glightbox" data-galeria="images-galeria" href="assets/img/galeria/34.jpg"><img src="assets/img/galeria/34.jpg" class="img-fluid" alt="G"></a></div>
+    
           <div class="swiper-slide"><a class="glightbox" data-galeria="images-galeria" href="assets/img/galeria/35.jpg"><img src="assets/img/galeria/35.jpg" class="img-fluid" alt="E. Honda"></a></div>
           <div class="swiper-slide"><a class="glightbox" data-galeria="images-galeria" href="assets/img/galeria/36.jpg"><img src="assets/img/galeria/36.jpg" class="img-fluid" alt="Dhalsim"></a></div>
           <div class="swiper-slide"><a class="glightbox" data-galeria="images-galeria" href="assets/img/galeria/37.jpg"><img src="assets/img/galeria/37.jpg" class="img-fluid" alt="Dee Jay"></a></div>

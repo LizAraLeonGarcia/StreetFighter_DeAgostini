@@ -276,36 +276,36 @@
               </div>
             </div>
           </div>
-          <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch"> <!-- .......................................................... G -->
+          <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch"> <!-- ..................................................... Blanka -->
             <div class="team-member">
               <div class="member-img">
-                <img src="assets/img/figuras/25.jpg" class="img-fluid" alt="G">
+                <img src="assets/img/figuras/25.jpg" class="img-fluid" alt="Blanka">
               </div>
               <div class="member-info">
-                <h4>G</h4>
-                <p>Un individuo misterioso sobre quien apenas existe información.</p>
+                <h4>Blanka</h4>
+                <p>Un luchador salvaje surgido de la selva amazónica.</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch"> <!-- ....................................................... Gill -->
+            <div class="team-member">
+              <div class="member-img">
+                <img src="assets/img/figuras/26.jpg" class="img-fluid" alt="Gill">
+              </div>
+              <div class="member-info">
+                <h4>Gill</h4>
+                <p>Un hombre inmensamente poderoso, destinado a liderar un nuevo mundo utópico.</p>
               </div>
             </div>
           </div>
           <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch"> <!-- .................................................... M Bison -->
             <div class="team-member">
               <div class="member-img">
-                <img src="assets/img/figuras/26.jpg" class="img-fluid" alt="M. Bison">
+                <img src="assets/img/figuras/27.jpg" class="img-fluid" alt="M. Bison">
               </div>
               <div class="member-info">
                 <h4>M. Bison</h4>
                 <p>Un hombre sin escrúpulos en busca del poder supremo.</p>
-              </div>
-            </div>
-          </div>
-          <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch"> <!-- ...................................................... Akuma -->
-            <div class="team-member">
-              <div class="member-img">
-                <img src="assets/img/figuras/27.jpg" class="img-fluid" alt="Akuma">
-              </div>
-              <div class="member-info">
-                <h4>Akuma</h4>
-                <p>De guerrero a demonio con forma de hombre.</p>
               </div>
             </div>
           </div>
@@ -342,14 +342,14 @@
               </div>
             </div>
           </div>
-          <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch"> <!-- ....................................................... Gill -->
+          <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch"> <!-- ...................................................... Akuma -->
             <div class="team-member">
               <div class="member-img">
-                <img src="assets/img/figuras/31.jpg" class="img-fluid" alt="Gill">
+                <img src="assets/img/figuras/31.jpg" class="img-fluid" alt="Akuma">
               </div>
               <div class="member-info">
-                <h4>Gill</h4>
-                <p>Un hombre inmensamente poderoso, destinado a liderar un nuevo mundo utópico.</p>
+                <h4>Akuma</h4>
+                <p>De guerrero a demonio con forma de hombre.</p>
               </div>
             </div>
           </div>
@@ -364,25 +364,25 @@
               </div>
             </div>
           </div>
-          <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch"> <!-- ..................................................... Blanka -->
-            <div class="team-member">
-              <div class="member-img">
-                <img src="assets/img/figuras/33.jpg" class="img-fluid" alt="Blanka">
-              </div>
-              <div class="member-info">
-                <h4>Blanka</h4>
-                <p>Un luchador salvaje surgido de la selva amazónica.</p>
-              </div>
-            </div>
-          </div>
           <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch"> <!-- .................................................... Necalli -->
             <div class="team-member">
               <div class="member-img">
-                <img src="assets/img/figuras/34.jpg" class="img-fluid" alt="Necalli">
+                <img src="assets/img/figuras/33.jpg" class="img-fluid" alt="Necalli">
               </div>
               <div class="member-info">
                 <h4>Necalli</h4>
                 <p>Un guerrero de tiempos remotos reaparece en el presente para sembrar el caos.</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch"> <!-- .......................................................... G -->
+            <div class="team-member">
+              <div class="member-img">
+                <img src="assets/img/figuras/34.jpg" class="img-fluid" alt="G">
+              </div>
+              <div class="member-info">
+                <h4>G</h4>
+                <p>Un individuo misterioso sobre quien apenas existe información.</p>
               </div>
             </div>
           </div>
