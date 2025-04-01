@@ -216,7 +216,7 @@
                 <td>57</td>
                 <td>Gill</td>
                 <td>1 abril 2025</td>
-                <td>$</td>
+                <td>$420</td>
               </tr>
               <tr class="fila58">
                 <td>58</td>
