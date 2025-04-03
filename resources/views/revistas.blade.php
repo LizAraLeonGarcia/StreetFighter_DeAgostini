@@ -294,7 +294,7 @@
               </div>
               <div class="member-info">
                 <h4>Gill</h4>
-                <p>.</p>
+                <p>El mesías salvador.</p>
               </div>
             </div>
           </div>
