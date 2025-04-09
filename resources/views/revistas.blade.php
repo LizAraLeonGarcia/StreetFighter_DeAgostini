@@ -659,7 +659,7 @@
               </div>
               <div class="member-info">
                 <h4>Yang</h4>
-                <p>.</p>
+                <p>El dragón azul.</p>
               </div>
             </div>
           </div>
@@ -703,7 +703,7 @@
               </div>
               <div class="member-info">
                 <h4>Kolin</h4>
-                <p>.</p>
+                <p>La dama de hielo.</p>
               </div>
             </div>
           </div>
