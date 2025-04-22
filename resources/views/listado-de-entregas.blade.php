@@ -222,7 +222,7 @@
                 <td>58</td>
                 <td>Birdie</td>
                 <td>15 abril 2025</td>
-                <td>$</td>
+                <td>$420</td>
               </tr>
               <tr class="fila59">
                 <td style="color: white;">59</td>
@@ -233,7 +233,7 @@
               <tr class="fila60">
                 <td>60</td>
                 <td>F.A.N.G</td>
-                <td>18 mayo 2025</td>
+                <td>13 mayo 2025</td>
                 <td>$</td>
               </tr>
               <tr class="filaExpansiOn">
