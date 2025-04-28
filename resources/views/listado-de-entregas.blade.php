@@ -228,7 +228,7 @@
                 <td style="color: white;">59</td>
                 <td style="color: white;">Necalli</td>
                 <td style="color: white;">29 abril 2025</td>
-                <td style="color: white;">$</td>
+                <td style="color: white;">$420</td>
               </tr>
               <tr class="fila60">
                 <td>60</td>
@@ -242,91 +242,91 @@
               <tr class="fila61">
                 <td style="color: white;">61</td>
                 <td style="color: white;">Menat</td>
-                <td style="color: white;">2025</td>
+                <td style="color: white;">27 mayo 2025</td>
                 <td style="color: white;">$</td>
               </tr>
               <tr class="fila62">
                 <td>62</td>
                 <td>Falke</td>
-                <td>2025</td>
+                <td>10 junio 2025</td>
                 <td>$</td>
               </tr>
               <tr class="fila63">
                 <td style="color: white;">63</td>
                 <td style="color: white;">G</td>
-                <td style="color: white;">2025</td>
+                <td style="color: white;">24 junio 2025</td>
                 <td style="color: white;">$</td>
               </tr>
               <tr class="fila64">
                 <td>64</td>
                 <td>Remy</td>
-                <td>2025</td>
+                <td>8 julio 2025</td>
                 <td>$</td>
               </tr>
               <tr class="fila65">
                 <td>65</td>
                 <td>Twelve</td>
-                <td>2025</td>
+                <td>22 julio 2025</td>
                 <td>$</td>
               </tr>
               <tr class="fila66">
                 <td>66</td>
                 <td>Ed</td>
-                <td>2025</td>
+                <td>5 agosto 2025</td>
                 <td>$</td>
               </tr>
               <tr class="fila67">
                 <td style="color: white;">67</td>
                 <td style="color: white;">Zeku</td>
-                <td style="color: white;">2025</td>
+                <td style="color: white;">19 agosto 2025</td>
                 <td style="color: white;">$</td>
               </tr>
               <tr class="fila68">
                 <td>68</td>
                 <td>Lucia</td>
-                <td>2025</td>
+                <td>2 septiembre 2025</td>
                 <td>$</td>
               </tr>
               <tr class="fila69">
                 <td>69</td>
                 <td>Kage</td>
-                <td>2025</td>
+                <td>16 septiembre 2025</td>
                 <td>$</td>
               </tr>
               <tr class="fila70">
                 <td>70</td>
                 <td>Abigail</td>
-                <td>2025</td>
+                <td>30 septiembre 2025</td>
                 <td>$</td>
               </tr>
               <tr class="fila71">
                 <td>71</td>
                 <td>Sodom</td>
-                <td>2025</td>
+                <td>14 octubre 2025</td>
                 <td>$</td>
               </tr>
               <tr class="fila72">
                 <td>72</td>
                 <td>Akira</td>
-                <td>2025</td>
+                <td>28 octubre 2025</td>
                 <td>$</td>
               </tr>
               <tr class="fila73">
                 <td>73</td>
                 <td>Juni</td>
-                <td>2025</td>
+                <td>11 noviembre 2025</td>
                 <td>$</td>
               </tr>
               <tr class="fila74">
                 <td style="color: white;">74</td>
                 <td style="color: white;">Juli</td>
-                <td style="color: white;">2025</td>
+                <td style="color: white;">25 noviembre 2025</td>
                 <td style="color: white;">$</td>
               </tr>
               <tr class="fila75">
                 <td>75</td>
                 <td>Luke</td>
-                <td>2025</td>
+                <td>9 diciembre 2025</td>
                 <td>$</td>
               </tr>
             </tbody>
