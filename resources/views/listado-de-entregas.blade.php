@@ -227,14 +227,14 @@
               <tr class="fila59">
                 <td style="color: white;">59</td>
                 <td style="color: white;">Necalli</td>
-                <td style="color: white;">29 abril 2025</td>
-                <td style="color: white;">$420</td>
+                <td style="color: white;">13 mayo 2025</td>
+                <td style="color: white;">$480</td>
               </tr>
               <tr class="fila60">
                 <td>60</td>
                 <td>F.A.N.G</td>
-                <td>13 mayo 2025</td>
-                <td>$</td>
+                <td>29 abril 2025</td>
+                <td>$480</td>
               </tr>
               <tr class="filaExpansiOn">
                 <th align="center" colspan="4" style="background-color: #333; color: white;">	EXPANSIÓN </th>
@@ -243,7 +243,7 @@
                 <td style="color: white;">61</td>
                 <td style="color: white;">Menat</td>
                 <td style="color: white;">27 mayo 2025</td>
-                <td style="color: white;">$</td>
+                <td style="color: white;">$480</td>
               </tr>
               <tr class="fila62">
                 <td>62</td>

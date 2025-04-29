@@ -549,7 +549,7 @@
               </div>
               <div class="member-info">
                 <h4>Rolento</h4>
-                <p>.</p>
+                <p>El militar veterano.</p>
               </div>
             </div>
           </div>
