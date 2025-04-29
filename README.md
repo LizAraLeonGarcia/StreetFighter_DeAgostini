@@ -1,66 +1,133 @@
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+---
 
-## About Laravel
+## Descripción
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+Este **Vaquita Marketplace** es un proyecto desarrollado con Laravel, diseñado para ofrecer una plataforma básica donde los usuarios pueden crear, editar, ver y eliminar productos, además de también tener la opción de explorar productos por categorías, precios y una barra de búsqueda.
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+---
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+## Características
 
-## Learning Laravel
+- CRUD de productos: Los usuarios autenticados pueden crear, editar, eliminar y visualizar sus propios productos, mientras para productos de otros usuarios solamente podrán verlos o añadirlos al carrito.
+- Una vez que el usuario crea su primer producto se le envía un correo electrónico personalizado con la información de dicho producto.
+- Gestión de usuarios: Autenticación y autorización implementadas con Laravel Jetstream.
+- Categorías dinámicas: Posibilidad de filtrar productos por categorías como *Accesorios, Calzado, Cocina, Coleccionables, Escolar, Hogar, Oficina, Ropa, Videojuegos*.
+- Diseño responsivo: Interfaz adaptada para dispositivos móviles y de escritorio utilizando Bootstrap.
+- Imágenes para productos: Los usuarios deden subir imágenes asociadas a cada producto, siendo mínimo una el requisito y máximo 10.
+- Perfiles: Se cuentan con dos perfiles por usuario, el Perfil como comprador y el Perfil como vendedor.
+- Opción de Mi cuenta: Una vez registrado el usuario puede personalizar su información en la sección de Mi cuenta, además están los apartados de Editar cuenta, si es que quiere renovar su información; Cambiar contraseña, Metódo de pago y Eliminar cuenta.
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+**Importante**
+Hay opciones no implementadas en el backend, solamente en el frontend. Las opciones **funcionales** en orden de sección son:
+1. Dashboard = todo funcional.
+2. Mi cuenta = las secciones de Editar cuenta, Cambiar contraseña y Eliminar mi cuenta son funcionales. La sección del Método de pago solamente tiene implementado para tarjeta de débito/crédito.
+3. Perfil como comprador = funcional, además sólo es visual.
+4. Perfil como vendedor = funcional, además sólo es visual.
+5. Crear producto = todo funcional.
+6. Ver productos = los productos se muestran sin filtros por defecto, pero para filtrarlos sólo es funcional hacerlo por alguna de las categorías, por precio o buscando en la barra de búsqueda; el resto de opciones no fue implementado.
+7. Carrito = todo funcional.
+8. Ayuda = todo funcional, además sólo es visual.
 
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
+---
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains thousands of video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+## Requisitos
 
-## Laravel Sponsors
+Antes de instalar este proyecto, asegúrate de contar con los siguientes requisitos:
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the [Laravel Partners program](https://partners.laravel.com).
+- PHP >= 8.0
+- Composer (para gestionar dependencias)
+- MySQL (u otra base de datos compatible)
+- Servidor local como **Laragon** o **XAMPP**
+- Node.js y npm (opcional, para Laravel Mix o Vite)
 
-### Premium Partners
+---
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[WebReinvent](https://webreinvent.com/)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[DevSquad](https://devsquad.com/hire-laravel-developers)**
-- **[Jump24](https://jump24.co.uk)**
-- **[Redberry](https://redberry.international/laravel/)**
-- **[Active Logic](https://activelogic.com)**
-- **[byte5](https://byte5.de)**
-- **[OP.GG](https://op.gg)**
+## Instalación
 
-## Contributing
+Sigue estos pasos para configurar el proyecto:
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+1. **Clonar el repositorio**:
+   ```bash
+   git clone https://github.com/tuusuario/Marketplace.git
 
-## Code of Conduct
+2. **Acceder al directorio del proyecto**
+    Al usar Laragon la carpeta en donde yo guardé el proyecto se encuenctra en:
+    ```bash
+    D:\Programas\laragon\www\Marketplace
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+3. **Instalar las dependencias de PHP**
+    ```bash
+    composer install
 
-## Security Vulnerabilities
+4. **Copiar y configura el archivo de entorno**
+    ```bash
+    cp .env.example .env
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+5. **Generar la clave de la aplicación**
+    ```bash
+    php artisan key:generate
 
-## License
+6. **Ejecutar las migraciones y seeders**
+    ```bash
+    php artisan migrate --seed
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+7. **Levanta el servidor local**
+    ```bash
+    php artisan serve
+
+**Extra**
+
+Hay 4 tests preparados ubicados en la carpeta \laragon\www\Marketplace\tests\Feature y el archivo es MarketplaceTest.
+
+---
+
+## Uso
+
+Todo está creado para que sólo los usuarios autenticados puedan acceder a las funciones implementadas, como:
+
+Ver el dashboard con las opciones de gestión
+- Crear nuevos productos.
+- Editar productos existentes.
+- Eliminar productos.
+
+**Datos iniciales**
+Al ejecutar los seeders, se crean:
+1. Una lista de países para usar en la edición de la cuenta.
+2. Categorías predeterminadas: Accesorios, Calzado, Cocina, Coleccionables, Escolar, Hogar, Oficina, Ropa, Videojuegos.
+3. 2 usuarios iniciales.
+4. Productos para los dos usuarios creados.
+
+---
+
+## Estructura del Proyecto
+
+**Migraciones principales:**
+- Categorías: Organización de los productos.
+- Países: Organización de los usuarios.
+- Users: Gestión de usuarios.
+- Productos: Información básica de los productos.
+- Imágenes: Relación entre productos e imágenes.
+
+**Seeders utilizados:**
+- RegistrarUsuariosSeeder: Crea 2 usuarios iniciales.
+- CategoriaSeeder: Población inicial de categorías.
+- PaisesSeeder: Población inicial de países.
+- Producto1Seeder, Producto2Seeder, Producto3Seeder y Producto4Seeder que corresponden a productos de la categoría Coleccionables;
+- ProductosAccesoriosSeeder,
+- ProductosCalzadoSeeder,
+- ProductosCocinaSeeder,
+- ProductosEscolarSeeder,
+- ProductosHogarSeeder,
+- ProductosOficinaSeeder,
+- ProductosRopaSeeder,
+- ProductosVideojuegosSeeder.
+
+## Notas
+
+Algunas consideraciones para tener en cuenta son:
+
+- Si se desea iniciar sesión con alguna de las cuentas del RegistrarUsuariosSeeder, en el apartado del dashboard no se cargan en automático los productos del usuario en cuestión, se debe crear un producto manualmente, e inmediatamente después ya se cargarán los productos de los seeders en el dashboard. Nota: en el apartado de Ver productos, todos los productos se cargan sin problema.
+- Si se desean ejecutar los 4 tests de prueba ubicados en \laragon\www\Marketplace\tests\Feature\MarketplaceTest.php, ejecutarlos antes de poblar la base de datos con los seeders o, ejecutarlos al final cuando ya no se quiera usar a Vaquita Marketplace pues, a pesar de que los tests usan una base de datos de prueba; parece interferir con la base de datos original (Marketplace), por lo que al ejecutar el MarketplaceTest se borra la información de la base de datos original.
+- El menú lateral se mantiene fijo aún en pantallas muy pequeñas, pero el tamaño se adapta según el tamaño de la pantalla en uso.
