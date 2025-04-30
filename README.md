@@ -4,7 +4,8 @@
 
 ## Descripción
 
-Este es un proyecto personal desarrollado con Laravel, diseñado para mostrar mi colección de estatuillas de Street Fighter & Planeta DeAgostini / Altaya. Son en total 75 entregas para ésta colección donde, en mi página podrás ver cada detalle según la sección:
+Este es un proyecto personal desarrollado con Laravel, diseñado para mostrar mi colección de estatuillas de Street Fighter & Planeta DeAgostini / Altaya, aquí en mi página podrás navegar según la sección que quieras visitar:
+- Inicio.
 - Listado de entregas.
 - Personajes.
 - Figuras.

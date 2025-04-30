@@ -79,6 +79,65 @@ ul li p {
   transition-delay: var(--aos-delay);
 }
 /* ************************************************************* RESPONSIVIDAD ************************************************************* */
-/* ------------------------------------------------------------------------------------------------------------------------ Pantallas grandes */
-/* ----------------------------------------------------------------------------------------------------------------------- Pantallas medianas */
-/* ----------------------------------------------------------------------------------------------------------------------- Pantallas pequeñas */
+/* ----------------------------------------------------------------------------------------------------------------------- Pantallas grandes */
+@media (min-width: 1200px) {
+  .section-title-INICIO h1 {
+    font-size: 48px;
+  }
+
+  .section-title-INICIO h2 {
+    font-size: 36px;
+  }
+
+  #inicio p {
+    font-size: 17px;
+    max-width: 800px;
+  }
+}
+/* ---------------------------------------------------------------------------------------------------------------------- Pantallas medianas */
+@media (min-width: 768px) and (max-width: 1199px) {
+  .section-title-INICIO h1 {
+    font-size: 32px;
+  }
+
+  .section-title-INICIO h2 {
+    font-size: 26px;
+  }
+
+  #inicio p {
+    font-size: 15px;
+    max-width: 700px;
+  }
+
+  .play-button-container i {
+    font-size: 3rem;
+  }
+}
+/* ---------------------------------------------------------------------------------------------------------------------- Pantallas pequeñas */
+@media (max-width: 767px) {
+  .section-title-INICIO h1 {
+    font-size: 24px;
+  }
+
+  .section-title-INICIO h2 {
+    font-size: 20px;
+  }
+
+  #inicio p {
+    font-size: 14px;
+    padding: 0 10px;
+  }
+
+  ul {
+    padding-left: 15px; /* Reintroducir algo de espacio en móviles */
+  }
+
+  .play-button-container i {
+    font-size: 2.5rem;
+  }
+
+  .d-flex {
+    flex-direction: column;
+    gap: 15px;
+  }
+}

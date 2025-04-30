@@ -1,68 +1,127 @@
-/* Estilo general para el pie de página */
+/* ************************************************************* Estilo general ************************************************************* */
 .footer {
-  background-color: #000000;  /* Fondo oscuro */
-  color: #ffffff;  /* Texto blanco */
-  text-align: center;  /* Centrar el texto */
-  border-top: 3px solid gold;  /* Línea verde arriba para resaltar */
+  background-color: #000000;
+  color: #ffffff; 
+  border-top: 3px solid gold;  /* Línea arriba para resaltar */
   font-family: 'Times New Roman', Times, serif;
   font-size: 18px; /* Tamaño de fuente para todo el pie de página */
+  text-align: center;
   position: relative;
+  padding-left: 20px;
+  padding-right: 20px;
+  box-sizing: border-box;
 }
-/* Flexbox para las columnas del pie de página */
+/* **************************************************************** Columnas **************************************************************** */
 .footer-columnas {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  flex-wrap: wrap; /* Para que los elementos se acomoden en pantallas pequeñas */
-  gap: 20px; /* Espacio entre las columnas */
-  margin-top: 20px; /* Espacio entre el párrafo y las columnas */
+  margin-top: 10px; /* Espacio entre el párrafo y las columnas */
+  flex-wrap: wrap;  /* <-- Asegúrate de que esté aquí */
+  box-sizing: border-box;
 }
-.footerIMGizquierda,
-.footerIMGderecha {
+/* **************************************************************** Imágenes **************************************************************** */
+.footerIMGizquierda, .footerIMGderecha {
   flex: 1; /* Hace que las imágenes tomen un espacio proporcional */
-  max-width: 90px; /* Limita el tamaño máximo de las imágenes */
-  height: 100%; /* Ajusta la altura proporcionalmente */
-  margin: 0 10px; /* Espaciado entre las imágenes y otros elementos */
+  max-width: 80px; /* Limita el tamaño máximo de las imágenes */
+  height: 100%;
   object-fit: cover;
 }
-/* Texto en el pie de página */
+/* ************************************************************ Parrafo de texto ************************************************************ */
 .footer-parrafo {
-  position: absolute; /* Posicionamiento absoluto */
-  top: 0; /* Coloca el párrafo en la parte superior del contenedor */
-  left: 50%;
-  transform: translateX(-50%); /* Centra el párrafo horizontalmente */
-  margin: 20px;
-  padding: 10px;
-  color: white; /* Texto blanco */
-  text-align: center; /* Centra el texto dentro del párrafo */
-  z-index: 10; /* Asegura que el párrafo esté encima de otros elementos */
+  position: relative;
+  color: white;
+  text-align: center;
+  box-sizing: border-box;
+  max-width: 100%;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
 }
-
-/* Estilo para los iconos de redes sociales */
+/* ******************************************************** Iconos de redes sociales ******************************************************** */
 .social-media {
   display: flex; /* Alinea los elementos en línea */
+  flex-wrap: wrap; /* Esto permite que el contenido baje de línea si es largo */
+  max-width: 100%;
+  overflow-wrap: break-word;
+  word-break: break-word;
   justify-content: center; /* Centra los elementos */
   gap: 20px; /* Espacio entre los iconos */
-  margin-top: 40px; /* Da espacio arriba */
 }
-
-/* Estilo para los enlaces de redes sociales */
+/* ---------------------------------------------------------------------------------------------------------------- Enlaces de redes sociales */
 .social-icon {
-  text-decoration: none; /* Elimina el subrayado en los enlaces */
-  color: rgb(255, 255, 255); /* El color del texto (puedes cambiarlo) */
-  font-size: 18px; /* Tamaño de texto para los enlaces, igual a 20px */
   display: flex;
+  color: rgb(255, 255, 255);
+  font-size: 18px; /* Tamaño de texto para los enlaces */
   align-items: center; /* Centra el texto y el icono verticalmente */
   gap: 10px; /* Espacio entre el icono y el texto */
   transition: color 0.3s ease; /* Transición suave cuando se pasa el ratón */
+  text-decoration: none; /* Elimina el subrayado en los enlaces */
 }
-
-/* Color del icono y el texto en hover */
+/* ------------------------------------------------------------------------------------------------------ Color del icono y el texto en hover */
 .social-icon:hover {
-  color: gold; /* Cambia el color cuando el usuario pasa el ratón */
+  color: gold;
 }
-
-/* Estilo para los iconos de las redes sociales */
+/* ------------------------------------------------------------------------------------------------------------- Iconos de las redes sociales */
 .social-icon i {
-  font-size: 18px; /* Asegura que el icono tenga el mismo tamaño que el texto */
+  font-size: 18px; /* icono con el mismo tamaño que el texto */
+}
+/* ************************************************************* RESPONSIVIDAD ************************************************************* */
+/* ----------------------------------------------------------------------------------------------------------------------- Pantallas grandes */
+@media (min-width: 1200px) {
+}
+/* --------------------------------------------------------------------------------------------------------------------- Pantallas  medianas */
+@media (min-width: 768px) and (max-width: 1199px) {
+  .footer {
+    padding-left: 15px;
+    padding-right: 15px;
+    font-size: 16px; /* Tamaño de fuente para todo el pie de página */
+    padding-bottom: 15px;
+  }
+
+  .footerIMGizquierda,
+  .footerIMGderecha {
+    display: none;
+  }
+
+  .footer-columnas {
+    justify-content: center;
+    flex-direction: column;  
+    text-align: center;
+  }
+
+  .social-icon i {
+    font-size: 16px; /* icono con el mismo tamaño que el texto */
+  }
+
+  .social-icon i {
+    font-size: 16px; /* icono con el mismo tamaño que el texto */
+  }
+}
+/* --------------------------------------------------------------------------------------------------------------------- Pantallas  pequeñas */
+@media (max-width: 767px) {
+  .footer {
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 14px; /* Tamaño de fuente para todo el pie de página */
+    padding-bottom: 7px;
+  }
+  
+  .footerIMGizquierda,
+  .footerIMGderecha {
+    display: none;
+  }
+
+  .footer-columnas {
+    justify-content: center; /* Centra los elementos restantes */
+    flex-direction: column;  /* Si hay varios elementos, apílalos verticalmente */
+    text-align: center;      /* Centra el texto si es necesario */
+  }
+
+  .social-icon {
+    font-size: 14px; /* icono con el mismo tamaño que el texto */
+  }
+
+  .social-icon i {
+    font-size: 14px; /* icono con el mismo tamaño que el texto */
+  }
 }
