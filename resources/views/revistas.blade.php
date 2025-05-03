@@ -747,7 +747,7 @@
               </div>
               <div class="member-info">
                 <h4>F.A.N.G</h4>
-                <p>.</p>
+                <p>El segundo al mando.</p>
               </div>
             </div>
           </div>
