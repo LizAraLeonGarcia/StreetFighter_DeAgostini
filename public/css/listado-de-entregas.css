@@ -475,7 +475,13 @@
 .table-responsive {
     overflow-x: auto;
 }
+/* ************************************************************* Imágenes ************************************************************* */
+.img-lateral {
+    width: 100%; /* Ocupa el 100% del ancho del contenedor */
+    height: auto; /* Mantiene la proporción de la imagen */
+}  
 /* ************************************************************* RESPONSIVIDAD ************************************************************* */
-/* ------------------------------------------------------------------------------------------------------------------------ Pantallas grandes */
-/* ----------------------------------------------------------------------------------------------------------------------- Pantallas medianas */
-/* ----------------------------------------------------------------------------------------------------------------------- Pantallas pequeñas */
+    /*
+        La clase "d-none d-md-block" oculta ambos bloques en pantallas inferiores a 768px
+        Y las imágenes se ajustarán en automático para las pantallas medianas y grandes con el fragmento de arriba
+     */
