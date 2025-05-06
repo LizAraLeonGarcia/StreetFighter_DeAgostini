@@ -71,4 +71,21 @@
 }
 /* --------------------------------------------------------------------------------------------------------------------- Pantallas  pequeñas */
 @media (max-width: 767px) {
+  .navbarIMGizquierda,
+  .navbarIMGderecha {
+    display: none;
+  }
+
+  .navmenu {
+    justify-content: center; /* Centra el menú al eliminar imágenes */
+  }
+
+  .nav-link {
+    font-size: 14px;
+    padding: 6px 10px;
+  }
+
+  .nav-item {
+    margin: 0 8px;
+  }
 }
