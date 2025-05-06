@@ -7,7 +7,6 @@
   display: flex;  /* Asegura que los elementos dentro estén alineados */
   align-items: center;  /* Centra los elementos verticalmente */
   justify-content: space-between;
-  align-items: center;
 }
 /* **************************************************************** Imagenes **************************************************************** */
 .navbarIMGizquierda, .navbarIMGderecha {
@@ -41,15 +40,15 @@
 /* ********************************************************************************************************************************* Enlaces */
 .nav-link {
   text-decoration: none;  /* Eliminar el subrayado del enlace */
+  background-color: transparent;
   font-size: 18px;  /* Tamaño de la fuente */
-  padding: 8px 16px;  /* Espaciado alrededor del enlace */
+  padding: 16px 24px;  /* Espaciado alrededor del enlace */
   display: block;  /* Asegurarse de que el enlace ocupe toda el área del item */
   transition: all 0.3s ease;  /* Transición suave para color y fondo */
   color: #ffffff;  /* Color del texto */
   height: 100%; /* Ocupa toda la altura del contenedor */
   width: 100%;
   text-align: center; /* Centra el texto dentro del enlace */
-  line-height: 40px; /* Centra el texto verticalmente */
 }
 /* Cambio de color y fondo cuando se pasa el mouse (hover) */
 .nav-link:hover {
@@ -61,13 +60,44 @@
 .nav-link.active {
   background-color: #0080ff;  /* Fondo azul */
   color: black !important;  /* Texto blanco */
+  border-radius: 5px;
 }
 /* ************************************************************* RESPONSIVIDAD ************************************************************* */
-/* ----------------------------------------------------------------------------------------------------------------------- Pantallas grandes */
-@media (min-width: 1200px) {
-}
 /* --------------------------------------------------------------------------------------------------------------------- Pantallas  medianas */
 @media (min-width: 768px) and (max-width: 1199px) {
+  .navbarIMGizquierda,
+  .navbarIMGderecha {
+    display: none;
+  }
+
+  .navmenu {
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 15px;
+    padding-top: 15px;
+    font-size: 16px;
+  }
+
+  .nav-list {
+    align-items: center;          /* Centra horizontalmente */
+    width: 100%;
+    padding: 0;
+    margin: 0;
+  }
+  /* Para cada item de la lista */
+  .nav-item {
+    margin: 0 10px;  /* Espacio entre los elementos */
+    width: 100%;                  /* Ocupa todo el ancho disponible */
+  }
+  .nav-link {
+    display: flex;              /* Activa flexbox */
+    justify-content: center;    /* Centrado horizontal */
+    align-items: center;          /* Centra texto verticalmente */
+    width: 100%;                  /* Hace que el botón ocupe todo el ancho */
+    padding: 10px 0;
+    text-align: center;
+    line-height: normal;        /* Elimina line-height fijo */
+  }
 }
 /* --------------------------------------------------------------------------------------------------------------------- Pantallas  pequeñas */
 @media (max-width: 767px) {
@@ -77,15 +107,33 @@
   }
 
   .navmenu {
-    justify-content: center; /* Centra el menú al eliminar imágenes */
-  }
-
-  .nav-link {
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-top: 10px;
     font-size: 14px;
-    padding: 6px 10px;
+    flex-direction: column;       /* Apila verticalmente */
+    align-items: center;          /* Centra contenido horizontalmente */
   }
 
+  .nav-list {
+    align-items: center;          /* Centra horizontalmente */
+    width: 100%;
+    padding: 0;
+    margin: 0;
+  }
+  /* Para cada item de la lista */
   .nav-item {
-    margin: 0 8px;
+    margin: 0 5px;  /* Espacio entre los elementos */
+    width: 100%;                  /* Ocupa todo el ancho disponible */
+  }
+  .nav-link {
+    display: flex;              /* Activa flexbox */
+    justify-content: center;    /* Centrado horizontal */
+    align-items: center;          /* Centra texto verticalmente */
+    width: 100%;                  /* Hace que el botón ocupe todo el ancho */
+    padding: 10px 0;
+    text-align: center;
+    line-height: normal;        /* Elimina line-height fijo */
   }
 }
