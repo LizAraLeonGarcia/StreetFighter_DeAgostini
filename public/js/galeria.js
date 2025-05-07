@@ -1,9 +1,8 @@
 document.addEventListener('DOMContentLoaded', function () {
-  var swiper = new Swiper('.swiper-container', {
+  const swiper = new Swiper('.swiper-container', {
     loop: true,                // Para que el carrusel sea continuo
-    centeredSlides: true,      // Asegura que la primera imagen está centrada
+    centeredSlides: false,      // Asegura que la primera imagen está centrada
     initialSlide: 0,           // Empieza desde la primera imagen
-    spaceBetween: 10,          // Espacio entre imágenes
     navigation: {
       nextEl: '.swiper-button-next',
       prevEl: '.swiper-button-prev',
@@ -15,14 +14,17 @@ document.addEventListener('DOMContentLoaded', function () {
 
     loop: true, // Hacer que el carrusel sea cíclico
     breakpoints: {
-      640: {
-        slidesPerView: 1, // En pantallas pequeñas, mostrar una imagen
+      1200: {
+        slidesPerView: 3, // En pantallas grandes, mostrar tres imagenes
+        spaceBetween: 30
       },
       768: {
         slidesPerView: 2, // En pantallas medianas, mostrar dos imágenes
+        spaceBetween: 20
       },
-      1024: {
-        slidesPerView: 3, // En pantallas grandes, mostrar tres imágenes
+      0: {
+        slidesPerView: 1, // En pantallas pequeñas, mostrar una imagen
+        spaceBetween: 10
       },
     },
   });  
