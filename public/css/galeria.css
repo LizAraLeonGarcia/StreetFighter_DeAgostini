@@ -20,7 +20,7 @@
   height: auto;
   padding-left: 60px;
   padding-right: 60px;
-  object-fit: contain; /* Para que las imágenes no se distorsionen */
+  object-fit: contain;
 }
 /* *************************************************************** Paginación *************************************************************** */
 .swiper-pagination {
@@ -32,7 +32,7 @@
 }
 /* ------------------------------------------------------------------------------------------------------------------ Puntos de la paginación */
 .swiper-pagination-bullet {
-  background-color: rgba(255, 255, 255, 0.7); /* Color semi-transparente para los puntos */
+  background-color: rgba(255, 255, 255, 0.7); /* Color semi transparente para los puntos */
   width: 12px;
   height: 12px;
   margin: 0 5px;
@@ -66,7 +66,7 @@
 }
 /* --------------------------------------------------------------------------------------------------------- Color de las flechas se mantiene */
 .swiper-button-next:hover:after, .swiper-button-prev:hover:after {
-  color: gold;
+  color: gold; /* Color dorado */
 }
 /* ************************************************************* RESPONSIVIDAD ************************************************************* */
 /* ---------------------------------------------------------------------------------------------------------------------- Pantallas medianas */
