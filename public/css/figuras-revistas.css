@@ -42,14 +42,14 @@
 
 .member-info h4 {
   font-size: 18px; /* Tamaño de fuente para el nombre */
-  font-weight: bold;
+  font-weight: bold; /* Estilo como en negritas */
   color: black; /* Color de texto */
   margin-bottom: 10px; /* Separación entre el nombre y la descripción */
 }
 
 .member-info p {
   font-size: 16px; /* Tamaño de fuente para la descripción */
-  color: black; /* Color de texto más suave */
+  color: black; /* Color de texto */
   line-height: 1.5; /* Espaciado entre las líneas */
 }
 /* ************************************************************* RESPONSIVIDAD ************************************************************* */

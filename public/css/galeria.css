@@ -32,12 +32,12 @@
 }
 /* ------------------------------------------------------------------------------------------------------------------ Puntos de la paginación */
 .swiper-pagination-bullet {
-  background-color: rgba(255, 255, 255, 0.7); /* Color semi transparente para los puntos */
-  width: 12px;
-  height: 12px;
-  margin: 0 5px;
-  border-radius: 50%;
-  transition: background-color 0.3s ease;
+  background-color: rgba(255, 255, 255, 0.7); /* Color del fondo semi transparente para los puntos */
+  width: 12px; /* Ancho */
+  height: 12px; /* Largo */
+  margin: 0 5px; /* Margen */
+  border-radius: 50%; /* Para hacer que las flechas tengan un fondo circular */
+  transition: background-color 0.3s ease; /* Suavizar el cambio de fondo y color */
 }
 /* ------------------------------------------------------------------------------------------------------ Cambiar color de los puntos activos */
 .swiper-pagination-bullet-active {
@@ -51,13 +51,13 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  border-radius: 50%; /* Para hacer que las flechas tengan un fondo circular */
+  border-radius: 50%; 
   background-color: #0f1897; /* Fondo azul fuerte */
-  transition: background-color 0.3s, color 0.3s; /* Suavizar el cambio de fondo y color */
+  transition: background-color 0.3s, color 0.3s; 
 }
 /* ---------------------------------------------------------------------------------------------------------------------------------- Flechas */
 .swiper-button-next:after, .swiper-button-prev:after {
-  font-size: 20px; /* Ajustar tamaño de las flechas */
+  font-size: 20px; /* Tamaño de las flechas */
   color: gold; /* Color dorado */
 }
 /* --------------------------------------------------------------------------------------------------- Estado hover (cuando se pasa el ratón) */
@@ -66,7 +66,7 @@
 }
 /* --------------------------------------------------------------------------------------------------------- Color de las flechas se mantiene */
 .swiper-button-next:hover:after, .swiper-button-prev:hover:after {
-  color: gold; /* Color dorado */
+  color: gold; 
 }
 /* ************************************************************* RESPONSIVIDAD ************************************************************* */
 /* ---------------------------------------------------------------------------------------------------------------------- Pantallas medianas */
