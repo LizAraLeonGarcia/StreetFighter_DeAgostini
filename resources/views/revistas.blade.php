@@ -791,7 +791,7 @@
               </div>
               <div class="member-info">
                 <h4>Twelve</h4>
-                <p>.</p>
+                <p>El soldado perfecto.</p>
               </div>
             </div>
           </div>
