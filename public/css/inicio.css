@@ -2,7 +2,8 @@
 .inicio {
   background-color: #c1c6ca;
   color: #000000;
-  padding: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
 }
 /* ******************************************************* Para la sección del título ******************************************************* */
 .section-title-INICIO h1 {
@@ -18,6 +19,10 @@
   margin-bottom: 20px;
   text-align: center;
   font-weight: 400;
+}
+
+.section-title-INICIO h4 {
+  text-align: center;
 }
 /* *************************************************************** Para lista *************************************************************** */
 ul {

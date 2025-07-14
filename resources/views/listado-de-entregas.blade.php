@@ -227,7 +227,7 @@
               <tr class="fila59">
                 <td style="color: white;">59</td>
                 <td style="color: white;">Necalli</td>
-                <td style="color: white;">13 mayo 2025</td>
+                <td style="color: white;"> 2025</td>
                 <td style="color: white;">$480</td>
               </tr>
               <tr class="fila60">
@@ -242,32 +242,32 @@
               <tr class="fila61">
                 <td style="color: white;">61</td>
                 <td style="color: white;">Menat</td>
-                <td style="color: white;">27 mayo 2025</td>
+                <td style="color: white;">13 mayo 2025</td>
                 <td style="color: white;">$480</td>
               </tr>
               <tr class="fila62">
-                <td>62</td>
-                <td>Falke</td>
-                <td>10 junio 2025</td>
-                <td>$</td>
+                <td style="color: white;">62</td>
+                <td style="color: white;">Falke</td>
+                <td style="color: white;">27 mayo 2025</td>
+                <td style="color: white;">$480</td>
               </tr>
               <tr class="fila63">
                 <td style="color: white;">63</td>
                 <td style="color: white;">G</td>
-                <td style="color: white;">24 junio 2025</td>
-                <td style="color: white;">$</td>
+                <td style="color: white;">10 junio 2025</td>
+                <td style="color: white;">$480</td>
               </tr>
               <tr class="fila64">
                 <td>64</td>
                 <td>Remy</td>
-                <td>8 julio 2025</td>
-                <td>$</td>
+                <td>24 junio 2025</td>
+                <td>$480</td>
               </tr>
               <tr class="fila65">
                 <td>65</td>
                 <td>Twelve</td>
-                <td>22 julio 2025</td>
-                <td>$</td>
+                <td>8 julio 2025</td>
+                <td>$480</td>
               </tr>
               <tr class="fila66">
                 <td>66</td>

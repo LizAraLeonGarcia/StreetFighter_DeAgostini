@@ -24,8 +24,9 @@
 }
 /* *************************************************************** Paginación *************************************************************** */
 #customPagination {
-  column-count: 3; /* Divide la lista en 3 columnas */
-  column-gap: 10px; /* Espacio entre las columnas */
+  display: grid;
+  grid-template-columns: repeat(3, 1fr); /* Tres columnas por defecto */
+  gap: 3px; /* Espacio entre las columnas */
   overflow: hidden; /* Evita que la lista se desborde */
 }
 
@@ -37,7 +38,28 @@
 #customPagination li:hover {
   color: #007bff; 
 }
+/* Botón hamburguesa */
+.hamburger {
+  font-size: 28px;
+  background: none;
+  border: none;
+  display: none; /* Oculto por defecto */
+  cursor: pointer;
+}
 /* ************************************************************* RESPONSIVIDAD ************************************************************* */
-/* ------------------------------------------------------------------------------------------------------------------------ Pantallas grandes */
-/* ----------------------------------------------------------------------------------------------------------------------- Pantallas medianas */
-/* ----------------------------------------------------------------------------------------------------------------------- Pantallas pequeñas */
+/* ---------------------------------------------------------------------------------------------------------------------- Pantallas medianas */
+@media (min-width: 768px) and (max-width: 1199px) {
+  #customPagination {
+    grid-template-columns: repeat(2, 1fr); /* Dos columnas en pantallas medianas */
+  }
+}
+/* ---------------------------------------------------------------------------------------------------------------------- Pantallas pequeñas */
+@media (max-width: 767px) {
+  .hamburger {
+    display: block; /* Mostrar botón hamburguesa */
+  }
+
+  #customPagination {
+    grid-template-columns: 1fr; /* Una columna en pantallas pequeñas */
+  }
+}
