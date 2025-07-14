@@ -43,7 +43,7 @@
           <div class="swiper-slide"><a class="glightbox" data-galeria="images-galeria" href="assets/img/galeria/30.jpg"><img src="assets/img/galeria/30.jpg" class="img-fluid" alt="Alex"></a></div>
           <div class="swiper-slide"><a class="glightbox" data-galeria="images-galeria" href="assets/img/galeria/31.jpg"><img src="assets/img/galeria/31.jpg" class="img-fluid" alt="Akuma"></a></div>
           <div class="swiper-slide"><a class="glightbox" data-galeria="images-galeria" href="assets/img/galeria/32.jpg"><img src="assets/img/galeria/32.jpg" class="img-fluid" alt="Urien"></a></div>
-          <div class="swiper-slide"><a class="glightbox" data-galeria="images-galeria" href="assets/img/galeria/33.jpg"><img src="assets/img/galeria/33.jpg" class="img-fluid" alt="Necalli"></a></div>
+        <!-- <div class="swiper-slide"><a class="glightbox" data-galeria="images-galeria" href="assets/img/galeria/33.jpg"><img src="assets/img/galeria/33.jpg" class="img-fluid" alt="Necalli"></a></div>-->
           <div class="swiper-slide"><a class="glightbox" data-galeria="images-galeria" href="assets/img/galeria/34.jpg"><img src="assets/img/galeria/34.jpg" class="img-fluid" alt="G"></a></div>
     
           <div class="swiper-slide"><a class="glightbox" data-galeria="images-galeria" href="assets/img/galeria/35.jpg"><img src="assets/img/galeria/35.jpg" class="img-fluid" alt="E. Honda"></a></div>
@@ -80,10 +80,10 @@
           <div class="swiper-slide"><a class="glightbox" data-galeria="images-galeria" href="assets/img/galeria/65.jpg"><img src="assets/img/galeria/65.jpg" class="img-fluid" alt="Decapre"></a></div>
           <div class="swiper-slide"><a class="glightbox" data-galeria="images-galeria" href="assets/img/galeria/66.jpg"><img src="assets/img/galeria/66.jpg" class="img-fluid" alt="Q"></a></div>
           <div class="swiper-slide"><a class="glightbox" data-galeria="images-galeria" href="assets/img/galeria/67.jpg"><img src="assets/img/galeria/67.jpg" class="img-fluid" alt="F.A.N.G"></a></div>
-        <div class="swiper-slide"><a class="glightbox" data-galeria="images-galeria" href="assets/img/galeria/68.jpg"><img src="assets/img/galeria/68.jpg" class="img-fluid" alt="Oro"></a></div>
-        <div class="swiper-slide"><a class="glightbox" data-galeria="images-galeria" href="assets/img/galeria/69.jpg"><img src="assets/img/galeria/69.jpg" class="img-fluid" alt="Abel"></a></div>
-        <div class="swiper-slide"><a class="glightbox" data-galeria="images-galeria" href="assets/img/galeria/70.jpg"><img src="assets/img/galeria/70.jpg" class="img-fluid" alt="Seth"></a></div>
-        <!--  <div class="swiper-slide"><a class="glightbox" data-galeria="images-galeria" href="assets/img/galeria/71.jpg"><img src="assets/img/galeria/71.jpg" class="img-fluid" alt="Twelve"></a></div> -->
+          <div class="swiper-slide"><a class="glightbox" data-galeria="images-galeria" href="assets/img/galeria/68.jpg"><img src="assets/img/galeria/68.jpg" class="img-fluid" alt="Oro"></a></div>
+          <div class="swiper-slide"><a class="glightbox" data-galeria="images-galeria" href="assets/img/galeria/69.jpg"><img src="assets/img/galeria/69.jpg" class="img-fluid" alt="Abel"></a></div>
+          <div class="swiper-slide"><a class="glightbox" data-galeria="images-galeria" href="assets/img/galeria/70.jpg"><img src="assets/img/galeria/70.jpg" class="img-fluid" alt="Seth"></a></div>
+          <div class="swiper-slide"><a class="glightbox" data-galeria="images-galeria" href="assets/img/galeria/71.jpg"><img src="assets/img/galeria/71.jpg" class="img-fluid" alt="Twelve"></a></div>
           <div class="swiper-slide"><a class="glightbox" data-galeria="images-galeria" href="assets/img/galeria/72.jpg"><img src="assets/img/galeria/72.jpg" class="img-fluid" alt="Necro"></a></div>
           <div class="swiper-slide"><a class="glightbox" data-galeria="images-galeria" href="assets/img/galeria/73.jpg"><img src="assets/img/galeria/73.jpg" class="img-fluid" alt="Juni"></a></div>
         <!--  <div class="swiper-slide"><a class="glightbox" data-galeria="images-galeria" href="assets/img/galeria/74.jpg"><img src="assets/img/galeria/74.jpg" class="img-fluid" alt="Juli"></a></div>  -->
