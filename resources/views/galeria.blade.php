@@ -43,7 +43,7 @@
           <div class="swiper-slide"><a class="glightbox" data-galeria="images-galeria" href="assets/img/galeria/30.jpg"><img src="assets/img/galeria/30.jpg" class="img-fluid" alt="Alex"></a></div>
           <div class="swiper-slide"><a class="glightbox" data-galeria="images-galeria" href="assets/img/galeria/31.jpg"><img src="assets/img/galeria/31.jpg" class="img-fluid" alt="Akuma"></a></div>
           <div class="swiper-slide"><a class="glightbox" data-galeria="images-galeria" href="assets/img/galeria/32.jpg"><img src="assets/img/galeria/32.jpg" class="img-fluid" alt="Urien"></a></div>
-        <!-- <div class="swiper-slide"><a class="glightbox" data-galeria="images-galeria" href="assets/img/galeria/33.jpg"><img src="assets/img/galeria/33.jpg" class="img-fluid" alt="Necalli"></a></div>-->
+          <div class="swiper-slide"><a class="glightbox" data-galeria="images-galeria" href="assets/img/galeria/33.jpg"><img src="assets/img/galeria/33.jpg" class="img-fluid" alt="Necalli"></a></div>
           <div class="swiper-slide"><a class="glightbox" data-galeria="images-galeria" href="assets/img/galeria/34.jpg"><img src="assets/img/galeria/34.jpg" class="img-fluid" alt="G"></a></div>
     
           <div class="swiper-slide"><a class="glightbox" data-galeria="images-galeria" href="assets/img/galeria/35.jpg"><img src="assets/img/galeria/35.jpg" class="img-fluid" alt="E. Honda"></a></div>
