@@ -403,21 +403,41 @@
             <p>Una luchadora que logró escapar de las garras de Shadaloo.</p>
           </div>
         </div>
+        <!-- ................................................................................................................ Elena -->
+        <div class="team-member">
+          <div class="member-img">
+            <img src="assets/img/figuras/40.jpg" alt="Elena">
+          </div>
+          <div class="member-info">
+            <h4>Elena</h4>
+            <p>Una jóven vivaz experta en capoeira.</p>
+          </div>
+        </div>
         <!-- ............................................................................................................... Abigail -->
         <div class="team-member">
           <div class="member-img">
-            <img src="assets/img/figuras/40.jpg" alt="Abigail">
+            <img src="assets/img/figuras/41.jpg" alt="Abigail">
           </div>
           <div class="member-info">
             <h4>Abigail</h4>
             <p>Un gigantón de casi dos metros y medio de altura.</p>
           </div>
         </div>
+        <!-- ................................................................................................................. Hugo -->
+        <div class="team-member">
+          <div class="member-img">
+            <img src="assets/img/figuras/42.jpg" alt="Hugo">
+          </div>
+          <div class="member-info">
+            <h4>Hugo</h4>
+            <p>Un cuerpo enorme con una mente diminuta.</p>
+          </div>
+        </div>
         <!-- ---------------------------------------------------------------------------------------------------------------- los demás XD -->
         <!-- ............................................................................................................. El Fuerte -->
         <div class="team-member">
           <div class="member-img">
-            <img src="assets/img/figuras/41.jpg" alt="El fuerte">
+            <img src="assets/img/figuras/43.jpg" alt="El fuerte">
           </div>
           <div class="member-info">
             <h4>El Fuerte</h4>
@@ -427,7 +447,7 @@
         <!-- ................................................................................................................ T Hawk -->
         <div class="team-member">
           <div class="member-img">
-            <img src="assets/img/figuras/42.jpg" alt="T. Hawk">
+            <img src="assets/img/figuras/44.jpg" alt="T. Hawk">
           </div>
           <div class="member-info">
             <h4>T. Hawk</h4>
@@ -437,7 +457,7 @@
         <!-- ................................................................................................................... Gen -->
         <div class="team-member">
           <div class="member-img">
-            <img src="assets/img/figuras/43.jpg" alt="Gen">
+            <img src="assets/img/figuras/45.jpg" alt="Gen">
           </div>
           <div class="member-info">
             <h4>Gen</h4>
@@ -447,27 +467,37 @@
         <!-- ................................................................................................................ Gouken -->
         <div class="team-member">
           <div class="member-img">
-            <img src="assets/img/figuras/44.jpg" alt="Gouken">
+            <img src="assets/img/figuras/46.jpg" alt="Gouken">
           </div>
           <div class="member-info">
             <h4>Gouken</h4>
             <p>Último guardián de las técnicas del ansatsuken.</p>
           </div>
         </div>
-        <!-- ................................................................................................................. Hugo -->
+        <!-- ................................................................................................................. Karin -->
         <div class="team-member">
           <div class="member-img">
-            <img src="assets/img/figuras/45.jpg" alt="Hugo">
+            <img src="assets/img/figuras/47.jpg" alt="Karin">
           </div>
           <div class="member-info">
-            <h4>Hugo</h4>
-            <p>Un cuerpo enorme con una mente diminuta.</p>
+            <h4>Karin</h4>
+            <p>Repleta de soberbia y afán de superación.</p>
+          </div>
+        </div>
+        <!-- ............................................................................................................... Makoto -->
+        <div class="team-member">
+          <div class="member-img">
+            <img src="assets/img/figuras/48.jpg" alt="Makoto">
+          </div>
+          <div class="member-info">
+            <h4>Makoto</h4>
+            <p>Una luchadora que se crece ante la adversidad.</p>
           </div>
         </div>
         <!-- .............................................................................................................. Zangief -->
         <div class="team-member">
           <div class="member-img">
-            <img src="assets/img/figuras/46.jpg" alt="Zangief">
+            <img src="assets/img/figuras/49.jpg" alt="Zangief">
           </div>
           <div class="member-info">
             <h4>Zangief</h4>
@@ -477,27 +507,17 @@
         <!-- ................................................................................................................. Hakan -->
         <div class="team-member">
           <div class="member-img">
-            <img src="assets/img/figuras/47.jpg" alt="Hakan">
+            <img src="assets/img/figuras/50.jpg" alt="Hakan">
           </div>
           <div class="member-info">
             <h4>Hakan</h4>
             <p>Gran campeón del wrestling turco.</p>
           </div>
         </div>
-        <!-- ............................................................................................................... Birdie -->
-        <div class="team-member">
-          <div class="member-img">
-            <img src="assets/img/figuras/48.jpg" alt="Birdie">
-          </div>
-          <div class="member-info">
-            <h4>Birdie</h4>
-            <p>Un antiguo wrestler apasionado por la comida y los cortes de pelo estrafalarios.</p>
-          </div>
-        </div>
         <!-- .............................................................................................................. Rolento -->
         <div class="team-member">
           <div class="member-img">
-            <img src="assets/img/figuras/49.jpg" alt="Rolento">
+            <img src="assets/img/figuras/51.jpg" alt="Rolento">
           </div>
           <div class="member-info">
             <h4>Rolento</h4>
@@ -507,7 +527,7 @@
         <!-- ................................................................................................................ Sodom -->
         <div class="team-member">
           <div class="member-img">
-            <img src="assets/img/figuras/50.jpg" alt="Sodom">
+            <img src="assets/img/figuras/52.jpg" alt="Sodom">
             </div>
           <div class="member-info">
             <h4>Sodom</h4>
@@ -517,7 +537,7 @@
         <!-- .............................................................................................................. Fei Long -->
         <div class="team-member">
           <div class="member-img">
-            <img src="assets/img/figuras/51.jpg" alt="Fei Long">
+            <img src="assets/img/figuras/53.jpg" alt="Fei Long">
           </div>
           <div class="member-info">
             <h4>Fei Long</h4>
@@ -527,51 +547,31 @@
         <!-- ................................................................................................................. Rufus -->
         <div class="team-member">
           <div class="member-img">
-            <img src="assets/img/figuras/52.jpg" alt="Rufus">
+            <img src="assets/img/figuras/54.jpg" alt="Rufus">
           </div>
           <div class="member-info">
             <h4>Rufus</h4>
             <p>Un ruidoso y temperamental experto en kung fu.</p>
           </div>
         </div>
-        <!-- ............................................................................................................... Makoto -->
-        <div class="team-member">
-          <div class="member-img">
-            <img src="assets/img/figuras/53.jpg" alt="Makoto">
-          </div>
-          <div class="member-info">
-            <h4>Makoto</h4>
-            <p>Una luchadora que se crece ante la adversidad.</p>
-          </div>
-        </div>
-        <!-- ................................................................................................................. Karin -->
-        <div class="team-member">
-          <div class="member-img">
-            <img src="assets/img/figuras/54.jpg" alt="Karin">
-          </div>
-          <div class="member-info">
-            <h4>Karin</h4>
-            <p>Repleta de soberbia y afán de superación.</p>
-          </div>
-        </div>
-        <!-- ................................................................................................................ Elena -->
-        <div class="team-member">
-          <div class="member-img">
-            <img src="assets/img/figuras/55.jpg" alt="Elena">
-          </div>
-          <div class="member-info">
-            <h4>Elena</h4>
-            <p>Una jóven vivaz experta en capoeira.</p>
-          </div>
-        </div>
         <!-- ................................................................................................................ Balrog -->
         <div class="team-member">
           <div class="member-img">
-            <img src="assets/img/figuras/56.jpg" alt="Balrog">
+            <img src="assets/img/figuras/55.jpg" alt="Balrog">
           </div>
           <div class="member-info">
             <h4>Balrog</h4>
             <p>Un boxeador capaz de tumbar a un elefante.</p>
+          </div>
+        </div>
+        <!-- ............................................................................................................... Birdie -->
+        <div class="team-member">
+          <div class="member-img">
+            <img src="assets/img/figuras/56.jpg" alt="Birdie">
+          </div>
+          <div class="member-info">
+            <h4>Birdie</h4>
+            <p>Un antiguo wrestler apasionado por la comida y los cortes de pelo estrafalarios.</p>
           </div>
         </div>
         <!-- ................................................................................................................... Dan -->
