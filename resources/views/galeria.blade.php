@@ -51,24 +51,24 @@
           <div class="swiper-slide"><a class="glightbox" data-galeria="images-galeria" href="assets/img/galeria/37.jpg"><img src="assets/img/galeria/37.jpg" class="img-fluid" alt="Dee Jay"></a></div>
           <div class="swiper-slide"><a class="glightbox" data-galeria="images-galeria" href="assets/img/galeria/38.jpg"><img src="assets/img/galeria/38.jpg" class="img-fluid" alt="Guile"></a></div>
           <div class="swiper-slide"><a class="glightbox" data-galeria="images-galeria" href="assets/img/galeria/39.jpg"><img src="assets/img/galeria/39.jpg" class="img-fluid" alt="Cammy"></a></div>
-          <div class="swiper-slide"><a class="glightbox" data-galeria="images-galeria" href="assets/img/galeria/40.jpg"><img src="assets/img/galeria/40.jpg" class="img-fluid" alt="Abigail"></a></div>
+          <div class="swiper-slide"><a class="glightbox" data-galeria="images-galeria" href="assets/img/galeria/40.jpg"><img src="assets/img/galeria/40.jpg" class="img-fluid" alt="Elena"></a></div>
+          <div class="swiper-slide"><a class="glightbox" data-galeria="images-galeria" href="assets/img/galeria/41.jpg"><img src="assets/img/galeria/41.jpg" class="img-fluid" alt="Abigail"></a></div>
+          <div class="swiper-slide"><a class="glightbox" data-galeria="images-galeria" href="assets/img/galeria/42.jpg"><img src="assets/img/galeria/42.jpg" class="img-fluid" alt="Hugo"></a></div>
 
-          <div class="swiper-slide"><a class="glightbox" data-galeria="images-galeria" href="assets/img/galeria/41.jpg"><img src="assets/img/galeria/41.jpg" class="img-fluid" alt="El Fuerte"></a></div>
-          <div class="swiper-slide"><a class="glightbox" data-galeria="images-galeria" href="assets/img/galeria/42.jpg"><img src="assets/img/galeria/42.jpg" class="img-fluid" alt="T. Hawk"></a></div>
-          <div class="swiper-slide"><a class="glightbox" data-galeria="images-galeria" href="assets/img/galeria/43.jpg"><img src="assets/img/galeria/43.jpg" class="img-fluid" alt="Gen"></a></div>
-          <div class="swiper-slide"><a class="glightbox" data-galeria="images-galeria" href="assets/img/galeria/44.jpg"><img src="assets/img/galeria/44.jpg" class="img-fluid" alt="Gouken"></a></div>
-          <div class="swiper-slide"><a class="glightbox" data-galeria="images-galeria" href="assets/img/galeria/45.jpg"><img src="assets/img/galeria/45.jpg" class="img-fluid" alt="Hugo"></a></div>
-          <div class="swiper-slide"><a class="glightbox" data-galeria="images-galeria" href="assets/img/galeria/46.jpg"><img src="assets/img/galeria/46.jpg" class="img-fluid" alt="Zangief"></a></div>
-          <div class="swiper-slide"><a class="glightbox" data-galeria="images-galeria" href="assets/img/galeria/47.jpg"><img src="assets/img/galeria/47.jpg" class="img-fluid" alt="Hakan"></a></div>
-          <div class="swiper-slide"><a class="glightbox" data-galeria="images-galeria" href="assets/img/galeria/48.jpg"><img src="assets/img/galeria/48.jpg" class="img-fluid" alt="Birdie"></a></div>
-          <div class="swiper-slide"><a class="glightbox" data-galeria="images-galeria" href="assets/img/galeria/49.jpg"><img src="assets/img/galeria/49.jpg" class="img-fluid" alt="Rolento"></a></div>
-          <div class="swiper-slide"><a class="glightbox" data-galeria="images-galeria" href="assets/img/galeria/50.jpg"><img src="assets/img/galeria/50.jpg" class="img-fluid" alt="Sodom"></a></div>
-          <div class="swiper-slide"><a class="glightbox" data-galeria="images-galeria" href="assets/img/galeria/51.jpg"><img src="assets/img/galeria/51.jpg" class="img-fluid" alt="Fei Long"></a></div>
-          <div class="swiper-slide"><a class="glightbox" data-galeria="images-galeria" href="assets/img/galeria/52.jpg"><img src="assets/img/galeria/52.jpg" class="img-fluid" alt="Rufus"></a></div>
-          <div class="swiper-slide"><a class="glightbox" data-galeria="images-galeria" href="assets/img/galeria/53.jpg"><img src="assets/img/galeria/53.jpg" class="img-fluid" alt="Makoto"></a></div>
-          <div class="swiper-slide"><a class="glightbox" data-galeria="images-galeria" href="assets/img/galeria/54.jpg"><img src="assets/img/galeria/54.jpg" class="img-fluid" alt="Karin"></a></div>
-          <div class="swiper-slide"><a class="glightbox" data-galeria="images-galeria" href="assets/img/galeria/55.jpg"><img src="assets/img/galeria/55.jpg" class="img-fluid" alt="Elena"></a></div>
-          <div class="swiper-slide"><a class="glightbox" data-galeria="images-galeria" href="assets/img/galeria/56.jpg"><img src="assets/img/galeria/56.jpg" class="img-fluid" alt="Balrog"></a></div>
+          <div class="swiper-slide"><a class="glightbox" data-galeria="images-galeria" href="assets/img/galeria/43.jpg"><img src="assets/img/galeria/43.jpg" class="img-fluid" alt="El Fuerte"></a></div>
+          <div class="swiper-slide"><a class="glightbox" data-galeria="images-galeria" href="assets/img/galeria/44.jpg"><img src="assets/img/galeria/44.jpg" class="img-fluid" alt="T. Hawk"></a></div>
+          <div class="swiper-slide"><a class="glightbox" data-galeria="images-galeria" href="assets/img/galeria/45.jpg"><img src="assets/img/galeria/45.jpg" class="img-fluid" alt="Gen"></a></div>
+          <div class="swiper-slide"><a class="glightbox" data-galeria="images-galeria" href="assets/img/galeria/46.jpg"><img src="assets/img/galeria/46.jpg" class="img-fluid" alt="Gouken"></a></div>
+          <div class="swiper-slide"><a class="glightbox" data-galeria="images-galeria" href="assets/img/galeria/47.jpg"><img src="assets/img/galeria/47.jpg" class="img-fluid" alt="Karin"></a></div>
+          <div class="swiper-slide"><a class="glightbox" data-galeria="images-galeria" href="assets/img/galeria/48.jpg"><img src="assets/img/galeria/48.jpg" class="img-fluid" alt="Makoto"></a></div>
+          <div class="swiper-slide"><a class="glightbox" data-galeria="images-galeria" href="assets/img/galeria/49.jpg"><img src="assets/img/galeria/49.jpg" class="img-fluid" alt="Zangief"></a></div>
+          <div class="swiper-slide"><a class="glightbox" data-galeria="images-galeria" href="assets/img/galeria/50.jpg"><img src="assets/img/galeria/50.jpg" class="img-fluid" alt="Hakan"></a></div>
+          <div class="swiper-slide"><a class="glightbox" data-galeria="images-galeria" href="assets/img/galeria/51.jpg"><img src="assets/img/galeria/51.jpg" class="img-fluid" alt="Rolento"></a></div>
+          <div class="swiper-slide"><a class="glightbox" data-galeria="images-galeria" href="assets/img/galeria/52.jpg"><img src="assets/img/galeria/52.jpg" class="img-fluid" alt="Sodom"></a></div>
+          <div class="swiper-slide"><a class="glightbox" data-galeria="images-galeria" href="assets/img/galeria/53.jpg"><img src="assets/img/galeria/53.jpg" class="img-fluid" alt="Fei Long"></a></div>
+          <div class="swiper-slide"><a class="glightbox" data-galeria="images-galeria" href="assets/img/galeria/54.jpg"><img src="assets/img/galeria/54.jpg" class="img-fluid" alt="Rufus"></a></div>
+          <div class="swiper-slide"><a class="glightbox" data-galeria="images-galeria" href="assets/img/galeria/55.jpg"><img src="assets/img/galeria/55.jpg" class="img-fluid" alt="Balrog"></a></div>
+          <div class="swiper-slide"><a class="glightbox" data-galeria="images-galeria" href="assets/img/galeria/56.jpg"><img src="assets/img/galeria/56.jpg" class="img-fluid" alt="Birdie"></a></div>
           <div class="swiper-slide"><a class="glightbox" data-galeria="images-galeria" href="assets/img/galeria/57.jpg"><img src="assets/img/galeria/57.jpg" class="img-fluid" alt="Dan"></a></div>
           <div class="swiper-slide"><a class="glightbox" data-galeria="images-galeria" href="assets/img/galeria/58.jpg"><img src="assets/img/galeria/58.jpg" class="img-fluid" alt="Sakura"></a></div>
           <div class="swiper-slide"><a class="glightbox" data-galeria="images-galeria" href="assets/img/galeria/59.jpg"><img src="assets/img/galeria/59.jpg" class="img-fluid" alt="Yang"></a></div>
