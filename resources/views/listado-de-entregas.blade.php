@@ -281,17 +281,57 @@
             </tbody>
           </table>
         </div>
-        <p>Street Fighter</p>
-        <p>Street Fighter II</p>
-        <p>Super Street Fighter II</p>
-        <p>Super Street Fighter II Turbo</p>
-        <p>Street Fighter Alpha 2</p>
-        <p>Street Fighter Alpha: Warrior's Dream</p>
-        <p>Street Fighter Alpha 3</p>
-        <p>Street Fighter III: 3RD Strike</p>
-        <p>Street Fighter III: New Generation</p>
-        <P>Street Fighter IV</p>
-        <p>Street Fighter V</p>
+        <div class="table-responsive">
+          <table>
+            <thead>
+              <tr>
+                <th> Color </th>
+                <th> Videojuego </th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td style="background-color: white;"> </td> <td> Street Fighter</td>
+              </tr>
+              <tr>
+                <td style="background-color: blue;"> </td> <td>Street Fighter II</td>
+              </tr>
+              <tr>
+                <td style="background-color: midnightblue;"> </td> <td>Super Street Fighter II</td>
+              </tr>
+              <tr>
+                <td style="background-color: navy;"> </td> <td>Super Street Fighter II Turbo</td>
+              </tr>
+              <tr>
+                <td style="background-color: darkgreen;"> </td> <td>Street Fighter Alpha 2</td>
+              </tr>
+              <tr>
+                <td style="background-color: green;"> </td> <td>Street Fighter Alpha: Warrior's Dream</td>
+              </tr>
+              <tr>
+                <td style="background-color: lime;"> </td> <td>Street Fighter Alpha 3</td>
+              </tr>
+              <tr>
+                <td style="background-color: deeppink;"> </td> <td>Street Fighter III: 3RD Strike</td>
+              </tr>
+              <tr>
+                <td style="background-color: magenta;"> </td> <td>Street Fighter III: New Generation</td>
+              </tr>
+              <tr>
+                <td style="background-color: hotpink;"> </td> <td>Street Fighter III: 2ND Impact</td>
+              </tr>
+              <tr>
+                <td style="background-color: crimson;"> </td> <td>Street Fighter X Tekken</td>
+              </tr>
+              <tr>
+                <td style="background-color: purple;"> </td> <td>Street Fighter IV</td>
+              </tr>
+              <tr>
+                <td style="background-color: goldenrod;"> </td> <td>Street Fighter V</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
       </div>
       <!-- -------------------------------------------------------- Columna derecha -------------------------------------------------------- -->
       <div class="col-md-3 d-none d-md-block">

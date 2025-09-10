@@ -60,21 +60,21 @@
 }
 /* ----------------------------------------------------------------------------------------------------------- Street Fighter III: 3RD Strike */
 .table .fila4 {
-    background-color: purple;
+    background-color: deeppink;
     color: white !important;
-    border-color: purple;
+    border-color: deeppink;
 }
 /* ------------------------------------------------------------------------------------------------------- Street Fighter III: New Generation */
 .table .fila4-1 {
-    background-color: darkmagenta;
+    background-color: magenta;
     color: white !important;
-    border-color: darkmagenta;
+    border-color: magenta;
 }
 /* ---------------------------------------------------------------------------------------------------------- Street Fighter III: 2ND Impact  */
 .table .fila4-2 {
-    background-color: saddlebrown;
+    background-color: hotpink;
     color: white !important;
-    border-color: saddlebrown;
+    border-color: hotpink;
 }
 /* ----------------------------------------------------------------------------------------------------------------- Street Fighter x Tekken  */
 .table .filaT {
@@ -82,13 +82,13 @@
     color: white !important;
     border-color: crimson;
 }
-/* ------------------------------------------------------------------------------------------------------------------------- Street Fighter V */
-.table .filaIV {
-    background-color: magenta;
-    color: white !important;
-    border-color: magenta;
-}
 /* ------------------------------------------------------------------------------------------------------------------------ Street Fighter IV */
+.table .filaIV {
+    background-color: purple;
+    color: white !important;
+    border-color: purple;
+}
+/* ------------------------------------------------------------------------------------------------------------------------- Street Fighter V */
 .table .filaV {
     background-color: goldenrod;
     color: white !important;
