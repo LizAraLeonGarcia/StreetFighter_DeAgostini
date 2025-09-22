@@ -39,13 +39,13 @@
                 <td>2</td> <td>Ken</td> <td>11 octubre 2022</td> <td>$180</td>
               </tr>
               <tr class="fila2">
-                <td>3</td> <td>M. Bison</td> <td>25 octubre 2022</td> <td>$300</td>
+                <td style="color: white;">3</td> <td style="color: white;">M. Bison</td> <td style="color: white;">25 octubre 2022</td> <td style="color: white;">$300</td>
               </tr>
               <tr class="fila2">
                 <td>4</td> <td>Sagat</td> <td>8 noviembre 2022</td> <td>$300</td>
               </tr>
               <tr class="fila2">
-                <td>5</td> <td>Blanka</td> <td>22 noviembre 2022</td> <td>$300</td>
+                <td style="color: white;">5</td> <td style="color: white;">Blanka</td> <td style="color: white;">22 noviembre 2022</td> <td style="color: white;">$300</td>
               </tr>
               <tr class="fila2">
                 <td>6</td> <td>Vega</td> <td>6 diciembre 2022</td> <td>$300</td>
@@ -57,25 +57,25 @@
                 <td>8</td> <td>Guile</td> <td>10 enero 2023</td> <td>$300</td>
               </tr>
               <tr class="fila2">
-                <td>9</td> <td>Dhalsim</td> <td>7 febrero 2023</td> <td>$330</td>
+                <td style="color: white;">9</td> <td style="color: white;">Dhalsim</td> <td style="color: white;">7 febrero 2023</td> <td style="color: white;">$330</td>
               </tr>
               <tr class="fila2">
-                <td>10</td> <td>Zangief</td> <td>21 febrero 2023</td> <td>$330</td>
+                <td style="color: white;">10</td> <td>Zangief</td> <td>21 febrero 2023</td> <td>$330</td>
               </tr>
               <tr class="fila2">
-                <td>11</td> <td>Balrog</td> <td>7 marzo 2023</td> <td>$330</td>
+                <td style="color: white;">11</td> <td style="color: white;">Balrog</td> <td style="color: white;">7 marzo 2023</td> <td style="color: white;">$330</td>
               </tr>
               <tr class="fila2">
                 <td>12</td> <td>E. Honda</td> <td>21 marzo 2023</td> <td>$330</td>
               </tr>
               <tr class="fila2-1">
-                <td>13</td> <td>T. Hawk</td> <td>18 abril 2023</td> <td>$330</td>
+                <td style="color: white;">13</td> <td style="color: white;">T. Hawk</td> <td style="color: white;">18 abril 2023</td> <td style="color: white;">$330</td>
               </tr>
               <tr class="fila2-1">
                 <td>14</td> <td>Cammy</td> <td>2 mayo 2023</td> <td>$330</td>
               </tr>
               <tr class="fila2-1">
-                <td>15</td> <td>Fei Long</td> <td>16 mayo 2023</td> <td>$330</td>
+                <td style="color: white;">15</td> <td style="color: white;">Fei Long</td> <td style="color: white;">16 mayo 2023</td> <td style="color: white;">$330</td>
               </tr>
               <tr class="fila2-2">
                 <td>16</td> <td>Akuma</td> <td>30 mayo 2023</td> <td>$330</td>
@@ -234,48 +234,41 @@
                 <td>66</td> <td>Ed</td> <td>22 julio 2025</td> <td>$480</td>
               </tr>
               <tr class="filaV">
-                <td>67</td> <td>Zeku</td> <td>19 agosto 2025</td> <td>$480</td>
-              </tr>
-              <tr class="filaV">
-                <td>68</td> <td>Lucia</td> <td>2 septiembre 2025</td> <td>$480</td>
-              </tr>
-              <tr class="filaV">
-                <td>69</td> <td>Kage</td> <td>16 septiembre 2025</td> <td>$480</td>
-              </tr>
-              <tr class="filaV">
-                <td>70</td>
-                <td>Abigail</td>
-                <td>30 septiembre 2025</td>
+                <td>67</td> <td>Zeku</td>
+                <td>noviembre 2025</td>
                 <td>$</td>
+              </tr>
+              <tr class="filaV">
+                <td>68</td> <td>Lucia</td> <td>19 agosto 2025</td> <td>$480</td>
+              </tr>
+              <tr class="filaV">
+                <td>69</td> <td>Kage</td> <td>2 septiembre 2025</td> <td>$480</td>
+              </tr>
+              <tr class="filaV">
+                <td>70</td> <td>Abigail</td><td>16 septiembre 2025</td> <td>$480</td>
               </tr>
               <tr class="fila3-1">
-                <td>71</td>
-                <td>Sodom</td>
-                <td>14 octubre 2025</td>
-                <td>$</td>
+                <td>71</td> <td>Sodom</td>
+                <td>30 septiembre 2025</td> <td>$</td>
               </tr>
               <tr class="filaV">
-                <td>72</td>
-                <td>Akira</td>
-                <td>28 octubre 2025</td>
+                <td>72</td> <td>Akira</td>
+                <td>octubre 2025</td>
                 <td>$</td>
               </tr>
               <tr class="fila3-2">
-                <td>73</td>
-                <td>Juni</td>
-                <td>11 noviembre 2025</td>
+                <td>73</td> <td>Juni</td>
+                <td>octubre 2025</td>
                 <td>$</td>
               </tr>
               <tr class="fila3-2">
-                <td style="color: white;">74</td>
-                <td style="color: white;">Juli</td>
-                <td style="color: white;">25 noviembre 2025</td>
-                <td style="color: white;">$</td>
+                <td>74</td> <td>Juli</td>
+                <td>noviembre 2025</td>
+                <td>$</td>
               </tr>
               <tr class="filaV">
-                <td>75</td>
-                <td>Luke</td>
-                <td>9 diciembre 2025</td>
+                <td>75</td> <td>Luke</td>
+                <td>diciembre 2025</td>
                 <td>$</td>
               </tr>
             </tbody>
@@ -306,7 +299,7 @@
                 <td style="background-color: darkgreen;"> </td> <td>Street Fighter Alpha 2</td>
               </tr>
               <tr>
-                <td style="background-color: green;"> </td> <td>Street Fighter Alpha: Warrior's Dream</td>
+                <td style="background-color: gre28en;"> </td> <td>Street Fighter Alpha: Warrior's Dream</td>
               </tr>
               <tr>
                 <td style="background-color: lime;"> </td> <td>Street Fighter Alpha 3</td>
