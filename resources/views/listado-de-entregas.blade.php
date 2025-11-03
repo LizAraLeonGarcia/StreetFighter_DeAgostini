@@ -81,25 +81,25 @@
                 <td>16</td> <td>Akuma</td> <td>30 mayo 2023</td> <td>$330</td>
               </tr>
               <tr class="fila3">
-                <td>17</td> <td>Sakura</td> <td>27 junio 2023</td> <td>$330</td>
+                <td style="color: white;">17</td> <td style="color: white;">Sakura</td> <td style="color: white;">27 junio 2023</td> <td style="color: white;">$330</td>
               </tr>
               <tr class="fila2-1">
                 <td>18</td> <td>Dee Jay</td> <td>25 julio 2023</td> <td>$360</td>
               </tr>
               <tr class="fila3-1">
-                <td>19</td> <td>Adon</td> <td>11 julio 2023</td> <td>$360</td>
+                <td style="color: white;">19</td> <td style="color: white;">Adon</td> <td style="color: white;">11 julio 2023</td> <td style="color: white;">$360</td>
               </tr>
               <tr class="fila3-1">
                 <td>20</td> <td>Rose</td> <td>13 junio 2023</td> <td>$330</td>
               </tr>
               <tr class="fila3-1">
-                <td>21</td> <td>Dan</td> <td>12 diciembre 2023</td> <td>$360</td>
+                <td style="color: white;">21</td> <td style="color: white;">Dan</td> <td style="color: white;">12 diciembre 2023</td> <td style="color: white;">$360</td>
               </tr>
               <tr class="fila3-2">
                 <td>22</td> <td>R. Mika</td> <td>22 agosto 2023</td> <td>$360</td>
               </tr>
               <tr class="fila4">
-                <td>23</td> <td>Makoto</td> <td>31 octubre 2023</td> <td>$360</td>
+                <td style="color: white;">23</td> <td style="color: white;">Makoto</td> <td style="color: white;">31 octubre 2023</td> <td style="color: white;">$360</td>
               </tr>
               <tr class="fila3-2">
                 <td>24</td> <td>Cody</td> <td>3 octubre 2023</td> <td>$360</td>
@@ -111,19 +111,19 @@
                 <td>26</td> <td>Gen</td> <td>8 agosto 2023</td> <td>$360</td>
               </tr>
               <tr class="filaIV">
-                <td>27</td> <td>C. Viper</td> <td>19 septiembre 2023</td> <td>$360</td>
+                <td style="color: white;">27</td> <td style="color: white;">C. Viper</td> <td style="color: white;">19 septiembre 2023</td> <td style="color: white;">$360</td>
               </tr>
               <tr class="filaIV">
                 <td>28</td> <td>Gouken</td> <td>23 enero 2024</td> <td>$360</td>
               </tr>
               <tr class="filaIV">
-                <td>29</td> <td>Poison</td> <td>2 enero 2024</td> <td>$360</td>
+                <td style="color: white;">29</td> <td style="color: white;">Poison</td> <td style="color: white;">2 enero 2024</td> <td style="color: white;">$360</td>
               </tr>
               <tr class="fila4-1">
                 <td>30</td> <td>Dudley</td> <td>6 febrero 2024</td> <td>$360</td>
               </tr>
               <tr class="filaIV">
-                <td>31</td> <td>Evil Ryu</td> <td>20 febrero 2024</td> <td>$360</td>
+                <td style="color: white;">31</td> <td style="color: white;">Evil Ryu</td> <td style="color: white;">20 febrero 2024</td> <td style="color: white;">$360</td>
               </tr>
               <tr class="filaIV">
                 <td>32</td> <td>Oni</td> <td>5 marzo 2024</td> <td>$360</td>
@@ -141,37 +141,37 @@
                 <td>36</td> <td>Elena</td> <td>7 mayo 2024</td> <td>$390</td>
               </tr>
               <tr class="fila3-1">
-                <td>37</td> <td>Charlie Nash</td> <td>21 mayo 2024</td> <td>$390</td>
+                <td style="color: white;">37</td> <td style="color: white;">Charlie Nash</td> <td style="color: white;">21 mayo 2024</td> <td style="color: white;">$390</td>
               </tr>
               <tr class="filaIV">
                 <td>38</td> <td>Abel</td> <td>23 julio 2024</td> <td>$390</td>
               </tr>
               <tr class="filaIV">
-                <td>39</td> <td>Juri</td> <td>4 junio 2024</td> <td>$390</td>
+                <td style="color: white;">39</td> <td style="color: white;">Juri</td> <td style="color: white;">4 junio 2024</td> <td style="color: white;">$390</td>
               </tr>
               <tr class="fila3">
                 <td>40</td> <td>Rolento</td> <td>6 agosto 2024</td> <td>$390</td>
               </tr>
               <tr class="filaIV">
-                <td>41</td> <td>Hakan</td> <td>20 agosto 2024</td> <td>$390</td> 
+                <td style="color: white;">41</td> <td style="color: white;">Hakan</td> <td style="color: white;">20 agosto 2024</td> <td style="color: white;">$390</td> 
               </tr>
               <tr class="filaIV">
                 <td>42</td> <td>El Fuerte</td> <td>3 septiembre 2024</td> <td>$390</td>
               </tr>
               <tr class="filaIV">
-                <td>43</td> <td>Decapre</td> <td>17 septiembre 2024</td> <td>$390</td>
+                <td style="color: white;">43</td> <td style="color: white;">Decapre</td> <td style="color: white;">17 septiembre 2024</td> <td style="color: white;">$390</td>
               </tr>
               <tr class="filaT">
                 <td>44</td> <td>Hugo</td> <td>1 octubre 2024</td> <td>$390</td>
               </tr>
               <tr class="fila3-1">
-                <td>45</td> <td>Guy</td> <td>15 octubre 2024</td> <td>$390</td>
+                <td style="color: white;">45</td> <td style="color: white;">Guy</td> <td style="color: white;">15 octubre 2024</td> <td style="color: white;">$390</td>
               </tr>
               <tr class="filaIV">
                 <td>46</td> <td>Seth</td> <td>29 octubre 2024</td> <td>$420</td>
               </tr>
               <tr class="filaIV">
-                <td>47</td> <td>Rufus</td> <td>12 noviembre 2024</td> <td>$420</td>
+                <td style="color: white;">47</td> <td style="color: white;">Rufus</td> <td style="color: white;">12 noviembre 2024</td> <td style="color: white;">$420</td>
               </tr>
               <tr class="fila4-2">
                 <td>48</td> <td>Urien</td> <td>26 noviembre 2024</td> <td>$420</td>
@@ -212,7 +212,7 @@
               <tr class="filaV">
                 <td>60</td> <td>F.A.N.G</td> <td>29 abril 2025</td> <td>$480</td>
               </tr>
-              <tr class="filaExpansiOn">
+              <tr class="filaExpansion">
                 <th align="center" colspan="4" style="background-color: #333; color: white;">	EXPANSIÓN </th>
               </tr>
               <tr class="filaV">
@@ -225,7 +225,7 @@
                 <td>63</td> <td>G</td> <td>10 junio 2025</td> <td>$480</td>
               </tr>
               <tr class="fila4">
-                <td>64</td> <td>Remy</td> <td>24 junio 2025</td> <td>$480</td>
+                <td style="color: white;">64</td> <td style="color: white;">Remy</td> <td style="color: white;">24 junio 2025</td> <td style="color: white;">$480</td>
               </tr>
               <tr class="fila4">
                 <td>65</td> <td>Twelve</td> <td>8 julio 2025</td> <td>$480</td>
@@ -235,7 +235,7 @@
               </tr>
               <tr class="filaV">
                 <td>67</td> <td>Zeku</td>
-                <td>noviembre 2025</td>
+                <td>25 noviembre 2025</td>
                 <td>$</td>
               </tr>
               <tr class="filaV">
@@ -249,81 +249,66 @@
               </tr>
               <tr class="fila3-1">
                 <td>71</td> <td>Sodom</td>
-                <td>30 septiembre 2025</td> <td>$</td>
+                <td>30 septiembre 2025</td> <td>$480</td>
               </tr>
               <tr class="filaV">
                 <td>72</td> <td>Akira</td>
-                <td>octubre 2025</td>
-                <td>$</td>
+                <td>14 octubre 2025</td>
+                <td>$480</td>
               </tr>
               <tr class="fila3-2">
                 <td>73</td> <td>Juni</td>
-                <td>octubre 2025</td>
-                <td>$</td>
+                <td>28 octubre 2025</td>
+                <td>$480</td>
               </tr>
               <tr class="fila3-2">
                 <td>74</td> <td>Juli</td>
-                <td>noviembre 2025</td>
+                <td>11 noviembre 2025</td>
                 <td>$</td>
               </tr>
               <tr class="filaV">
                 <td>75</td> <td>Luke</td>
-                <td>diciembre 2025</td>
+                <td>9 diciembre 2025</td>
                 <td>$</td>
               </tr>
             </tbody>
           </table>
         </div>
-        <div class="table-responsive">
-          <table>
-            <thead>
-              <tr>
-                <th> Color </th>
-                <th> Videojuego </th>
-              </tr>
-            </thead>
-            <tbody>
-              <tr>
-                <td style="background-color: white;"> </td> <td> Street Fighter</td>
-              </tr>
-              <tr>
-                <td style="background-color: blue;"> </td> <td>Street Fighter II</td>
-              </tr>
-              <tr>
-                <td style="background-color: midnightblue;"> </td> <td>Super Street Fighter II</td>
-              </tr>
-              <tr>
-                <td style="background-color: navy;"> </td> <td>Super Street Fighter II Turbo</td>
-              </tr>
-              <tr>
-                <td style="background-color: darkgreen;"> </td> <td>Street Fighter Alpha 2</td>
-              </tr>
-              <tr>
-                <td style="background-color: gre28en;"> </td> <td>Street Fighter Alpha: Warrior's Dream</td>
-              </tr>
-              <tr>
-                <td style="background-color: lime;"> </td> <td>Street Fighter Alpha 3</td>
-              </tr>
-              <tr>
-                <td style="background-color: deeppink;"> </td> <td>Street Fighter III: 3RD Strike</td>
-              </tr>
-              <tr>
-                <td style="background-color: magenta;"> </td> <td>Street Fighter III: New Generation</td>
-              </tr>
-              <tr>
-                <td style="background-color: hotpink;"> </td> <td>Street Fighter III: 2ND Impact</td>
-              </tr>
-              <tr>
-                <td style="background-color: crimson;"> </td> <td>Street Fighter X Tekken</td>
-              </tr>
-              <tr>
-                <td style="background-color: purple;"> </td> <td>Street Fighter IV</td>
-              </tr>
-              <tr>
-                <td style="background-color: goldenrod;"> </td> <td>Street Fighter V</td>
-              </tr>
-            </tbody>
-          </table>
+        <div>
+          <div class="table-responsive">
+            <table class="table-videojuegos">
+              <thead>
+                <tr>
+                  <th> Nota </th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>
+                    <div style="background-color: white; padding: 5px;">Street Fighter</div>
+                    <div style="background-color: blue; color: white; padding: 5px;">Street Fighter II</div>
+                    <div style="background-color: midnightblue; color: white; padding: 5px;">Super Street Fighter II</div>
+                    <div style="background-color: navy; color: white; padding: 5px;">Super Street Fighter II Turbo</div>
+                    <div style="background-color: darkgreen; color: white; padding: 5px;">Street Fighter Alpha 2</div>
+                    <div style="background-color: green; color: white; padding: 5px;">Street Fighter Alpha: Warrior's Dream</div>
+                    <div style="background-color: lime; padding: 5px;">Street Fighter Alpha 3</div>
+                    <div style="background-color: deeppink; color: white; padding: 5px;">Street Fighter III: 3RD Strike</div>
+                    <div style="background-color: magenta; color: black; padding: 5px;">Street Fighter III: New Generation</div>
+                    <div style="background-color: hotpink; color: black; padding: 5px;">Street Fighter III: 2ND Impact</div>
+                    <div style="background-color: crimson; color: white; padding: 5px;">Street Fighter X Tekken</div>
+                    <div style="background-color: purple; color: white; padding: 5px;">Street Fighter IV</div>
+                    <div style="background-color: goldenrod; color: black; padding: 5px;">Street Fighter V</div>
+                  </td>
+                </tr>
+                <tr>
+                  <td> Para cada personaje tomé de referencia el primer videojuego en donde cuenta como personaje jugable, 
+                    por ejemplo: Adon y Birdie, aunque salieron por primera vez en el Street Fighter, ninguno 
+                    de ellos dos era personaje jugable, hasta el Street Fighter Alpha: Warrior's Dream.
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
         </div>
       </div>
       <!-- -------------------------------------------------------- Columna derecha -------------------------------------------------------- -->
