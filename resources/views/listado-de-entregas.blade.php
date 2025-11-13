@@ -264,7 +264,7 @@
               <tr class="fila3-2">
                 <td>74</td> <td>Juli</td>
                 <td>11 noviembre 2025</td>
-                <td>$</td>
+                <td>$480</td>
               </tr>
               <tr class="filaV">
                 <td>75</td> <td>Luke</td>
@@ -284,6 +284,13 @@
               </thead>
               <tbody>
                 <tr>
+                  <td> Para cada personaje tomé de referencia el primer videojuego en donde cuenta como personaje jugable, por ejemplo: Adon y
+                    Birdie, aunque salieron por primera vez en el Street Fighter, ninguno de ellos dos era personaje jugable, hasta el Street
+                    Fighter Alpha: Warrior's Dream. Por lo tanto, cada uno de los colores utilizados en la tabla representa a un videojuego en 
+                    específico siendo aclarado cada uno de éstos debajo de este párrafo y ordenados conforme su fecha de lanzamiento.
+                  </td>
+                </tr>
+                <tr>
                   <td>
                     <div style="background-color: white; padding: 5px;">Street Fighter</div>
                     <div style="background-color: blue; color: white; padding: 5px;">Street Fighter II</div>
@@ -298,12 +305,6 @@
                     <div style="background-color: crimson; color: white; padding: 5px;">Street Fighter X Tekken</div>
                     <div style="background-color: purple; color: white; padding: 5px;">Street Fighter IV</div>
                     <div style="background-color: goldenrod; color: black; padding: 5px;">Street Fighter V</div>
-                  </td>
-                </tr>
-                <tr>
-                  <td> Para cada personaje tomé de referencia el primer videojuego en donde cuenta como personaje jugable, 
-                    por ejemplo: Adon y Birdie, aunque salieron por primera vez en el Street Fighter, ninguno 
-                    de ellos dos era personaje jugable, hasta el Street Fighter Alpha: Warrior's Dream.
                   </td>
                 </tr>
               </tbody>
