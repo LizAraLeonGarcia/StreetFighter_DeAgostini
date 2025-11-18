@@ -751,7 +751,7 @@
           </div>
           <div class="member-info">
             <h4>Juli</h4>
-            <p>.</p>
+            <p>Una mortífera soldado de élite de Shadaloo.</p>
           </div>
         </div>
         <!-- .............................................................................................................. Evil Ryu -->

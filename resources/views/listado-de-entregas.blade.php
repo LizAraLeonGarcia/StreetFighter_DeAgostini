@@ -287,24 +287,24 @@
                   <td> Para cada personaje tomé de referencia el primer videojuego en donde cuenta como personaje jugable, por ejemplo: Adon y
                     Birdie, aunque salieron por primera vez en el Street Fighter, ninguno de ellos dos era personaje jugable, hasta el Street
                     Fighter Alpha: Warrior's Dream. Por lo tanto, cada uno de los colores utilizados en la tabla representa a un videojuego en 
-                    específico siendo aclarado cada uno de éstos debajo de este párrafo y ordenados conforme su fecha de lanzamiento.
+                    específico siendo aclarado cada uno de éstos debajo de este párrafo y ordenados conforme a su fecha de lanzamiento.
                   </td>
                 </tr>
                 <tr>
                   <td>
-                    <div style="background-color: white; padding: 5px;">Street Fighter</div>
-                    <div style="background-color: blue; color: white; padding: 5px;">Street Fighter II</div>
-                    <div style="background-color: midnightblue; color: white; padding: 5px;">Super Street Fighter II</div>
-                    <div style="background-color: navy; color: white; padding: 5px;">Super Street Fighter II Turbo</div>
-                    <div style="background-color: darkgreen; color: white; padding: 5px;">Street Fighter Alpha 2</div>
+                    <div style="background-color: white; padding: 5px;">Street Fighter (1987)</div>
+                    <div style="background-color: blue; color: white; padding: 5px;">Street Fighter II (1991)</div>
+                    <div style="background-color: midnightblue; color: white; padding: 5px;">Super Street Fighter II (1993)</div>
+                    <div style="background-color: navy; color: white; padding: 5px;">Super Street Fighter II Turbo (1994)</div>
+                    <div style="background-color: darkgreen; color: white; padding: 5px;">Street Fighter Alpha 2 (1996)</div>
                     <div style="background-color: green; color: white; padding: 5px;">Street Fighter Alpha: Warrior's Dream</div>
-                    <div style="background-color: lime; padding: 5px;">Street Fighter Alpha 3</div>
-                    <div style="background-color: deeppink; color: white; padding: 5px;">Street Fighter III: 3RD Strike</div>
+                    <div style="background-color: lime; padding: 5px;">Street Fighter Alpha 3 (1998)</div>
+                    <div style="background-color: deeppink; color: white; padding: 5px;">Street Fighter III: 3RD Strike (1999)</div>
                     <div style="background-color: magenta; color: black; padding: 5px;">Street Fighter III: New Generation</div>
-                    <div style="background-color: hotpink; color: black; padding: 5px;">Street Fighter III: 2ND Impact</div>
-                    <div style="background-color: crimson; color: white; padding: 5px;">Street Fighter X Tekken</div>
-                    <div style="background-color: purple; color: white; padding: 5px;">Street Fighter IV</div>
-                    <div style="background-color: goldenrod; color: black; padding: 5px;">Street Fighter V</div>
+                    <div style="background-color: hotpink; color: black; padding: 5px;">Street Fighter III: 2ND Impact (1997)</div>
+                    <div style="background-color: crimson; color: white; padding: 5px;">Street Fighter X Tekken (2012)</div>
+                    <div style="background-color: purple; color: white; padding: 5px;">Street Fighter IV (2008)</div>
+                    <div style="background-color: goldenrod; color: black; padding: 5px;">Street Fighter V (2016)</div>
                   </td>
                 </tr>
               </tbody>
