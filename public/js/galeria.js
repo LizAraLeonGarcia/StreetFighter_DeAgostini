@@ -1,7 +1,7 @@
 document.addEventListener('DOMContentLoaded', function () {
   const swiper = new Swiper('.swiper-container', {
     loop: true,                // Para que el carrusel sea continuo
-    centeredSlides: false,      // Asegura que la primera imagen está centrada
+    centeredSlides: false,      // Asegura que la primera imagen no está centrada
     initialSlide: 0,           // Empieza desde la primera imagen
     navigation: {
       nextEl: '.swiper-button-next',

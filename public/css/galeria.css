@@ -53,12 +53,8 @@
   align-items: center;
   border-radius: 50%; 
   background-color: #0f1897; /* Fondo azul fuerte */
+  --swiper-navigation-color: gold;
   transition: background-color 0.3s, color 0.3s; 
-}
-/* ---------------------------------------------------------------------------------------------------------------------------------- Flechas */
-.swiper-button-next:after, .swiper-button-prev:after {
-  font-size: 20px; /* Tamaño de las flechas */
-  color: gold; /* Color dorado */
 }
 /* --------------------------------------------------------------------------------------------------- Estado hover (cuando se pasa el ratón) */
 .swiper-button-next:hover, .swiper-button-prev:hover {

@@ -36,7 +36,11 @@
 }
 /* -------------------------------------------------------------------------------------------------------- Cambia el color al pasar el ratón */
 #customPagination li:hover {
-  color: #007bff; 
+  color: blue; 
+}
+
+#customPagination li:active{
+  color: green;
 }
 /* Botón hamburguesa */
 .hamburger {
