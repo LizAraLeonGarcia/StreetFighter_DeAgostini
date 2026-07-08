@@ -1,11 +1,11 @@
 .container-fluid {
-  background-color: #c1c6ca;
+  background-color: #a7a7a7;
   font-family: 'Times New Roman', Times, serif;
   padding: 20px;
 }
 
 .container-fluid .section-title h3 {
-  color: #333; /* Color de texto más suave */
+  color: white; /* Color de texto más suave */
   text-align: center;
   font-size: 36px; /* Aumenta el tamaño para destacarlo más */
   margin-bottom: 30px; /* Más espacio debajo para darle respiro */

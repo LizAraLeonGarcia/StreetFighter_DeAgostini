@@ -103,7 +103,43 @@
                 <div class="character-item">
                   <h4>Chun Li</h4>
                   <a href="assets/img/personajes/1.jpg"> <img src="assets/img/personajes/1.jpg" alt="Chun Li"> </a>
-                  <p class="description">Creadora de su propio estilo de lucha, la bella y decidida Chun-Li es una pieza fundamental para acabar con la organización criminal Shadaloo. Siguiendo los pasos de su desaparecido padre, no descansará hasta acabar con M. Bison y todo lo que representa.</p>
+                  <div class="character-card">
+                    <div class="character-info">
+                      <div><strong>País:</strong> China 🇨🇳 </div>
+                      <div><strong>Estilo:</strong> Kung Fu </div>
+                      <div><strong>Ocupación:</strong> Agente de la Interpol </div>
+                      <div><strong>Fecha de nacimiento:</strong> 1 de marzo </div>
+                      <div><strong>Altura:</strong> 1.69 m </div>
+                      <div><strong>Peso:</strong> Desconocido </div>
+                      <div><strong>Color de ojos:</strong> Café </div>
+                      <div><strong>Color de cabello:</strong> Negro </div>
+                    </div>
+                    <div class="character-description">
+                      <p> Creadora de su propio estilo de lucha, la bella y decidida Chun-Li es una pieza fundamental para acabar con la organización criminal Shadaloo. </p>
+                    </div>
+                    <div class="card-footer">
+                      <div class="info-column likes">
+                        <h6>🟢 Gustos</h6>
+                        <ul>
+                          <li> Artes marciales </li>
+                          <li> Crepas </li>
+                          <li> Frutas </li>
+                          <li> Dulces / Confitería occidental </li>
+                          <li> Tocar el erhu </li>
+                        </ul>
+                      </div>
+                      <div class="info-column dislikes">
+                        <h6>🔴 Aversiones</h6>
+                        <ul>
+                          <li> M. Bison </li>
+                          <li> Shadaloo </li>
+                          <li> El crimen </li>
+                          <li> La indecisión </li>
+                          <li> Gente turbia o que no puede ir al grano </li>
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
                 </div>
               </div>
               <div class="carousel-item"> <!-- --------------------------------------------------------------------------------------- AKIRA -->

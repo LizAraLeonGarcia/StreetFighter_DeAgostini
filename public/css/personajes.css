@@ -1,6 +1,5 @@
 /* ****************************************************** Para el contenedor principal ****************************************************** */
 .personajes {
-  padding: 0 15px;
   min-height: 100vh; /* Asegura que el contenedor ocupe al menos la altura de la pantalla */
   flex-direction: column; /* Alinea los elementos en columna */
   justify-content: center; /* Centra los elementos horizontalmente */
@@ -8,20 +7,70 @@
   overflow: hidden; /* Evita que el contenido se desborde */
 }
 /* ***************************************************************** Título ***************************************************************** */
-.personajes h4 {
-  font-size: 36px;
-  color: #000000;
-  text-align: center; /* Asegura que el título esté centrado */
-  padding-top: 15px;
-  font-weight: bold;
+.character-item h4{
+    margin-top: 0px;
+    padding: 5px;
+    background:linear-gradient(to right,#000,#222,#000);
+    color:goldenrod;
+    border-left: 7px solid goldenrod;
+    text-align: center;
+    letter-spacing: 3px;
+    font-size: 30px;
 }
-/* ************************************************************** Descripción ************************************************************** */
-.description {
-  font-size: 18px;
-  color: #000000;
-  margin-top: 10px;
-  text-align: center; /* Centra la descripción */
+/* **************************************************************** Imágenes **************************************************************** */
+.character-item img {
+    width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+    margin-top: 12px;
 }
+/* *************************************************************** Información *************************************************************** */
+.character-card{
+  margin-top: 12px;
+  background: black;
+  color: white;
+  border: 3px solid goldenrod;
+  overflow: hidden;
+}
+/* ------------------------------------------------------------- Datos generales ------------------------------------------------------------- */
+.character-info{
+  display: grid;
+  grid-template-columns: repeat(2,1fr);
+  gap: 10px 10px;
+  padding: 10px 10px;
+  margin-bottom: 12px;
+}
+/* ---------------------------------------------------------------------------------------------------------------------- Rayita de la división*/
+.character-info div{ padding: 3px 0; border-bottom: 1px dashed white; font-size: 15px;}
+/* ------------------------------------------------------- Párrafo para la descripción  -------------------------------------------------------*/
+.character-description{
+  padding: 5px 10px;
+  margin-bottom: 12px;
+  border-bottom: 1px solid white;
+  font-size:16px;
+  text-align: center;
+}
+/* --------------------------------------------------------------------------------------------------------------- Color para resaltar la info */
+.character-info strong{color: goldenrod;}
+/* ------------------------------------------------------ Listas de Gustos y Aversiones ------------------------------------------------------ */
+.card-footer{ display: flex; justify-content: space-around; gap: 10px;}
+/* --------------------------------------------------------------------------------------------------------------- */
+.info-column{flex: 1;}
+/* ---------------------------------------------------------------------------------------------------------------------- Título de las listas */
+.info-column h6{font-size:16px; margin-bottom: 5px; margin-left: 5px;}
+/* ------------------------------------------------------------------------------------------------------------ Para el listado predeterminado */
+.info-column ul{list-style: none; margin: 10px; padding-left: 20px;}
+/* ----------------------------------------------------------------------------------------------------------------------- Texto de las listas */
+.info-column li{position:  relative; color: white; font-size: 15px; }
+/* ------------------------------------------------------------------------------------------------------------------------------------ Gustos */
+.info-column.likes h6{color: lime;}
+
+.likes li::before {content: "✓"; color: lime;}
+/* -------------------------------------------------------------------------------------------------------------------------------- Aversiones */
+.info-column.dislikes h6{color: red;}
+
+.dislikes li::before {content: "✕"; color: red;}
 /* *************************************************************** Paginación *************************************************************** */
 #customPagination {
   display: grid;
@@ -60,8 +109,8 @@
     transition:all .25s ease;
 }
 /* --------------------------------------------------------------------------------------------------------- Cambia el color al pasar el ratón */
-#customPagination li:hover{ border-left-color:#0d6efd;  color:#0d6efd;  box-shadow:0 0 0 2px rgba(13,110,253,.2);}
-#customPagination li:hover::before{  background:#0d6efd;  color: white;} /* ----------------------------------------- número del elemento */
+#customPagination li:hover{ border-left-color: navy;  color: darkblue;  box-shadow:0 0 0 2px rgba(13,110,253,.2);}
+#customPagination li:hover::before{  background: navy;  color: white;} /* ----------------------------------------- número del elemento */
 /* -------------------------------------------------------------------------------------------------------------------------- Elemento activo */
 #customPagination li.active{
     background: linear-gradient(90deg,#2ea041,#2eb32e);
