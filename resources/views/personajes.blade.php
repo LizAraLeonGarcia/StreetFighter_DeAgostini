@@ -108,26 +108,26 @@
                       <div><strong>País:</strong> China 🇨🇳 </div>
                       <div><strong>Estilo:</strong> Kung Fu </div>
                       <div><strong>Ocupación:</strong> Agente de la Interpol </div>
-                      <div><strong>Fecha de nacimiento:</strong> 1 de marzo </div>
+                      <div><strong>Fecha de nacimiento:</strong> 1 de marzo ♓ </div>
                       <div><strong>Altura:</strong> 1.69 m </div>
                       <div><strong>Peso:</strong> Desconocido </div>
                       <div><strong>Color de ojos:</strong> Café </div>
                       <div><strong>Color de cabello:</strong> Negro </div>
-                    </div>
+                    </div> <!-- cierre de los datos generales -->
                     <div class="character-description">
                       <p> Creadora de su propio estilo de lucha, la bella y decidida Chun-Li es una pieza fundamental para acabar con la organización criminal Shadaloo. </p>
-                    </div>
+                    </div> <!-- cierre de la información general -->
                     <div class="card-footer">
                       <div class="info-column likes">
                         <h6>🟢 Gustos</h6>
                         <ul>
+                          <li> Su padre Dorai </li>
                           <li> Artes marciales </li>
                           <li> Crepas </li>
                           <li> Frutas </li>
                           <li> Dulces / Confitería occidental </li>
-                          <li> Tocar el erhu </li>
                         </ul>
-                      </div>
+                      </div> <!-- cierre de los gustos -->
                       <div class="info-column dislikes">
                         <h6>🔴 Aversiones</h6>
                         <ul>
@@ -137,72 +137,390 @@
                           <li> La indecisión </li>
                           <li> Gente turbia o que no puede ir al grano </li>
                         </ul>
-                      </div>
+                      </div> <!-- cierre de las aversiones -->
+                    </div> <!-- cierre de los gustos y de las aversiones -->
+                    <div class="character-hobbies"> 
+                      <h6>Aficiones / Habilidades</h6>
+                      <ul>
+                        <li> Tocar el erhu </li>
+                        <li> Tiro al plato </li>
+                      </ul>
                     </div>
-                  </div>
+                  </div> <!-- cierre de la información -->
                 </div>
               </div>
               <div class="carousel-item"> <!-- --------------------------------------------------------------------------------------- AKIRA -->
                 <div class="character-item">
                   <h4>Akira</h4>
                   <a href="assets/img/personajes/2.jpg"> <img src="assets/img/personajes/2.jpg" alt="Akira"> </a>
-                  <p class="description">Akira Kazama es una joven a quien le apasionan especialmente dos cosas: las motocicletas y las artes marciales. Ambas pasiones le sirven para enfrentarse a los peligros más insospechados en su ajetreada vida de estudiante.</p>
+                  <div class="character-card">
+                    <div class="character-info">
+                      <div><strong>País:</strong> Japón 🇯🇵 </div>
+                      <div><strong>Estilo:</strong> Bajiquan </div>
+                      <div><strong>Ocupación:</strong> Mecánico de motocicletas </div>
+                      <div><strong>Fecha de nacimiento:</strong> 3 de marzo ♓ </div>
+                      <div><strong>Altura:</strong> 1.60 m </div>
+                      <div><strong>Peso:</strong> 45 kg </div>
+                      <div><strong>Color de ojos:</strong> Café </div>
+                      <div><strong>Color de cabello:</strong> Café </div>
+                    </div> <!-- cierre de los datos generales -->
+                    <div class="character-description">
+                      <p class="description">Akira Kazama es una joven a quien le apasionan especialmente dos cosas: las motocicletas y las artes marciales. Ambas pasiones le sirven para enfrentarse a los peligros más insospechados en su ajetreada vida de estudiante.</p>
+                    </div> <!-- cierre de la información general -->
+                    <div class="card-footer">
+                      <div class="info-column likes">
+                        <h6>🟢 Gustos</h6>
+                        <ul>
+                          <li> Su hermano Daigo </li>
+                          <li> Motocicletas </li>
+                          <li> Gatos </li>
+                          <li> Videojuegos de Megaman </li>
+                          <li> Confitería (especialmente pasteles de chocolate o queso) </li>
+                        </ul>
+                      </div> <!-- cierre de los gustos -->
+                      <div class="info-column dislikes">
+                        <h6>🔴 Aversiones</h6>
+                        <ul>
+                          <li> Parloteo </li>
+                          <li> Natación / educación física </li>
+                          <li> Educación física </li>
+                          <li> La música </li>
+                          <li> Hombres narcisistas </li>
+                        </ul>
+                      </div> <!-- cierre de las aversiones -->
+                    </div> <!-- cierre de los gustos y de las aversiones -->
+                  </div> <!-- cierre de la información -->
                 </div>
               </div>
               <div class="carousel-item"> <!-- -------------------------------------------------------------------------------------- POISON -->
                 <div class="character-item">
                   <h4>Poison</h4>
                   <a href="assets/img/personajes/3.jpg"> <img src="assets/img/personajes/3.jpg" alt="Poison"> </a>
-                  <p class="description">Tras sus desventuras como destacada miembro de la banda criminal Mad Gear, Poison decidió reconstruir su vida como mánager en el circuito de lucha libre profesional, donde cosechó un éxito indiscutible.</p>
+                  <div class="character-card">
+                    <div class="character-info">
+                      <div><strong>País:</strong> Estados Unidos 🇺🇸 </div>
+                      <div><strong>Estilo:</strong> Lucha acrobática autodidacta / Kenkasappō  </div>
+                      <div><strong>Ocupación:</strong> Representante de lucha libre </div>
+                      <div><strong>Fecha de nacimiento:</strong> 7 de diciembre ♐ </div>
+                      <div><strong>Altura:</strong> 1.75 m </div>
+                      <div><strong>Peso:</strong> 52 kg </div>
+                      <div><strong>Color de ojos:</strong> Azul turquesa </div>
+                      <div><strong>Color de cabello:</strong> Púrpura rosado </div>
+                    </div> <!-- cierre de los datos generales -->
+                    <div class="character-description">
+                      <p class="description">Tras sus desventuras como destacada miembro de la banda criminal Mad Gear, Poison decidió reconstruir su vida como mánager en el circuito de lucha libre profesional, donde cosechó un éxito indiscutible.</p>
+                    </div> <!-- cierre de la información general -->
+                    <div class="card-footer">
+                      <div class="info-column likes">
+                        <h6>🟢 Gustos</h6>
+                        <ul>
+                          <li> Papas fritas </li>
+                          <li> Su gato mascota </li>
+                          <li> Tacones altos </li>
+                          <li> Comida china </li>
+                          <li> Hugo </li>
+                        </ul>
+                      </div> <!-- cierre de los gustos -->
+                      <div class="info-column dislikes">
+                        <h6>🔴 Aversiones</h6>
+                        <ul>
+                          <li> Policía </li>
+                          <li> Hotdogs </li>
+                          <li> Mike Haggar </li>
+                          <li> . </li>
+                          <li> . </li>
+                        </ul>
+                      </div> <!-- cierre de las aversiones -->
+                    </div> <!-- cierre de los gustos y de las aversiones -->
+                  </div> <!-- cierre de la información -->
                 </div>
               </div>
               <div class="carousel-item"> <!-- -------------------------------------------------------------------------------- RAINBOW MIKA -->
                 <div class="character-item">
                   <h4>Rainbow Mika</h4>
                   <a href="assets/img/personajes/4.jpg"> <img src="assets/img/personajes/4.jpg" alt="Rainbow Mika"> </a>
-                  <p class="description">Rainbow Mika es una voluptuosa luchadora de indudable talento que busca crearse un nombre en el circuito de la lucha libre profesional. Su riguroso entrenamiento le permite medirse de igual a igual frente a auténticos colosos del wrestling.</p>
+                  <div class="character-card">
+                    <div class="character-info">
+                      <div><strong>País:</strong> Japón 🇯🇵 </div>
+                      <div><strong>Estilo:</strong> Lucha libre profesional </div>
+                      <div><strong>Ocupación:</strong> Luchador profesional </div>
+                      <div><strong>Fecha de nacimiento:</strong> 15 de marzo ♓ </div>
+                      <div><strong>Altura:</strong> 1.65 / 1.68 m </div>
+                      <div><strong>Peso:</strong> 64 / 70 kg </div>
+                      <div><strong>Color de ojos:</strong> Azul </div>
+                      <div><strong>Color de cabello:</strong> Rubio </div>
+                    </div> <!-- cierre de los datos generales -->
+                    <div class="character-description">
+                      <p class="description">Rainbow Mika es una voluptuosa luchadora de indudable talento que busca crearse un nombre en el circuito de la lucha libre profesional. Su riguroso entrenamiento le permite medirse de igual a igual frente a auténticos colosos del wrestling.</p>
+                    </div> <!-- cierre de la información general -->
+                    <div class="card-footer">
+                      <div class="info-column likes">
+                        <h6>🟢 Gustos</h6>
+                        <ul>
+                          <li> Filosofía de lucha del mtro. Zangief </li>
+                          <li> Entrenamiento </li>
+                          <li> Flexiones de dedos </li>
+                          <li> Puentes de cuello </li>
+                          <li> Poses </li>
+                        </ul>
+                      </div> <!-- cierre de los gustos -->
+                      <div class="info-column dislikes">
+                        <h6>🔴 Aversiones</h6>
+                        <ul>
+                          <li> Jóvenes maleducados </li>
+                          <li> . </li>
+                          <li> . </li>
+                          <li> . </li>
+                          <li> . </li>
+                        </ul>
+                      </div> <!-- cierre de las aversiones -->
+                    </div> <!-- cierre de los gustos y de las aversiones -->
+                  </div> <!-- cierre de la información -->
                 </div>
               </div>
               <div class="carousel-item"> <!-- --------------------------------------------------------------------------------------- MENAT -->
                 <div class="character-item">
                   <h4>Menat</h4>
                   <a href="assets/img/personajes/5.jpg"> <img src="assets/img/personajes/5.jpg" alt="Menat"> </a>
-                  <p class="description">Menat es una joven egipcia capaz de controlar y manipular la energía espiritual conocida como Soul Power, que también le brinda poderes de adivinación. Rose, la principal experta en esta clase de poder, es su maestra desde hace un tiempo.</p>
+                  <div class="character-card">
+                    <div class="character-info">
+                      <div><strong>País:</strong> Egipto 🇪🇬 </div>
+                      <div><strong>Estilo:</strong> Combate usando Poder del Alma y una bola de cristal </div>
+                      <div><strong>Ocupación:</strong> Aprendiz de adivino </div>
+                      <div><strong>Fecha de nacimiento:</strong> 12 de noviembre ♏ </div>
+                      <div><strong>Altura:</strong> 1.63 m </div>
+                      <div><strong>Peso:</strong> 55 kg </div>
+                      <div><strong>Color de ojos:</strong> Verde </div>
+                      <div><strong>Color de cabello:</strong> Púrpura </div>
+                    </div> <!-- cierre de los datos generales -->
+                    <div class="character-description">
+                      <p class="description">Menat es una joven egipcia capaz de controlar y manipular la energía espiritual conocida como Soul Power, que también le brinda poderes de adivinación. Rose, la principal experta en esta clase de poder, es su maestra desde hace un tiempo.</p>
+                    </div> <!-- cierre de la información general -->
+                    <div class="card-footer">
+                      <div class="info-column likes">
+                        <h6>🟢 Gustos</h6>
+                        <ul>
+                          <li> Recuerdos de todo el mundo </li>
+                          <li> Diarios </li>
+                          <li> . </li>
+                          <li> . </li>
+                          <li> . </li>
+                        </ul>
+                      </div> <!-- cierre de los gustos -->
+                      <div class="info-column dislikes">
+                        <h6>🔴 Aversiones</h6>
+                        <ul>
+                          <li> Gente malhablada </li>
+                          <li> . </li>
+                          <li> . </li>
+                          <li> . </li>
+                          <li> . </li>
+                        </ul>
+                      </div> <!-- cierre de las aversiones -->
+                    </div> <!-- cierre de los gustos y de las aversiones -->
+                  </div> <!-- cierre de la información -->
                 </div>
               </div>
               <div class="carousel-item"> <!-- ---------------------------------------------------------------------------------------- ROSE -->
                 <div class="character-item">
                   <h4>Rose</h4>
                   <a href="assets/img/personajes/6.jpg"> <img src="assets/img/personajes/6.jpg" alt="Rose"> </a>
-                  <p class="description">M. Bison, el cruel líder de la organización criminal internacional Shadaloo, teme solo una cosa: a Rose, una mística adivina italiana con quien mantiene un extraño vínculo, y quizá la única persona que conoce el secreto de su oscuro pasado.</p>
+                  <div class="character-card">
+                    <div class="character-info">
+                      <div><strong>País:</strong> Italia 🇮🇹 </div>
+                      <div><strong>Estilo:</strong> Poder del Alma </div>
+                      <div><strong>Ocupación:</strong> Adivino </div>
+                      <div><strong>Fecha de nacimiento:</strong> 7 de julio ♋ </div>
+                      <div><strong>Altura:</strong> 1.78 m </div>
+                      <div><strong>Peso:</strong> 54 kg </div>
+                      <div><strong>Color de ojos:</strong> Violeta </div>
+                      <div><strong>Color de cabello:</strong> Violeta </div>
+                    </div> <!-- cierre de los datos generales -->
+                    <div class="character-description">
+                      <p class="description">M. Bison, el cruel líder de la organización criminal internacional Shadaloo, teme solo una cosa: a Rose, una mística adivina italiana con quien mantiene un extraño vínculo, y quizá la única persona que conoce el secreto de su oscuro pasado.</p>
+                    </div> <!-- cierre de la información general -->
+                    <div class="card-footer">
+                      <div class="info-column likes">
+                        <h6>🟢 Gustos</h6>
+                        <ul>
+                          <li> Jerez (vino) </li>
+                          <li> Tomar baños </li>
+                          <li> Ryu </li>
+                          <li> Guy </li>
+                          <li> . </li>
+                        </ul>
+                      </div> <!-- cierre de los gustos -->
+                      <div class="info-column dislikes">
+                        <h6>🔴 Aversiones</h6>
+                        <ul>
+                          <li> Rayos UV </li>
+                          <li> Despertarse temprano </li>
+                          <li> Auras malignas </li>
+                          <li> . </li>
+                          <li> . </li>
+                        </ul>
+                      </div> <!-- cierre de las aversiones -->
+                    </div> <!-- cierre de los gustos y de las aversiones -->
+                  </div> <!-- cierre de la información -->
                 </div>
               </div>
               <div class="carousel-item"> <!-- --------------------------------------------------------------------------------------- IBUKI -->
                 <div class="character-item">
                   <h4>Ibuki</h4>
                   <a href="assets/img/personajes/7.jpg"> <img src="assets/img/personajes/7.jpg" alt="Ibuki"> </a>
-                  <p class="description">Ibuki fue entrenada desde su infancia en las artes del ninjutsu, criándose en una aldea en lo más profundo de las montañas japonesas. Cansada del aislamiento, lo que más deseaba la joven era conocer el mundo que la rodeaba.</p>
+                  <div class="character-card">
+                    <div class="character-info">
+                      <div><strong>País:</strong> Japón 🇯🇵 </div>
+                      <div><strong>Estilo:</strong> Ninjutsu </div>
+                      <div><strong>Ocupación:</strong> Ninja, estudiante </div>
+                      <div><strong>Fecha de nacimiento:</strong> 6 de diciembre ♐ </div>
+                      <div><strong>Altura:</strong> 1.62 m </div>
+                      <div><strong>Peso:</strong> 55 kg </div>
+                      <div><strong>Color de ojos:</strong> Café </div>
+                      <div><strong>Color de cabello:</strong> Negro </div>
+                    </div> <!-- cierre de los datos generales -->
+                    <div class="character-description">
+                      <p class="description">Ibuki fue entrenada desde su infancia en las artes del ninjutsu, criándose en una aldea en lo más profundo de las montañas japonesas. Cansada del aislamiento, lo que más deseaba la joven era conocer el mundo que la rodeaba.</p>
+                    </div> <!-- cierre de la información general -->
+                    <div class="card-footer">
+                      <div class="info-column likes">
+                        <h6>🟢 Gustos</h6>
+                        <ul>
+                          <li> Su mapache mascota Don-chan </li>
+                          <li> Batatas asadas </li>
+                          <li> Chicos lindos </li>
+                          <li> Sapos parteros </li>
+                        </ul>
+                      </div> <!-- cierre de los gustos -->
+                      <div class="info-column dislikes">
+                        <h6>🔴 Aversiones</h6>
+                        <ul>
+                          <li> Entrenamiento ninja </li>
+                          <li> Detención </li>
+                          <li> . </li>
+                        </ul>
+                      </div> <!-- cierre de las aversiones -->
+                    </div> <!-- cierre de los gustos y de las aversiones -->
+                  </div> <!-- cierre de la información -->
                 </div>
               </div>
               <div class="carousel-item"> <!-- --------------------------------------------------------------------------------------- FALKE -->
                 <div class="character-item">
                   <h4>Falke</h4>
                   <a href="assets/img/personajes/8.jpg"> <img src="assets/img/personajes/8.jpg" alt="Falke"> </a>
-                  <p class="description">Falke estaba condenada a convertirse en uno de los cuerpos de reemplazo que M. Bison, líder de la organización criminal Shadaloo, guardaba a buen recaudo en sus laboratorios. Afortunadamente, la joven escapó a ese horrible destino.</p>
+                  <div class="character-card">
+                    <div class="character-info">
+                      <div><strong>País:</strong> Desconocido ❓</div>
+                      <div><strong>Estilo:</strong> Psycho Power, bōjutsu, bastón psíquico </div>
+                      <div><strong>Ocupación:</strong> Ayudante de Ed para Neo Shadaloo </div>
+                      <div><strong>Fecha de nacimiento:</strong> 25 de mayo ♊ </div>
+                      <div><strong>Altura:</strong> 1.76 m </div>
+                      <div><strong>Peso:</strong> 54 kg </div>
+                      <div><strong>Color de ojos:</strong> Turquesa </div>
+                      <div><strong>Color de cabello:</strong> Rubio </div>
+                    </div> <!-- cierre de los datos generales -->
+                    <div class="character-description">
+                      <p class="description">Falke estaba condenada a convertirse en uno de los cuerpos de reemplazo que M. Bison, líder de la organización criminal Shadaloo, guardaba a buen recaudo en sus laboratorios. Afortunadamente, la joven escapó a ese horrible destino.</p>
+                    </div> <!-- cierre de la información general -->
+                    <div class="card-footer">
+                      <div class="info-column likes">
+                        <h6>🟢 Gustos</h6>
+                        <ul>
+                          <li> Té con leche </li>
+                          <li> Teatro </li>
+                          <li> . </li>
+                        </ul>
+                      </div> <!-- cierre de los gustos -->
+                      <div class="info-column dislikes">
+                        <h6>🔴 Aversiones</h6>
+                        <ul>
+                          <li> M. Bison </li>
+                          <li> Shadaloo </li>
+                          <li> . </li>
+                        </ul>
+                      </div> <!-- cierre de las aversiones -->
+                    </div> <!-- cierre de los gustos y de las aversiones -->
+                  </div> <!-- cierre de la información -->
                 </div>
               </div>
               <div class="carousel-item"> <!-- ------------------------------------------------------------------------------- CRIMSON VIPER -->
                 <div class="character-item">
                   <h4>Crimson Viper</h4>
                   <a href="assets/img/personajes/9.jpg"> <img src="assets/img/personajes/9.jpg" alt="Crimson Viper"> </a>
-                  <p class="description">Crimson Viper es una combatiente al servicio de la organización criminal S.I.N. cuyo principal cometido es poner a prueba avanzados prototipos armamentísticos en enfrentamientos reales. Pocos saben que también es una agente infiltrada de la CIA.</p>
+                  <div class="character-card">
+                    <div class="character-info">
+                      <div><strong>País:</strong> Estados Unidos 🇺🇸 </div>
+                      <div><strong>Estilo:</strong> Utiliza tecnología y dispositivos de espionaje secretos </div>
+                      <div><strong>Ocupación:</strong> Agente de la CIA </div>
+                      <div><strong>Fecha de nacimiento:</strong> 18 de julio ♋ </div>
+                      <div><strong>Altura:</strong> 1.75 m </div>
+                      <div><strong>Peso:</strong> 56 kg </div>
+                      <div><strong>Color de ojos:</strong> Verde </div>
+                      <div><strong>Color de cabello:</strong> Carmesí </div>
+                    </div> <!-- cierre de los datos generales -->
+                    <div class="character-description">
+                      <p class="description">Crimson Viper es una combatiente al servicio de la organización criminal S.I.N. cuyo principal cometido es poner a prueba avanzados prototipos armamentísticos en enfrentamientos reales. Pocos saben que también es una agente infiltrada de la CIA.</p>
+                    </div> <!-- cierre de la información general -->
+                    <div class="card-footer">
+                      <div class="info-column likes">
+                        <h6>🟢 Gustos</h6>
+                        <ul>
+                          <li> Su hija Lauren </li>
+                          <li> Dinero </li>
+                          <li> Tiempo en familia </li>
+                          <li> Parfaits de helado </li>
+                        </ul>
+                      </div> <!-- cierre de los gustos -->
+                      <div class="info-column dislikes">
+                        <h6>🔴 Aversiones</h6>
+                        <ul>
+                          <li> Trabajar horas extras </li>
+                          <li> Revanchas </li>
+                          <li> Aquellos que interfieren con sus misiones. </li>
+                          <li> S.I.N., Shadaloo</li>
+                        </ul>
+                      </div> <!-- cierre de las aversiones -->
+                    </div> <!-- cierre de los gustos y de las aversiones -->
+                  </div> <!-- cierre de la información -->
                 </div>
               </div>
               <div class="carousel-item"> <!-- ---------------------------------------------------------------------------------------- JURI -->
                 <div class="character-item">
                   <h4>Juri</h4>
                   <a href="assets/img/personajes/10.jpg"> <img src="assets/img/personajes/10.jpg" alt="Juri"> </a>
-                  <p class="description">Consumida por el odio y la venganza, Juri Han posee una personalidad tremendamente inestable, pero también una férrea determinación que la empuja a darlo todo por una única meta: la destrucción de M. Bison y todo lo que representa.</p>
+                  <div class="character-card">
+                    <div class="character-info">
+                      <div><strong>País:</strong> Corea del Sur 🇰🇷 </div>
+                      <div><strong>Estilo:</strong> Taekwondo / ataques de kí </div>
+                      <div><strong>Ocupación:</strong> Anteriormente líder de S.I.N. </div>
+                      <div><strong>Fecha de nacimiento:</strong> 1 de enero ♑ </div>
+                      <div><strong>Altura:</strong> 1.65 m </div>
+                      <div><strong>Peso:</strong> 57 kg </div>
+                      <div><strong>Color de ojos:</strong> Púrpura </div>
+                      <div><strong>Color de cabello:</strong> Negro </div>
+                    </div> <!-- cierre de los datos generales -->
+                    <div class="character-description">
+                      <p class="description">Consumida por el odio y la venganza, Juri Han posee una personalidad tremendamente inestable, pero también una férrea determinación que la empuja a darlo todo por una única meta: la destrucción de M. Bison y todo lo que representa.</p>
+                    </div> <!-- cierre de la información general -->
+                    <div class="card-footer">
+                      <div class="info-column likes">
+                        <h6>🟢 Gustos</h6>
+                        <ul>
+                          <li> Comida picante </li>
+                          <li> Arañas </li>
+                          <li> Motocicletas </li>
+                        </ul>
+                      </div> <!-- cierre de los gustos -->
+                      <div class="info-column dislikes">
+                        <h6>🔴 Aversiones</h6>
+                        <ul>
+                          <li> M. Bison </li>
+                          <li> Reglas </li>
+                          <li> Gente aburrida / aguafiestas </li>
+                        </ul>
+                      </div> <!-- cierre de las aversiones -->
+                    </div> <!-- cierre de los gustos y de las aversiones -->
+                  </div> <!-- cierre de la información -->
                 </div>
               </div>
               <!-- favoritos --------------------------------------------------------------------------------------------------------------- -->

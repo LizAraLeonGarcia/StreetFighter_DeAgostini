@@ -8,29 +8,31 @@
 }
 /* ***************************************************************** Título ***************************************************************** */
 .character-item h4{
-    margin-top: 0px;
-    padding: 5px;
-    background:linear-gradient(to right,#000,#222,#000);
-    color:goldenrod;
-    border-left: 7px solid goldenrod;
-    text-align: center;
-    letter-spacing: 3px;
-    font-size: 30px;
+  margin-top: 0px;
+  margin-right: 15px;
+  padding: 5px;
+  background:linear-gradient(to right,#000,#222,#000);
+  color:white;
+  border-left: 7px solid gold;
+  text-align: center;
+  letter-spacing: 3px;
+  font-size: 30px;
 }
 /* **************************************************************** Imágenes **************************************************************** */
 .character-item img {
-    width: 100%;
-    height: auto;
-    display: block;
-    margin: 0 auto;
-    margin-top: 12px;
+  width: 100%;
+  height: auto;
+  display: block;
+  padding-right: 15px;
+  margin-top: 12px;
 }
 /* *************************************************************** Información *************************************************************** */
 .character-card{
   margin-top: 12px;
+  margin-right: 15px;
   background: black;
   color: white;
-  border: 3px solid goldenrod;
+  border: 3px solid gold;
   overflow: hidden;
 }
 /* ------------------------------------------------------------- Datos generales ------------------------------------------------------------- */
@@ -52,7 +54,7 @@
   text-align: center;
 }
 /* --------------------------------------------------------------------------------------------------------------- Color para resaltar la info */
-.character-info strong{color: goldenrod;}
+.character-info strong{color: hotpink;}
 /* ------------------------------------------------------ Listas de Gustos y Aversiones ------------------------------------------------------ */
 .card-footer{ display: flex; justify-content: space-around; gap: 10px;}
 /* --------------------------------------------------------------------------------------------------------------- */
@@ -71,6 +73,15 @@
 .info-column.dislikes h6{color: red;}
 
 .dislikes li::before {content: "✕"; color: red;}
+/* Aficones */
+.character-hobbies{
+  display: grid;
+  grid-template-columns: repeat(2,1fr);
+  gap: 10px 10px;
+  padding: 10px 10px;
+  margin-bottom: 12px;
+  color: royalblue;
+}
 /* *************************************************************** Paginación *************************************************************** */
 #customPagination {
   display: grid;
@@ -120,7 +131,7 @@
 }
 #customPagination li.active::before{  background:white;  color:#268039; } /* ----------------------------------------- número del elemento */
 #customPagination li.active a { color:white;} /* ----------------------------------------------- texto en el elemento (nombre del personaje) */
-/* ------------------------------------------------------------ Botón hamburguesa ------------------------------------------------------------ */
+/* ************************************************************ Botón hamburguesa ************************************************************ */
 .hamburger {
   font-size: 28px;
   background: none;
