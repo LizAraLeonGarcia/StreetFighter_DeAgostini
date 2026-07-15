@@ -105,6 +105,7 @@
                   <a href="assets/img/personajes/1.jpg"> <img src="assets/img/personajes/1.jpg" alt="Chun Li"> </a>
                   <div class="character-card">
                     <div class="character-info">
+                      <h6>Datos</h6>
                       <div><strong>País:</strong> China 🇨🇳 </div>
                       <div><strong>Estilo:</strong> Kung Fu </div>
                       <div><strong>Ocupación:</strong> Agente de la Interpol </div>
@@ -119,33 +120,35 @@
                     </div> <!-- cierre de la información general -->
                     <div class="card-footer">
                       <div class="info-column likes">
-                        <h6>🟢 Gustos</h6>
+                        <h6>Gustos</h6>
                         <ul>
                           <li> Su padre Dorai </li>
                           <li> Artes marciales </li>
-                          <li> Crepas </li>
-                          <li> Frutas </li>
+                          <li> Ir de compras con Li-Fen </li>
+                          <li> Días libres </li>
+                          <li> Crepas, frutas </li>
                           <li> Dulces / Confitería occidental </li>
                         </ul>
                       </div> <!-- cierre de los gustos -->
                       <div class="info-column dislikes">
-                        <h6>🔴 Aversiones</h6>
+                        <h6>Aversiones</h6>
                         <ul>
                           <li> M. Bison </li>
                           <li> Shadaloo </li>
                           <li> El crimen </li>
+                          <li> Gente turbia </li>
+                          <li> Gente que no puede ir al grano </li>
                           <li> La indecisión </li>
-                          <li> Gente turbia o que no puede ir al grano </li>
                         </ul>
                       </div> <!-- cierre de las aversiones -->
                     </div> <!-- cierre de los gustos y de las aversiones -->
                     <div class="character-hobbies"> 
-                      <h6>Aficiones / Habilidades</h6>
+                      <h6>Pasatiempos / Habilidades</h6>
                       <ul>
                         <li> Tocar el erhu </li>
                         <li> Tiro al plato </li>
                       </ul>
-                    </div>
+                    </div> <!-- cierre de los hobbies -->
                   </div> <!-- cierre de la información -->
                 </div>
               </div>
@@ -189,6 +192,13 @@
                         </ul>
                       </div> <!-- cierre de las aversiones -->
                     </div> <!-- cierre de los gustos y de las aversiones -->
+                    <div class="character-hobbies"> 
+                      <h6>Aficiones / Habilidades</h6>
+                      <ul>
+                        <li> Tocar el erhu </li>
+                        <li> Tiro al plato </li>
+                      </ul>
+                    </div> <!-- cierre de los hobbies -->
                   </div> <!-- cierre de la información -->
                 </div>
               </div>
@@ -232,6 +242,13 @@
                         </ul>
                       </div> <!-- cierre de las aversiones -->
                     </div> <!-- cierre de los gustos y de las aversiones -->
+                    <div class="character-hobbies"> 
+                      <h6>Aficiones / Habilidades</h6>
+                      <ul>
+                        <li> Tocar el erhu </li>
+                        <li> Tiro al plato </li>
+                      </ul>
+                    </div> <!-- cierre de los hobbies -->
                   </div> <!-- cierre de la información -->
                 </div>
               </div>
@@ -275,6 +292,13 @@
                         </ul>
                       </div> <!-- cierre de las aversiones -->
                     </div> <!-- cierre de los gustos y de las aversiones -->
+                    <div class="character-hobbies"> 
+                      <h6>Aficiones / Habilidades</h6>
+                      <ul>
+                        <li> Tocar el erhu </li>
+                        <li> Tiro al plato </li>
+                      </ul>
+                    </div> <!-- cierre de los hobbies -->
                   </div> <!-- cierre de la información -->
                 </div>
               </div>
@@ -318,6 +342,13 @@
                         </ul>
                       </div> <!-- cierre de las aversiones -->
                     </div> <!-- cierre de los gustos y de las aversiones -->
+                    <div class="character-hobbies"> 
+                      <h6>Aficiones / Habilidades</h6>
+                      <ul>
+                        <li> Tocar el erhu </li>
+                        <li> Tiro al plato </li>
+                      </ul>
+                    </div> <!-- cierre de los hobbies -->
                   </div> <!-- cierre de la información -->
                 </div>
               </div>
@@ -361,6 +392,13 @@
                         </ul>
                       </div> <!-- cierre de las aversiones -->
                     </div> <!-- cierre de los gustos y de las aversiones -->
+                    <div class="character-hobbies"> 
+                      <h6>Aficiones / Habilidades</h6>
+                      <ul>
+                        <li> Tocar el erhu </li>
+                        <li> Tiro al plato </li>
+                      </ul>
+                    </div> <!-- cierre de los hobbies -->
                   </div> <!-- cierre de la información -->
                 </div>
               </div>
@@ -401,6 +439,13 @@
                         </ul>
                       </div> <!-- cierre de las aversiones -->
                     </div> <!-- cierre de los gustos y de las aversiones -->
+                    <div class="character-hobbies"> 
+                      <h6>Aficiones / Habilidades</h6>
+                      <ul>
+                        <li> Tocar el erhu </li>
+                        <li> Tiro al plato </li>
+                      </ul>
+                    </div> <!-- cierre de los hobbies -->
                   </div> <!-- cierre de la información -->
                 </div>
               </div>
@@ -440,6 +485,13 @@
                         </ul>
                       </div> <!-- cierre de las aversiones -->
                     </div> <!-- cierre de los gustos y de las aversiones -->
+                    <div class="character-hobbies"> 
+                      <h6>Aficiones / Habilidades</h6>
+                      <ul>
+                        <li> Tocar el erhu </li>
+                        <li> Tiro al plato </li>
+                      </ul>
+                    </div> <!-- cierre de los hobbies -->
                   </div> <!-- cierre de la información -->
                 </div>
               </div>
@@ -481,6 +533,13 @@
                         </ul>
                       </div> <!-- cierre de las aversiones -->
                     </div> <!-- cierre de los gustos y de las aversiones -->
+                    <div class="character-hobbies"> 
+                      <h6>Aficiones / Habilidades</h6>
+                      <ul>
+                        <li> Tocar el erhu </li>
+                        <li> Tiro al plato </li>
+                      </ul>
+                    </div> <!-- cierre de los hobbies -->
                   </div> <!-- cierre de la información -->
                 </div>
               </div>
@@ -520,6 +579,13 @@
                         </ul>
                       </div> <!-- cierre de las aversiones -->
                     </div> <!-- cierre de los gustos y de las aversiones -->
+                    <div class="character-hobbies"> 
+                      <h6>Aficiones / Habilidades</h6>
+                      <ul>
+                        <li> Tocar el erhu </li>
+                        <li> Tiro al plato </li>
+                      </ul>
+                    </div> <!-- cierre de los hobbies -->
                   </div> <!-- cierre de la información -->
                 </div>
               </div>

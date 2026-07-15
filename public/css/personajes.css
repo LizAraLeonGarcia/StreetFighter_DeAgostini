@@ -27,32 +27,41 @@
   margin-top: 12px;
 }
 /* *************************************************************** Información *************************************************************** */
+/* --------------------------------------------------------------------------------------------------------------------------------- En general*/
 .character-card{
-  margin-top: 12px;
-  margin-right: 15px;
+  margin: 12px 15px 0 0;
+  padding: 12px;
   background: black;
   color: white;
   border: 3px solid gold;
+  font-size: 16px;
   overflow: hidden;
 }
+/* -------------------------------------------------------------------------------------------------------------------- Para todos los títulos */
+.character-card h6{
+  text-align: center;
+  font-size: 17px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  padding-bottom: 5px;
+  border-bottom: 1px solid currentColor;
+  text-shadow: 0 0 6px currentColor;
+}
+/* -------------------------------------------------------------------------------------------------- Margen inferior para todas las secciones */
+.character-info, .character-description, .card-footer, .character-hobbies{margin-bottom: 12px;}
 /* ------------------------------------------------------------- Datos generales ------------------------------------------------------------- */
 .character-info{
   display: grid;
   grid-template-columns: repeat(2,1fr);
   gap: 10px 10px;
-  padding: 10px 10px;
-  margin-bottom: 12px;
 }
-/* ---------------------------------------------------------------------------------------------------------------------- Rayita de la división*/
-.character-info div{ padding: 3px 0; border-bottom: 1px dashed white; font-size: 15px;}
+/* .................................................................................................................................... Título */
+.character-info h6{text-align: center; margin: 0 0 5px; padding-bottom: 7px; color: hotpink; grid-column: 1 / -1;/* ocupa las dos columnas */}
+/* ............................................................................................................................. Cuadrado .... */
+.character-info div::before{content: "▪"; color: hotpink; margin-right: 7px;}
 /* ------------------------------------------------------- Párrafo para la descripción  -------------------------------------------------------*/
-.character-description{
-  padding: 5px 10px;
-  margin-bottom: 12px;
-  border-bottom: 1px solid white;
-  font-size:16px;
-  text-align: center;
-}
+.character-description{padding: 0 12px; text-align: center;}
 /* --------------------------------------------------------------------------------------------------------------- Color para resaltar la info */
 .character-info strong{color: hotpink;}
 /* ------------------------------------------------------ Listas de Gustos y Aversiones ------------------------------------------------------ */
@@ -60,27 +69,36 @@
 /* --------------------------------------------------------------------------------------------------------------- */
 .info-column{flex: 1;}
 /* ---------------------------------------------------------------------------------------------------------------------- Título de las listas */
-.info-column h6{font-size:16px; margin-bottom: 5px; margin-left: 5px;}
-/* ------------------------------------------------------------------------------------------------------------ Para el listado predeterminado */
-.info-column ul{list-style: none; margin: 10px; padding-left: 20px;}
+.info-column h6{margin: 0 5px 5px; padding: 0 0 7px; text-align: center;}
 /* ----------------------------------------------------------------------------------------------------------------------- Texto de las listas */
 .info-column li{position:  relative; color: white; font-size: 15px; }
-/* ------------------------------------------------------------------------------------------------------------------------------------ Gustos */
-.info-column.likes h6{color: lime;}
 
-.likes li::before {content: "✓"; color: lime;}
+.info-column ul{list-style: none;}
+/* ------------------------------------------------------------------------------------------------------------------------------------ Gustos */
+.info-column.likes h6{color: royalblue;}
+
+.likes li::before {content: "✖"; color: royalblue; margin-right: 7px;}
 /* -------------------------------------------------------------------------------------------------------------------------------- Aversiones */
 .info-column.dislikes h6{color: red;}
 
-.dislikes li::before {content: "✕"; color: red;}
-/* Aficones */
+.dislikes li::before {content: "○"; color: red; margin-right: 7px;}
+/* --------------------------------------------------------------------------------------------------------------------------------- Aficiones */
+.character-hobbies h6{grid-column: 1 / -1; margin: 0 0 5px; padding: 7px; text-align: center; color: lime;}
+
+.character-hobbies li::before{content: "△"; color: lime; margin-right: 7px;}
+/* ------------------------------------------------------------------------------------------------------- Para los listados de  */
 .character-hobbies{
-  display: grid;
-  grid-template-columns: repeat(2,1fr);
-  gap: 10px 10px;
-  padding: 10px 10px;
-  margin-bottom: 12px;
-  color: royalblue;
+    margin: 8px 0 0;
+    padding-left: 18px; list-style: none;
+}
+
+.character-hobbies ul{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 10px 10px;
+    list-style: none;
+    margin: 8px 0 0;
+    padding-left: 10px;
 }
 /* *************************************************************** Paginación *************************************************************** */
 #customPagination {
