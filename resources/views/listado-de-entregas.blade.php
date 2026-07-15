@@ -10,14 +10,16 @@
     <div class="row listado-de-entregas">
       <!-- ------------------------------------------------------- Columna izquierda ------------------------------------------------------- -->
       <div class="col-md-3 d-none d-md-block">
-        <img src="{{ asset('assets/img/listado-de-entregas/ryu.png') }}" alt="Ryu" class="img-lateral">
         <img src="{{ asset('assets/img/listado-de-entregas/vega.png') }}" alt="Vega" class="img-lateral">
         <img src="{{ asset('assets/img/listado-de-entregas/abigail.png') }}" alt="Abigail" class="img-lateral">
+        <img src="{{ asset('assets/img/listado-de-entregas/juri.png') }}" alt="Hugo" class="img-lateral">
         <img src="{{ asset('assets/img/listado-de-entregas/guile.png') }}" alt="Guile" class="img-lateral">
         <img src="{{ asset('assets/img/listado-de-entregas/cammy.png') }}" alt="Cammy" class="img-lateral">
-        <img src="{{ asset('assets/img/listado-de-entregas/juri.png') }}" alt="Juri" class="img-lateral">
+        <img src="{{ asset('assets/img/listado-de-entregas/juri.png') }}" alt="Elena" class="img-lateral">
         <img src="{{ asset('assets/img/listado-de-entregas/dhalsim.png') }}" alt="Dhalsim" class="img-lateral">
         <img src="{{ asset('assets/img/listado-de-entregas/ehonda.png') }}" alt="E. Honda" class="img-lateral">
+        <img src="{{ asset('assets/img/listado-de-entregas/juri.png') }}" alt="Dee Jay" class="img-lateral">
+        <img src="{{ asset('assets/img/listado-de-entregas/juri.png') }}" alt="Juri" class="img-lateral">
       </div>
       <!-- ---------------------------------------------------- Columna central (tabla) ---------------------------------------------------- -->
       <div class="col-md-6">
@@ -314,14 +316,16 @@
       </div>
       <!-- -------------------------------------------------------- Columna derecha -------------------------------------------------------- -->
       <div class="col-md-3 d-none d-md-block">
-        <img src="{{ asset('assets/img/listado-de-entregas/ken.png') }}" alt="Ken" class="img-lateral">
-        <img src="{{ asset('assets/img/listado-de-entregas/zeku.png') }}" alt="Zeku" class="img-lateral">
+        <img src="{{ asset('assets/img/listado-de-entregas/cody.png') }}" alt="Cody" class="img-lateral">
         <img src="{{ asset('assets/img/listado-de-entregas/gill.png') }}" alt="Gill" class="img-lateral">
+        <img src="{{ asset('assets/img/listado-de-entregas/urien.png') }}" alt="Urien" class="img-lateral">
         <img src="{{ asset('assets/img/listado-de-entregas/charlienash.png') }}" alt="Charlie Nash" class="img-lateral">
-        <img src="{{ asset('assets/img/listado-de-entregas/falke.png') }}" alt="Falke" class="img-lateral">
-        <img src="{{ asset('assets/img/listado-de-entregas/poison.png') }}" alt="Poison" class="img-lateral">
-        <img src="{{ asset('assets/img/listado-de-entregas/kage.png') }}" alt="Kage" class="img-lateral">
+        <img src="{{ asset('assets/img/listado-de-entregas/akira.png') }}" alt="Akira" class="img-lateral">
+        <img src="{{ asset('assets/img/listado-de-entregas/menat.png') }}" alt="Menat" class="img-lateral">
         <img src="{{ asset('assets/img/listado-de-entregas/rashid.png') }}" alt="Rashid" class="img-lateral">
+        <img src="{{ asset('assets/img/listado-de-entregas/sagat.png') }}" alt="Sagat" class="img-lateral">
+        <img src="{{ asset('assets/img/listado-de-entregas/luke.png') }}" alt="Luke" class="img-lateral">
+        <img src="{{ asset('assets/img/listado-de-entregas/zeku.png') }}" alt="Zeku" class="img-lateral">
       </div>
     </div>
   </div>
