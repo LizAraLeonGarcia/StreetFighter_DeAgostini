@@ -106,6 +106,8 @@
                   <div class="character-card">
                     <div class="character-info">
                       <h6>Datos</h6>
+                      <div><strong>Primer juego:</strong> Street Fighter II </div>
+                      <div><strong>Especie:</strong> Humana </div>
                       <div><strong>País:</strong> China 🇨🇳 </div>
                       <div><strong>Estilo:</strong> Kung Fu </div>
                       <div><strong>Ocupación:</strong> Agente de la Interpol </div>
