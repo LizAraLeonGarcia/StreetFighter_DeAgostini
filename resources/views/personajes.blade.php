@@ -781,56 +781,425 @@
                 <div class="character-item">
                   <h4>E. Honda</h4>
                   <a href="assets/img/personajes/35.jpg"> <img src="assets/img/personajes/35.jpg" alt="E. Honda"> </a>
-                  <p class="description">Edmond Honda ha dedicado toda su vida al sumo, una disciplina que en Japón es, más que un deporte o un arte marcial, toda una institución nacional. Elogiado y alabado en su país, Honda busca ahora nuevos desafíos.</p>
+                  <div class="character-card">
+                    <div class="character-info">
+                      <h6>Datos</h6>
+                      <div><strong>Primer juego:</strong> Street Fighter II </div>
+                      <div><strong>Especie:</strong> Humano </div>
+                      <div><strong>País:</strong> Japón 🇨🇳 </div>
+                      <div><strong>Estilo:</strong> Lucha de sumo japonesa </div>
+                      <div><strong>Ocupación:</strong> Luchador de sumo, dueño de una casa de baños y restaurantero </div>
+                      <div><strong>Fecha de nacimiento:</strong> 3 de noviembre ♓ </div>
+                      <div><strong>Altura:</strong> 1.85 / 1.88 m </div>
+                      <div><strong>Peso:</strong> 137 kg </div>
+                      <div><strong>Color de ojos:</strong> Café </div>
+                      <div><strong>Color de cabello:</strong> Negro </div>
+                    </div> <!-- cierre de los datos generales -->
+                    <div class="character-description">
+                      <p class="description">Edmond Honda ha dedicado toda su vida al sumo, una disciplina que en Japón es, más que un deporte o un arte marcial, toda una institución nacional. Elogiado y alabado en su país, Honda busca ahora nuevos desafíos.</p>
+                    </div> <!-- cierre de la información general -->
+                    <div class="card-footer">
+                      <div class="info-column likes">
+                        <h6>Gustos</h6>
+                        <ul>
+                          <li> Tiramisú </li>
+                          <li> Chankonabe </li>
+                          <li> Nabeyaki udon </li>
+                          <li> Sándwiches </li>
+                          <li> Baños calientes </li>
+                        </ul>
+                      </div> <!-- cierre de los gustos -->
+                      <div class="info-column dislikes">
+                        <h6>Aversiones</h6>
+                        <ul>
+                          <li> Deshonrar a su familia </li>
+                          <li> Fideos de arroz </li>
+                          <li> Galletas de chocolate </li>
+                          <li> La indecisión </li>
+                        </ul>
+                      </div> <!-- cierre de las aversiones -->
+                    </div> <!-- cierre de los gustos y de las aversiones -->
+                    <div class="character-hobbies"> 
+                      <h6>Pasatiempos / Habilidades</h6>
+                      <ul>
+                        <li> Cocinero </li>
+                        <li> Conocedor de todas las variedades de guisados japoneses </li>
+                        <li> Limpieza de baños </li>
+                      </ul>
+                    </div> <!-- cierre de los hobbies -->
+                  </div> <!-- cierre de la información -->
                 </div>
               </div>
               <div class="carousel-item"> <!-- ------------------------------------------------------------------------------------- DHALSIM -->
                 <div class="character-item">
                   <h4>Dhalsim</h4>
                   <a href="assets/img/personajes/36.jpg"> <img src="assets/img/personajes/36.jpg" alt="Dhalsim"> </a>
-                  <p class="description">A pesar de no ser experto en artes marciales ni poseer una constitución fuerte y atlética preparada para la lucha, Dhalsim es uno de los combatientes más respetados por las increíbles habilidades de las que hace gala.</p>
+                  <div class="character-card">
+                    <div class="character-info">
+                      <h6>Datos</h6>
+                      <div><strong>Primer juego:</strong> Street Fighter II </div>
+                      <div><strong>Especie:</strong> Humano </div>
+                      <div><strong>País:</strong> India 🇨🇳 </div>
+                      <div><strong>Estilo:</strong> Yoga esóterico </div>
+                      <div><strong>Ocupación:</strong> Maestro de yoga </div>
+                      <div><strong>Fecha de nacimiento:</strong> 22 de noviembre ♓ </div>
+                      <div><strong>Altura:</strong> 1.76 m (variable) </div>
+                      <div><strong>Peso:</strong> 48 / 49.5 kg </div>
+                      <div><strong>Color de ojos:</strong> Blanco </div>
+                      <div><strong>Color de cabello:</strong> - </div>
+                    </div> <!-- cierre de los datos generales -->
+                    <div class="character-description">
+                      <p class="description">A pesar de no ser experto en artes marciales ni poseer una constitución fuerte y atlética preparada para la lucha, Dhalsim es uno de los combatientes más respetados por las increíbles habilidades de las que hace gala.</p>
+                    </div> <!-- cierre de la información general -->
+                    <div class="card-footer">
+                      <div class="info-column likes">
+                        <h6>Gustos</h6>
+                        <ul>
+                          <li> Su esposa Sally y su hijo Datta </li>
+                          <li> Proteger su aldea </li>
+                          <li> Meditación </li>
+                          <li> Curry </li>
+                          <li> Elefantes </li>
+                        </ul>
+                      </div> <!-- cierre de los gustos -->
+                      <div class="info-column dislikes">
+                        <h6>Aversiones</h6>
+                        <ul>
+                          <li> Violencia, dañar a otros </li>
+                          <li> Poderes corruptos </li>
+                          <li> Distracciones </li>
+                          <li> Carne </li>
+                          <li> Dulces </li>
+                        </ul>
+                      </div> <!-- cierre de las aversiones -->
+                    </div> <!-- cierre de los gustos y de las aversiones -->
+                    <div class="character-hobbies"> 
+                      <h6>Pasatiempos / Habilidades</h6>
+                      <ul>
+                        <li> Altruismo </li>
+                        <li> Leer la mente </li>
+                        <li> Predicación </li>
+                        <li> Sermones </li>
+                      </ul>
+                    </div> <!-- cierre de los hobbies -->
+                  </div> <!-- cierre de la información -->
                 </div>
               </div>
               <div class="carousel-item"> <!-- ------------------------------------------------------------------------------------- DEE JAY -->
                 <div class="character-item">
                   <h4>Dee Jay</h4>
                   <a href="assets/img/personajes/37.jpg"> <img src="assets/img/personajes/37.jpg" alt="Dee Jay"> </a>
-                  <p class="description">Dee Jay es un jamaicano experto en kickboxing, cuya vida suele girar entorno a su pasión por la música. De hecho, para él la lucha es un medio que le permite encontrar la inspiración necesaria para dar vida a sus composiciones.</p>
+                  <div class="character-card">
+                    <div class="character-info">
+                      <h6>Datos</h6>
+                      <div><strong>Primer juego:</strong> Super Street Fighter II: The New Challengers </div>
+                      <div><strong>Especie:</strong> Humano </div>
+                      <div><strong>País:</strong> Jamaica 🇨🇳 </div>
+                      <div><strong>Estilo:</strong> Kickboxing y breakdance </div>
+                      <div><strong>Ocupación:</strong> Músico y kickboxer profesional </div>
+                      <div><strong>Fecha de nacimiento:</strong> 31 de octubre ♓ </div>
+                      <div><strong>Altura:</strong> 1.84 m </div>
+                      <div><strong>Peso:</strong> 92 kg </div>
+                      <div><strong>Color de ojos:</strong> Café </div>
+                      <div><strong>Color de cabello:</strong> Café </div>
+                    </div> <!-- cierre de los datos generales -->
+                    <div class="character-description">
+                      <p class="description">Dee Jay es un jamaicano experto en kickboxing, cuya vida suele girar entorno a su pasión por la música. De hecho, para él la lucha es un medio que le permite encontrar la inspiración necesaria para dar vida a sus composiciones.</p>
+                    </div> <!-- cierre de la información general -->
+                    <div class="card-footer">
+                      <div class="info-column likes">
+                        <h6>Gustos</h6>
+                        <ul>
+                          <li> Bailar </li>
+                          <li> Cantar </li>
+                          <li> Gritar </li>
+                          <li> Ver tv (especialmente programas de cocina en vivo) </li>
+                          <li> Mujeres hermosas (especialmente las que son hábiles luchadoras) </li>
+                        </ul>
+                      </div> <!-- cierre de los gustos -->
+                      <div class="info-column dislikes">
+                        <h6>Aversiones</h6>
+                        <ul>
+                          <li> Silencio </li>
+                          <li> Personas serias </li>
+                          <li> Personas que carecen de ritmo </li>
+                        </ul>
+                      </div> <!-- cierre de las aversiones -->
+                    </div> <!-- cierre de los gustos y de las aversiones -->
+                    <div class="character-hobbies"> 
+                      <h6>Pasatiempos / Habilidades</h6>
+                      <ul>
+                        <li> Danza del bambú </li>
+                      </ul>
+                    </div> <!-- cierre de los hobbies -->
+                  </div> <!-- cierre de la información -->
                 </div>
               </div>
               <div class="carousel-item"> <!-- --------------------------------------------------------------------------------------- GUILE -->
                 <div class="character-item">
                   <h4>Guile</h4>
                   <a href="assets/img/personajes/38.jpg"> <img src="assets/img/personajes/38.jpg" alt="Guile"> </a>
-                  <p class="description">Uno de los miembros más destacados de las fuerzas aéreas estadounidenses, Guile, ha seguido el rastro de la organización criminal Shadaloo durante años, y no parará hasta desmantelarla por completo y acabar con su temido líder, M. Bison.</p>
+                  <div class="character-card">
+                    <div class="character-info">
+                      <h6>Datos</h6>
+                      <div><strong>Primer juego:</strong> Street Fighter II </div>
+                      <div><strong>Especie:</strong> Humano </div>
+                      <div><strong>País:</strong> Estados Unidos 🇨🇳 </div>
+                      <div><strong>Estilo:</strong> Artes marciales, lucha libre profesional y MCMAP (Programa de Artes Marciales del Cuerpo de Marines) </div>
+                      <div><strong>Ocupación:</strong> Coronel de la Fuerza Áerea de Estados Unidos </div>
+                      <div><strong>Fecha de nacimiento:</strong> 23 de diciembre ♓ </div>
+                      <div><strong>Altura:</strong> 1.82 m </div>
+                      <div><strong>Peso:</strong> 86 / 99 kg </div>
+                      <div><strong>Color de ojos:</strong> Azul </div>
+                      <div><strong>Color de cabello:</strong> Rubio </div>
+                    </div> <!-- cierre de los datos generales -->
+                    <div class="character-description">
+                      <p class="description">Uno de los miembros más destacados de las fuerzas aéreas estadounidenses, Guile, ha seguido el rastro de la organización criminal Shadaloo durante años, y no parará hasta desmantelarla por completo y acabar con su temido líder, M. Bison.</p>
+                    </div> <!-- cierre de la información general -->
+                    <div class="card-footer">
+                      <div class="info-column likes">
+                        <h6>Gustos</h6>
+                        <ul>
+                          <li> Su cabello </li>
+                          <li> Música country </li>
+                          <li> Automóviles y café americanos </li>
+                          <li> Películas de John Wayne </li>
+                          <li> Ver deportes </li>
+                          <li> Su familia y amigos </li>
+                        </ul>
+                      </div> <!-- cierre de los gustos -->
+                      <div class="info-column dislikes">
+                        <h6>Aversiones</h6>
+                        <ul>
+                          <li> M. Bison </li>
+                          <li> Nattō (sopa fermentada japonesa) </li>
+                          <li> Malgastar dinero en comida </li>
+                          <li> Meter a otros en sus problemas personales </li>
+                          <li> Gente holgazana, reservada </li>
+                        </ul>
+                      </div> <!-- cierre de las aversiones -->
+                    </div> <!-- cierre de los gustos y de las aversiones -->
+                    <div class="character-hobbies"> 
+                      <h6>Pasatiempos / Habilidades</h6>
+                      <ul>
+                        <li> Dardos </li>
+                        <li> Campeón de Combate de la Fuerza Áerea </li>
+                      </ul>
+                    </div> <!-- cierre de los hobbies -->
+                  </div> <!-- cierre de la información -->
                 </div>
               </div>
               <div class="carousel-item"> <!-- --------------------------------------------------------------------------------------- CAMMY -->
                 <div class="character-item">
                   <h4>Cammy</h4>
                   <a href="assets/img/personajes/39.jpg"> <img src="assets/img/personajes/39.jpg" alt="Cammy"> </a>
-                  <p class="description">Cammy sirvió a Shadaloo durante años, contra su voluntad e incluso sin ser consciente de ello. Finalmente se libró de la oscura influencia de M. Bison, y ahora está decidida a acabar con la organización criminal a cualquier precio.</p>
+                  <div class="character-card">
+                    <div class="character-info">
+                      <h6>Datos</h6>
+                      <div><strong>Primer juego:</strong> Super Street Fighter II: The New Challengers </div>
+                      <div><strong>Especie:</strong> Humano </div>
+                      <div><strong>País:</strong> Reino Unido 🇨🇳 </div>
+                      <div><strong>Estilo:</strong> Técnicas de lucha de Shadaloo y Entrenamiento de Delta Red </div>
+                      <div><strong>Ocupación:</strong> Agente Delta Red del MI6 </div>
+                      <div><strong>Fecha de nacimiento:</strong> 6 de enero ♓ </div>
+                      <div><strong>Altura:</strong> 1.64 m </div>
+                      <div><strong>Peso:</strong> 61 kg </div>
+                      <div><strong>Color de ojos:</strong> Azul claro </div>
+                      <div><strong>Color de cabello:</strong> Rubio </div>
+                    </div> <!-- cierre de los datos generales -->
+                    <div class="character-description">
+                      <p class="description">Cammy sirvió a Shadaloo durante años, contra su voluntad e incluso sin ser consciente de ello. Finalmente se libró de la oscura influencia de M. Bison, y ahora está decidida a acabar con la organización criminal a cualquier precio.</p>
+                    </div> <!-- cierre de la información general -->
+                    <div class="card-footer">
+                      <div class="info-column likes">
+                        <h6>Gustos</h6>
+                        <ul>
+                          <li> Gatos </li>
+                          <li> Pastel </li>
+                          <li> Tarta de manzana </li>
+                          <li> Recopilación de datos de lucha (Shadaloo) </li>
+                          <li> Sus "hermanas" (Dolls) </li>
+                          <li> Delta Red </li>
+                        </ul>
+                      </div> <!-- cierre de los gustos -->
+                      <div class="info-column dislikes">
+                        <h6>Aversiones</h6>
+                        <ul>
+                          <li> M. Bison, Psycho Power </li>
+                          <li> Crimen </li>
+                          <li> Todo si esta de mal humor </li>
+                          <li> Simpatía hacia ella </li>
+                          <li> Sopas </li>
+                        </ul>
+                      </div> <!-- cierre de las aversiones -->
+                    </div> <!-- cierre de los gustos y de las aversiones -->
+                    <div class="character-hobbies"> 
+                      <h6>Pasatiempos / Habilidades</h6>
+                      <ul>
+                        <li> Montar a caballo </li>
+                        <li> Lanzamiento de cuchillos </li>
+                      </ul>
+                    </div> <!-- cierre de los hobbies -->
+                  </div> <!-- cierre de la información -->
                 </div>
               </div>
               <div class="carousel-item"> <!-- --------------------------------------------------------------------------------------- ELENA -->
                 <div class="character-item">
                   <h4>Elena</h4>
                   <a href="assets/img/personajes/40.jpg"> <img src="assets/img/personajes/40.jpg" alt="Elena"> </a>
-                  <p class="description">Elena vivía una apacible existencia en Kenia. Como hija del líder de la región tenía un gran sentido de la responsabilidad, era aplicada en sus estudios y una practicante de capoeira muy hábil.</p>
+                  <div class="character-card">
+                    <div class="character-info">
+                      <h6>Datos</h6>
+                      <div><strong>Primer juego:</strong> Street Fighter </div>
+                      <div><strong>Especie:</strong> Humano </div>
+                      <div><strong>País:</strong>  </div>
+                      <div><strong>Estilo:</strong> </div>
+                      <div><strong>Ocupación:</strong>  </div>
+                      <div><strong>Fecha de nacimiento:</strong>  </div>
+                      <div><strong>Altura:</strong>  m </div>
+                      <div><strong>Peso:</strong>  kg </div>
+                      <div><strong>Color de ojos:</strong>  </div>
+                      <div><strong>Color de cabello:</strong>  </div>
+                    </div> <!-- cierre de los datos generales -->
+                    <div class="character-description">
+                      <p class="description">Elena vivía una apacible existencia en Kenia. Como hija del líder de la región tenía un gran sentido de la responsabilidad, era aplicada en sus estudios y una practicante de capoeira muy hábil.</p>
+                    </div> <!-- cierre de la información general -->
+                    <div class="card-footer">
+                      <div class="info-column likes">
+                        <h6>Gustos</h6>
+                        <ul>
+                          <li>  </li>
+                          <li>  </li>
+                          <li>  </li>
+                          <li>  </li>
+                          <li>  </li>
+                        </ul>
+                      </div> <!-- cierre de los gustos -->
+                      <div class="info-column dislikes">
+                        <h6>Aversiones</h6>
+                        <ul>
+                          <li>  </li>
+                          <li>  </li>
+                          <li>  </li>
+                          <li>  </li>
+                          <li>  </li>
+                        </ul>
+                      </div> <!-- cierre de las aversiones -->
+                    </div> <!-- cierre de los gustos y de las aversiones -->
+                    <div class="character-hobbies"> 
+                      <h6>Pasatiempos / Habilidades</h6>
+                      <ul>
+                        <li>  </li>
+                        <li>  </li>
+                      </ul>
+                    </div> <!-- cierre de los hobbies -->
+                  </div> <!-- cierre de la información -->
                 </div>
               </div>
               <div class="carousel-item"> <!-- ------------------------------------------------------------------------------------- ABIGAIL -->
                 <div class="character-item">
                   <h4>Abigail</h4>
                   <a href="assets/img/personajes/41.jpg"> <img src="assets/img/personajes/41.jpg" alt="Abigail"> </a>
-                  <p class="description">Tras una vida delictiva, Abigail decidió establecer un negocio legal. A pesar del cambio de rumbo en su vida, su pasado criminal, un feroz temperamento y una inteligencia limitada le siguen jugando alguna que otra mala pasada.</p>
+                  <div class="character-card">
+                    <div class="character-info">
+                      <h6>Datos</h6>
+                      <div><strong>Primer juego:</strong> Street Fighter </div>
+                      <div><strong>Especie:</strong> Humano </div>
+                      <div><strong>País:</strong>  </div>
+                      <div><strong>Estilo:</strong> </div>
+                      <div><strong>Ocupación:</strong>  </div>
+                      <div><strong>Fecha de nacimiento:</strong>  </div>
+                      <div><strong>Altura:</strong>  m </div>
+                      <div><strong>Peso:</strong>  kg </div>
+                      <div><strong>Color de ojos:</strong>  </div>
+                      <div><strong>Color de cabello:</strong>  </div>
+                    </div> <!-- cierre de los datos generales -->
+                    <div class="character-description">
+                      <p class="description">Tras una vida delictiva, Abigail decidió establecer un negocio legal. A pesar del cambio de rumbo en su vida, su pasado criminal, un feroz temperamento y una inteligencia limitada le siguen jugando alguna que otra mala pasada.</p>
+                    </div> <!-- cierre de la información general -->
+                    <div class="card-footer">
+                      <div class="info-column likes">
+                        <h6>Gustos</h6>
+                        <ul>
+                          <li>  </li>
+                          <li>  </li>
+                          <li>  </li>
+                          <li>  </li>
+                          <li>  </li>
+                        </ul>
+                      </div> <!-- cierre de los gustos -->
+                      <div class="info-column dislikes">
+                        <h6>Aversiones</h6>
+                        <ul>
+                          <li>  </li>
+                          <li>  </li>
+                          <li>  </li>
+                          <li>  </li>
+                          <li>  </li>
+                        </ul>
+                      </div> <!-- cierre de las aversiones -->
+                    </div> <!-- cierre de los gustos y de las aversiones -->
+                    <div class="character-hobbies"> 
+                      <h6>Pasatiempos / Habilidades</h6>
+                      <ul>
+                        <li>  </li>
+                        <li>  </li>
+                      </ul>
+                    </div> <!-- cierre de los hobbies -->
+                  </div> <!-- cierre de la información -->
                 </div>
               </div>
               <div class="carousel-item"> <!-- ---------------------------------------------------------------------------------------- HUGO -->
                 <div class="character-item">
                   <h4>Hugo</h4>
                   <a href="assets/img/personajes/42.jpg"> <img src="assets/img/personajes/42.jpg" alt="Hugo"> </a>
-                  <p class="description">Hugo Andore es un luchador profesional de fuerza sobrenatural pero escaso intelecto. Su incapacidad para tomar decisiones le llevó a delinquir en el pasado, aunque logró reformarse y convertirse tras ello se en un wrestler de éxito.</p>
+                  <div class="character-card">
+                    <div class="character-info">
+                      <h6>Datos</h6>
+                      <div><strong>Primer juego:</strong> Street Fighter </div>
+                      <div><strong>Especie:</strong> Humano </div>
+                      <div><strong>País:</strong>  </div>
+                      <div><strong>Estilo:</strong> </div>
+                      <div><strong>Ocupación:</strong>  </div>
+                      <div><strong>Fecha de nacimiento:</strong>  </div>
+                      <div><strong>Altura:</strong>  m </div>
+                      <div><strong>Peso:</strong>  kg </div>
+                      <div><strong>Color de ojos:</strong>  </div>
+                      <div><strong>Color de cabello:</strong>  </div>
+                    </div> <!-- cierre de los datos generales -->
+                    <div class="character-description">
+                      <p class="description">Hugo Andore es un luchador profesional de fuerza sobrenatural pero escaso intelecto. Su incapacidad para tomar decisiones le llevó a delinquir en el pasado, aunque logró reformarse y convertirse tras ello se en un wrestler de éxito.</p>
+                    </div> <!-- cierre de la información general -->
+                    <div class="card-footer">
+                      <div class="info-column likes">
+                        <h6>Gustos</h6>
+                        <ul>
+                          <li>  </li>
+                          <li>  </li>
+                          <li>  </li>
+                          <li>  </li>
+                          <li>  </li>
+                        </ul>
+                      </div> <!-- cierre de los gustos -->
+                      <div class="info-column dislikes">
+                        <h6>Aversiones</h6>
+                        <ul>
+                          <li>  </li>
+                          <li>  </li>
+                          <li>  </li>
+                          <li>  </li>
+                          <li>  </li>
+                        </ul>
+                      </div> <!-- cierre de las aversiones -->
+                    </div> <!-- cierre de los gustos y de las aversiones -->
+                    <div class="character-hobbies"> 
+                      <h6>Pasatiempos / Habilidades</h6>
+                      <ul>
+                        <li>  </li>
+                        <li>  </li>
+                      </ul>
+                    </div> <!-- cierre de los hobbies -->
+                  </div> <!-- cierre de la información -->
                 </div>
               </div>
               <!-- ------------------------------------------------------ los demás XD ------------------------------------------------------ -->
