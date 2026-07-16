@@ -160,6 +160,9 @@
                   <a href="assets/img/personajes/2.jpg"> <img src="assets/img/personajes/2.jpg" alt="Akira"> </a>
                   <div class="character-card">
                     <div class="character-info">
+                      <h6>Datos</h6>
+                      <div><strong>Primer juego:</strong> Street Fighter V (Champion Edition) </div>
+                      <div><strong>Especie:</strong> Humana </div>
                       <div><strong>País:</strong> Japón 🇯🇵 </div>
                       <div><strong>Estilo:</strong> Bajiquan </div>
                       <div><strong>Ocupación:</strong> Mecánico de motocicletas </div>
@@ -174,20 +177,20 @@
                     </div> <!-- cierre de la información general -->
                     <div class="card-footer">
                       <div class="info-column likes">
-                        <h6>🟢 Gustos</h6>
+                        <h6>Gustos</h6>
                         <ul>
-                          <li> Su hermano Daigo </li>
-                          <li> Motocicletas </li>
+                          <li> Su hermano mayor Daigo </li>
+                          <li> Motocicletas (especialmente de carreras) </li>
                           <li> Gatos </li>
                           <li> Videojuegos de Megaman </li>
                           <li> Confitería (especialmente pasteles de chocolate o queso) </li>
                         </ul>
                       </div> <!-- cierre de los gustos -->
                       <div class="info-column dislikes">
-                        <h6>🔴 Aversiones</h6>
+                        <h6>Aversiones</h6>
                         <ul>
                           <li> Parloteo </li>
-                          <li> Natación / educación física </li>
+                          <li> Natación </li>
                           <li> Educación física </li>
                           <li> La música </li>
                           <li> Hombres narcisistas </li>
@@ -195,10 +198,11 @@
                       </div> <!-- cierre de las aversiones -->
                     </div> <!-- cierre de los gustos y de las aversiones -->
                     <div class="character-hobbies"> 
-                      <h6>Aficiones / Habilidades</h6>
+                      <h6>Pasatiempos / Habilidades</h6>
                       <ul>
-                        <li> Tocar el erhu </li>
-                        <li> Tiro al plato </li>
+                        <li> Artes marciales chinas </li>
+                        <li> Cocina </li>
+                        <li> Bilingüe (japonés e inglés) </li>
                       </ul>
                     </div> <!-- cierre de los hobbies -->
                   </div> <!-- cierre de la información -->
@@ -210,6 +214,9 @@
                   <a href="assets/img/personajes/3.jpg"> <img src="assets/img/personajes/3.jpg" alt="Poison"> </a>
                   <div class="character-card">
                     <div class="character-info">
+                      <h6>Datos</h6>
+                      <div><strong>Primer juego:</strong> Ultra Street Fighter IV </div>
+                      <div><strong>Especie:</strong> Humana </div>
                       <div><strong>País:</strong> Estados Unidos 🇺🇸 </div>
                       <div><strong>Estilo:</strong> Lucha acrobática autodidacta / Kenkasappō  </div>
                       <div><strong>Ocupación:</strong> Representante de lucha libre </div>
@@ -224,31 +231,29 @@
                     </div> <!-- cierre de la información general -->
                     <div class="card-footer">
                       <div class="info-column likes">
-                        <h6>🟢 Gustos</h6>
+                        <h6>Gustos</h6>
                         <ul>
-                          <li> Papas fritas </li>
+                          <li> Papas fritas y comida china </li>
                           <li> Su gato mascota </li>
                           <li> Tacones altos </li>
-                          <li> Comida china </li>
+                          <li> Maquillaje (especialmente labiales) </li>
                           <li> Hugo </li>
                         </ul>
                       </div> <!-- cierre de los gustos -->
                       <div class="info-column dislikes">
-                        <h6>🔴 Aversiones</h6>
+                        <h6>Aversiones</h6>
                         <ul>
                           <li> Policía </li>
                           <li> Hotdogs </li>
                           <li> Mike Haggar </li>
-                          <li> . </li>
-                          <li> . </li>
                         </ul>
                       </div> <!-- cierre de las aversiones -->
                     </div> <!-- cierre de los gustos y de las aversiones -->
                     <div class="character-hobbies"> 
-                      <h6>Aficiones / Habilidades</h6>
+                      <h6>Pasatiempos / Habilidades</h6>
                       <ul>
-                        <li> Tocar el erhu </li>
-                        <li> Tiro al plato </li>
+                        <li> Ir de compras </li>
+                        <li> Acrobacia </li>
                       </ul>
                     </div> <!-- cierre de los hobbies -->
                   </div> <!-- cierre de la información -->
@@ -260,6 +265,9 @@
                   <a href="assets/img/personajes/4.jpg"> <img src="assets/img/personajes/4.jpg" alt="Rainbow Mika"> </a>
                   <div class="character-card">
                     <div class="character-info">
+                      <h6>Datos</h6>
+                      <div><strong>Primer juego:</strong> Street Fighter Alpha 3 </div>
+                      <div><strong>Especie:</strong> Humana </div>
                       <div><strong>País:</strong> Japón 🇯🇵 </div>
                       <div><strong>Estilo:</strong> Lucha libre profesional </div>
                       <div><strong>Ocupación:</strong> Luchador profesional </div>
@@ -274,31 +282,26 @@
                     </div> <!-- cierre de la información general -->
                     <div class="card-footer">
                       <div class="info-column likes">
-                        <h6>🟢 Gustos</h6>
+                        <h6>Gustos</h6>
                         <ul>
                           <li> Filosofía de lucha del mtro. Zangief </li>
-                          <li> Entrenamiento </li>
-                          <li> Flexiones de dedos </li>
-                          <li> Puentes de cuello </li>
+                          <li> Entrenamiento intensivo </li>
                           <li> Poses </li>
                         </ul>
                       </div> <!-- cierre de los gustos -->
                       <div class="info-column dislikes">
-                        <h6>🔴 Aversiones</h6>
+                        <h6>Aversiones</h6>
                         <ul>
-                          <li> Jóvenes maleducados </li>
-                          <li> . </li>
-                          <li> . </li>
-                          <li> . </li>
-                          <li> . </li>
+                          <li> Personas jóvenes maleducadas </li>
                         </ul>
                       </div> <!-- cierre de las aversiones -->
                     </div> <!-- cierre de los gustos y de las aversiones -->
                     <div class="character-hobbies"> 
-                      <h6>Aficiones / Habilidades</h6>
+                      <h6>Pasatiempos / Habilidades</h6>
                       <ul>
-                        <li> Tocar el erhu </li>
-                        <li> Tiro al plato </li>
+                        <li> Lucha libre profesional </li>
+                        <li> Teatro </li>
+                        <li> Comer en exceso </li>
                       </ul>
                     </div> <!-- cierre de los hobbies -->
                   </div> <!-- cierre de la información -->
@@ -310,6 +313,9 @@
                   <a href="assets/img/personajes/5.jpg"> <img src="assets/img/personajes/5.jpg" alt="Menat"> </a>
                   <div class="character-card">
                     <div class="character-info">
+                      <h6>Datos</h6>
+                      <div><strong>Primer juego:</strong> Street Fighter V </div>
+                      <div><strong>Especie:</strong> Humana </div>
                       <div><strong>País:</strong> Egipto 🇪🇬 </div>
                       <div><strong>Estilo:</strong> Combate usando Poder del Alma y una bola de cristal </div>
                       <div><strong>Ocupación:</strong> Aprendiz de adivino </div>
@@ -324,31 +330,26 @@
                     </div> <!-- cierre de la información general -->
                     <div class="card-footer">
                       <div class="info-column likes">
-                        <h6>🟢 Gustos</h6>
+                        <h6>Gustos</h6>
                         <ul>
                           <li> Recuerdos de todo el mundo </li>
                           <li> Diarios </li>
-                          <li> . </li>
-                          <li> . </li>
-                          <li> . </li>
                         </ul>
                       </div> <!-- cierre de los gustos -->
                       <div class="info-column dislikes">
-                        <h6>🔴 Aversiones</h6>
+                        <h6>Aversiones</h6>
                         <ul>
                           <li> Gente malhablada </li>
-                          <li> . </li>
-                          <li> . </li>
-                          <li> . </li>
-                          <li> . </li>
+                          <li> Atracciones emocionantes </li>
                         </ul>
                       </div> <!-- cierre de las aversiones -->
                     </div> <!-- cierre de los gustos y de las aversiones -->
                     <div class="character-hobbies"> 
-                      <h6>Aficiones / Habilidades</h6>
+                      <h6>Pasatiempos / Habilidades</h6>
                       <ul>
-                        <li> Tocar el erhu </li>
-                        <li> Tiro al plato </li>
+                        <li> Adivinación </li>
+                        <li> Lectura en bola en cristal </li>
+                        <li> Baile </li>
                       </ul>
                     </div> <!-- cierre de los hobbies -->
                   </div> <!-- cierre de la información -->
@@ -360,6 +361,9 @@
                   <a href="assets/img/personajes/6.jpg"> <img src="assets/img/personajes/6.jpg" alt="Rose"> </a>
                   <div class="character-card">
                     <div class="character-info">
+                      <h6>Datos</h6>
+                      <div><strong>Primer juego:</strong> Street Fighter Alpha </div>
+                      <div><strong>Especie:</strong> Humana </div>
                       <div><strong>País:</strong> Italia 🇮🇹 </div>
                       <div><strong>Estilo:</strong> Poder del Alma </div>
                       <div><strong>Ocupación:</strong> Adivino </div>
@@ -374,31 +378,29 @@
                     </div> <!-- cierre de la información general -->
                     <div class="card-footer">
                       <div class="info-column likes">
-                        <h6>🟢 Gustos</h6>
+                        <h6>Gustos</h6>
                         <ul>
                           <li> Jerez (vino) </li>
                           <li> Tomar baños </li>
                           <li> Ryu </li>
                           <li> Guy </li>
-                          <li> . </li>
                         </ul>
                       </div> <!-- cierre de los gustos -->
                       <div class="info-column dislikes">
-                        <h6>🔴 Aversiones</h6>
+                        <h6>Aversiones</h6>
                         <ul>
                           <li> Rayos UV </li>
                           <li> Despertarse temprano </li>
-                          <li> Auras malignas </li>
-                          <li> . </li>
-                          <li> . </li>
+                          <li> Auras malignas como el Satsui No Hado y el Psycho Power</li>
+                          <li> M. Bison, Akuma </li>
                         </ul>
                       </div> <!-- cierre de las aversiones -->
                     </div> <!-- cierre de los gustos y de las aversiones -->
                     <div class="character-hobbies"> 
-                      <h6>Aficiones / Habilidades</h6>
+                      <h6>Pasatiempos / Habilidades</h6>
                       <ul>
-                        <li> Tocar el erhu </li>
-                        <li> Tiro al plato </li>
+                        <li> Adivinación </li>
+                        <li> Lectura del tarot </li>
                       </ul>
                     </div> <!-- cierre de los hobbies -->
                   </div> <!-- cierre de la información -->
@@ -410,6 +412,9 @@
                   <a href="assets/img/personajes/7.jpg"> <img src="assets/img/personajes/7.jpg" alt="Ibuki"> </a>
                   <div class="character-card">
                     <div class="character-info">
+                      <h6>Datos</h6>
+                      <div><strong>Primer juego:</strong> Street Fighter III: New Generation </div>
+                      <div><strong>Especie:</strong> Humana </div>
                       <div><strong>País:</strong> Japón 🇯🇵 </div>
                       <div><strong>Estilo:</strong> Ninjutsu </div>
                       <div><strong>Ocupación:</strong> Ninja, estudiante </div>
@@ -424,28 +429,30 @@
                     </div> <!-- cierre de la información general -->
                     <div class="card-footer">
                       <div class="info-column likes">
-                        <h6>🟢 Gustos</h6>
+                        <h6>Gustos</h6>
                         <ul>
                           <li> Su mapache mascota Don-chan </li>
                           <li> Batatas asadas </li>
-                          <li> Chicos lindos </li>
+                          <li> Chicos lindos / guapos </li>
                           <li> Sapos parteros </li>
+                          <li> Escuchar J-Pop </li>
                         </ul>
                       </div> <!-- cierre de los gustos -->
                       <div class="info-column dislikes">
-                        <h6>🔴 Aversiones</h6>
+                        <h6>Aversiones</h6>
                         <ul>
-                          <li> Entrenamiento ninja </li>
+                          <li> El estricto estilo del camino ninja de Guy</li>
                           <li> Detención </li>
-                          <li> . </li>
+                          <li> Lecciones complementarias </li>
+                          <li> Gill </li>
                         </ul>
                       </div> <!-- cierre de las aversiones -->
                     </div> <!-- cierre de los gustos y de las aversiones -->
                     <div class="character-hobbies"> 
-                      <h6>Aficiones / Habilidades</h6>
+                      <h6>Pasatiempos / Habilidades</h6>
                       <ul>
-                        <li> Tocar el erhu </li>
-                        <li> Tiro al plato </li>
+                        <li> Concursos de comida </li>
+                        <li> Comer rápido </li>
                       </ul>
                     </div> <!-- cierre de los hobbies -->
                   </div> <!-- cierre de la información -->
@@ -457,6 +464,9 @@
                   <a href="assets/img/personajes/8.jpg"> <img src="assets/img/personajes/8.jpg" alt="Falke"> </a>
                   <div class="character-card">
                     <div class="character-info">
+                      <h6>Datos</h6>
+                      <div><strong>Primer juego:</strong> Street Fighter V </div>
+                      <div><strong>Especie:</strong> Humana </div>
                       <div><strong>País:</strong> Desconocido ❓</div>
                       <div><strong>Estilo:</strong> Psycho Power, bōjutsu, bastón psíquico </div>
                       <div><strong>Ocupación:</strong> Ayudante de Ed para Neo Shadaloo </div>
@@ -471,27 +481,26 @@
                     </div> <!-- cierre de la información general -->
                     <div class="card-footer">
                       <div class="info-column likes">
-                        <h6>🟢 Gustos</h6>
+                        <h6>Gustos</h6>
                         <ul>
                           <li> Té con leche </li>
                           <li> Teatro </li>
-                          <li> . </li>
                         </ul>
                       </div> <!-- cierre de los gustos -->
                       <div class="info-column dislikes">
-                        <h6>🔴 Aversiones</h6>
+                        <h6>Aversiones</h6>
                         <ul>
                           <li> M. Bison </li>
                           <li> Shadaloo </li>
-                          <li> . </li>
                         </ul>
                       </div> <!-- cierre de las aversiones -->
                     </div> <!-- cierre de los gustos y de las aversiones -->
                     <div class="character-hobbies"> 
-                      <h6>Aficiones / Habilidades</h6>
+                      <h6>Pasatiempos / Habilidades</h6>
                       <ul>
-                        <li> Tocar el erhu </li>
-                        <li> Tiro al plato </li>
+                        <li> Tareas domésticas </li>
+                        <li> Salto con pértiga </li>
+                        <li> Cocina </li>
                       </ul>
                     </div> <!-- cierre de los hobbies -->
                   </div> <!-- cierre de la información -->
@@ -503,6 +512,9 @@
                   <a href="assets/img/personajes/9.jpg"> <img src="assets/img/personajes/9.jpg" alt="Crimson Viper"> </a>
                   <div class="character-card">
                     <div class="character-info">
+                      <h6>Datos</h6>
+                      <div><strong>Primer juego:</strong> Street Fighter IV </div>
+                      <div><strong>Especie:</strong> Humana </div>
                       <div><strong>País:</strong> Estados Unidos 🇺🇸 </div>
                       <div><strong>Estilo:</strong> Utiliza tecnología y dispositivos de espionaje secretos </div>
                       <div><strong>Ocupación:</strong> Agente de la CIA </div>
@@ -517,16 +529,16 @@
                     </div> <!-- cierre de la información general -->
                     <div class="card-footer">
                       <div class="info-column likes">
-                        <h6>🟢 Gustos</h6>
+                        <h6>Gustos</h6>
                         <ul>
                           <li> Su hija Lauren </li>
-                          <li> Dinero </li>
                           <li> Tiempo en familia </li>
+                          <li> Dinero </li>
                           <li> Parfaits de helado </li>
                         </ul>
                       </div> <!-- cierre de los gustos -->
                       <div class="info-column dislikes">
-                        <h6>🔴 Aversiones</h6>
+                        <h6>Aversiones</h6>
                         <ul>
                           <li> Trabajar horas extras </li>
                           <li> Revanchas </li>
@@ -536,10 +548,9 @@
                       </div> <!-- cierre de las aversiones -->
                     </div> <!-- cierre de los gustos y de las aversiones -->
                     <div class="character-hobbies"> 
-                      <h6>Aficiones / Habilidades</h6>
+                      <h6>Pasatiempos / Habilidades</h6>
                       <ul>
-                        <li> Tocar el erhu </li>
-                        <li> Tiro al plato </li>
+                        <li> Trucos de magia </li>
                       </ul>
                     </div> <!-- cierre de los hobbies -->
                   </div> <!-- cierre de la información -->
@@ -551,6 +562,9 @@
                   <a href="assets/img/personajes/10.jpg"> <img src="assets/img/personajes/10.jpg" alt="Juri"> </a>
                   <div class="character-card">
                     <div class="character-info">
+                      <h6>Datos</h6>
+                      <div><strong>Primer juego:</strong> Super Street Fighter IV </div>
+                      <div><strong>Especie:</strong> Humana </div>
                       <div><strong>País:</strong> Corea del Sur 🇰🇷 </div>
                       <div><strong>Estilo:</strong> Taekwondo / ataques de kí </div>
                       <div><strong>Ocupación:</strong> Anteriormente líder de S.I.N. </div>
@@ -565,27 +579,29 @@
                     </div> <!-- cierre de la información general -->
                     <div class="card-footer">
                       <div class="info-column likes">
-                        <h6>🟢 Gustos</h6>
+                        <h6>Gustos</h6>
                         <ul>
                           <li> Comida picante </li>
                           <li> Arañas </li>
+                          <li> Peleadores fuertes </li>
                           <li> Motocicletas </li>
                         </ul>
                       </div> <!-- cierre de los gustos -->
                       <div class="info-column dislikes">
-                        <h6>🔴 Aversiones</h6>
+                        <h6>Aversiones</h6>
                         <ul>
                           <li> M. Bison </li>
+                          <li> Shadaloo </li>
                           <li> Reglas </li>
                           <li> Gente aburrida / aguafiestas </li>
                         </ul>
                       </div> <!-- cierre de las aversiones -->
                     </div> <!-- cierre de los gustos y de las aversiones -->
                     <div class="character-hobbies"> 
-                      <h6>Aficiones / Habilidades</h6>
+                      <h6>Pasatiempos / Habilidades</h6>
                       <ul>
-                        <li> Tocar el erhu </li>
-                        <li> Tiro al plato </li>
+                        <li> Memoria fotográfica </li>
+                        <li> Nunca olvida una ruta que ha tomado </li>
                       </ul>
                     </div> <!-- cierre de los hobbies -->
                   </div> <!-- cierre de la información -->
