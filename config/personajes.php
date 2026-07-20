@@ -1,0 +1,148 @@
+<?php
+
+return [
+    [ // -------------------------------------------------------------------------------------------------------------------------------- CHUN LI
+        'nombre' => 'Chun Li', 
+        'numero' => 7,
+        'imagen' => 'assets/img/personajes/1.jpg',
+        'datos' => [ 'Primer juego' => 'Street Fighter II', 'Especie' => 'Humana', 'País' => 'China 🇨🇳', 
+            'Estilo' => 'Kung Fu','Ocupación' => 'Agente de la Interpol', 'Fecha de nacimiento' => '1 de marzo ♓', 
+            'Altura' => '1.69 m', 'Peso' => 'Desconocido', 'Color de ojos' => 'Café', 'Color de cabello' => 'Negro'],
+        'descripcion' => 'Creadora de su propio estilo de lucha, la bella y decidida Chun-Li es una pieza fundamental para acabar con la organización criminal Shadaloo.',
+        'gustos' => [ 'Su padre', 'Artes marciales', 'Ir de compras con Li-Fen', 'Días libres', 'Crepas, frutas', ' Dulces / Confitería occidental'], 
+        'aversiones' => [ 'M. Bison', 'Shadaloo', 'El crimen', 'Gente turbia', 'Gente que no puede ir al grano', 'La indecisión' ],
+        'hobbies' => [ 'Tocar el erhu', 'Tiro al plato' ]
+    ],
+    [ // ---------------------------------------------------------------------------------------------------------------------------------- Akira
+        'nombre' => 'Akira', 
+        'numero' => 72,
+        'imagen' => 'assets/img/personajes/2.jpg',
+        'datos' => [ 'Primer juego' => 'Street Fighter V (Champion Edition)', 'Especie' => 'Humana', 'País' => 'Japón 🇯🇵', 
+            'Estilo' => 'Bajiquan','Ocupación' => 'Mecánico de motocicletas', 'Fecha de nacimiento' => '3 de marzo ♓', 
+            'Altura' => '1.60 m', 'Peso' => '45 kg', 'Color de ojos' => 'Café', 'Color de cabello' => 'Café'],
+        'descripcion' => 'Akira Kazama es una joven a quien le apasionan especialmente dos cosas: las motocicletas y las artes marciales. Ambas pasiones le sirven para enfrentarse a los peligros más insospechados en su ajetreada vida de estudiante.',
+        'gustos' => ['Su hermano mayor Daigo', 'Motocicletas (especialmente de carreras)', 'Gatos', 'Videojuegos de Megaman', 'Confitería (especialmente pasteles de chocolate o queso)'],
+        'aversiones' => ['Parloteo', 'Natación', 'Educación física', 'La música', 'Hombres narcisistas'],
+        'hobbies' => [ 'Artes marciales chinas', 'Cocina', 'Bilingüe (japonés e inglés)' ]
+    ],
+    [ // --------------------------------------------------------------------------------------------------------------------------------- Poison
+        'nombre' => 'Poison', 
+        'numero' => ,
+        'imagen' => ,
+        'datos' => [ 'Primer juego' => 'Street Fighter', 'Especie' => 'Humana', 'País' => '', 
+            'Estilo' => '','Ocupación' => '', 'Fecha de nacimiento' => ' de ', 
+            'Altura' => ' m', 'Peso' => '', 'Color de ojos' => '', 'Color de cabello' => ''],
+        'descripcion' => ,
+        'gustos' => ,
+        'aversiones' => ,
+        'hobbies' => 
+    ],
+    [ // --------------------------------------------------------------------------------------------------------------------------- Rainbow Mika
+        'nombre' => 'Rainbow Mika', 
+        'numero' => ,
+        'imagen' => ,
+        'datos' => [ 'Primer juego' => 'Street Fighter', 'Especie' => 'Humana', 'País' => '', 
+            'Estilo' => '','Ocupación' => '', 'Fecha de nacimiento' => ' de ', 
+            'Altura' => ' m', 'Peso' => '', 'Color de ojos' => '', 'Color de cabello' => ''],
+        'descripcion' => ,
+        'gustos' => ,
+        'aversiones' => ,
+        'hobbies' => 
+    ],
+    [ // ---------------------------------------------------------------------------------------------------------------------------------- Menat
+        'nombre' => 'Menat', 
+        'numero' => ,
+        'imagen' => ,
+        'datos' => [ 'Primer juego' => 'Street Fighter', 'Especie' => 'Humana', 'País' => '', 
+            'Estilo' => '','Ocupación' => '', 'Fecha de nacimiento' => ' de ', 
+            'Altura' => ' m', 'Peso' => '', 'Color de ojos' => '', 'Color de cabello' => ''],
+        'descripcion' => ,
+        'gustos' => ,
+        'aversiones' => ,
+        'hobbies' => 
+    ],
+    [ // ----------------------------------------------------------------------------------------------------------------------------------- Rose
+        'nombre' => 'Rose', 
+        'numero' => ,
+        'imagen' => ,
+        'datos' => [ 'Primer juego' => 'Street Fighter', 'Especie' => 'Humana', 'País' => '', 
+            'Estilo' => '','Ocupación' => '', 'Fecha de nacimiento' => ' de ', 
+            'Altura' => ' m', 'Peso' => '', 'Color de ojos' => '', 'Color de cabello' => ''],
+        'descripcion' => ,
+        'gustos' => ,
+        'aversiones' => ,
+        'hobbies' => 
+    ],
+    [ // ---------------------------------------------------------------------------------------------------------------------------------- Ibuki
+        'nombre' => 'Ibuki', 
+        'numero' => ,
+        'imagen' => ,
+        'datos' => [ 'Primer juego' => 'Street Fighter', 'Especie' => 'Humana', 'País' => '', 
+            'Estilo' => '','Ocupación' => '', 'Fecha de nacimiento' => ' de ', 
+            'Altura' => ' m', 'Peso' => '', 'Color de ojos' => '', 'Color de cabello' => ''],
+        'descripcion' => ,
+        'gustos' => ,
+        'aversiones' => ,
+        'hobbies' => 
+    ],
+    [ // ---------------------------------------------------------------------------------------------------------------------------------- Falke
+        'nombre' => 'Falke', 
+        'numero' => ,
+        'imagen' => ,
+        'datos' => [ 'Primer juego' => 'Street Fighter', 'Especie' => 'Humana', 'País' => '', 
+            'Estilo' => '','Ocupación' => '', 'Fecha de nacimiento' => ' de ', 
+            'Altura' => ' m', 'Peso' => '', 'Color de ojos' => '', 'Color de cabello' => ''],
+        'descripcion' => ,
+        'gustos' => ,
+        'aversiones' => ,
+        'hobbies' => 
+    ],
+    [ // -------------------------------------------------------------------------------------------------------------------------- Crimson Viper
+        'nombre' => 'Crimson Poison', 
+        'numero' => ,
+        'imagen' => ,
+        'datos' => [ 'Primer juego' => 'Street Fighter', 'Especie' => 'Humana', 'País' => '', 
+            'Estilo' => '','Ocupación' => '', 'Fecha de nacimiento' => ' de ', 
+            'Altura' => ' m', 'Peso' => '', 'Color de ojos' => '', 'Color de cabello' => ''],
+        'descripcion' => ,
+        'gustos' => ,
+        'aversiones' => ,
+        'hobbies' => 
+    ],
+    [ // ----------------------------------------------------------------------------------------------------------------------------------- Juri
+        'nombre' => 'Juri', 
+        'numero' => ,
+        'imagen' => ,
+        'datos' => [ 'Primer juego' => 'Street Fighter', 'Especie' => 'Humana', 'País' => '', 
+            'Estilo' => '','Ocupación' => '', 'Fecha de nacimiento' => ' de ', 
+            'Altura' => ' m', 'Peso' => '', 'Color de ojos' => '', 'Color de cabello' => ''],
+        'descripcion' => ,
+        'gustos' => ,
+        'aversiones' => ,
+        'hobbies' => 
+    ],
+    [ // ----------------------------------------------------------------------------------------------------------------------------------- Vega
+        'nombre' => 'Vega', 
+        'numero' => ,
+        'imagen' => ,
+        'datos' => [ 'Primer juego' => 'Street Fighter', 'Especie' => 'Humana', 'País' => '', 
+            'Estilo' => '','Ocupación' => '', 'Fecha de nacimiento' => ' de ', 
+            'Altura' => ' m', 'Peso' => '', 'Color de ojos' => '', 'Color de cabello' => ''],
+        'descripcion' => ,
+        'gustos' => ,
+        'aversiones' => ,
+        'hobbies' => 
+    ],
+    [ // ------------------------------------------------------------------------------------------------------------------
+        'nombre' => 'Akira', 
+        'numero' => ,
+        'imagen' => ,
+        'datos' => [ 'Primer juego' => 'Street Fighter', 'Especie' => 'Humana', 'País' => '', 
+            'Estilo' => '','Ocupación' => '', 'Fecha de nacimiento' => ' de ', 
+            'Altura' => ' m', 'Peso' => '', 'Color de ojos' => '', 'Color de cabello' => ''],
+        'descripcion' => ,
+        'gustos' => ,
+        'aversiones' => ,
+        'hobbies' => 
+    ],
+];
