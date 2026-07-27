@@ -12,7 +12,6 @@
           <button class="hamburger" id="hamburgerBtn">☰</button>
         <!-- ------------------------------------------------------------------------------------------------------- Lista columna izquierda -->
         <div class="col-md-6">
-          @include('personajes.pagination')
           <ol id="customPagination">
             <li class="active" aria-current="true" data-bs-target="#characterCarousel" data-bs-slide-to="0">Chun Li (#7)</li>
             <li data-bs-target="#characterCarousel" data-bs-slide-to="1">Akira (#72)</li>
@@ -96,405 +95,77 @@
         </div> <!-- contenedor de la lista / paginación -->
         <!-- ----------------------------------------------------------------------------------------------------------- Columna de carrusel -->        
         <div class="col-md-6">
-          @include('personajes.carousel')
-
+          <div id="characterCarousel" class="carousel slide" data-bs-interval="false">
+            <div class="carousel-inner">
+              <!-- favoritas --------------------------------------------------------------------------------------------------------------- -->
+              <div class="carousel-item active"> <!-- ------------------------------------------------------------------------------ CHUN LI -->
+                <div class="character-item">
+                  <h4>Chun Li</h4>
+                  <a href="assets/img/personajes/1.jpg"> <img src="assets/img/personajes/1.jpg" alt="Chun Li"> </a>
+                  <p class="description"> Creadora de su propio estilo de lucha, la bella y decidida Chun-Li es una pieza fundamental para acabar con la organización criminal Shadaloo. </p>
+                </div>
+              </div>
+              <div class="carousel-item"> <!-- --------------------------------------------------------------------------------------- AKIRA -->
+                <div class="character-item">
+                  <h4>Akira</h4>
+                  <a href="assets/img/personajes/2.jpg"> <img src="assets/img/personajes/2.jpg" alt="Akira"> </a>
+                  <p class="description">Akira Kazama es una joven a quien le apasionan especialmente dos cosas: las motocicletas y las artes marciales. Ambas pasiones le sirven para enfrentarse a los peligros más insospechados en su ajetreada vida de estudiante.</p>
+                </div>
+              </div>
               <div class="carousel-item"> <!-- -------------------------------------------------------------------------------------- POISON -->
                 <div class="character-item">
                   <h4>Poison</h4>
                   <a href="assets/img/personajes/3.jpg"> <img src="assets/img/personajes/3.jpg" alt="Poison"> </a>
-                  <div class="character-card">
-                    <div class="character-info">
-                      <h6>Datos</h6>
-                      <div><strong>Primer juego:</strong> Ultra Street Fighter IV </div>
-                      <div><strong>Especie:</strong> Humana </div>
-                      <div><strong>País:</strong> Estados Unidos 🇺🇸 </div>
-                      <div><strong>Estilo:</strong> Lucha acrobática autodidacta / Kenkasappō  </div>
-                      <div><strong>Ocupación:</strong> Representante de lucha libre </div>
-                      <div><strong>Fecha de nacimiento:</strong> 7 de diciembre ♐ </div>
-                      <div><strong>Altura:</strong> 1.75 m </div>
-                      <div><strong>Peso:</strong> 52 kg </div>
-                      <div><strong>Color de ojos:</strong> Azul turquesa </div>
-                      <div><strong>Color de cabello:</strong> Púrpura rosado </div>
-                    </div> <!-- cierre de los datos generales -->
-                    <div class="character-description">
-                      <p class="description">Tras sus desventuras como destacada miembro de la banda criminal Mad Gear, Poison decidió reconstruir su vida como mánager en el circuito de lucha libre profesional, donde cosechó un éxito indiscutible.</p>
-                    </div> <!-- cierre de la información general -->
-                    <div class="card-footer">
-                      <div class="info-column likes">
-                        <h6>Gustos</h6>
-                        <ul>
-                          <li> Papas fritas y comida china </li>
-                          <li> Su gato mascota </li>
-                          <li> Tacones altos </li>
-                          <li> Maquillaje (especialmente labiales) </li>
-                          <li> Hugo </li>
-                        </ul>
-                      </div> <!-- cierre de los gustos -->
-                      <div class="info-column dislikes">
-                        <h6>Aversiones</h6>
-                        <ul>
-                          <li> Policía </li>
-                          <li> Hotdogs </li>
-                          <li> Mike Haggar </li>
-                        </ul>
-                      </div> <!-- cierre de las aversiones -->
-                    </div> <!-- cierre de los gustos y de las aversiones -->
-                    <div class="character-hobbies"> 
-                      <h6>Pasatiempos / Habilidades</h6>
-                      <ul>
-                        <li> Ir de compras </li>
-                        <li> Acrobacia </li>
-                      </ul>
-                    </div> <!-- cierre de los hobbies -->
-                  </div> <!-- cierre de la información -->
+                  <p class="description">Tras sus desventuras como destacada miembro de la banda criminal Mad Gear, Poison decidió reconstruir su vida como mánager en el circuito de lucha libre profesional, donde cosechó un éxito indiscutible.</p>
                 </div>
               </div>
               <div class="carousel-item"> <!-- -------------------------------------------------------------------------------- RAINBOW MIKA -->
                 <div class="character-item">
                   <h4>Rainbow Mika</h4>
                   <a href="assets/img/personajes/4.jpg"> <img src="assets/img/personajes/4.jpg" alt="Rainbow Mika"> </a>
-                  <div class="character-card">
-                    <div class="character-info">
-                      <h6>Datos</h6>
-                      <div><strong>Primer juego:</strong> Street Fighter Alpha 3 </div>
-                      <div><strong>Especie:</strong> Humana </div>
-                      <div><strong>País:</strong> Japón 🇯🇵 </div>
-                      <div><strong>Estilo:</strong> Lucha libre profesional </div>
-                      <div><strong>Ocupación:</strong> Luchador profesional </div>
-                      <div><strong>Fecha de nacimiento:</strong> 15 de marzo ♓ </div>
-                      <div><strong>Altura:</strong> 1.65 / 1.68 m </div>
-                      <div><strong>Peso:</strong> 64 / 70 kg </div>
-                      <div><strong>Color de ojos:</strong> Azul </div>
-                      <div><strong>Color de cabello:</strong> Rubio </div>
-                    </div> <!-- cierre de los datos generales -->
-                    <div class="character-description">
-                      <p class="description">Rainbow Mika es una voluptuosa luchadora de indudable talento que busca crearse un nombre en el circuito de la lucha libre profesional. Su riguroso entrenamiento le permite medirse de igual a igual frente a auténticos colosos del wrestling.</p>
-                    </div> <!-- cierre de la información general -->
-                    <div class="card-footer">
-                      <div class="info-column likes">
-                        <h6>Gustos</h6>
-                        <ul>
-                          <li> Filosofía de lucha del mtro. Zangief </li>
-                          <li> Entrenamiento intensivo </li>
-                          <li> Poses </li>
-                        </ul>
-                      </div> <!-- cierre de los gustos -->
-                      <div class="info-column dislikes">
-                        <h6>Aversiones</h6>
-                        <ul>
-                          <li> Personas jóvenes maleducadas </li>
-                        </ul>
-                      </div> <!-- cierre de las aversiones -->
-                    </div> <!-- cierre de los gustos y de las aversiones -->
-                    <div class="character-hobbies"> 
-                      <h6>Pasatiempos / Habilidades</h6>
-                      <ul>
-                        <li> Lucha libre profesional </li>
-                        <li> Teatro </li>
-                        <li> Comer en exceso </li>
-                      </ul>
-                    </div> <!-- cierre de los hobbies -->
-                  </div> <!-- cierre de la información -->
+                  <p class="description">Rainbow Mika es una voluptuosa luchadora de indudable talento que busca crearse un nombre en el circuito de la lucha libre profesional. Su riguroso entrenamiento le permite medirse de igual a igual frente a auténticos colosos del wrestling.</p>
                 </div>
               </div>
               <div class="carousel-item"> <!-- --------------------------------------------------------------------------------------- MENAT -->
                 <div class="character-item">
                   <h4>Menat</h4>
                   <a href="assets/img/personajes/5.jpg"> <img src="assets/img/personajes/5.jpg" alt="Menat"> </a>
-                  <div class="character-card">
-                    <div class="character-info">
-                      <h6>Datos</h6>
-                      <div><strong>Primer juego:</strong> Street Fighter V </div>
-                      <div><strong>Especie:</strong> Humana </div>
-                      <div><strong>País:</strong> Egipto 🇪🇬 </div>
-                      <div><strong>Estilo:</strong> Combate usando Poder del Alma y una bola de cristal </div>
-                      <div><strong>Ocupación:</strong> Aprendiz de adivino </div>
-                      <div><strong>Fecha de nacimiento:</strong> 12 de noviembre ♏ </div>
-                      <div><strong>Altura:</strong> 1.63 m </div>
-                      <div><strong>Peso:</strong> 55 kg </div>
-                      <div><strong>Color de ojos:</strong> Verde </div>
-                      <div><strong>Color de cabello:</strong> Púrpura </div>
-                    </div> <!-- cierre de los datos generales -->
-                    <div class="character-description">
-                      <p class="description">Menat es una joven egipcia capaz de controlar y manipular la energía espiritual conocida como Soul Power, que también le brinda poderes de adivinación. Rose, la principal experta en esta clase de poder, es su maestra desde hace un tiempo.</p>
-                    </div> <!-- cierre de la información general -->
-                    <div class="card-footer">
-                      <div class="info-column likes">
-                        <h6>Gustos</h6>
-                        <ul>
-                          <li> Recuerdos de todo el mundo </li>
-                          <li> Diarios </li>
-                        </ul>
-                      </div> <!-- cierre de los gustos -->
-                      <div class="info-column dislikes">
-                        <h6>Aversiones</h6>
-                        <ul>
-                          <li> Gente malhablada </li>
-                          <li> Atracciones emocionantes </li>
-                        </ul>
-                      </div> <!-- cierre de las aversiones -->
-                    </div> <!-- cierre de los gustos y de las aversiones -->
-                    <div class="character-hobbies"> 
-                      <h6>Pasatiempos / Habilidades</h6>
-                      <ul>
-                        <li> Adivinación </li>
-                        <li> Lectura en bola en cristal </li>
-                        <li> Baile </li>
-                      </ul>
-                    </div> <!-- cierre de los hobbies -->
-                  </div> <!-- cierre de la información -->
+                  <p class="description">Menat es una joven egipcia capaz de controlar y manipular la energía espiritual conocida como Soul Power, que también le brinda poderes de adivinación. Rose, la principal experta en esta clase de poder, es su maestra desde hace un tiempo.</p>
                 </div>
               </div>
               <div class="carousel-item"> <!-- ---------------------------------------------------------------------------------------- ROSE -->
                 <div class="character-item">
                   <h4>Rose</h4>
                   <a href="assets/img/personajes/6.jpg"> <img src="assets/img/personajes/6.jpg" alt="Rose"> </a>
-                  <div class="character-card">
-                    <div class="character-info">
-                      <h6>Datos</h6>
-                      <div><strong>Primer juego:</strong> Street Fighter Alpha </div>
-                      <div><strong>Especie:</strong> Humana </div>
-                      <div><strong>País:</strong> Italia 🇮🇹 </div>
-                      <div><strong>Estilo:</strong> Poder del Alma </div>
-                      <div><strong>Ocupación:</strong> Adivino </div>
-                      <div><strong>Fecha de nacimiento:</strong> 7 de julio ♋ </div>
-                      <div><strong>Altura:</strong> 1.78 m </div>
-                      <div><strong>Peso:</strong> 54 kg </div>
-                      <div><strong>Color de ojos:</strong> Violeta </div>
-                      <div><strong>Color de cabello:</strong> Violeta </div>
-                    </div> <!-- cierre de los datos generales -->
-                    <div class="character-description">
-                      <p class="description">M. Bison, el cruel líder de la organización criminal internacional Shadaloo, teme solo una cosa: a Rose, una mística adivina italiana con quien mantiene un extraño vínculo, y quizá la única persona que conoce el secreto de su oscuro pasado.</p>
-                    </div> <!-- cierre de la información general -->
-                    <div class="card-footer">
-                      <div class="info-column likes">
-                        <h6>Gustos</h6>
-                        <ul>
-                          <li> Jerez (vino) </li>
-                          <li> Tomar baños </li>
-                          <li> Ryu </li>
-                          <li> Guy </li>
-                        </ul>
-                      </div> <!-- cierre de los gustos -->
-                      <div class="info-column dislikes">
-                        <h6>Aversiones</h6>
-                        <ul>
-                          <li> Rayos UV </li>
-                          <li> Despertarse temprano </li>
-                          <li> Auras malignas como el Satsui No Hado y el Psycho Power</li>
-                          <li> M. Bison, Akuma </li>
-                        </ul>
-                      </div> <!-- cierre de las aversiones -->
-                    </div> <!-- cierre de los gustos y de las aversiones -->
-                    <div class="character-hobbies"> 
-                      <h6>Pasatiempos / Habilidades</h6>
-                      <ul>
-                        <li> Adivinación </li>
-                        <li> Lectura del tarot </li>
-                      </ul>
-                    </div> <!-- cierre de los hobbies -->
-                  </div> <!-- cierre de la información -->
+                  <p class="description">M. Bison, el cruel líder de la organización criminal internacional Shadaloo, teme solo una cosa: a Rose, una mística adivina italiana con quien mantiene un extraño vínculo, y quizá la única persona que conoce el secreto de su oscuro pasado.</p>
                 </div>
               </div>
               <div class="carousel-item"> <!-- --------------------------------------------------------------------------------------- IBUKI -->
                 <div class="character-item">
                   <h4>Ibuki</h4>
                   <a href="assets/img/personajes/7.jpg"> <img src="assets/img/personajes/7.jpg" alt="Ibuki"> </a>
-                  <div class="character-card">
-                    <div class="character-info">
-                      <h6>Datos</h6>
-                      <div><strong>Primer juego:</strong> Street Fighter III: New Generation </div>
-                      <div><strong>Especie:</strong> Humana </div>
-                      <div><strong>País:</strong> Japón 🇯🇵 </div>
-                      <div><strong>Estilo:</strong> Ninjutsu </div>
-                      <div><strong>Ocupación:</strong> Ninja, estudiante </div>
-                      <div><strong>Fecha de nacimiento:</strong> 6 de diciembre ♐ </div>
-                      <div><strong>Altura:</strong> 1.62 m </div>
-                      <div><strong>Peso:</strong> 55 kg </div>
-                      <div><strong>Color de ojos:</strong> Café </div>
-                      <div><strong>Color de cabello:</strong> Negro </div>
-                    </div> <!-- cierre de los datos generales -->
-                    <div class="character-description">
-                      <p class="description">Ibuki fue entrenada desde su infancia en las artes del ninjutsu, criándose en una aldea en lo más profundo de las montañas japonesas. Cansada del aislamiento, lo que más deseaba la joven era conocer el mundo que la rodeaba.</p>
-                    </div> <!-- cierre de la información general -->
-                    <div class="card-footer">
-                      <div class="info-column likes">
-                        <h6>Gustos</h6>
-                        <ul>
-                          <li> Su mapache mascota Don-chan </li>
-                          <li> Batatas asadas </li>
-                          <li> Chicos lindos / guapos </li>
-                          <li> Sapos parteros </li>
-                          <li> Escuchar J-Pop </li>
-                        </ul>
-                      </div> <!-- cierre de los gustos -->
-                      <div class="info-column dislikes">
-                        <h6>Aversiones</h6>
-                        <ul>
-                          <li> El estricto estilo del camino ninja de Guy</li>
-                          <li> Detención </li>
-                          <li> Lecciones complementarias </li>
-                          <li> Gill </li>
-                        </ul>
-                      </div> <!-- cierre de las aversiones -->
-                    </div> <!-- cierre de los gustos y de las aversiones -->
-                    <div class="character-hobbies"> 
-                      <h6>Pasatiempos / Habilidades</h6>
-                      <ul>
-                        <li> Concursos de comida </li>
-                        <li> Comer rápido </li>
-                      </ul>
-                    </div> <!-- cierre de los hobbies -->
-                  </div> <!-- cierre de la información -->
+                  <p class="description">Ibuki fue entrenada desde su infancia en las artes del ninjutsu, criándose en una aldea en lo más profundo de las montañas japonesas. Cansada del aislamiento, lo que más deseaba la joven era conocer el mundo que la rodeaba.</p>
                 </div>
               </div>
               <div class="carousel-item"> <!-- --------------------------------------------------------------------------------------- FALKE -->
                 <div class="character-item">
                   <h4>Falke</h4>
                   <a href="assets/img/personajes/8.jpg"> <img src="assets/img/personajes/8.jpg" alt="Falke"> </a>
-                  <div class="character-card">
-                    <div class="character-info">
-                      <h6>Datos</h6>
-                      <div><strong>Primer juego:</strong> Street Fighter V </div>
-                      <div><strong>Especie:</strong> Humana </div>
-                      <div><strong>País:</strong> Desconocido ❓</div>
-                      <div><strong>Estilo:</strong> Psycho Power, bōjutsu, bastón psíquico </div>
-                      <div><strong>Ocupación:</strong> Ayudante de Ed para Neo Shadaloo </div>
-                      <div><strong>Fecha de nacimiento:</strong> 25 de mayo ♊ </div>
-                      <div><strong>Altura:</strong> 1.76 m </div>
-                      <div><strong>Peso:</strong> 54 kg </div>
-                      <div><strong>Color de ojos:</strong> Turquesa </div>
-                      <div><strong>Color de cabello:</strong> Rubio </div>
-                    </div> <!-- cierre de los datos generales -->
-                    <div class="character-description">
-                      <p class="description">Falke estaba condenada a convertirse en uno de los cuerpos de reemplazo que M. Bison, líder de la organización criminal Shadaloo, guardaba a buen recaudo en sus laboratorios. Afortunadamente, la joven escapó a ese horrible destino.</p>
-                    </div> <!-- cierre de la información general -->
-                    <div class="card-footer">
-                      <div class="info-column likes">
-                        <h6>Gustos</h6>
-                        <ul>
-                          <li> Té con leche </li>
-                          <li> Teatro </li>
-                        </ul>
-                      </div> <!-- cierre de los gustos -->
-                      <div class="info-column dislikes">
-                        <h6>Aversiones</h6>
-                        <ul>
-                          <li> M. Bison </li>
-                          <li> Shadaloo </li>
-                        </ul>
-                      </div> <!-- cierre de las aversiones -->
-                    </div> <!-- cierre de los gustos y de las aversiones -->
-                    <div class="character-hobbies"> 
-                      <h6>Pasatiempos / Habilidades</h6>
-                      <ul>
-                        <li> Tareas domésticas </li>
-                        <li> Salto con pértiga </li>
-                        <li> Cocina </li>
-                      </ul>
-                    </div> <!-- cierre de los hobbies -->
-                  </div> <!-- cierre de la información -->
+                  <p class="description">Falke estaba condenada a convertirse en uno de los cuerpos de reemplazo que M. Bison, líder de la organización criminal Shadaloo, guardaba a buen recaudo en sus laboratorios. Afortunadamente, la joven escapó a ese horrible destino.</p>
                 </div>
               </div>
               <div class="carousel-item"> <!-- ------------------------------------------------------------------------------- CRIMSON VIPER -->
                 <div class="character-item">
                   <h4>Crimson Viper</h4>
                   <a href="assets/img/personajes/9.jpg"> <img src="assets/img/personajes/9.jpg" alt="Crimson Viper"> </a>
-                  <div class="character-card">
-                    <div class="character-info">
-                      <h6>Datos</h6>
-                      <div><strong>Primer juego:</strong> Street Fighter IV </div>
-                      <div><strong>Especie:</strong> Humana </div>
-                      <div><strong>País:</strong> Estados Unidos 🇺🇸 </div>
-                      <div><strong>Estilo:</strong> Utiliza tecnología y dispositivos de espionaje secretos </div>
-                      <div><strong>Ocupación:</strong> Agente de la CIA </div>
-                      <div><strong>Fecha de nacimiento:</strong> 18 de julio ♋ </div>
-                      <div><strong>Altura:</strong> 1.75 m </div>
-                      <div><strong>Peso:</strong> 56 kg </div>
-                      <div><strong>Color de ojos:</strong> Verde </div>
-                      <div><strong>Color de cabello:</strong> Carmesí </div>
-                    </div> <!-- cierre de los datos generales -->
-                    <div class="character-description">
-                      <p class="description">Crimson Viper es una combatiente al servicio de la organización criminal S.I.N. cuyo principal cometido es poner a prueba avanzados prototipos armamentísticos en enfrentamientos reales. Pocos saben que también es una agente infiltrada de la CIA.</p>
-                    </div> <!-- cierre de la información general -->
-                    <div class="card-footer">
-                      <div class="info-column likes">
-                        <h6>Gustos</h6>
-                        <ul>
-                          <li> Su hija Lauren </li>
-                          <li> Tiempo en familia </li>
-                          <li> Dinero </li>
-                          <li> Parfaits de helado </li>
-                        </ul>
-                      </div> <!-- cierre de los gustos -->
-                      <div class="info-column dislikes">
-                        <h6>Aversiones</h6>
-                        <ul>
-                          <li> Trabajar horas extras </li>
-                          <li> Revanchas </li>
-                          <li> Aquellos que interfieren con sus misiones. </li>
-                          <li> S.I.N., Shadaloo</li>
-                        </ul>
-                      </div> <!-- cierre de las aversiones -->
-                    </div> <!-- cierre de los gustos y de las aversiones -->
-                    <div class="character-hobbies"> 
-                      <h6>Pasatiempos / Habilidades</h6>
-                      <ul>
-                        <li> Trucos de magia </li>
-                      </ul>
-                    </div> <!-- cierre de los hobbies -->
-                  </div> <!-- cierre de la información -->
+                  <p class="description">Crimson Viper es una combatiente al servicio de la organización criminal S.I.N. cuyo principal cometido es poner a prueba avanzados prototipos armamentísticos en enfrentamientos reales. Pocos saben que también es una agente infiltrada de la CIA.</p>
                 </div>
               </div>
               <div class="carousel-item"> <!-- ---------------------------------------------------------------------------------------- JURI -->
                 <div class="character-item">
                   <h4>Juri</h4>
                   <a href="assets/img/personajes/10.jpg"> <img src="assets/img/personajes/10.jpg" alt="Juri"> </a>
-                  <div class="character-card">
-                    <div class="character-info">
-                      <h6>Datos</h6>
-                      <div><strong>Primer juego:</strong> Super Street Fighter IV </div>
-                      <div><strong>Especie:</strong> Humana </div>
-                      <div><strong>País:</strong> Corea del Sur 🇰🇷 </div>
-                      <div><strong>Estilo:</strong> Taekwondo / ataques de kí </div>
-                      <div><strong>Ocupación:</strong> Anteriormente líder de S.I.N. </div>
-                      <div><strong>Fecha de nacimiento:</strong> 1 de enero ♑ </div>
-                      <div><strong>Altura:</strong> 1.65 m </div>
-                      <div><strong>Peso:</strong> 57 kg </div>
-                      <div><strong>Color de ojos:</strong> Púrpura </div>
-                      <div><strong>Color de cabello:</strong> Negro </div>
-                    </div> <!-- cierre de los datos generales -->
-                    <div class="character-description">
-                      <p class="description">Consumida por el odio y la venganza, Juri Han posee una personalidad tremendamente inestable, pero también una férrea determinación que la empuja a darlo todo por una única meta: la destrucción de M. Bison y todo lo que representa.</p>
-                    </div> <!-- cierre de la información general -->
-                    <div class="card-footer">
-                      <div class="info-column likes">
-                        <h6>Gustos</h6>
-                        <ul>
-                          <li> Comida picante </li>
-                          <li> Arañas </li>
-                          <li> Peleadores fuertes </li>
-                          <li> Motocicletas </li>
-                        </ul>
-                      </div> <!-- cierre de los gustos -->
-                      <div class="info-column dislikes">
-                        <h6>Aversiones</h6>
-                        <ul>
-                          <li> M. Bison </li>
-                          <li> Shadaloo </li>
-                          <li> Reglas </li>
-                          <li> Gente aburrida / aguafiestas </li>
-                        </ul>
-                      </div> <!-- cierre de las aversiones -->
-                    </div> <!-- cierre de los gustos y de las aversiones -->
-                    <div class="character-hobbies"> 
-                      <h6>Pasatiempos / Habilidades</h6>
-                      <ul>
-                        <li> Memoria fotográfica </li>
-                        <li> Nunca olvida una ruta que ha tomado </li>
-                      </ul>
-                    </div> <!-- cierre de los hobbies -->
-                  </div> <!-- cierre de la información -->
+                  <p class="description">Consumida por el odio y la venganza, Juri Han posee una personalidad tremendamente inestable, pero también una férrea determinación que la empuja a darlo todo por una única meta: la destrucción de M. Bison y todo lo que representa.</p>                
                 </div>
               </div>
               <!-- favoritos --------------------------------------------------------------------------------------------------------------- -->
@@ -502,103 +173,13 @@
                 <div class="character-item">
                   <h4>Vega</h4>
                   <a href="assets/img/personajes/11.jpg"> <img src="assets/img/personajes/11.jpg" alt="Vega"> </a>
-                  <div class="character-card">
-                    <div class="character-info">
-                      <h6>Datos</h6>
-                      <div><strong>Primer juego:</strong> Street Fighter II </div>
-                      <div><strong>Especie:</strong> Humano </div>
-                      <div><strong>País:</strong> España </div>
-                      <div><strong>Estilo:</strong> Ninjutsu español </div>
-                      <div><strong>Ocupación:</strong> Rey de Shadaloo </div>
-                      <div><strong>Fecha de nacimiento:</strong> 27 de enero </div>
-                      <div><strong>Altura:</strong> 1.86 m </div>
-                      <div><strong>Peso:</strong> 72 - 84 kg </div>
-                      <div><strong>Color de ojos:</strong> Azul </div>
-                      <div><strong>Color de cabello:</strong> Café - rubio </div>
-                    </div> <!-- cierre de los datos generales -->
-                    <div class="character-description">
-                      <p class="description">A Vega no le costó ningún esfuerzo ascender en el escalafón de Shadaloo hasta convertirse en uno de los Cuatro Reyes que lideran la organización criminal. Su habilidad para el asesinato y su falta de escrúpulos le garantizaron el éxito.</p>
-                    </div> <!-- cierre de la información general -->
-                    <div class="card-footer">
-                      <div class="info-column likes">
-                        <h6>Gustos</h6>
-                        <ul>
-                          <li> Él mismo </li>
-                          <li> Belleza </li>
-                          <li> Rosas </li>
-                          <li> Personas hermosas, Chun Li </li>
-                        </ul>
-                      </div> <!-- cierre de los gustos -->
-                      <div class="info-column dislikes">
-                        <h6>Aversiones</h6>
-                        <ul>
-                          <li> Gente / cosas feas </li>
-                          <li> Salpicaduras de sangre </li>
-                          <li> Balrog, F.A.N.G. </li>
-                          <li> Provocaciones de Juri </li>
-                        </ul>
-                      </div> <!-- cierre de las aversiones -->
-                    </div> <!-- cierre de los gustos y de las aversiones -->
-                    <div class="character-hobbies"> 
-                      <h6>Pasatiempos / Habilidades</h6>
-                      <ul>
-                        <li> Torero </li>
-                        <li> Lucha en jaula </li>
-                        <li> Narcisismo </li>
-                        <li> Pegarse a las paredes </li>
-                      </ul>
-                    </div> <!-- cierre de los hobbies -->
-                  </div> <!-- cierre de la información -->
+                  <p class="description">A Vega no le costó ningún esfuerzo ascender en el escalafón de Shadaloo hasta convertirse en uno de los Cuatro Reyes que lideran la organización criminal. Su habilidad para el asesinato y su falta de escrúpulos le garantizaron el éxito.</p>
                 </div>
               </div>
               <div class="carousel-item"> <!-- ----------------------------------------------------------------------------------------- RYU -->
                 <div class="character-item">
                   <h4>Ryu</h4>
                   <a href="assets/img/personajes/12.jpg"> <img src="assets/img/personajes/12.jpg" alt="Ryu"> </a>
-                  <div class="character-card">
-                    <div class="character-info">
-                      <h6>Datos</h6>
-                      <div><strong>Primer juego:</strong> Street Fighter II </div>
-                      <div><strong>Especie:</strong> Humano </div>
-                      <div><strong>País:</strong>  </div>
-                      <div><strong>Estilo:</strong>  </div>
-                      <div><strong>Ocupación:</strong>  </div>
-                      <div><strong>Fecha de nacimiento:</strong>  de  </div>
-                      <div><strong>Altura:</strong>  m </div>
-                      <div><strong>Peso:</strong>  kg </div>
-                      <div><strong>Color de ojos:</strong>  </div>
-                      <div><strong>Color de cabello:</strong>  </div>
-                    </div> <!-- cierre de los datos generales -->
-                    <div class="character-description">
-                      <p class="description">Hugo Andore es un luchador profesional de fuerza sobrenatural pero escaso intelecto. Su incapacidad para tomar decisiones le llevó a delinquir en el pasado, aunque logró reformarse y convertirse tras ello se en un wrestler de éxito.</p>
-                    </div> <!-- cierre de la información general -->
-                    <div class="card-footer">
-                      <div class="info-column likes">
-                        <h6>Gustos</h6>
-                        <ul>
-                          <li>  </li>
-                          <li>  </li>
-                          <li>  </li>
-                          <li>  </li>
-                        </ul>
-                      </div> <!-- cierre de los gustos -->
-                      <div class="info-column dislikes">
-                        <h6>Aversiones</h6>
-                        <ul>
-                          <li>  </li>
-                          <li>  </li>
-                          <li>  </li>
-                          <li>  </li>
-                        </ul>
-                      </div> <!-- cierre de las aversiones -->
-                    </div> <!-- cierre de los gustos y de las aversiones -->
-                    <div class="character-hobbies"> 
-                      <h6>Pasatiempos / Habilidades</h6>
-                      <ul>
-                        <li>  </li>
-                      </ul>
-                    </div> <!-- cierre de los hobbies -->
-                  </div> <!-- cierre de la información -->
                   <p class="description">Ryu busca su superación personal por encima de todo. Sufre la maldición de tener en su interior una poderosa energía oscura que debe contener en todo momento: el Satsui no Hado.</p>
                 </div>
               </div>
@@ -606,50 +187,6 @@
                 <div class="character-item">
                   <h4>Charlie</h4>
                   <a href="assets/img/personajes/13.jpg"> <img src="assets/img/personajes/13.jpg" alt="Charlie Nash"> </a>
-                  <div class="character-card">
-                    <div class="character-info">
-                      <h6>Datos</h6>
-                      <div><strong>Primer juego:</strong> Street Fighter II </div>
-                      <div><strong>Especie:</strong> Humano </div>
-                      <div><strong>País:</strong>  </div>
-                      <div><strong>Estilo:</strong>  </div>
-                      <div><strong>Ocupación:</strong>  </div>
-                      <div><strong>Fecha de nacimiento:</strong>  de  </div>
-                      <div><strong>Altura:</strong>  m </div>
-                      <div><strong>Peso:</strong>  kg </div>
-                      <div><strong>Color de ojos:</strong>  </div>
-                      <div><strong>Color de cabello:</strong>  </div>
-                    </div> <!-- cierre de los datos generales -->
-                    <div class="character-description">
-                      <p class="description">Hugo Andore es un luchador profesional de fuerza sobrenatural pero escaso intelecto. Su incapacidad para tomar decisiones le llevó a delinquir en el pasado, aunque logró reformarse y convertirse tras ello se en un wrestler de éxito.</p>
-                    </div> <!-- cierre de la información general -->
-                    <div class="card-footer">
-                      <div class="info-column likes">
-                        <h6>Gustos</h6>
-                        <ul>
-                          <li>  </li>
-                          <li>  </li>
-                          <li>  </li>
-                          <li>  </li>
-                        </ul>
-                      </div> <!-- cierre de los gustos -->
-                      <div class="info-column dislikes">
-                        <h6>Aversiones</h6>
-                        <ul>
-                          <li>  </li>
-                          <li>  </li>
-                          <li>  </li>
-                          <li>  </li>
-                        </ul>
-                      </div> <!-- cierre de las aversiones -->
-                    </div> <!-- cierre de los gustos y de las aversiones -->
-                    <div class="character-hobbies"> 
-                      <h6>Pasatiempos / Habilidades</h6>
-                      <ul>
-                        <li>  </li>
-                      </ul>
-                    </div> <!-- cierre de los hobbies -->
-                  </div> <!-- cierre de la información -->
                   <p class="description">Charlie Nash era un soldado destacado de las fuerzas aéreas norteamericanas con un sentido de la justicia inquebrantable. Luchó contra la corrupción en el ejército, luchó contra Shadaloo, e incluso después de muerto, regresó para luchar una vez más.</p>
                 </div>
               </div>
@@ -657,50 +194,6 @@
                 <div class="character-item">
                   <h4>Rashid</h4>
                   <a href="assets/img/personajes/14.jpg"> <img src="assets/img/personajes/14.jpg" alt="Rashid"> </a>
-                  <div class="character-card">
-                    <div class="character-info">
-                      <h6>Datos</h6>
-                      <div><strong>Primer juego:</strong> Street Fighter II </div>
-                      <div><strong>Especie:</strong> Humano </div>
-                      <div><strong>País:</strong>  </div>
-                      <div><strong>Estilo:</strong>  </div>
-                      <div><strong>Ocupación:</strong>  </div>
-                      <div><strong>Fecha de nacimiento:</strong>  de  </div>
-                      <div><strong>Altura:</strong>  m </div>
-                      <div><strong>Peso:</strong>  kg </div>
-                      <div><strong>Color de ojos:</strong>  </div>
-                      <div><strong>Color de cabello:</strong>  </div>
-                    </div> <!-- cierre de los datos generales -->
-                    <div class="character-description">
-                      <p class="description">Hugo Andore es un luchador profesional de fuerza sobrenatural pero escaso intelecto. Su incapacidad para tomar decisiones le llevó a delinquir en el pasado, aunque logró reformarse y convertirse tras ello se en un wrestler de éxito.</p>
-                    </div> <!-- cierre de la información general -->
-                    <div class="card-footer">
-                      <div class="info-column likes">
-                        <h6>Gustos</h6>
-                        <ul>
-                          <li>  </li>
-                          <li>  </li>
-                          <li>  </li>
-                          <li>  </li>
-                        </ul>
-                      </div> <!-- cierre de los gustos -->
-                      <div class="info-column dislikes">
-                        <h6>Aversiones</h6>
-                        <ul>
-                          <li>  </li>
-                          <li>  </li>
-                          <li>  </li>
-                          <li>  </li>
-                        </ul>
-                      </div> <!-- cierre de las aversiones -->
-                    </div> <!-- cierre de los gustos y de las aversiones -->
-                    <div class="character-hobbies"> 
-                      <h6>Pasatiempos / Habilidades</h6>
-                      <ul>
-                        <li>  </li>
-                      </ul>
-                    </div> <!-- cierre de los hobbies -->
-                  </div> <!-- cierre de la información -->
                   <p class="description">Rashid proviene de una familia aristocrática de Oriente Medio, y le encanta estar al tanto de los avances tecnológicos. Es un usuario devoto de redes sociales y también un viajero dedicado que recorre el mundo junto a Azam, su sirviente fiel.</p>
                 </div>
               </div>
@@ -708,50 +201,6 @@
                 <div class="character-item">
                   <h4>Cody</h4>
                   <a href="assets/img/personajes/15.jpg"> <img src="assets/img/personajes/15.jpg" alt="Cody"> </a>
-                  <div class="character-card">
-                    <div class="character-info">
-                      <h6>Datos</h6>
-                      <div><strong>Primer juego:</strong> Street Fighter II </div>
-                      <div><strong>Especie:</strong> Humano </div>
-                      <div><strong>País:</strong>  </div>
-                      <div><strong>Estilo:</strong>  </div>
-                      <div><strong>Ocupación:</strong>  </div>
-                      <div><strong>Fecha de nacimiento:</strong>  de  </div>
-                      <div><strong>Altura:</strong>  m </div>
-                      <div><strong>Peso:</strong>  kg </div>
-                      <div><strong>Color de ojos:</strong>  </div>
-                      <div><strong>Color de cabello:</strong>  </div>
-                    </div> <!-- cierre de los datos generales -->
-                    <div class="character-description">
-                      <p class="description">Hugo Andore es un luchador profesional de fuerza sobrenatural pero escaso intelecto. Su incapacidad para tomar decisiones le llevó a delinquir en el pasado, aunque logró reformarse y convertirse tras ello se en un wrestler de éxito.</p>
-                    </div> <!-- cierre de la información general -->
-                    <div class="card-footer">
-                      <div class="info-column likes">
-                        <h6>Gustos</h6>
-                        <ul>
-                          <li>  </li>
-                          <li>  </li>
-                          <li>  </li>
-                          <li>  </li>
-                        </ul>
-                      </div> <!-- cierre de los gustos -->
-                      <div class="info-column dislikes">
-                        <h6>Aversiones</h6>
-                        <ul>
-                          <li>  </li>
-                          <li>  </li>
-                          <li>  </li>
-                          <li>  </li>
-                        </ul>
-                      </div> <!-- cierre de las aversiones -->
-                    </div> <!-- cierre de los gustos y de las aversiones -->
-                    <div class="character-hobbies"> 
-                      <h6>Pasatiempos / Habilidades</h6>
-                      <ul>
-                        <li>  </li>
-                      </ul>
-                    </div> <!-- cierre de los hobbies -->
-                  </div> <!-- cierre de la información -->
                   <p class="description">Cody Travers se curtió en las duras calles de Metro City, y con el tiempo se convirtió en un importante aliado del alcalde de la ciudad. Su vida ha sido de todo menos estable, pero nunca ha dejado de luchar contra el crimen.</p>
                 </div>
               </div>
@@ -759,50 +208,6 @@
                 <div class="character-item">
                   <h4>Kage</h4>
                   <a href="assets/img/personajes/16.jpg"> <img src="assets/img/personajes/16.jpg" alt="Kage"> </a>
-                  <div class="character-card">
-                    <div class="character-info">
-                      <h6>Datos</h6>
-                      <div><strong>Primer juego:</strong> Street Fighter II </div>
-                      <div><strong>Especie:</strong> Humano </div>
-                      <div><strong>País:</strong>  </div>
-                      <div><strong>Estilo:</strong>  </div>
-                      <div><strong>Ocupación:</strong>  </div>
-                      <div><strong>Fecha de nacimiento:</strong>  de  </div>
-                      <div><strong>Altura:</strong>  m </div>
-                      <div><strong>Peso:</strong>  kg </div>
-                      <div><strong>Color de ojos:</strong>  </div>
-                      <div><strong>Color de cabello:</strong>  </div>
-                    </div> <!-- cierre de los datos generales -->
-                    <div class="character-description">
-                      <p class="description">Hugo Andore es un luchador profesional de fuerza sobrenatural pero escaso intelecto. Su incapacidad para tomar decisiones le llevó a delinquir en el pasado, aunque logró reformarse y convertirse tras ello se en un wrestler de éxito.</p>
-                    </div> <!-- cierre de la información general -->
-                    <div class="card-footer">
-                      <div class="info-column likes">
-                        <h6>Gustos</h6>
-                        <ul>
-                          <li>  </li>
-                          <li>  </li>
-                          <li>  </li>
-                          <li>  </li>
-                        </ul>
-                      </div> <!-- cierre de los gustos -->
-                      <div class="info-column dislikes">
-                        <h6>Aversiones</h6>
-                        <ul>
-                          <li>  </li>
-                          <li>  </li>
-                          <li>  </li>
-                          <li>  </li>
-                        </ul>
-                      </div> <!-- cierre de las aversiones -->
-                    </div> <!-- cierre de los gustos y de las aversiones -->
-                    <div class="character-hobbies"> 
-                      <h6>Pasatiempos / Habilidades</h6>
-                      <ul>
-                        <li>  </li>
-                      </ul>
-                    </div> <!-- cierre de los hobbies -->
-                  </div> <!-- cierre de la información -->
                   <p class="description">Tras muchos años luchando contra el mal que anidaba en su interior, Ryu estaba al fin listo para purgarlo de su alma. Pero ¿puede desaparecer realmente una fuerza tan misteriosa, maligna y poderosa como el Satsui no Hado? </p>
                 </div>
               </div>
@@ -810,50 +215,6 @@
                 <div class="character-item">
                   <h4>Sagat</h4>
                   <a href="assets/img/personajes/17.jpg"> <img src="assets/img/personajes/17.jpg" alt="Sagat"> </a>
-                  <div class="character-card">
-                    <div class="character-info">
-                      <h6>Datos</h6>
-                      <div><strong>Primer juego:</strong> Street Fighter II </div>
-                      <div><strong>Especie:</strong> Humano </div>
-                      <div><strong>País:</strong>  </div>
-                      <div><strong>Estilo:</strong>  </div>
-                      <div><strong>Ocupación:</strong>  </div>
-                      <div><strong>Fecha de nacimiento:</strong>  de  </div>
-                      <div><strong>Altura:</strong>  m </div>
-                      <div><strong>Peso:</strong>  kg </div>
-                      <div><strong>Color de ojos:</strong>  </div>
-                      <div><strong>Color de cabello:</strong>  </div>
-                    </div> <!-- cierre de los datos generales -->
-                    <div class="character-description">
-                      <p class="description">Hugo Andore es un luchador profesional de fuerza sobrenatural pero escaso intelecto. Su incapacidad para tomar decisiones le llevó a delinquir en el pasado, aunque logró reformarse y convertirse tras ello se en un wrestler de éxito.</p>
-                    </div> <!-- cierre de la información general -->
-                    <div class="card-footer">
-                      <div class="info-column likes">
-                        <h6>Gustos</h6>
-                        <ul>
-                          <li>  </li>
-                          <li>  </li>
-                          <li>  </li>
-                          <li>  </li>
-                        </ul>
-                      </div> <!-- cierre de los gustos -->
-                      <div class="info-column dislikes">
-                        <h6>Aversiones</h6>
-                        <ul>
-                          <li>  </li>
-                          <li>  </li>
-                          <li>  </li>
-                          <li>  </li>
-                        </ul>
-                      </div> <!-- cierre de las aversiones -->
-                    </div> <!-- cierre de los gustos y de las aversiones -->
-                    <div class="character-hobbies"> 
-                      <h6>Pasatiempos / Habilidades</h6>
-                      <ul>
-                        <li>  </li>
-                      </ul>
-                    </div> <!-- cierre de los hobbies -->
-                  </div> <!-- cierre de la información -->
                   <p class="description">Considerado un héroe nacional en su país, las ansias de venganza de Sagat lo empujaron a convertirse en uno de los líderes de la organización criminal internacional Shadaloo. Solo el tiempo le hizo ser consciente del error de esta decisión.</p>
                 </div>
               </div>
@@ -861,50 +222,6 @@
                 <div class="character-item">
                   <h4>Oni</h4>
                   <a href="assets/img/personajes/18.jpg"> <img src="assets/img/personajes/18.jpg" alt="Oni"> </a>
-                  <div class="character-card">
-                    <div class="character-info">
-                      <h6>Datos</h6>
-                      <div><strong>Primer juego:</strong> Street Fighter II </div>
-                      <div><strong>Especie:</strong> Humano </div>
-                      <div><strong>País:</strong>  </div>
-                      <div><strong>Estilo:</strong>  </div>
-                      <div><strong>Ocupación:</strong>  </div>
-                      <div><strong>Fecha de nacimiento:</strong>  de  </div>
-                      <div><strong>Altura:</strong>  m </div>
-                      <div><strong>Peso:</strong>  kg </div>
-                      <div><strong>Color de ojos:</strong>  </div>
-                      <div><strong>Color de cabello:</strong>  </div>
-                    </div> <!-- cierre de los datos generales -->
-                    <div class="character-description">
-                      <p class="description">Hugo Andore es un luchador profesional de fuerza sobrenatural pero escaso intelecto. Su incapacidad para tomar decisiones le llevó a delinquir en el pasado, aunque logró reformarse y convertirse tras ello se en un wrestler de éxito.</p>
-                    </div> <!-- cierre de la información general -->
-                    <div class="card-footer">
-                      <div class="info-column likes">
-                        <h6>Gustos</h6>
-                        <ul>
-                          <li>  </li>
-                          <li>  </li>
-                          <li>  </li>
-                          <li>  </li>
-                        </ul>
-                      </div> <!-- cierre de los gustos -->
-                      <div class="info-column dislikes">
-                        <h6>Aversiones</h6>
-                        <ul>
-                          <li>  </li>
-                          <li>  </li>
-                          <li>  </li>
-                          <li>  </li>
-                        </ul>
-                      </div> <!-- cierre de las aversiones -->
-                    </div> <!-- cierre de los gustos y de las aversiones -->
-                    <div class="character-hobbies"> 
-                      <h6>Pasatiempos / Habilidades</h6>
-                      <ul>
-                        <li>  </li>
-                      </ul>
-                    </div> <!-- cierre de los hobbies -->
-                  </div> <!-- cierre de la información -->
                   <p class="description">Akuma llevaba décadas poseído por el Satsui no Hado, una misteriosa energía oscura que le otorgaba un enorme poder, pero también corrompía su alma y anulaba su voluntad. Un fatídico día, el hombre desapareció y ya solo quedó el demonio.</p>
                 </div>
               </div>
@@ -912,50 +229,6 @@
                 <div class="character-item">
                   <h4>Guy</h4>
                   <a href="assets/img/personajes/19.jpg"> <img src="assets/img/personajes/19.jpg" alt="Guy"> </a>
-                  <div class="character-card">
-                    <div class="character-info">
-                      <h6>Datos</h6>
-                      <div><strong>Primer juego:</strong> Street Fighter II </div>
-                      <div><strong>Especie:</strong> Humano </div>
-                      <div><strong>País:</strong>  </div>
-                      <div><strong>Estilo:</strong>  </div>
-                      <div><strong>Ocupación:</strong>  </div>
-                      <div><strong>Fecha de nacimiento:</strong>  de  </div>
-                      <div><strong>Altura:</strong>  m </div>
-                      <div><strong>Peso:</strong>  kg </div>
-                      <div><strong>Color de ojos:</strong>  </div>
-                      <div><strong>Color de cabello:</strong>  </div>
-                    </div> <!-- cierre de los datos generales -->
-                    <div class="character-description">
-                      <p class="description">Hugo Andore es un luchador profesional de fuerza sobrenatural pero escaso intelecto. Su incapacidad para tomar decisiones le llevó a delinquir en el pasado, aunque logró reformarse y convertirse tras ello se en un wrestler de éxito.</p>
-                    </div> <!-- cierre de la información general -->
-                    <div class="card-footer">
-                      <div class="info-column likes">
-                        <h6>Gustos</h6>
-                        <ul>
-                          <li>  </li>
-                          <li>  </li>
-                          <li>  </li>
-                          <li>  </li>
-                        </ul>
-                      </div> <!-- cierre de los gustos -->
-                      <div class="info-column dislikes">
-                        <h6>Aversiones</h6>
-                        <ul>
-                          <li>  </li>
-                          <li>  </li>
-                          <li>  </li>
-                          <li>  </li>
-                        </ul>
-                      </div> <!-- cierre de las aversiones -->
-                    </div> <!-- cierre de los gustos y de las aversiones -->
-                    <div class="character-hobbies"> 
-                      <h6>Pasatiempos / Habilidades</h6>
-                      <ul>
-                        <li>  </li>
-                      </ul>
-                    </div> <!-- cierre de los hobbies -->
-                  </div> <!-- cierre de la información -->
                   <p class="description">Guy ha dedicado buena parte de su vida a perfeccionar sus técnicas ninjutsu con el objetivo de convertirse en el 39.º heredero del arte marcial Bushin?ryu. Su sentido de la justicia le lleva a combatir el mal en todas sus formas.</p>
                 </div>
               </div>
@@ -963,50 +236,6 @@
                 <div class="character-item">
                   <h4>Dudley</h4>
                   <a href="assets/img/personajes/20.jpg"> <img src="assets/img/personajes/20.jpg" alt="Dudley"> </a>
-                  <div class="character-card">
-                    <div class="character-info">
-                      <h6>Datos</h6>
-                      <div><strong>Primer juego:</strong> Street Fighter II </div>
-                      <div><strong>Especie:</strong> Humano </div>
-                      <div><strong>País:</strong>  </div>
-                      <div><strong>Estilo:</strong>  </div>
-                      <div><strong>Ocupación:</strong>  </div>
-                      <div><strong>Fecha de nacimiento:</strong>  de  </div>
-                      <div><strong>Altura:</strong>  m </div>
-                      <div><strong>Peso:</strong>  kg </div>
-                      <div><strong>Color de ojos:</strong>  </div>
-                      <div><strong>Color de cabello:</strong>  </div>
-                    </div> <!-- cierre de los datos generales -->
-                    <div class="character-description">
-                      <p class="description">Hugo Andore es un luchador profesional de fuerza sobrenatural pero escaso intelecto. Su incapacidad para tomar decisiones le llevó a delinquir en el pasado, aunque logró reformarse y convertirse tras ello se en un wrestler de éxito.</p>
-                    </div> <!-- cierre de la información general -->
-                    <div class="card-footer">
-                      <div class="info-column likes">
-                        <h6>Gustos</h6>
-                        <ul>
-                          <li>  </li>
-                          <li>  </li>
-                          <li>  </li>
-                          <li>  </li>
-                        </ul>
-                      </div> <!-- cierre de los gustos -->
-                      <div class="info-column dislikes">
-                        <h6>Aversiones</h6>
-                        <ul>
-                          <li>  </li>
-                          <li>  </li>
-                          <li>  </li>
-                          <li>  </li>
-                        </ul>
-                      </div> <!-- cierre de las aversiones -->
-                    </div> <!-- cierre de los gustos y de las aversiones -->
-                    <div class="character-hobbies"> 
-                      <h6>Pasatiempos / Habilidades</h6>
-                      <ul>
-                        <li>  </li>
-                      </ul>
-                    </div> <!-- cierre de los hobbies -->
-                  </div> <!-- cierre de la información -->
                   <p class="description">Dudley es un británico de los pies a la cabeza, amante de las reglas y férreo defensor del boxeo como el más noble de los deportes de contacto. Busca en todo momento el honor y devolver a su familia la gloria que un día tuvo.</p>
                 </div>
               </div>
@@ -1014,50 +243,6 @@
                 <div class="character-item">
                   <h4>Luke</h4>
                   <a href="assets/img/personajes/21.jpg"> <img src="assets/img/personajes/21.jpg" alt="Luke"> </a>
-                  <div class="character-card">
-                    <div class="character-info">
-                      <h6>Datos</h6>
-                      <div><strong>Primer juego:</strong> Street Fighter II </div>
-                      <div><strong>Especie:</strong> Humano </div>
-                      <div><strong>País:</strong>  </div>
-                      <div><strong>Estilo:</strong>  </div>
-                      <div><strong>Ocupación:</strong>  </div>
-                      <div><strong>Fecha de nacimiento:</strong>  de  </div>
-                      <div><strong>Altura:</strong>  m </div>
-                      <div><strong>Peso:</strong>  kg </div>
-                      <div><strong>Color de ojos:</strong>  </div>
-                      <div><strong>Color de cabello:</strong>  </div>
-                    </div> <!-- cierre de los datos generales -->
-                    <div class="character-description">
-                      <p class="description">Hugo Andore es un luchador profesional de fuerza sobrenatural pero escaso intelecto. Su incapacidad para tomar decisiones le llevó a delinquir en el pasado, aunque logró reformarse y convertirse tras ello se en un wrestler de éxito.</p>
-                    </div> <!-- cierre de la información general -->
-                    <div class="card-footer">
-                      <div class="info-column likes">
-                        <h6>Gustos</h6>
-                        <ul>
-                          <li>  </li>
-                          <li>  </li>
-                          <li>  </li>
-                          <li>  </li>
-                        </ul>
-                      </div> <!-- cierre de los gustos -->
-                      <div class="info-column dislikes">
-                        <h6>Aversiones</h6>
-                        <ul>
-                          <li>  </li>
-                          <li>  </li>
-                          <li>  </li>
-                          <li>  </li>
-                        </ul>
-                      </div> <!-- cierre de las aversiones -->
-                    </div> <!-- cierre de los gustos y de las aversiones -->
-                    <div class="character-hobbies"> 
-                      <h6>Pasatiempos / Habilidades</h6>
-                      <ul>
-                        <li>  </li>
-                      </ul>
-                    </div> <!-- cierre de los hobbies -->
-                  </div> <!-- cierre de la información -->
                   <p class="description">Experto en artes marciales mixtas y con un gran sentido de la justicia, Luke aún no tiene claro qué camino quiere tomar en su vida, y espera encontrar la respuesta mientras desafía a los mejores luchadores del mundo.</p>
                 </div>
               </div>
@@ -1065,50 +250,6 @@
                 <div class="character-item">
                   <h4>Ken</h4>
                   <a href="assets/img/personajes/22.jpg"> <img src="assets/img/personajes/22.jpg" alt="Ken"> </a>
-                  <div class="character-card">
-                    <div class="character-info">
-                      <h6>Datos</h6>
-                      <div><strong>Primer juego:</strong> Street Fighter II </div>
-                      <div><strong>Especie:</strong> Humano </div>
-                      <div><strong>País:</strong>  </div>
-                      <div><strong>Estilo:</strong>  </div>
-                      <div><strong>Ocupación:</strong>  </div>
-                      <div><strong>Fecha de nacimiento:</strong>  de  </div>
-                      <div><strong>Altura:</strong>  m </div>
-                      <div><strong>Peso:</strong>  kg </div>
-                      <div><strong>Color de ojos:</strong>  </div>
-                      <div><strong>Color de cabello:</strong>  </div>
-                    </div> <!-- cierre de los datos generales -->
-                    <div class="character-description">
-                      <p class="description">Hugo Andore es un luchador profesional de fuerza sobrenatural pero escaso intelecto. Su incapacidad para tomar decisiones le llevó a delinquir en el pasado, aunque logró reformarse y convertirse tras ello se en un wrestler de éxito.</p>
-                    </div> <!-- cierre de la información general -->
-                    <div class="card-footer">
-                      <div class="info-column likes">
-                        <h6>Gustos</h6>
-                        <ul>
-                          <li>  </li>
-                          <li>  </li>
-                          <li>  </li>
-                          <li>  </li>
-                        </ul>
-                      </div> <!-- cierre de los gustos -->
-                      <div class="info-column dislikes">
-                        <h6>Aversiones</h6>
-                        <ul>
-                          <li>  </li>
-                          <li>  </li>
-                          <li>  </li>
-                          <li>  </li>
-                        </ul>
-                      </div> <!-- cierre de las aversiones -->
-                    </div> <!-- cierre de los gustos y de las aversiones -->
-                    <div class="character-hobbies"> 
-                      <h6>Pasatiempos / Habilidades</h6>
-                      <ul>
-                        <li>  </li>
-                      </ul>
-                    </div> <!-- cierre de los hobbies -->
-                  </div> <!-- cierre de la información -->
                   <p class="description">Afligido por haber perdido a su madre cuando aún era un niño, Ken logró superar su pena gracias a las artes marciales, convirtiéndose finalmente en un esmerado padre de familia y en el mejor luchador de todo Estados Unidos.</p>
                 </div>
               </div>
@@ -1116,50 +257,6 @@
                 <div class="character-item">
                   <h4>Zeku</h4>
                   <a href="assets/img/personajes/23.jpg"> <img src="assets/img/personajes/23.jpg" alt="Zeku"> </a>
-                  <div class="character-card">
-                    <div class="character-info">
-                      <h6>Datos</h6>
-                      <div><strong>Primer juego:</strong> Street Fighter II </div>
-                      <div><strong>Especie:</strong> Humano </div>
-                      <div><strong>País:</strong>  </div>
-                      <div><strong>Estilo:</strong>  </div>
-                      <div><strong>Ocupación:</strong>  </div>
-                      <div><strong>Fecha de nacimiento:</strong>  de  </div>
-                      <div><strong>Altura:</strong>  m </div>
-                      <div><strong>Peso:</strong>  kg </div>
-                      <div><strong>Color de ojos:</strong>  </div>
-                      <div><strong>Color de cabello:</strong>  </div>
-                    </div> <!-- cierre de los datos generales -->
-                    <div class="character-description">
-                      <p class="description">Hugo Andore es un luchador profesional de fuerza sobrenatural pero escaso intelecto. Su incapacidad para tomar decisiones le llevó a delinquir en el pasado, aunque logró reformarse y convertirse tras ello se en un wrestler de éxito.</p>
-                    </div> <!-- cierre de la información general -->
-                    <div class="card-footer">
-                      <div class="info-column likes">
-                        <h6>Gustos</h6>
-                        <ul>
-                          <li>  </li>
-                          <li>  </li>
-                          <li>  </li>
-                          <li>  </li>
-                        </ul>
-                      </div> <!-- cierre de los gustos -->
-                      <div class="info-column dislikes">
-                        <h6>Aversiones</h6>
-                        <ul>
-                          <li>  </li>
-                          <li>  </li>
-                          <li>  </li>
-                          <li>  </li>
-                        </ul>
-                      </div> <!-- cierre de las aversiones -->
-                    </div> <!-- cierre de los gustos y de las aversiones -->
-                    <div class="character-hobbies"> 
-                      <h6>Pasatiempos / Habilidades</h6>
-                      <ul>
-                        <li>  </li>
-                      </ul>
-                    </div> <!-- cierre de los hobbies -->
-                  </div> <!-- cierre de la información -->
                   <p class="description">Zeku era el líder número 38 del clan de ninjas Bushinryu, hasta que su pupilo, Guy, le sucedió en el cargo. Entonces decidió comenzar un viaje de redescubrimiento personal que le llevó a encontrar un nuevo propósito vital.</p>
                 </div>
               </div>
@@ -1245,414 +342,56 @@
                 <div class="character-item">
                   <h4>E. Honda</h4>
                   <a href="assets/img/personajes/35.jpg"> <img src="assets/img/personajes/35.jpg" alt="E. Honda"> </a>
-                  <div class="character-card">
-                    <div class="character-info">
-                      <h6>Datos</h6>
-                      <div><strong>Primer juego:</strong> Street Fighter II </div>
-                      <div><strong>Especie:</strong> Humano </div>
-                      <div><strong>País:</strong> Japón 🇨🇳 </div>
-                      <div><strong>Estilo:</strong> Lucha de sumo japonesa </div>
-                      <div><strong>Ocupación:</strong> Luchador de sumo, dueño de una casa de baños y restaurantero </div>
-                      <div><strong>Fecha de nacimiento:</strong> 3 de noviembre ♓ </div>
-                      <div><strong>Altura:</strong> 1.85 - 1.88 m </div>
-                      <div><strong>Peso:</strong> 137 kg </div>
-                      <div><strong>Color de ojos:</strong> Café </div>
-                      <div><strong>Color de cabello:</strong> Negro </div>
-                    </div> <!-- cierre de los datos generales -->
-                    <div class="character-description">
-                      <p class="description">Edmond Honda ha dedicado toda su vida al sumo, una disciplina que en Japón es, más que un deporte o un arte marcial, toda una institución nacional. Elogiado y alabado en su país, Honda busca ahora nuevos desafíos.</p>
-                    </div> <!-- cierre de la información general -->
-                    <div class="card-footer">
-                      <div class="info-column likes">
-                        <h6>Gustos</h6>
-                        <ul>
-                          <li> Tiramisú </li>
-                          <li> Chankonabe </li>
-                          <li> Nabeyaki udon </li>
-                          <li> Sándwiches </li>
-                          <li> Baños calientes </li>
-                        </ul>
-                      </div> <!-- cierre de los gustos -->
-                      <div class="info-column dislikes">
-                        <h6>Aversiones</h6>
-                        <ul>
-                          <li> Deshonrar a su familia </li>
-                          <li> Fideos de arroz </li>
-                          <li> Galletas de chocolate </li>
-                          <li> La indecisión </li>
-                        </ul>
-                      </div> <!-- cierre de las aversiones -->
-                    </div> <!-- cierre de los gustos y de las aversiones -->
-                    <div class="character-hobbies"> 
-                      <h6>Pasatiempos / Habilidades</h6>
-                      <ul>
-                        <li> Cocinero </li>
-                        <li> Conocedor de todas las variedades de guisados japoneses </li>
-                        <li> Limpieza de baños </li>
-                      </ul>
-                    </div> <!-- cierre de los hobbies -->
-                  </div> <!-- cierre de la información -->
+                  <p class="description">Edmond Honda ha dedicado toda su vida al sumo, una disciplina que en Japón es, más que un deporte o un arte marcial, toda una institución nacional. Elogiado y alabado en su país, Honda busca ahora nuevos desafíos.</p>
                 </div>
               </div>
               <div class="carousel-item"> <!-- ------------------------------------------------------------------------------------- DHALSIM -->
                 <div class="character-item">
                   <h4>Dhalsim</h4>
                   <a href="assets/img/personajes/36.jpg"> <img src="assets/img/personajes/36.jpg" alt="Dhalsim"> </a>
-                  <div class="character-card">
-                    <div class="character-info">
-                      <h6>Datos</h6>
-                      <div><strong>Primer juego:</strong> Street Fighter II </div>
-                      <div><strong>Especie:</strong> Humano </div>
-                      <div><strong>País:</strong> India 🇨🇳 </div>
-                      <div><strong>Estilo:</strong> Yoga esóterico </div>
-                      <div><strong>Ocupación:</strong> Maestro de yoga </div>
-                      <div><strong>Fecha de nacimiento:</strong> 22 de noviembre ♓ </div>
-                      <div><strong>Altura:</strong> 1.76 m (variable) </div>
-                      <div><strong>Peso:</strong> 48 - 49.5 kg </div>
-                      <div><strong>Color de ojos:</strong> Blanco </div>
-                      <div><strong>Color de cabello:</strong> - </div>
-                    </div> <!-- cierre de los datos generales -->
-                    <div class="character-description">
-                      <p class="description">A pesar de no ser experto en artes marciales ni poseer una constitución fuerte y atlética preparada para la lucha, Dhalsim es uno de los combatientes más respetados por las increíbles habilidades de las que hace gala.</p>
-                    </div> <!-- cierre de la información general -->
-                    <div class="card-footer">
-                      <div class="info-column likes">
-                        <h6>Gustos</h6>
-                        <ul>
-                          <li> Su esposa Sally y su hijo Datta </li>
-                          <li> Proteger su aldea </li>
-                          <li> Meditación </li>
-                          <li> Curry </li>
-                          <li> Elefantes </li>
-                        </ul>
-                      </div> <!-- cierre de los gustos -->
-                      <div class="info-column dislikes">
-                        <h6>Aversiones</h6>
-                        <ul>
-                          <li> Violencia, dañar a otros </li>
-                          <li> Poderes corruptos </li>
-                          <li> Distracciones </li>
-                          <li> Carne </li>
-                          <li> Dulces </li>
-                        </ul>
-                      </div> <!-- cierre de las aversiones -->
-                    </div> <!-- cierre de los gustos y de las aversiones -->
-                    <div class="character-hobbies"> 
-                      <h6>Pasatiempos / Habilidades</h6>
-                      <ul>
-                        <li> Altruismo </li>
-                        <li> Leer la mente </li>
-                        <li> Predicación </li>
-                        <li> Sermones </li>
-                      </ul>
-                    </div> <!-- cierre de los hobbies -->
-                  </div> <!-- cierre de la información -->
+                  <p class="description">A pesar de no ser experto en artes marciales ni poseer una constitución fuerte y atlética preparada para la lucha, Dhalsim es uno de los combatientes más respetados por las increíbles habilidades de las que hace gala.</p>
                 </div>
               </div>
               <div class="carousel-item"> <!-- ------------------------------------------------------------------------------------- DEE JAY -->
                 <div class="character-item">
                   <h4>Dee Jay</h4>
                   <a href="assets/img/personajes/37.jpg"> <img src="assets/img/personajes/37.jpg" alt="Dee Jay"> </a>
-                  <div class="character-card">
-                    <div class="character-info">
-                      <h6>Datos</h6>
-                      <div><strong>Primer juego:</strong> Super Street Fighter II: The New Challengers </div>
-                      <div><strong>Especie:</strong> Humano </div>
-                      <div><strong>País:</strong> Jamaica 🇨🇳 </div>
-                      <div><strong>Estilo:</strong> Kickboxing y breakdance </div>
-                      <div><strong>Ocupación:</strong> Músico y kickboxer profesional </div>
-                      <div><strong>Fecha de nacimiento:</strong> 31 de octubre ♓ </div>
-                      <div><strong>Altura:</strong> 1.84 m </div>
-                      <div><strong>Peso:</strong> 92 kg </div>
-                      <div><strong>Color de ojos:</strong> Café </div>
-                      <div><strong>Color de cabello:</strong> Café </div>
-                    </div> <!-- cierre de los datos generales -->
-                    <div class="character-description">
-                      <p class="description">Dee Jay es un jamaicano experto en kickboxing, cuya vida suele girar entorno a su pasión por la música. De hecho, para él la lucha es un medio que le permite encontrar la inspiración necesaria para dar vida a sus composiciones.</p>
-                    </div> <!-- cierre de la información general -->
-                    <div class="card-footer">
-                      <div class="info-column likes">
-                        <h6>Gustos</h6>
-                        <ul>
-                          <li> Bailar </li>
-                          <li> Cantar </li>
-                          <li> Gritar </li>
-                          <li> Ver tv (especialmente programas de cocina en vivo) </li>
-                          <li> Mujeres hermosas (especialmente las que son hábiles luchadoras) </li>
-                        </ul>
-                      </div> <!-- cierre de los gustos -->
-                      <div class="info-column dislikes">
-                        <h6>Aversiones</h6>
-                        <ul>
-                          <li> Silencio </li>
-                          <li> Personas serias </li>
-                          <li> Personas que carecen de ritmo </li>
-                        </ul>
-                      </div> <!-- cierre de las aversiones -->
-                    </div> <!-- cierre de los gustos y de las aversiones -->
-                    <div class="character-hobbies"> 
-                      <h6>Pasatiempos / Habilidades</h6>
-                      <ul>
-                        <li> Danza del bambú </li>
-                      </ul>
-                    </div> <!-- cierre de los hobbies -->
-                  </div> <!-- cierre de la información -->
+                  <p class="description">Dee Jay es un jamaicano experto en kickboxing, cuya vida suele girar entorno a su pasión por la música. De hecho, para él la lucha es un medio que le permite encontrar la inspiración necesaria para dar vida a sus composiciones.</p>
                 </div>
               </div>
               <div class="carousel-item"> <!-- --------------------------------------------------------------------------------------- GUILE -->
                 <div class="character-item">
                   <h4>Guile</h4>
                   <a href="assets/img/personajes/38.jpg"> <img src="assets/img/personajes/38.jpg" alt="Guile"> </a>
-                  <div class="character-card">
-                    <div class="character-info">
-                      <h6>Datos</h6>
-                      <div><strong>Primer juego:</strong> Street Fighter II </div>
-                      <div><strong>Especie:</strong> Humano </div>
-                      <div><strong>País:</strong> Estados Unidos 🇨🇳 </div>
-                      <div><strong>Estilo:</strong> Artes marciales, lucha libre profesional y MCMAP (Programa de Artes Marciales del Cuerpo de Marines) </div>
-                      <div><strong>Ocupación:</strong> Coronel de la Fuerza Áerea de Estados Unidos </div>
-                      <div><strong>Fecha de nacimiento:</strong> 23 de diciembre ♓ </div>
-                      <div><strong>Altura:</strong> 1.82 m </div>
-                      <div><strong>Peso:</strong> 86 - 99 kg </div>
-                      <div><strong>Color de ojos:</strong> Azul </div>
-                      <div><strong>Color de cabello:</strong> Rubio </div>
-                    </div> <!-- cierre de los datos generales -->
-                    <div class="character-description">
-                      <p class="description">Uno de los miembros más destacados de las fuerzas aéreas estadounidenses, Guile, ha seguido el rastro de la organización criminal Shadaloo durante años, y no parará hasta desmantelarla por completo y acabar con su temido líder, M. Bison.</p>
-                    </div> <!-- cierre de la información general -->
-                    <div class="card-footer">
-                      <div class="info-column likes">
-                        <h6>Gustos</h6>
-                        <ul>
-                          <li> Su cabello </li>
-                          <li> Música country </li>
-                          <li> Automóviles y café americanos </li>
-                          <li> Películas de John Wayne </li>
-                          <li> Ver deportes </li>
-                          <li> Su familia y amigos </li>
-                        </ul>
-                      </div> <!-- cierre de los gustos -->
-                      <div class="info-column dislikes">
-                        <h6>Aversiones</h6>
-                        <ul>
-                          <li> M. Bison </li>
-                          <li> Nattō (sopa fermentada japonesa) </li>
-                          <li> Malgastar dinero en comida </li>
-                          <li> Meter a otros en sus problemas personales </li>
-                          <li> Gente holgazana, reservada </li>
-                        </ul>
-                      </div> <!-- cierre de las aversiones -->
-                    </div> <!-- cierre de los gustos y de las aversiones -->
-                    <div class="character-hobbies"> 
-                      <h6>Pasatiempos / Habilidades</h6>
-                      <ul>
-                        <li> Dardos </li>
-                        <li> Campeón de Combate de la Fuerza Áerea </li>
-                      </ul>
-                    </div> <!-- cierre de los hobbies -->
-                  </div> <!-- cierre de la información -->
+                  <p class="description">Uno de los miembros más destacados de las fuerzas aéreas estadounidenses, Guile, ha seguido el rastro de la organización criminal Shadaloo durante años, y no parará hasta desmantelarla por completo y acabar con su temido líder, M. Bison.</p>
                 </div>
               </div>
               <div class="carousel-item"> <!-- --------------------------------------------------------------------------------------- CAMMY -->
                 <div class="character-item">
                   <h4>Cammy</h4>
                   <a href="assets/img/personajes/39.jpg"> <img src="assets/img/personajes/39.jpg" alt="Cammy"> </a>
-                  <div class="character-card">
-                    <div class="character-info">
-                      <h6>Datos</h6>
-                      <div><strong>Primer juego:</strong> Super Street Fighter II: The New Challengers </div>
-                      <div><strong>Especie:</strong> Humano </div>
-                      <div><strong>País:</strong> Reino Unido 🇨🇳 </div>
-                      <div><strong>Estilo:</strong> Técnicas de lucha de Shadaloo y Entrenamiento de Delta Red </div>
-                      <div><strong>Ocupación:</strong> Agente Delta Red del MI6 </div>
-                      <div><strong>Fecha de nacimiento:</strong> 6 de enero ♓ </div>
-                      <div><strong>Altura:</strong> 1.64 m </div>
-                      <div><strong>Peso:</strong> 61 kg </div>
-                      <div><strong>Color de ojos:</strong> Azul claro </div>
-                      <div><strong>Color de cabello:</strong> Rubio </div>
-                    </div> <!-- cierre de los datos generales -->
-                    <div class="character-description">
-                      <p class="description">Cammy sirvió a Shadaloo durante años, contra su voluntad e incluso sin ser consciente de ello. Finalmente se libró de la oscura influencia de M. Bison, y ahora está decidida a acabar con la organización criminal a cualquier precio.</p>
-                    </div> <!-- cierre de la información general -->
-                    <div class="card-footer">
-                      <div class="info-column likes">
-                        <h6>Gustos</h6>
-                        <ul>
-                          <li> Gatos </li>
-                          <li> Pastel </li>
-                          <li> Tarta de manzana </li>
-                          <li> Recopilación de datos de lucha (Shadaloo) </li>
-                          <li> Sus "hermanas" (Dolls) </li>
-                          <li> Delta Red </li>
-                        </ul>
-                      </div> <!-- cierre de los gustos -->
-                      <div class="info-column dislikes">
-                        <h6>Aversiones</h6>
-                        <ul>
-                          <li> M. Bison, Psycho Power </li>
-                          <li> Crimen </li>
-                          <li> Todo si esta de mal humor </li>
-                          <li> Simpatía hacia ella </li>
-                          <li> Sopas </li>
-                        </ul>
-                      </div> <!-- cierre de las aversiones -->
-                    </div> <!-- cierre de los gustos y de las aversiones -->
-                    <div class="character-hobbies"> 
-                      <h6>Pasatiempos / Habilidades</h6>
-                      <ul>
-                        <li> Montar a caballo </li>
-                        <li> Lanzamiento de cuchillos </li>
-                      </ul>
-                    </div> <!-- cierre de los hobbies -->
-                  </div> <!-- cierre de la información -->
+                  <p class="description">Cammy sirvió a Shadaloo durante años, contra su voluntad e incluso sin ser consciente de ello. Finalmente se libró de la oscura influencia de M. Bison, y ahora está decidida a acabar con la organización criminal a cualquier precio.</p>
                 </div>
               </div>
               <div class="carousel-item"> <!-- --------------------------------------------------------------------------------------- ELENA -->
                 <div class="character-item">
                   <h4>Elena</h4>
                   <a href="assets/img/personajes/40.jpg"> <img src="assets/img/personajes/40.jpg" alt="Elena"> </a>
-                  <div class="character-card">
-                    <div class="character-info">
-                      <h6>Datos</h6>
-                      <div><strong>Primer juego:</strong> Street Fighter III: New Generation </div>
-                      <div><strong>Especie:</strong> Humano </div>
-                      <div><strong>País:</strong> Kenia </div>
-                      <div><strong>Estilo:</strong> Capoeira </div>
-                      <div><strong>Ocupación:</strong> Princesa, estudiante </div>
-                      <div><strong>Fecha de nacimiento:</strong> 18 de septiembre </div>
-                      <div><strong>Altura:</strong> 1.83 - 1.86 m </div>
-                      <div><strong>Peso:</strong> 54 - 58 kg </div>
-                      <div><strong>Color de ojos:</strong> Azul </div>
-                      <div><strong>Color de cabello:</strong> Blanco </div>
-                    </div> <!-- cierre de los datos generales -->
-                    <div class="character-description">
-                      <p class="description">Elena vivía una apacible existencia en Kenia. Como hija del líder de la región tenía un gran sentido de la responsabilidad, era aplicada en sus estudios y una practicante de capoeira muy hábil.</p>
-                    </div> <!-- cierre de la información general -->
-                    <div class="card-footer">
-                      <div class="info-column likes">
-                        <h6>Gustos</h6>
-                        <ul>
-                          <li> Su familia </li>
-                          <li> Música, bailar </li>
-                          <li> Hacer amigos </li>
-                          <li> La naturaleza, los animales </li>
-                          <li> Viajar por el mundo </li>
-                        </ul>
-                      </div> <!-- cierre de los gustos -->
-                      <div class="info-column dislikes">
-                        <h6>Aversiones</h6>
-                        <ul>
-                          <li> Destrucción de la naturaleza </li>
-                          <li> Caza furtiva </li>
-                          <li> Playboys </li>
-                        </ul>
-                      </div> <!-- cierre de las aversiones -->
-                    </div> <!-- cierre de los gustos y de las aversiones -->
-                    <div class="character-hobbies"> 
-                      <h6>Pasatiempos / Habilidades</h6>
-                      <ul>
-                        <li> Hacer nuevos amigos </li>
-                        <li> Sanación holística </li>
-                        <li> Comunicación con la naturaleza </li>
-                      </ul>
-                    </div> <!-- cierre de los hobbies -->
-                  </div> <!-- cierre de la información -->
+                  <p class="description">Elena vivía una apacible existencia en Kenia. Como hija del líder de la región tenía un gran sentido de la responsabilidad, era aplicada en sus estudios y una practicante de capoeira muy hábil.</p>
                 </div>
               </div>
               <div class="carousel-item"> <!-- ------------------------------------------------------------------------------------- ABIGAIL -->
                 <div class="character-item">
                   <h4>Abigail</h4>
                   <a href="assets/img/personajes/41.jpg"> <img src="assets/img/personajes/41.jpg" alt="Abigail"> </a>
-                  <div class="character-card">
-                    <div class="character-info">
-                      <h6>Datos</h6>
-                      <div><strong>Primer juego:</strong> Street Fighter V </div>
-                      <div><strong>Especie:</strong> Humano </div>
-                      <div><strong>País:</strong> Canadá </div>
-                      <div><strong>Estilo:</strong> Fuerza bruta </div>
-                      <div><strong>Ocupación:</strong> Mecánico </div>
-                      <div><strong>Fecha de nacimiento:</strong> 16 de octubre </div>
-                      <div><strong>Altura:</strong> 2.44 m </div>
-                      <div><strong>Peso:</strong> 265 kg </div>
-                      <div><strong>Color de ojos:</strong> Gris </div>
-                      <div><strong>Color de cabello:</strong> Café </div>
-                    </div> <!-- cierre de los datos generales -->
-                    <div class="character-description">
-                      <p class="description">Tras una vida delictiva, Abigail decidió establecer un negocio legal. A pesar del cambio de rumbo en su vida, su pasado criminal, un feroz temperamento y una inteligencia limitada le siguen jugando alguna que otra mala pasada.</p>
-                    </div> <!-- cierre de la información general -->
-                    <div class="card-footer">
-                      <div class="info-column likes">
-                        <h6>Gustos</h6>
-                        <ul>
-                          <li> Plátanos </li>
-                          <li> Automóviles grandes </li>
-                          <li> Death metal </li>
-                        </ul>
-                      </div> <!-- cierre de los gustos -->
-                      <div class="info-column dislikes">
-                        <h6>Aversiones</h6>
-                        <ul>
-                          <li> Óxido </li>
-                        </ul>
-                      </div> <!-- cierre de las aversiones -->
-                    </div> <!-- cierre de los gustos y de las aversiones -->
-                    <div class="character-hobbies"> 
-                      <h6>Pasatiempos / Habilidades</h6>
-                      <ul>
-                        <li> Modificar autos </li>
-                      </ul>
-                    </div> <!-- cierre de los hobbies -->
-                  </div> <!-- cierre de la información -->
+                  <p class="description">Tras una vida delictiva, Abigail decidió establecer un negocio legal. A pesar del cambio de rumbo en su vida, su pasado criminal, un feroz temperamento y una inteligencia limitada le siguen jugando alguna que otra mala pasada.</p>
                 </div>
               </div>
               <div class="carousel-item"> <!-- ---------------------------------------------------------------------------------------- HUGO -->
                 <div class="character-item">
                   <h4>Hugo</h4>
                   <a href="assets/img/personajes/42.jpg"> <img src="assets/img/personajes/42.jpg" alt="Hugo"> </a>
-                  <div class="character-card">
-                    <div class="character-info">
-                      <h6>Datos</h6>
-                      <div><strong>Primer juego:</strong> Street Fighter III: 2nd Impact </div>
-                      <div><strong>Especie:</strong> Humano </div>
-                      <div><strong>País:</strong> Alemania </div>
-                      <div><strong>Estilo:</strong> Lucha libre profesional </div>
-                      <div><strong>Ocupación:</strong> Luchador profesional </div>
-                      <div><strong>Fecha de nacimiento:</strong> 19 de mayo </div>
-                      <div><strong>Altura:</strong> 2.40 m </div>
-                      <div><strong>Peso:</strong> 200 kg </div>
-                      <div><strong>Color de ojos:</strong> Azul </div>
-                      <div><strong>Color de cabello:</strong> Negro </div>
-                    </div> <!-- cierre de los datos generales -->
-                    <div class="character-description">
-                      <p class="description">Hugo Andore es un luchador profesional de fuerza sobrenatural pero escaso intelecto. Su incapacidad para tomar decisiones le llevó a delinquir en el pasado, aunque logró reformarse y convertirse tras ello se en un wrestler de éxito.</p>
-                    </div> <!-- cierre de la información general -->
-                    <div class="card-footer">
-                      <div class="info-column likes">
-                        <h6>Gustos</h6>
-                        <ul>
-                          <li> Poison </li>
-                          <li> Su madre </li>
-                          <li> Patatas, comida china, hotdogs </li>
-                          <li> Trabajo en equipo </li>
-                        </ul>
-                      </div> <!-- cierre de los gustos -->
-                      <div class="info-column dislikes">
-                        <h6>Aversiones</h6>
-                        <ul>
-                          <li> Ser objeto de burlas </li>
-                          <li> Decisiones complejas </li>
-                          <li> Perder </li>
-                          <li> La actitud molesta de Poison </li>
-                        </ul>
-                      </div> <!-- cierre de las aversiones -->
-                    </div> <!-- cierre de los gustos y de las aversiones -->
-                    <div class="character-hobbies"> 
-                      <h6>Pasatiempos / Habilidades</h6>
-                      <ul>
-                        <li> Levantamiento de pesas </li>
-                      </ul>
-                    </div> <!-- cierre de los hobbies -->
-                  </div> <!-- cierre de la información -->
+                  <p class="description">Hugo Andore es un luchador profesional de fuerza sobrenatural pero escaso intelecto. Su incapacidad para tomar decisiones le llevó a delinquir en el pasado, aunque logró reformarse y convertirse tras ello se en un wrestler de éxito.</p>
                 </div>
               </div>
               <!-- ------------------------------------------------------ los demás XD ------------------------------------------------------ -->
