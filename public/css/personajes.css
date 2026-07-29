@@ -8,10 +8,10 @@
 }
 /* ***************************************************************** Título ***************************************************************** */
 .character-item h4{
-  margin-top: 0px;
   margin-right: 15px;
   padding: 5px;
-  background:linear-gradient(to right,#000,#222,#000);
+  background: linear-gradient(90deg, #050505, #222, #111, #000);
+  text-shadow: 0 0 6px rgba(0,255,0,.25);
   color:white;
   border-left: 7px solid lime;
   text-align: center;
@@ -34,49 +34,37 @@
   margin-top: 12px;
 }
 /* *************************************************************** Información *************************************************************** */
-.description { border-left:4px solid royalblue; padding-left:15px; content: "✖"}
+.description { border-left:4px solid lime; padding-left:15px; text-align: center;}
 /* *************************************************************** Paginación *************************************************************** */
 #customPagination{
-  display: grid;
-  grid-template-columns: repeat(3, 1fr); /* Tres columnas por defecto */
-  gap: 3px; /* Espacio entre las columnas */
-  list-style:none; /* quitar numeración del ol */
-  padding-left: 0; /* Espacio para los números */
-  counter-reset: personajes;
+    display:grid; grid-template-columns:repeat(3, 1fr);
+    gap: 10px; /* separación entre elementos */
+    list-style: none;
+    padding-left:0;
 }
-
+/* ---------------------------------------------------------------- Elementos ---------------------------------------------------------------- */
 #customPagination li{
-    border-left:4px solid transparent;
-    transition:.2s;
-    cursor:pointer;
+  display:flex;
+  align-items:center;
+  justify-content:flex-start;
+  border-radius: 14px;
 }
-/* ---------------------------------------------------------------------------------------------------------------------------- Poner el número*/
+/* ---------------------------------------------------------- Botón estilo de mando ---------------------------------------------------------- */
 #customPagination li::before{
-    content: counter(personajes, decimal-leading-zero);
-      content:"■";
-  display:inline-flex;
-    justify-content:center;
-    align-items:center;
-    width:32px;
-    height:32px;
-    margin-right:10px;
-    background: black;
-    color: hotpink;
-    border-radius:50%;
-    font-size:14px;
-    font-weight:bold;
-    transition:all .25s ease;
+  display: inline-flex;
+  justify-content: center; align-items: center; /* alinear los simbolos al centro */
+  margin-right: 10px; /* separar el botoncito del nombre del personaje*/
+  content: "□"; width: 30px; height: 30px; background: black; color:hotpink; font-size: 30px; font-weight:bold;
+  border-radius:50%;
+  line-height:1;
+  box-shadow: inset 0 0 5px rgba(255,255,255,.15), 0 2px 5px rgba(0,0,0,.5);
 }
-/* -------------------------------------------------------------------------------------------------------------------------- Elemento activo */
-#customPagination li.active{
-    background: linear-gradient(90deg,#2ea041,#2eb32e);
-    border-left-color:#268039;
-    color:white;
-    font-weight: bold;
-}
-
-#customPagination li.active::before{ content:"○"; color:lime; } /* ----------------------------------------- número del elemento */
-#customPagination li.active a { color:white;} /* ----------------------------------------------- texto en el elemento (nombre del personaje) */
+/* ------------------------------------------------------------- Elemento activo ------------------------------------------------------------- */
+#customPagination li.active{ background: red; color:white; font-weight: bold; }
+#customPagination li.active::before{ content:"○"; color:red; } /* ------------------------------------------------- "botoncito" del elemento */
+/* ------------------------------------------------------ Al pasar el mouse ------------------------------------------------------ */
+#customPagination li:hover{ background: royalblue; color: white; font-weight: bold;}
+#customPagination li:hover::before{ content:"✕"; color:royalblue;} /* -------------------------------------------- "botoncito" del elemento */
 /* ************************************************************ Botón hamburguesa ************************************************************ */
 .hamburger {
   font-size: 28px;
