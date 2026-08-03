@@ -238,7 +238,7 @@
               <tr class="filaV">
                 <td>67</td> <td>Zeku</td>
                 <td>25 noviembre 2025</td>
-                <td>$</td>
+                <td>$480</td>
               </tr>
               <tr class="filaV">
                 <td>68</td> <td>Lucia</td> <td>19 agosto 2025</td> <td>$480</td>
@@ -271,7 +271,7 @@
               <tr class="filaV">
                 <td>75</td> <td>Luke</td>
                 <td>9 diciembre 2025</td>
-                <td>$</td>
+                <td>$480</td>
               </tr>
             </tbody>
           </table>
@@ -321,7 +321,7 @@
         <img src="{{ asset('assets/img/listado-de-entregas/urien.png') }}" alt="Urien" class="img-lateral">
         <img src="{{ asset('assets/img/listado-de-entregas/charlienash.png') }}" alt="Charlie Nash" class="img-lateral">
         <img src="{{ asset('assets/img/listado-de-entregas/akira.png') }}" alt="Akira" class="img-lateral">
-        <img src="{{ asset('assets/img/listado-de-entregas/menat.png') }}" alt="Menat" class="img-lateral">
+        <img src="{{ asset('assets/img/listado-de-entregas/menat.png') }}" alt="Crimson Viper" class="img-lateral">
         <img src="{{ asset('assets/img/listado-de-entregas/rashid.png') }}" alt="Rashid" class="img-lateral">
         <img src="{{ asset('assets/img/listado-de-entregas/sagat.png') }}" alt="Sagat" class="img-lateral">
         <img src="{{ asset('assets/img/listado-de-entregas/luke.png') }}" alt="Luke" class="img-lateral">

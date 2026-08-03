@@ -102,7 +102,7 @@
                 <div class="character-item">
                   <h4>Chun Li</h4>
                   <a href="assets/img/personajes/1.jpg"> <img src="assets/img/personajes/1.jpg" alt="Chun Li"> </a>
-                  <p class="description"> Creadora de su propio estilo de lucha, la bella y decidida Chun-Li es una pieza fundamental para acabar con la organización criminal Shadaloo. </p>
+                  <p class="description"> Creadora de su propio estilo de lucha, la bella y decidida Chun-Li es una pieza fundamental para acabar con la organización criminal Shadaloo. Siguiendo los pasos de su desaparecido padre, no descansará hasta acabar con M. Bison y todo lo que representa. </p>
                 </div>
               </div>
               <div class="carousel-item"> <!-- --------------------------------------------------------------------------------------- AKIRA -->

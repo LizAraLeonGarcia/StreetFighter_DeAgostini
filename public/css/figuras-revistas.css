@@ -1,7 +1,5 @@
 .figuras, .revistas
-{
-  padding-bottom: 15px;
-}
+{ padding: 0 15px; }
 /* ******************************************************** Contenedor de personajes ******************************************************** */
 .team-container {
   display: flex;

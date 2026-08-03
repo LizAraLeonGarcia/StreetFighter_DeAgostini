@@ -5,7 +5,7 @@
         </div>
         <div>
             <div class="footer-parrafo"> 
-                <p>Todos los derechos reservados. Creadora: Lizbeth Araceli León García.</p>
+                <p>Todos los derechos reservados. Creadora: HimoutoKwai.</p>
             </div>
             <div class="social-media">
                 <a href="mailto:your-email@gmail.com" target="_blank" class="social-icon"><i class="fab fa-google"></i> Gmail</a>

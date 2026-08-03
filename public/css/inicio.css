@@ -1,22 +1,20 @@
 /* ****************************************************** Para el contenedor principal ****************************************************** */
 .inicio {
-  background-color: #c1c6ca;
   color: #000000;
-  padding-left: 10px;
-  padding-right: 10px;
+  padding: 0 10px;
 }
 /* ******************************************************* Para la sección del título ******************************************************* */
 .section-title-INICIO h1 {
   font-size: 36px;
   font-weight: bold;
-  margin-bottom: 15px;
+  margin-bottom: 10px;
   text-align: center;
   text-transform: uppercase;
 }
 
 .section-title-INICIO h2 {
   font-size: 30px;
-  margin-bottom: 20px;
+  margin-bottom: 10px;
   text-align: center;
   font-weight: 400;
 }

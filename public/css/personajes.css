@@ -5,6 +5,7 @@
   justify-content: center; /* Centra los elementos horizontalmente */
   align-items: center; /* Centra los elementos verticalmente */
   overflow: hidden; /* Evita que el contenido se desborde */
+  padding: 0 15px;
 }
 /* ***************************************************************** Título ***************************************************************** */
 .character-item h4{
@@ -34,7 +35,7 @@
   margin-top: 12px;
 }
 /* *************************************************************** Información *************************************************************** */
-.description { border-left:4px solid lime; padding-left:15px; text-align: center;}
+.description { border-left:4px solid lime; padding: 5px 5px 0 3px; text-align: center;}
 /* *************************************************************** Paginación *************************************************************** */
 #customPagination{
     display:grid; grid-template-columns:repeat(3, 1fr);

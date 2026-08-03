@@ -1,23 +1,15 @@
 .container-fluid {
   background-color: #a7a7a7;
   font-family: 'Times New Roman', Times, serif;
-  padding: 20px;
+  padding: 15px 15px;
 }
-
+/* ****************************************************** Títulos de cada sección */
 .container-fluid .section-title h3 {
-  color: white; /* Color de texto más suave */
   text-align: center;
   font-size: 36px; /* Aumenta el tamaño para destacarlo más */
-  margin-bottom: 30px; /* Más espacio debajo para darle respiro */
+  margin-bottom: 20px; /* Más espacio debajo para darle respiro */
   letter-spacing: 2px; /* Espaciado entre letras para darle un toque más estilizado */
   position: relative; /* Necesario para crear el borde decorativo */
 }
-
-.container-fluid .section-title h3:hover {
-  color: black; /* Cambia el color al pasar el ratón por encima */
-  transition: color 0.3s ease-in-out; /* Transición suave para el cambio de color */
-}
-/* Usar una imagen personalizada como cursor */
-* {
-    cursor: url('/assets/img/cursor.png'), pointer;
-}
+/* ************************************************ Usar una imagen personalizada como cursor ************************************************ */
+* { cursor: url('/assets/img/cursor.png'), pointer; }
